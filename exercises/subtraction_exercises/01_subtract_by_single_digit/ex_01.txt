@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-07-14T15:36:19-04:00
+
+====== ex 01 ======
+Created Tuesday 14 July 2020
+
+17 - 8 = _
+10 - 5 = _
+ 8 - 7 = _
+15 - 7 = _
+ 7 - 4 = _
+13 - 9 = _
+ 3 - 3 = _
+ 2 - 0 = _
+ 5 - 2 = _
+ 1 - 1 = _
+ 

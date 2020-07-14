@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-07-14T15:55:14-04:00
+
+====== ex 03 ======
+Created Tuesday 14 July 2020
+
+ 8 - 4 = _
+13 - 7 = _
+ 8 - 2 = _
+12 - 8 = _
+ 9 - 2 = _
