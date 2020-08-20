@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-08-20T16:17:30-04:00
+
+====== snip 001 ======
+Created Thursday 20 August 2020
+
+Larry the lion leaped over the lizard while licking lemon and lime lollipops.
+
+He lives along a large lake in Louisiana.
