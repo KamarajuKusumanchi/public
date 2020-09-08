@@ -10,3 +10,11 @@ Headart
 extreme digital headphones
 megabase
 H0417
+
+Specifications:
+Driver unit: 30 mm
+Impedance: 32 ohms
+Sensitivity: 120 dB +/- 3 dB
+Frequency: 30 Hz - 20 KHz
+Cord Length: 4 ft (1.2 m)
+Plug type: 3.5 mm
