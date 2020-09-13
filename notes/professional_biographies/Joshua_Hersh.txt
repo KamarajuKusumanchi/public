@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-09-13T06:01:22-04:00
+
+====== Joshua Hersh ======
+Created Sunday 13 September 2020
+
+Dr. Joshua Hersh is a graduate of SUNY Downstate Medical Center. After medical school, he completed his Neurology Residency and fellowship in EMG/Neuromuscular Medicine at Albert Einstein College of Medicine/Montefiore Medical Center. After completion of his training, he remained at Montefiore and served as an Assistant Professor in Neurology.
+
+He is board certified in both neurology and electrodiagnostic medicine(EMG) as well as Neuromuscular . He has an interest in various aspects of neurology, but has specialized training in neuromuscular disorders, such as peripheral neuropathy, motor neuron disease, myasthenia gravis and myopathy.

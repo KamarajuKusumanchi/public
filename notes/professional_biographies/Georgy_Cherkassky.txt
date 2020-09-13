@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-09-13T06:02:13-04:00
+
+====== Georgy Cherkassky ======
+Created Sunday 13 September 2020
+
+Dr. Cherkassky is a Board-Certified Neurologist and a graduate of Saba University School of Medicine.  Dr. Cherkassky is a member of the American Academy of Neurology.  He will be seeing patients in all of our locations.
