@@ -2,11 +2,11 @@
     {
         "project": "numpy",
         "latest_stable_version": "1.19.2",
-	"release_date": "2020-09-10",
+        "release_date": "2020-09-10",
         "release_notes": [
-		"https://github.com/numpy/numpy/releases",
-		"https://numpy.org/doc/stable/release.html"],
-	"code_repo": "https://github.com/numpy/numpy",
-	"last_checked": "2020-10-17"
+            "https://github.com/numpy/numpy/releases",
+            "https://numpy.org/doc/stable/release.html"],
+        "code_repo": "https://github.com/numpy/numpy",
+        "last_checked": "2020-10-17"
     }
 ]
