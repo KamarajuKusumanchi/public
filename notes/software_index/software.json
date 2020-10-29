@@ -1,8 +1,8 @@
 [
     {
         "project": "scikit-learn",
-        "code_repo": "https://github.com/scikit-learn/scikit-learn",
         "lastest_version": "0.23.2",
+        "code_repo": "https://github.com/scikit-learn/scikit-learn",
         "last_checked": "2020-10-11"
     },
     {
@@ -14,5 +14,22 @@
             "https://numpy.org/doc/stable/release.html"],
         "code_repo": "https://github.com/numpy/numpy",
         "last_checked": "2020-10-17"
+    },
+    {
+        "project": "conda",
+        "latest_version": "4.9.1",
+        "release_date": "2020-10-26",
+        "releases": "https://github.com/conda/conda/releases",
+        "code_repo": "https://github.com/conda/conda",
+        "last_checked": "2020-10-29"
+    },
+    {
+        "project": "",
+        "latest_version": "",
+        "release_date": "",
+        "releases": "",
+        "release_notes": "",
+        "code_repo": ",
+        "last_checked": ""
     }
 ]
