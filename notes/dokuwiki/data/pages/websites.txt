@@ -1,0 +1,3 @@
+==== git resources ====
+* https://learngitbranching.js.org/ - Very good resource to learn git branching.
+

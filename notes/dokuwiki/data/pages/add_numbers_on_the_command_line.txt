@@ -1,0 +1,49 @@
+==== add numbers on the command line ====
+Q. Add a bunch of numbers on the command line
+
+A. You can do it in many ways.
+
+Approach 1: Use python
+
+  | python -c "import sys; print(sum(int(line) for line in sys.stdin))"
+
+For example
+<code>
+ % seq 1 10 | python -c "import sys; print(sum(int(line) for line in sys.stdin))"
+55
+</code>
+
+Approach 2: Use unix-only tools
+
+  | paste -s -d + - | bc
+
+For example
+<code>
+ % seq 1 10 | paste -s -d + - | bc               
+55
+</code>
+Output of intermediate steps:
+<code>
+ % seq 1 10                     
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+ % seq 1 10 | paste -s -d +
+1+2+3+4+5+6+7+8+9+10
+
+ % seq 1 10 | paste -s -d + | bc
+55
+</code>
+Ref:- 
+  * https://stackoverflow.com/questions/450799/shell-command-to-sum-integers-one-per-line
+  * https://stackoverflow.com/questions/3096259/bash-command-to-sum-a-column-of-numbers/22630224
+
+tags | add a bunch of numbers on command line pipe

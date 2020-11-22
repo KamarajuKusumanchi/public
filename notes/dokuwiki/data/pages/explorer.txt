@@ -1,0 +1,5 @@
+==== configuration ====
+  * Tools -> Options -> Default Settings -> List
+
+==== useful links ====
+  * restore previous layout - https://explorerplusplus.readthedocs.io/en/latest/menus/tools/options/general.html

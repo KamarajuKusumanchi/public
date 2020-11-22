@@ -1,0 +1,18 @@
+==== documentation ====
+  * People don't read documentation. They consult documentation.
+
+==== documentation goals ====
+  * find information in as little time as possible
+  * Design for search, not for table of contents
+  * Have a single source of documentation
+
+==== how to write documentation ====
+  * BLUF - Bottom Line Up Front. Start with important stuff first, follow up with details
+  * Keep it short instead of writing long documents
+  * Keep it specific instead of covering broad topics
+  * High information density
+
+==== why write documentation ====
+  * It forces you to explain everything in a structured way
+  * Discover things that can be improved or simplified
+  * Helps if you forget something in the future

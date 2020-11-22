@@ -1,0 +1,7 @@
+==== sample searches ====
+  * haversine filetype:python
+
+==== link dump ====
+  * https://codesearch.debian.net/
+  * https://codesearch.debian.net/faq
+

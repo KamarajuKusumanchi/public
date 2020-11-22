@@ -1,0 +1,81 @@
+==== Add dates ====
+Given
+<code>
+In [1]: 
+import pandas as pd
+df = pd.DataFrame({'begin': ['20201107', '20201121'], 'offset': [5, -6]})
+df
+Out[1]: 
+      begin  offset
+0  20201107       5
+1  20201121      -6
+
+In [2]: 
+df.dtypes
+Out[2]: 
+begin     object
+offset     int64
+dtype: object
+</code>
+
+we want
+<code>
+      begin  offset       end
+0  20201107       5  20201112
+1  20201121      -6  20201115
+</code>
+where end date = begin date + offset
+
+Solution:
+<code>
+In [3]: 
+fmt='%Y%m%d'
+from datetime import datetime
+df['end'] = (df['begin'].apply(lambda x: datetime.strptime(x, fmt)) +
+             pd.to_timedelta(df['offset'], 'd')).dt.strftime(fmt)
+df
+Out[3]: 
+      begin  offset       end
+0  20201107       5  20201112
+1  20201121      -6  20201115
+</code>
+
+Intermediate steps:
+<code>
+In [4]: 
+df['begin'].apply(lambda x: datetime.strptime(x, fmt))
+Out[4]: 
+0   2020-11-07
+1   2020-11-21
+Name: begin, dtype: datetime64[ns]
+
+In [5]: 
+df['begin'].apply(lambda x: datetime.strptime(x, fmt)) + pd.to_timedelta(df['offset'], 'd')
+Out[5]: 
+0   2020-11-12
+1   2020-11-15
+dtype: datetime64[ns]
+
+In [6]: 
+(df['begin'].apply(lambda x: datetime.strptime(x, fmt)) +
+ pd.to_timedelta(df['offset'], 'd')).dt.strftime(fmt)
+Out[6]: 
+0    20201112
+1    20201115
+dtype: object
+</code>
+
+For a single date, we can do this without pandas also
+<code>
+In [1]: 
+from datetime import datetime, timedelta
+print(datetime.now())
+2020-11-21 23:54:10.971599
+
+In [2]: 
+print(datetime.now() + timedelta(days=10))
+2020-12-01 23:54:32.393776
+</code>
+
+Related links:
+  * https://github.com/KamarajuKusumanchi/market_data_processor/blob/master/add_days.py

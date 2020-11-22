@@ -1,0 +1,59 @@
+==== 1 ====
+Q. Given two one dimensional arrays, how to combine them into a 2d numpy array?
+
+A. use <nowiki>np.column_stack((c1, c2))</nowiki>
+
+<code>
+ % ipython
+Python 3.8.5 (default, Sep  4 2020, 07:30:14) 
+Type 'copyright', 'credits' or 'license' for more information
+IPython 7.18.1 -- An enhanced Interactive Python. Type '?' for help.
+
+In [1]: 
+import numpy as np
+c1 = np.array([0.39656302, 0.14878788, 0.14948021, 0.26837201, 0.40427337])
+c2 = np.array([0.68676044, 0.41183541, 0.72868058, 0.24776482, 0.52792127])
+m = np.column_stack((c1, c2))
+m
+Out[1]: 
+array([[0.39656302, 0.68676044],
+       [0.14878788, 0.41183541],
+       [0.14948021, 0.72868058],
+       [0.26837201, 0.24776482],
+       [0.40427337, 0.52792127]])
+
+In [2]: 
+m.shape
+Out[2]: 
+(5, 2)
+
+In [3]: 
+m.ndim
+Out[3]: 
+2
+</code>
+You can also get the same result by doing <nowiki>np.vstack((c1, c2)).T</nowiki> . But I like the column_stack() approach as it gives the correct shape right away and does not require a transpose.
+
+<code>
+In [4]: 
+m2 = np.vstack((c1, c2)).T
+m2
+Out[4]: 
+array([[0.39656302, 0.68676044],
+       [0.14878788, 0.41183541],
+       [0.14948021, 0.72868058],
+       [0.26837201, 0.24776482],
+       [0.40427337, 0.52792127]])
+
+In [5]: 
+np.array_equal(m, m2)
+Out[5]: 
+True
+</code>
+
+Ref:-
+  * https://openlibrary.org/books/OL26834151M/Python_for_Data_Analysis_Data_Wrangling_with_Pandas_NumPy_and_IPython -> Appendix A "Advanced Numpy" -> "A.2 Advanced Array Manipulation" -> "Concatenating and Splitting Arrays" -> "Table A-1. Array concatenation functions" - contains a list of similar functions and their description.
+  * https://numpy.org/doc/stable/reference/generated/numpy.array_equal.html - np.array_equal() can be used to check if two arrays are equal
+  * https://stackoverflow.com/questions/17710672/create-2-dimensional-array-with-2-one-dimensional-array
+
+tags | combine two numpy arrays into 2d array

@@ -1,0 +1,48 @@
+==== S&P 500 ====
+  * S&P 500 Index is managed by "S&P Dow Jones Indices".
+  * The components of the S&P 500 index are selected by a committee.
+  * Factors that determine company's eligibility: market capitalization, liquidity, domicile, public float, Global Industry Classification Standard and representation of the industries in the economy of the United States, financial viability, length of time publicly traded, and stock exchange.
+
+Ref:- https://en.wikipedia.org/wiki/S%26P_500_Index#Selection_criteria
+
+==== git grep all match no index ====
+Sample commands:
+  git grep -i --all-match --no-index -e who -e unix
+
+==== source code repos ====
+^ project ^ code repo ^ latest version ^ last checked ^
+| scikit-learn | https://github.com/scikit-learn/scikit-learn | 0.23.2 | 2020-10-11 |
+
+See also:-
+  * https://github.com/KamarajuKusumanchi/public/blob/master/notes/software_index/software.json
+
+==== latest stable version ====
+See https://github.com/KamarajuKusumanchi/public/blob/master/notes/software_index/software.json
+==== clean amazon basics mouse wheel ====
+I followed the instructions in https://www.youtube.com/watch?v=PGrURf2ws14 .  I opened the mouse, cleaned the wheel shaft and assembly.  But when I put everything back, the left mouse button stopped working.  I am not sure what I did wrong.
+
+I ended up buying Logitech precision pro mouse from Costco for $30. It is much better than the Amazonbasics mouse.
+
+==== Vitamin C ====
+  * Lack of vitamin C causes Scurvy.
+  * While many animals produce their own vitamin C, humans and a few others do not.
+    * The technical way of saying this is "humans are unable to metabolically synthesize vitamin C."
+    * guinea pigs, monkeys - examples of mammals that cannot produce Vitamin C on their own.
+  * Sources of vitamin C in the food
+    * fruits: citrus fruits, amla, guava, kiwifruit, lemons, limes, oranges, papaya, strawberries
+    * vegetables: red peppers, bell peppers, chili peppers, broccoli, tomatoes, parsley, brussel sprouts, cabbage, potatoes, spinach, watercress
+  * Cooking often decreases vitamin C in foods.
+  * Pasteurized milk does not have vitamin C
+    * Commercial milk is pasteurized
+    * Pasteurization is a heating process.
+      * It makes milk safer for infants to drink.
+      * But it also destroys Vitamin C.
+      * So to get vitamin C, supplement the infant's diet with onion juice or cooked potato.
+
+==== deficiency diseases ====
+  * Scurvy, beriberi and pellagra - examples of diseases caused by micronutrient deficiencies
+
+==== Apotex ====
+Apotex is a Canadian pharmaceutical corporation. It was founded in 1974 by Barry Sherman. It is the largest producer of generic drugs in Canada. It manufactures and distributes generic medications for a range of diseases and health conditions that include cancer, diabetes, high cholesterol, glaucoma, infections and blood pressure.
+
+Ref:- https://en.wikipedia.org/wiki/Apotex

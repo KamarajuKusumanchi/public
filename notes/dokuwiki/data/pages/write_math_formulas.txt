@@ -1,0 +1,31 @@
+==== MathJax Plugin ====
+  * https://www.dokuwiki.org/plugin:mathjax
+  * useful for writing math formulas in dokuwiki
+  * backup friendly
+    * pages with math formulas can be backed up as normal pages
+  * formulas are not converted to images
+    * so parts of the formula can be highlighted with mouse!
+  * uses CDNJS
+
+
+==== Math equations ====
+Inline:
+
+$a^2 + b^2 = c^2$
+
+\(1+2+\dots+n=\frac{n(n+1)}{2}\) 
+
+Separate line:
+
+$$ \frac{d}{dx}\left( \int_{0}^{x} f(u)\,du\right)=f(x) $$
+
+\[ \sin A \cos B = \frac{1}{2}\left[ \sin(A-B)+\sin(A+B) \right] \]
+
+\begin{align*}
+e^x & = 1 + x + \frac{x^2}{2} + \frac{x^3}{6} + \cdots \\
+    & = \sum_{n\geq 0} \frac{x^n}{n!}
+\end{align*}
+
+Requires the [[https://www.dokuwiki.org/plugin:mathjax | MathJax Plugin]].
+
+Ref: https://www.dokuwiki.org/plugin:mathjax#examples_usage

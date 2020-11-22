@@ -1,0 +1,6 @@
+===== favorite configuration =====
+==== configure prompts ====
+* [[Configure ipython terminal prompts]]
+===== dummy =====
+==== how is the default ipython prompt created? ====
+See https://github.com/ipython/ipython/blob/master/IPython/terminal/prompts.py -> Prompts class -> in_prompt_tokens(), continuation_prompt_tokens(), rewrite_prompt_tokens(), out_prompt_tokens()

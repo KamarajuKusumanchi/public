@@ -1,0 +1,55 @@
+==== 2020-11 ====
+  * 2020-11-15
+    * https://acoup.blog/2020/09/18/collections-iron-how-did-they-make-it-part-i-mining - Insightful articles on iron and steel production in the olden days. It comes in many parts. Very long and detail oriented.
+    * [[https://www.fda.gov/food/food-labeling-nutrition/changes-nutrition-facts-label | Changes to the Nutrition Facts Label - FDA (2016) ]] (fda.gov)
+    * Use VFS Global instead of CKGS to renew Indian passport in the US. This became effective from 2020-11-04.\\ Ref:-
+      * https://thesouthasiantimes.info/vfs-global-replacing-ckgs-as-service-provider-for-visa-passport/
+      * https://www.indiainnewyork.gov.in/pressevent?id=ZjZxZ3FIWGJsQmFIQ05aa3VKekRlUT09
+
+  * 2020-11-09
+    * https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2771095 - Effects of Time-Restricted Eating on Weight Loss and Other Metabolic Parameters\\ This randomized clinical trial analyzed the effects of time-restricted eating on weight loss. They did not find any statistically significant benefit compared to the control group. 116 adults participated. So it is not a very big study... but an important data point never the less.
+
+  * 2020-11-04
+    * [[https://www.khanacademy.org/humanities/us-government-and-civics/american-civics-parent/american-civics/v/electoral-college?modal=1 | The Electoral College]] (khanacademy.org)
+    * [[https://www.khanacademy.org/humanities/us-government-and-civics/american-civics-parent/american-civics/v/sal-teaches-grover-about-the-electoral-college?modal=1 | Sal teaches Grover about the electoral college]] (khanacademy.org)
+    * [[https://www.khanacademy.org/humanities/us-government-and-civics/american-civics-parent/american-civics/v/primaries-and-caucuses?modal=1 | Primaries and caucuses]] (khanacademy.org)
+    * [[https://www.devaboone.com/post/african-american-kidneys | African American Kidneys: Why is race used to measure kidney function?]] (devaboone.com)
+    * [[https://www.devaboone.com/post/covid-19-we-don-t-need-better-tests | Covid-19: We don't need better tests]] (devaboone.com)
+
+==== 2020-10 ====
+  * 2020-10-30 https://en.wikipedia.org/wiki/List_of_presidents_who_did_not_win_reelection
+
+  * 2020-10-26 https://acoup.blog/2019/07/26/collections-war-elephants-part-i-battle-pachyderms/ - Very insightful articles on war elephants. Very long. It comes in three parts.
+    - How did the elephant function in battle?
+    - If elephants are such awesome weapon systems, why did the Romans defeat and then abandon them (and why did the Chinese never meaningfully adopt them)?
+    - If elephants were as useless as the Romans thought, why did Indian kings kept using them?
+
+  * 2020-10-23 https://www.devaboone.com/post/evidence-and-intuition-in-the-icu
+
+  * 2020-10-10 Costco has sanitizing wipes; All clear brand; 320 wipes; $13.
+
+  * 2020-10-03 https://www.medrxiv.org/content/10.1101/2020.07.29.20164020v1 \\ Researchers suggest that while diabetes is an independent risk factor for COVID-19-related mortality, this risk is dramatically reduced in subjects taking metformin, raising the possibility that metformin may provide a protective approach in this high risk population. Metformin is a cheap and popular anti-diabetes drug.
+
+  * 2020-10-01 [[https://www.biznews.com/wp-content/uploads/2014/09/illustration-7.png]] (biznews.com) \\ tags | things that matter, things you can control, venn diagram \\ referenced in | https://www.biznews.com/thought-leaders/2014/09/16/investing-guru-carl-richards-6-ways-finance-industry-can-reform-change-investing-world -> scroll all the way to the bottom to point 6, "Let go".
+
+==== 2020-09 ====
+  * 2020-09-28 [[https://www.iquilezles.org/blog/?p=4582|Babylonian Multiplication in the shower]] (iquilezles.org)\\ https://i.imgur.com/CHYYhn6.png gives an explanation.
+
+  * 2020-09-25 https://www.nytimes.com/2020/09/03/science/floating-upside-down-liquid.html \\ Researchers identified that objects could float along the bottom layer of a levitating liquid. They demoed it using a toy boat.
+
+  * 2020-09-11 [[https://www.devaboone.com/post/vitamin-d-part-1-back-to-basics | Vitamin D, part 1: back to basics]] (devaboone.com) \\ Written by a parathyroid surgeon who performed over 3500 parathyroid operations. Parathyroids are the glands in the neck that regulate Calcium.
+
+  * 2020-09-10 [[https://www.wsj.com/articles/jpmorgan-top-brass-tell-trading-floor-staff-to-come-back-to-the-office-11599757313 | JPMorgan Top Brass Tell Trading-Floor Staff to Come Back to the Office]] (wsj.com)
+  * 2020-09-10 [[https://www.sec.gov/news/press-release/2020-178 | SEC Charges Interactive Brokers with Repeatedly Failing to File SARs]] (sec.gov)
+  * 2020-09-07 Researchers at Argonne National Laboratory discovered a new electrocatalyst that converts carbon dioxide into ethanol - https://www.anl.gov/article/turning-carbon-dioxide-into-liquid-fuel
+
+==== 2020-08 ====
+  * 2020-08-31 [[https://nullprogram.com/blog/2020/08/01/|Conventions for Command Line Options]](nullprogram.com)
+  * 2020-08-21 [[https://www.opensecrets.org/federal-lobbying/top-spenders|Top Spenders]](opensecrets.org)
+  * 2020-08-19 [[https://www.institutionalinvestor.com/article/b1ml4nng27k0ln/University-Endowment-Sued-for-Underperforming-the-S-amp-P-500|University Endowment Sued for Under performing the S&P 500]] (institutionalinvestor.com)
+  * 2020-08-18 [[https://www.reuters.com/article/us-world-work-goldman-sachs-exclusive/exclusive-goldman-revamps-employee-reviews-opening-door-to-greater-job-cuts-idUSKCN24S266 | Goldman revamps employee reviews, opening door to greater job cuts]] (reuters.com)
+
+==== Policy ====
+  * Most recent first
+  * Each month in its own section
+  * If an individual entry takes more than a line, add an extra line for readability.

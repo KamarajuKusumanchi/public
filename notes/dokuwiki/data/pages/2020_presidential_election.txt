@@ -1,0 +1,11 @@
+==== predictions ====
+  * https://cookpolitical.com/sites/default/files/2020-06/EC%20061920.2.pdf
+  * https://projects.fivethirtyeight.com/2020-election-forecast/
+  * https://centerforpolitics.org/crystalball/2020-president/
+  * https://www.nytimes.com/interactive/2020/us/elections/election-states-biden-trump.html
+  * https://www.insideelections.com/news/article/presidential-snapshot-in-time-october-2-2020
+  * https://election.princeton.edu/
+  * https://www.electoral-vote.com/
+  * https://projects.economist.com/us-2020-forecast/president
+  * https://www.realclearpolitics.com/epolls/2020/president/us/general_election_trump_vs_biden-6247.html
+  * https://www.electionbettingodds.com/week.html

@@ -1,0 +1,5 @@
+==== run pytest on the current file from the current file ====
+  * https://stackoverflow.com/questions/35353771/invoke-pytest-from-python-for-current-module-only - gives the solution
+  * https://docs.pytest.org/en/stable/usage.html#calling-pytest-from-python-code
+
+tags | run pytest from main function, pytest run parameterized test

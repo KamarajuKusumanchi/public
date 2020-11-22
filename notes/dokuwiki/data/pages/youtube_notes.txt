@@ -1,0 +1,2 @@
+==== multiple channels ====
+You can create multiple youtube channels with one google account. Go to https://www.youtube.com/channel_switcher and click on "+ Create a new channel" button.

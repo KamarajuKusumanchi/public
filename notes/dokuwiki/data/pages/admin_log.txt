@@ -1,0 +1,3 @@
+  * 2020-08-17 Started this wiki
+  * 2020-09-15 Enabled url rewriting for this wiki.
+  * 2020-09-30 Added the statcounter button.

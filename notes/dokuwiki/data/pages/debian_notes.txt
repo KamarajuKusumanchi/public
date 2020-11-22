@@ -1,0 +1,19 @@
+==== status of debian testing ====
+Useful links:
+  * https://bugs.debian.org/release-critical/other/testing.html - Shows the number of release critical bugs that are affecting testing
+  * https://bugs.debian.org/release-critical/ - Shows how many release critical are there that affect next release
+  * https://www.debian.org/releases/testing/ - contains a link to release-critical bugs
+
+
+==== distribution name ====
+Use
+<code>
+lsb_release -cs
+</code>
+Sample run
+<code>
+ % lsb_release -cs
+buster
+</code>
+
+Ref:- I came across it in https://www.texmacs.org/tmweb/download/linux-repos.en.html#debian

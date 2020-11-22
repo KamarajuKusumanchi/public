@@ -1,0 +1,14 @@
+==== replace double quote with single quote ====
+  sed "s/\"/'/g"
+Ref:- https://stackoverflow.com/questions/16154007/replace-all-double-quotes-with-single-quotes
+
+Sample run:
+<code>
+% sed "s/\"/'/g"
+a
+a
+"
+'
+'
+'
+</code>

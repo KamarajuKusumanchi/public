@@ -1,0 +1,14 @@
+==== software I am currently evaluating ====
+  * https://explorerplusplus.com/
+    * Advantages:
+      * tabbed explorer windows
+    * Notes:
+      * started using it from 2020-11
+      * Using 64-bit version of 1.3.5
+
+==== wifi password ====
+  Control Panel\Network and Internet\Network and Sharing Center
+  -> View your active networks -> click the link after "Connections:"
+  -> which will be something like Wi-Fi (SSID)
+  -> Wireless Properties -> Security -> Network security key
+  -> Show characters -> enter the admin password 

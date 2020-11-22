@@ -1,0 +1,6 @@
+==== show contents of a deleted file ====
+<code>
+git show HEAD^:full/path/to/file/from/top/dir/of/the/repository
+</code>
+See also:
+  * https://stackoverflow.com/questions/1395445/viewing-a-deleted-file-in-git - I got the answer from here. It also contains a few other alternate solutions.

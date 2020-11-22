@@ -1,0 +1,22 @@
+==== Useful documentation ====
+  * https://www.dokuwiki.org/wiki:syntax#tables
+  * https://www.dokuwiki.org/wiki:syntax#lists
+  * https://www.dokuwiki.org/wiki:syntax#headline_level_3
+  * https://www.dokuwiki.org/wiki:syntax#links
+
+  * https://www.dokuwiki.org/install:permissions - Which folders need to be set with what permissions?
+
+  * https://www.dokuwiki.org/search
+  * https://www.dokuwiki.org/export
+  * https://www.dokuwiki.org/locking
+
+  * https://wiki.chongtin.com/adding_google_adsense
+
+==== useful plugins ====
+  * https://www.dokuwiki.org/plugin:nodisp
+
+==== documentation links I came across ====
+  * https://www.dokuwiki.org/index
+
+==== Questions to look into ====
+  * Is it possible to persist the breadcrumbs across user sessions? For example, the breadcrumbs are lost if I close the chrome browser and reopen it. Is it possible to preserve them even in such cases?

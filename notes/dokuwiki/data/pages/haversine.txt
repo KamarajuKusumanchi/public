@@ -1,0 +1,23 @@
+
+==== scikit-learn functions ====
+
+Documentation:-
+  * https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.haversine_distances.html
+
+Code references:-
+  * https://github.com/scikit-learn/scikit-learn/blob/master/sklearn/metrics/tests/test_pairwise.py -> test_haversine_distances() shows a sample call. This function also contains a slower implementation. Afterwards, compare the timings of the native scikit-learn function and its slower implementation.
+  * https://github.com/scikit-learn/scikit-learn/blob/0.23.2/sklearn/metrics/pairwise.py -> haversine_distances() shows the implementation.
+
+History:-
+  * The sklearn.metrics.pairwise.haversine_distances function was added in 0.21.0
+  * The 0.21.0 was released on 2019-05
+Ref:-
+  * https://scikit-learn.org/dev/whats_new/v0.21.html#id16 - changelog entry
+  * https://scikit-learn.org/dev/whats_new/v0.21.html#version-0-21-0 - shows the release date
+
+==== link dump ====
+  * https://en.wikipedia.org/wiki/Haversine_formula
+  * https://en.wikipedia.org/wiki/Great_circle - has a nice picture of the great circle (in the context of sphere).
+  * https://en.wikipedia.org/wiki/Versine#Haversine - has a picture that shows how trigonometric functions can be constructed geometrically using unit circle. Contains a table of derivative and integral formulas for various types of versines.
+  * http://rosettacode.org/wiki/Haversine_formula#Python - gives bare bones python code. In practice, we are probably better off using scikit-learn functions?
+  * https://stackoverflow.com/questions/34557898/pairwise-haversine-distance-calculation - In practice, we are probably better off using scikit-learn functions. But the discussion, sample code here is probably useful?

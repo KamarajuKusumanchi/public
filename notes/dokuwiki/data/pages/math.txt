@@ -1,0 +1,30 @@
+==== correlation ====
+t-statistic for correlation, $r$
+\[
+t = r \sqrt{\frac{n-2}{1-r^2}}
+\]
+
+The reverse equation is
+\[
+r = \frac{t}{\sqrt{t^2 + n-2}}
+\]
+
+Derivation of the reverse equation:
+\begin{align*}
+& t = r \sqrt{\frac{n-2}{1-r^2}} & \\
+& \frac{t^2}{r^2} = \frac{n-2}{1-r^2} & \\
+& \frac{t^2}{n-2} = \frac{r^2}{1-r^2} & \\
+& \frac{t^2}{t^2 + n-2} = r^2 & \\
+& r = \sqrt{\frac{t^2}{t^2 + n-2}} &
+\end{align*}
+
+See also:
+  * https://stackoverflow.com/questions/2632628/left-align-block-of-equations - shows a trick to left align an equation array
+==== sec(x) + tan(x) ====
+
+\begin{align*}
+\sec x + \tan x & = \tan \left( \frac{x}{2} + \frac{\pi}{4} \right) \\
+& = \sqrt{\frac{1 + \sin x}{1 - \sin x}}
+\end{align*}
+
+I came across this simplification while reading https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html which talks about the integral of the secant which in turn has applications in Mercator map.

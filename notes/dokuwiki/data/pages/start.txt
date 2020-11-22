@@ -1,0 +1,10 @@
+<nodisp 8>
+[[:personal:]]
+  * [[:personal:shopping list]]
+
+Public:
+  * [[notes]]
+  * [[blog]]
+  * [[share 2020]]
+  * [[TIL 2020]]
+</nodisp>

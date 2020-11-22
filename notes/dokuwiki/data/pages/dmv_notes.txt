@@ -1,0 +1,16 @@
+==== Freehold dmv ====
+  * Freehold DMV will be appointment-only on Saturday, Nov. 21. No walk-ins will be allowed. I am not sure whether it is like that for every day or just for that day.\\ Source: https://www.state.nj.us/mvc/locations/facilitystatus.htm
+
+==== NJ dmv ====
+  * https://mymvc.state.nj.us/reg-renewal/ - Registration renewal
+  * https://www.state.nj.us/mvc/vehicles/regfees.htm - Registration and title fees
+
+  * https://www.state.nj.us/mvc/press/archives/2020/Licensing%20Centers%20and%20Vehicle%20Centers.pdf - There are 23 licensing centers and 16 vehicle centers in NJ. They offer different services. This pdf tells where each of them are located and the type of services offered.
+
+tags | "23 licensing centers, 16 vehicle centers"
+
+==== registration fees ====
+  * online registration renewal fee = normal fee + $1.93 service fee
+  * normal fee - https://www.state.nj.us/mvc/vehicles/regfees.htm
+
+tags | asof 2020-11-11

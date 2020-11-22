@@ -1,0 +1,16 @@
+==== format dollars ====
+To put the dollar sign on the left and right justify the number, use the custom format
+<code>
+_($* #,##0.00_);_($* (#,##0.00);_($* "-"??_);_(@_)
+</code>
+Ref:-
+  * https://www.extendoffice.com/documents/excel/3679-excel-align-dollar-sign-left.html - has screenshots; more verbose; messy layout with ads in between content;\\ Afterwards
+    * Find a better reference and link to it.
+    * The above link has <nowiki>""-""</nowiki>, but I get the same result with "-". Find out if there is a difference?
+
+To only show the dollars (but not cents)
+<code>
+_($* #,##0_);_($* (#,##0);_($* "-"??_);_(@_)
+</code>
+
+tags | dollar sign left justified

@@ -1,0 +1,51 @@
+==== Configure ipython terminal prompts ====
+
+Create a profile (~/.ipython/profile_default/ipython_config.py) if it is not already created by running
+<code>
+ipython profile create
+</code>
+Add the following to ~/.ipython/profile_default/ipython_config.py
+<code>
+#------------------------------------------------------------------------------
+# Customize terminal prompts.
+# The goal here is to make it easy to copy paste stuff from/to ipython
+# sessions. This is achieved by
+# * adding an extra line to the input and output prompts
+# * removing the continuation prompt
+# To build the original prompt, I am using
+# https://github.com/ipython/ipython/blob/master/IPython/terminal/prompts.py
+from IPython.terminal.prompts import Prompts
+from pygments.token import Token
+
+class MyPrompt(Prompts):
+
+    # keep the original input prompt but add an extra line
+    def in_prompt_tokens(self):
+        return [
+            (Token.Prompt, self.vi_mode() ),
+            (Token.Prompt, 'In ['),
+            (Token.PromptNum, str(self.shell.execution_count)),
+            (Token.Prompt, ']: '),
+            (Token.Prompt, '\n'),
+        ]
+
+    # remove the continuation prompt.
+    def continuation_prompt_tokens(self, width=None):
+        return [
+            (Token.Prompt, ''),
+        ]
+
+    # keep the original output prompt but add an extra line
+    def out_prompt_tokens(self):
+        return [
+            (Token.OutPrompt, 'Out['),
+            (Token.OutPromptNum, str(self.shell.execution_count)),
+            (Token.OutPrompt, ']: '),
+            (Token.OutPrompt, '\n'),
+        ]
+
+c.TerminalInteractiveShell.prompts_class = MyPrompt
+#------------------------------------------------------------------------------
+</code>
+
+tags | add a newline to ipython input prompt, change ipython terminal prompts, ipython paste without the dots

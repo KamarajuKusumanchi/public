@@ -1,0 +1,10 @@
+==== insert newline in search and replace ====
+  :%s/29/\r29/gc
+will insert a new line before each occurrence of 29.
+  * https://stackoverflow.com/questions/71323/how-to-replace-a-character-by-a-newline-in-vim
+
+
+==== join lines with a character ====
+  :nmap J :s/\n/, /^M
+
+  * https://vi.stackexchange.com/a/14248/12620

@@ -1,0 +1,81 @@
+==== 2020-11-21 ====
+  * "rc-alert -d T" will show release critical bugs in packages that are currently installed on a system but only those that affect the testing distribution. This is useful to figure out how many RC bugs my system will have if I were to upgrade from stable to testing (but without actually changing sources.list or downloading the packages etc.,)
+
+==== 2020-11-19 ====
+  * The account on https://ankiweb.net/ can be synchronised with anki (installed on a Debian machine). The advantage of the Debian version is that you can delete the cards as needed. The online version does not support card deletion. I am currently using
+<code>
+% anki --version
+anki 2.1.8
+
+% dpkg -l anki | grep ^ii
+ii  anki           2.1.8+dfsg-1 all          extensible flashcard learning program
+</code>
+
+==== 2020-11-17 ====
+  * Amazon launches online Pharmacy
+    * https://pharmacy.amazon.com/
+    * https://www.wsj.com/amp/articles/amazon-com-adds-prescription-medicine-options-to-its-site-11605613679
+
+==== 2020-11-11 ====
+  * https://packages.debian.org/stable/goldendict - spellchecker, dictionary
+  * https://packages.debian.org/stable/artha - off-line thesaurus based on WordNet
+==== 2020-11-03 ====
+  * Some real numbers $x$ have two infinite decimal representations. For example, the number 1 may be equally represented by 1.000... or as by 0.999... (where the infinite sequences of trailing 0's or 9's, respectively, are represented by "..."). Conventionally, the decimal representation without trailing 9's is preferred. \\ Ref:-
+    * https://en.wikipedia.org/wiki/Decimal_representation#Non-uniqueness_of_decimal_representation_and_notational_conventions
+    * https://en.wikipedia.org/wiki/0.999...
+
+  * https://en.wikipedia.org/wiki/Terence_Tao - mathematics professor at UCLA
+
+==== 2020-10-25 ====
+  * https://pypi.org/project/python-dotenv/ - Useful package to manage app settings in dev and prod.\\ In action:-
+    * https://github.com/owid/covid-19-data/blob/master/scripts/scripts/utils/db.py - shows how it can be used to get the database credentials.
+    * https://github.com/owid/covid-19-data/blob/master/.gitignore - shows how the .env file should be ignored.
+
+    tags | password, api keys
+
+  * https://github.com/owid/covid-19-data/tree/master/public/data - Data on COVID-19 (coronavirus) by Our World in Data. For regular updates, use the covid.ourworldindata.org URLs instead. For example, use  https://covid.ourworldindata.org/data/owid-covid-data.csv instead of https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-data.csv
+  * https://github.com/owid/covid-19-data/tree/master/public/data/owid-covid-codebook.csv - codebook; explains what each column in the data set means.
+  * [[https://www.nature.com/articles/s41597-020-00688-8.epdf | A cross-country database of COVID-19 testing]] (nature.com) - manuscript that describes the dataset and how it is compiled in detail
+  * https://ourworldindata.org/our-world-in-data-covid-19-testing-dataset-published-by-nature - blog post announcement
+
+
+==== 2020-10-15 ====
+  * The mediant of two fractions, $\frac{a}{c}$ and $\frac{b}{d}$ is defined as $\frac{a+b}{c+d}$
+  * If $a/c < b/d$ and $a, b, c, d \geq 0$, then
+\[ \frac{a}{c} < \frac{a+b}{c+d} < \frac{b}{d} \]
+Ref:-
+  * [[https://en.wikipedia.org/w/index.php?title=Mediant_(mathematics)]] - gives proof of the above inequality
+  * https://blog.plover.com/2020/10/13/#newton-mediants - talks about a case where this comes in handy
+
+==== 2020-10-11 ====
+  * In zoology, a folivore is a herbivore that specializes in eating leaves.
+  * The giant panda is a folivore.
+  * The giant panda is also known as the panda bear or simply the panda.
+  * Female giant pandas are fertile for only 24 to 36 hours a year.
+Ref:-
+  * https://en.wikipedia.org/wiki/Folivore
+  * https://en.wikipedia.org/wiki/Giant_panda
+
+==== 2020-09-25 ====
+  * https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html - The history of the Mercator map and the integral of the secant; 100 years to solve an integral
+
+==== 2020-09-21 ====
+  * [[https://trends.debian.net/ | Debian Trends]] (debian.net)
+  * Internationalized Resource Identifier (IRI) is an enhanced version of URI which allows Unicode characters. This is in contrast to URIs where only ASCII characters are allowed.\\ Ref:-
+    * [[https://en.wikipedia.org/wiki/Internationalized_Resource_Identifier | Internationalized Resource Identifier]](wikipedia.org)
+    * https://www.freelists.org/post/dokuwiki/external-link-not-correctly-recognized,1
+
+
+==== 2020-09-18 ====
+  * Pydimarri Venkata Subba Rao composed the the National Pledge of India.\\ More info:-
+    * https://en.wikipedia.org/wiki/Pydimarri_Venkata_Subba_Rao
+    * [[https://te.wikipedia.org/wiki/పైడిమర్రి_వెంకటసుబ్బారావు]] - written in Telugu
+
+==== 2020-09-16 ====
+  * A bar on top of a roman numeral is used to indicate multiplication by 1,000. For example, bars on top of V, X, L, C represent 5,000, 10,000, 50,000 and 100,000.\\ Ref:-
+    * https://www.integers.co/questions-answers/how-is-10000-written-in-roman-numerals.html
+    * https://en.wiktionary.org/wiki/Appendix:Roman_numerals#List_of_numbers
+
+==== 2020-08-20 ====
+  * most vaccines ship at -8°C; polio at -20°C; ebola at -70°C
+

@@ -1,0 +1,13 @@
+==== empty file ====
+Task: If input file is empty, write an empty output file
+<code>
+import os
+if os.stat(input_file).st_size == 0:
+    logger.info('Input file is empty.')
+    logger.info('Writing an empty output file.')
+    with open(output_file, 'w') as fp:
+        pass
+</code>
+
+==== python release cycle ====
+* https://python-release-cycle.glitch.me/ - useful to check when a Python version was released and when it would be EOL.

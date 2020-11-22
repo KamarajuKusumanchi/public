@@ -1,0 +1,29 @@
+==== dummy 001 ====
+page 2 of https://watson.brown.edu/costsofwar/files/cow/imce/papers/2020/Displacement_Vine%20et%20al_Costs%20of%20War%202020%2009%2008.pdf
+
+Shows a map with {countries: [Libya, Syria, Iraq, Yemen, Somalia, Afghanistan, Pakistan], water bodies: [Mediterranean sea, Red sea, Persian Gulf, Gulf of Aden, Arabian Sea]}.
+
+Related links:
+  * https://watson.brown.edu/costsofwar/ - the pdf is linked from this
+  * https://watson.brown.edu/costsofwar/files/cow/styles/homeslide/public/imce/home/slides/DISPLACED_static_1100x415_slideshow.jpg - just the image; The pdf has a caption on the image.
+
+==== dummy 002 ====
+  * Deer rutting season is the period between the middle of October to early December.
+  * The peak is between the last week of October and the first two weeks of November.
+  * During this season
+      * Deer mate
+      * Their behavior changes
+          * They become more active during daylight
+          * Might wander off into open areas (during daylight)
+  * for motorists
+      * Risk factors 
+          * mostly likely time to have an auto/deer collision
+          * visibility lessens as days get shorter
+      * Recommended
+          * slow down, wear seat belts and be alert
+
+==== dummy 003 ====
+  * fructivorous = fruit-eating
+  * Vitamins are essential to the production and use of enzymes that are involved in ongoing processes throughout the human body.
+  * Collagen is a primary structural protein in the human body, necessary for healthy blood vessels, muscle, skin, bone, cartilage, and other connective tissues. It is an important part of the bone.
+  * In babies, scurvy is sometimes referred to as Barlow's disease, named after Thomas Barlow, a British physician who described it in 1883. However, Barlow's disease may also refer to mitral valve prolapse (Barlow's syndrome), first described by John Brereton Barlow in 1966.

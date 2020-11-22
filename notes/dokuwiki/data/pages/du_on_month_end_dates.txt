@@ -1,0 +1,89 @@
+==== du on month end dates ====
+Assuming:
+  * month end = last weekday of the month
+
+Sample commands:
+  * hard coded dates
+<code>
+python -c "import pandas as pd; [print(d.strftime('%Y%m%d')) for d in pd.date_range('20200101', '20201231', freq='BM')]" | xargs du --max-depth=0 -h
+</code>
+  * using the current date
+<code>
+python -c "import pandas as pd; from datetime import datetime; [print(d.strftime('%Y%m%d')) for d in pd.date_range('20200101', datetime.now(), freq='BM')]" | xargs du --max-depth=0 -h
+</code>
+
+Notes:
+  * If month end = last calendar day of the month, use freq = 'M'
+  * freq = 'BMS', will give first weekday of the month. It stands for business month start.
+  * freq = 'MS', will give first calendar day of the month. It stands for month start.
+
+Ref:-
+  * complete list of frequency tags - https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html#offset-aliases
+  * https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.date_range.html
+  * https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.bdate_range.html - bdate_range() is similar to date_range() with different defaults. For example, it uses business day as the default frequency. But date_range does not have any default for 'freq'.
+
+Experiments:-
+<code>
+% ipython
+Python 3.8.5 (default, Sep  4 2020, 07:30:14) 
+Type 'copyright', 'credits' or 'license' for more information
+IPython 7.18.1 -- An enhanced Interactive Python. Type '?' for help.
+
+In [1]: 
+import pandas as pd
+
+In [2]: 
+pd.date_range('20200101', '20201231', freq='MS')
+Out[2]: 
+DatetimeIndex(['2020-01-01', '2020-02-01', '2020-03-01', '2020-04-01',
+               '2020-05-01', '2020-06-01', '2020-07-01', '2020-08-01',
+               '2020-09-01', '2020-10-01', '2020-11-01', '2020-12-01'],
+              dtype='datetime64[ns]', freq='MS')
+
+In [3]: 
+pd.date_range('20200101', '20201231', freq='BMS')
+Out[3]: 
+DatetimeIndex(['2020-01-01', '2020-02-03', '2020-03-02', '2020-04-01',
+               '2020-05-01', '2020-06-01', '2020-07-01', '2020-08-03',
+               '2020-09-01', '2020-10-01', '2020-11-02', '2020-12-01'],
+              dtype='datetime64[ns]', freq='BMS')
+
+In [4]: 
+pd.date_range('20200101', '20201231', freq='M')
+Out[4]: 
+DatetimeIndex(['2020-01-31', '2020-02-29', '2020-03-31', '2020-04-30',
+               '2020-05-31', '2020-06-30', '2020-07-31', '2020-08-31',
+               '2020-09-30', '2020-10-31', '2020-11-30', '2020-12-31'],
+              dtype='datetime64[ns]', freq='M')
+
+In [5]: 
+pd.date_range('20200101', '20201231', freq='BM')
+Out[5]: 
+DatetimeIndex(['2020-01-31', '2020-02-28', '2020-03-31', '2020-04-30',
+               '2020-05-29', '2020-06-30', '2020-07-31', '2020-08-31',
+               '2020-09-30', '2020-10-30', '2020-11-30', '2020-12-31'],
+              dtype='datetime64[ns]', freq='BM')
+
+In [6]: 
+from datetime import datetime
+datetime.now()
+Out[6]: 
+datetime.datetime(2020, 10, 26, 12, 54, 23, 530394)
+
+In [7]: 
+pd.date_range('20200101', datetime.now(), freq='BM')
+Out[7]: 
+DatetimeIndex(['2020-01-31', '2020-02-28', '2020-03-31', '2020-04-30',
+               '2020-05-29', '2020-06-30', '2020-07-31', '2020-08-31',
+               '2020-09-30'],
+              dtype='datetime64[ns]', freq='BM')
+
+In [8]: 
+pd.date_range('20200101', '2020-08-15', freq='BM')
+Out[8]: 
+DatetimeIndex(['2020-01-31', '2020-02-28', '2020-03-31', '2020-04-30',
+               '2020-05-29', '2020-06-30', '2020-07-31'],
+              dtype='datetime64[ns]', freq='BM')
+</code>
+
+tags | python list month ends in a date range, pd.date_range first weekday of the month, python print list one item per line
