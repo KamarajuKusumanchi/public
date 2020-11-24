@@ -48,6 +48,8 @@
   * [[documentation]]
   * [[Walmart]]
   * [[haversine]]
+  * [[finviz notes]]
+  * [[pdftk notes]]
 
 ==== have to sort ====
   * [[sort_001]]

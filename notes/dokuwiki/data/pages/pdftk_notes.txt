@@ -1,0 +1,6 @@
+==== make two copies of the same document ====
+<code>
+pdftk in.pdf cat 1-end 1-end output out.pdf
+</code>
+
+See also: https://superuser.com/questions/600877/how-do-i-duplicate-pages-within-pdf-files-automatically - has a script to duplicate it by page (as in 1,1,2,2,...)
