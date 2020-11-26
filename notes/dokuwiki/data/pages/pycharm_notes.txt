@@ -1,0 +1,3 @@
+==== useful links ====
+  * Where are run debug configurations stored?\\ See:
+    * https://www.jetbrains.com/help/pycharm/run-debug-configuration.html

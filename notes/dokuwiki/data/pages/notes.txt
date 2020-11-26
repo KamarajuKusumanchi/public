@@ -4,6 +4,7 @@
   * [[python notes]]
   * [[numpy exercises]]
   * [[pytest notes]]
+  * [[pycharm notes]]
 
 
   * [[rsync notes]]
