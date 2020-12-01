@@ -1,6 +1,7 @@
 ==== 2020-11 ====
   * 2020-11-25
     * [[https://lemire.me/blog/2020/11/01/how-will-the-pandemic-impact-software-programming-jobs/|How will the pandemic impact software programming jobs?]] (lemire.me)
+    * [[https://blog.plover.com/2020/11/21/#divisibility-by-19 | Testing for divisibility by 19]] (plover.com)
 
   * 2020-11-15
     * https://acoup.blog/2020/09/18/collections-iron-how-did-they-make-it-part-i-mining - Insightful articles on iron and steel production in the olden days. It comes in many parts. Very long and detail oriented.

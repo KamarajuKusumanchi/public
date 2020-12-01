@@ -1,3 +1,6 @@
+==== 2020-11-30 ====
+  * https://en.wikipedia.org/wiki/Window_tax - Window tax was a property tax based on the number of windows in a house. It was a significant social, cultural, and architectural force in England, France, and Ireland during the 18th and 19th centuries. To avoid the tax some houses from the period can be seen to have bricked-up window-spaces (ready to be glazed or reglazed at a later date).
+
 ==== 2020-11-21 ====
   * "rc-alert -d T" will show release critical bugs in packages that are currently installed on a system but only those that affect the testing distribution. This is useful to figure out how many RC bugs my system will have if I were to upgrade from stable to testing (but without actually changing sources.list or downloading the packages etc.,)
 

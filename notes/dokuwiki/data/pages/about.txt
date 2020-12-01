@@ -6,9 +6,9 @@
   * This wiki is my brain dump.
   * I use it to reduce my cognitive load and help my future self.
   * It is not an attempt to inform or educate others.
+  * Contents are backed up from time to time to [[https://github.com/KamarajuKusumanchi/public/tree/master/notes/dokuwiki/data/pages|a github repo]]
+  * Use that to report any issues.
   * I aim for zero typos, zero errors, zero broken links.
-  * Use the github repo https://github.com/KamarajuKusumanchi/public/tree/master/notes/dokuwiki/data/pages to report any issues.
-  * Contents are backed up from time to time to https://github.com/KamarajuKusumanchi/public/tree/master/notes/dokuwiki/data/pages
   * Feedback/suggestions/comments are welcome (no matter how small or relevant you think they are). You can reach me at kamaraju at gmail dot com.
 
 
