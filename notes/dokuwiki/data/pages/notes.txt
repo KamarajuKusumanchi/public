@@ -1,14 +1,10 @@
 ==== dummy ====
-  * [[Walmart]]
-
   * [[pandas dataframe]]
   * [[ipython notes]]
   * [[python notes]]
   * [[numpy exercises]]
   * [[pytest notes]]
   * [[pycharm notes]]
-
-
   * [[rsync notes]]
   * [[njng notes]]
   * [[math]]
@@ -48,6 +44,7 @@
   * [[Robertsville PTO]]
   * [[Idioms]]
   * [[Morganville]]
+  * [[Walmart]]
   * [[documentation]]
   * [[haversine]]
   * [[finviz notes]]

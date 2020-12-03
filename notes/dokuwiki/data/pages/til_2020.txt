@@ -1,3 +1,6 @@
+==== 2020-12-03 ====
+  * S3 now has strong read-after-write consistency - https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-s3-now-delivers-strong-read-after-write-consistency-automatically-for-all-applications/ . Previously, they had what is known as "eventual consistency" meaning that you may not be able to read something immediately after writing it. But now with strong consistency you do not have to worry about it. The strong consistency is enabled automatically for all applications.
+
 ==== 2020-11-30 ====
   * https://en.wikipedia.org/wiki/Window_tax - Window tax was a property tax based on the number of windows in a house. It was a significant social, cultural, and architectural force in England, France, and Ireland during the 18th and 19th centuries. To avoid the tax some houses from the period can be seen to have bricked-up window-spaces (ready to be glazed or reglazed at a later date).
 

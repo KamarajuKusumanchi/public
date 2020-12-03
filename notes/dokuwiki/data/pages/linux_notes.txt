@@ -1,3 +1,6 @@
 ==== tasks ====
   * [[add numbers on the command line]]
   * [[du on month end dates]]
+
+==== stackoverflow answers I came across ====
+  * prepend to a file - https://stackoverflow.com/questions/10587615/unix-command-to-prepend-text-to-a-file

@@ -1,5 +1,24 @@
-==== Configure ipython terminal prompts ====
+=== Configure ipython terminal prompts ===
 
+==== Task ====
+The idea here is to change the default ipython terminal prompts such that a typical session looks like
+<code>
+In [1]:
+a='foo'
+a
+Out[1]:
+'foo'
+</code>
+
+instead of
+<code>
+In [1]: a='foo'
+   ...: a
+Out[1]: 'foo'
+</code>
+which is the default. The new version makes it easy to copy paste stuff across sessions.
+
+==== Steps ====
 Create a profile (~/.ipython/profile_default/ipython_config.py) if it is not already created by running
 <code>
 ipython profile create

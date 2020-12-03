@@ -1,5 +1,72 @@
 === Add dates ===
-==== with pandas; multiple dates ====
+
+==== single start date; multiple offsets; with pandas ====
+prepare the input
+<code>
+In [1]:
+start_yyyymmdd = '20201203'
+fmt = '%Y%m%d'
+from datetime import datetime
+start_date = datetime.strptime(start_yyyymmdd, fmt)
+
+In [2]:
+print(start_date)
+2020-12-03 00:00:00
+
+In [3]:
+import pandas as pd
+days_original = [158, 928, 882, 341, 596, 878, 526]
+offset_years = [round(x/365.0, 9) for x in days_original]
+df = pd.DataFrame({'offset_years': offset_years})
+
+In [4]:
+print(df)
+   offset_years
+0      0.432877
+1      2.542466
+2      2.416438
+3      0.934247
+4      1.632877
+5      2.405479
+6      1.441096
+</code>
+Convert the offset to days
+<code>
+In [5]:
+import numpy as np
+df['offset_days'] = (df['offset_years']*365.0).round().astype(np.int)
+df
+Out[5]:
+   offset_years  offset_days
+0      0.432877          158
+1      2.542466          928
+2      2.416438          882
+3      0.934247          341
+4      1.632877          596
+5      2.405479          878
+6      1.441096          526
+</code>
+Apply the offset to get end dates
+<code>
+In [6]:
+df['end_yyyymmdd'] = (start_date + pd.to_timedelta(df['offset_days'], 'd')).dt.strftime(fmt)
+df
+Out[6]:
+   offset_years  offset_days end_yyyymmdd
+0      0.432877          158     20210510
+1      2.542466          928     20230619
+2      2.416438          882     20230504
+3      0.934247          341     20211109
+4      1.632877          596     20220722
+5      2.405479          878     20230430
+6      1.441096          526     20220513
+</code>
+
+Used | Python 3.8.5, ipython 7.18.1, pandas 1.1.3, numpy 1.19.2
+
+demonstrates | round float to int
+
+==== multiple dates; different offsets; with pandas ====
 Given
 <code>
 In [1]: 
@@ -66,8 +133,7 @@ Out[6]:
 dtype: object
 </code>
 
-==== without pandas; single date ====
-For a single date, we can do this without pandas also
+==== single date; single offset; without pandas ====
 <code>
 In [1]: 
 from datetime import datetime, timedelta
@@ -79,5 +145,38 @@ print(datetime.now() + timedelta(days=10))
 2020-12-01 23:54:32.393776
 </code>
 
-Related links:
+==== Related links ====
   * https://github.com/KamarajuKusumanchi/market_data_processor/blob/master/add_days.py
+  * https://pandas.pydata.org/docs/reference/api/pandas.to_timedelta.html
+
+==== offset calculation ====
+If the offsets are computed from floating point numbers that were originally derived from integers, watch out for round off errors. 
+
+For example, let's say:
+  * There are two applications App1 and App2
+  * App1 converts the number of days (an integer value) into number of years (a floating point number) and rounds it to 9 digits
+  * App2 reads that as input
+
+<code>
+In [1]:
+days_original = [158, 928, 882, 341, 596, 878, 526]
+years_given = [round(x/365.0, 9) for x in days_original]
+print(years_given)
+[0.432876712, 2.542465753, 2.416438356, 0.934246575, 1.632876712, 2.405479452, 1.44109589]
+</code>
+
+Now if App2 tries to compute the offsets by multiplying with 365 and converting that back to integer, it will give wrong results (due to limitations in floating point representation).
+<code>
+In [2]:
+wrong_offsets = [int(x*365.0) for x in years_given]
+print(wrong_offsets)
+[157, 927, 881, 340, 595, 877, 525]
+</code>
+
+The correct approach is to multiply by 365, apply round() and then convert it back to integer.
+<code>
+In [3]:
+correct_offsets = [int(round(x*365.0)) for x in years_given]
+print(correct_offsets)
+[158, 928, 882, 341, 596, 878, 526]
+</code>
