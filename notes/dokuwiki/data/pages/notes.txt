@@ -49,6 +49,7 @@
   * [[haversine]]
   * [[finviz notes]]
   * [[pdftk notes]]
+  * [[tar usage]]
 
 ==== have to sort ====
   * [[sort_001]]

@@ -1,0 +1,71 @@
+=== Relative file names in a tar archive ===
+==== Problem ====
+If we tar the following directory
+<code>
+% tree --charset=unicode /tmp/expt
+/tmp/expt
+`-- insurance
+    |-- auto.txt
+    |-- condo.txt
+    `-- rv.txt
+
+1 directory, 3 files
+</code>
+using
+<code>
+% tar czvf insurance.tgz /tmp/expt/insurance 
+tar: Removing leading `/' from member names
+/tmp/expt/insurance/
+/tmp/expt/insurance/auto.txt
+/tmp/expt/insurance/rv.txt
+/tmp/expt/insurance/condo.txt
+</code>
+then the file names in the .tgz contain the whole path releative to '/'.
+<code>
+% tar tzvf insurance.tgz                   
+drwxr-xr-x rajulocal/rajulocal 0 2020-12-04 10:25 tmp/expt/insurance/
+-rw-r--r-- rajulocal/rajulocal 0 2020-12-04 10:25 tmp/expt/insurance/auto.txt
+-rw-r--r-- rajulocal/rajulocal 0 2020-12-04 10:25 tmp/expt/insurance/rv.txt
+-rw-r--r-- rajulocal/rajulocal 0 2020-12-04 10:25 tmp/expt/insurance/condo.txt
+</code>
+But I want the paths to be relative to the 'insurance' directory. Something like
+<code>
+drwxr-xr-x rajulocal/rajulocal 0 2020-12-04 10:25 insurance/
+-rw-r--r-- rajulocal/rajulocal 0 2020-12-04 10:25 insurance/auto.txt
+-rw-r--r-- rajulocal/rajulocal 0 2020-12-04 10:25 insurance/rv.txt
+-rw-r--r-- rajulocal/rajulocal 0 2020-12-04 10:25 insurance/condo.txt
+</code>
+
+==== Solution ====
+Use the -C option while creating the tar archive.
+<code>
+% tar czvf insurance2.tgz -C /tmp/expt insurance
+insurance/
+insurance/auto.txt
+insurance/rv.txt
+insurance/condo.txt
+</code>
+Test the new archive.
+<code>
+% tar tzvf insurance2.tgz                       
+drwxr-xr-x rajulocal/rajulocal 0 2020-12-04 10:25 insurance/
+-rw-r--r-- rajulocal/rajulocal 0 2020-12-04 10:25 insurance/auto.txt
+-rw-r--r-- rajulocal/rajulocal 0 2020-12-04 10:25 insurance/rv.txt
+-rw-r--r-- rajulocal/rajulocal 0 2020-12-04 10:25 insurance/condo.txt
+</code>
+==== How it works ====
+From the man page
+<code>
+% man tar
+...
+       -C, --directory=DIR
+              Change  to DIR before performing any operations.  This option is order-sensitive, i.e. it affects all
+              options that follow.
+</code>
+
+==== System information ====
+Tested on Debian Buster using
+<code>
+% tar --version
+tar (GNU tar) 1.30
+</code>
