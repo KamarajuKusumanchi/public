@@ -63,9 +63,11 @@ From the man page
               options that follow.
 </code>
 
-==== System information ====
+==== Miscellaneous ====
 Tested on Debian Buster using
 <code>
 % tar --version
 tar (GNU tar) 1.30
 </code>
+
+tags | extract files relative to a directory
