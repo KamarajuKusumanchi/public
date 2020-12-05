@@ -3,10 +3,24 @@ Situation:\\
 I have a directory (say source/) with many sub directories and files under it (source/dir1, source/dir2, ... , source/file1, source/file2, ...). I want to copy it to two separate folders (say destA, destB). The first folder contains all the top level files (source/file1, source/file2 etc.,), the second folder contains the rest (source/dir1, source/dir2 etc., but not source/file1, or source/file2 etc.,).
 
 Solution:
+There are two approaches I can think of. Both work. I prefer the second one as it is a bit cleaner.
+
+Approach1:
 <code>
 rsync -prltvzD -n --delete-after --exclude='/*/' source/ destA/
 rsync -prltvzD -n --delete-after --include='/*/' --exclude='/*' source/ destB
 </code>
 
+Approach2:
+<code>
+rsync -prltvzD -n --delete-after --exclude='*/' source/ destA/
+rsync -prltvzD -n --delete-after --include='*/' --exclude='/*' source/ destB
+</code>
+
+In both approaches, the destA and destB directories will be created on the fly if necessary.
+
 ==== useful links ====
   * https://linuxize.com/post/how-to-exclude-files-and-directories-with-rsync/ - shows how to exclude files and directories with rsync; goes over many cases with examples and simple explanations.
+
+==== miscellaneous ====
+tags | include all sub directories but exclude top level files, exclude top level directory, exclude all subdirectories
