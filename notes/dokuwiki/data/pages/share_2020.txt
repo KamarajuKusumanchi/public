@@ -1,3 +1,8 @@
+==== 2020-12 ====
+  * 2020-12-09
+    * [[https://tutorial.math.lamar.edu/|Paul's online math notes]] (lamar.edu)\\ Useful resouce for math tutorials and notes.
+
+
 ==== 2020-11 ====
   * 2020-11-25
     * [[https://lemire.me/blog/2020/11/01/how-will-the-pandemic-impact-software-programming-jobs/|How will the pandemic impact software programming jobs?]] (lemire.me)
