@@ -1,3 +1,6 @@
+==== 2020-12-11 ====
+  * By delivering high dose of radiation in a targeted area of brain, doctors are able to cure tremors caused by multiple sclerosis. The procedure is called 'gamma knife radiosurgery'.\\ https://www.rwjbh.org/patient-stories/staying-steady/
+
 ==== 2020-12-03 ====
   * S3 now has strong read-after-write consistency - https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-s3-now-delivers-strong-read-after-write-consistency-automatically-for-all-applications/ . Previously, they had what is known as "eventual consistency" meaning that you may not be able to read something immediately after writing it. But now with strong consistency you do not have to worry about it. The strong consistency is enabled automatically for all applications.
 

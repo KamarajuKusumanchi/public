@@ -1,3 +1,12 @@
+==== show which branch is linked to which remote branch ====
+  * https://stackoverflow.com/questions/171550/find-out-which-remote-branch-a-local-branch-is-tracking
+
+==== rename a branch that has already been pushed ====
+tags | change the remote branch name
+
+  * https://stackoverflow.com/questions/30590083/how-do-i-rename-both-a-git-local-and-remote-branch-name
+
+
 ==== show contents of a deleted file ====
 <code>
 git show HEAD^:full/path/to/file/from/top/dir/of/the/repository

@@ -15,7 +15,7 @@ Steps:
 Additional notes:
   * https://www.marlboro-nj.gov/departments/clerk
   * Address: 1979 Township Drive, Marlboro, NJ 07746-2247
-  * I had a good experience with Susan A. Branagan. She notarized some documents for us in 2020-12.
+  * Susan A. Branagan notarized some documents for us in 2020-12.
 
 ==== route 9 discount cards ====
   * https://route9community.com/participating-businesses/ - to check what shops offer discount with this card and how much.
@@ -43,8 +43,17 @@ Mon-Fri 8 am - 4:30 pm, Sat 8 am - 3 pm
 
 ==== phone numbers ====
   * Marlboro Traffic and Safety - 732-536-0304
+  * Marlboro water - 732-591-1757
 
 ==== Marlboro township ====
+  * https://marlboro-nj.gov/public-utilities - contains phone numbers of utility companies.
   * https://marlboro-nj.gov/images/notices/2020/COVID-Testing-Sites-Poster.pdf - It has locations and timings during which you can get tested for Covid 19 for free. No appointment necessary and you do not have to be symptomatic. It is only for Monmouth county residents.\\ I got this link from https://www.marlboro-nj.gov/weekend-update-october-30
 
   * https://www.marlboro-nj.gov/images/notices/2019/deeranimalcontrol.pdf - Animal control and deer removal FAQ
+
+==== Emergencies ====
+  * Water leak
+    * turn off water main shutoff
+    * notify neighbors
+    * contact a plumber to repair
+    * call Marlboro water at 732-591-1757 and ask them to turn off the water
