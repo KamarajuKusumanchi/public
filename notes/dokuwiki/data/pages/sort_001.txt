@@ -46,3 +46,19 @@ I ended up buying Logitech precision pro mouse from Costco for $30. It is much b
 Apotex is a Canadian pharmaceutical corporation. It was founded in 1974 by Barry Sherman. It is the largest producer of generic drugs in Canada. It manufactures and distributes generic medications for a range of diseases and health conditions that include cancer, diabetes, high cholesterol, glaucoma, infections and blood pressure.
 
 Ref:- https://en.wikipedia.org/wiki/Apotex
+
+==== amazing beaches ====
+^ name ^ location ^
+| Hot water beach | New Zealand |
+| Glass beach | California |
+| Beach in field | Spain |
+| Tiny star beach | Japan |
+| Bowling ball beach | California |
+| Black sand beach | Hawaii |
+| Pink sand beach | Bermuda |
+| Giant rock beach | South Africa |
+| White sand beach | Australia |
+| 75 mile beach | Australia |
+
+See also:
+  * https://en.wikipedia.org/wiki/Playa_de_Gulpiyuri
