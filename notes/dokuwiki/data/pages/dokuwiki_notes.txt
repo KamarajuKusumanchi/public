@@ -14,7 +14,7 @@
 
 ==== useful plugins ====
   * https://www.dokuwiki.org/plugin:nodisp
-
+  * https://www.dokuwiki.org/plugin:wrap
 ==== documentation links I came across ====
   * https://www.dokuwiki.org/index
 

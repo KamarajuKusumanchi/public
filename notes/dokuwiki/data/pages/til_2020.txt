@@ -1,3 +1,6 @@
+==== 2020-12-14 ====
+  * The human brain consumes about 20 W. The human body consumes about 100 W.\\ https://hypertextbook.com/facts/2001/JacquelineLing.shtml
+
 ==== 2020-12-11 ====
   * By delivering high dose of radiation in a targeted area of brain, doctors are able to cure tremors caused by multiple sclerosis. The procedure is called 'gamma knife radiosurgery'.\\ https://www.rwjbh.org/patient-stories/staying-steady/
 

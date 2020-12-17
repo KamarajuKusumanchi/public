@@ -27,3 +27,25 @@ Related links:
   * Vitamins are essential to the production and use of enzymes that are involved in ongoing processes throughout the human body.
   * Collagen is a primary structural protein in the human body, necessary for healthy blood vessels, muscle, skin, bone, cartilage, and other connective tissues. It is an important part of the bone.
   * In babies, scurvy is sometimes referred to as Barlow's disease, named after Thomas Barlow, a British physician who described it in 1883. However, Barlow's disease may also refer to mitral valve prolapse (Barlow's syndrome), first described by John Brereton Barlow in 1966.
+
+==== dummy 004 ====
+Summary:
+To automatically dial an extension after dialing a phone number separate the two by a comma. For example, if you store a number as 123456789,6671 then it will dial 6671 after dialing the phone number.
+
+tags | how to note down phone numbers with extension in google contacts?
+
+Additional notes:
+| approach | 1 | 2 |
+| separator | ',' | ';' |
+| store as | ','.join(phone number, extension) | ';'.join(phone number, extension) |
+| example | 123456789,6671 | 123456789;6671 |
+| | <WRAP>
+  * The extension is dialed after the phone number is answered.
+  * You can use more than one comma. Each comma adds a two second pause.
+</WRAP> | <WRAP>
+  * The extension is dialed after the automated message from the phone number is finished.
+</WRAP> |
+
+
+Ref:- https://www.lifewire.com/automatically-dialing-extensions-on-android-577619 - answers the question but very wordy. See if you can find a better reference.
+
