@@ -1,0 +1,24 @@
+==== check and cross marks ====
+  * (/) - check, done etc.,
+  * (x) - cross, not done etc.,
+
+Ref:- https://confluence.atlassian.com/doc/symbols-emoticons-and-special-characters-136870.html -> "Insert emoticons" section
+
+==== Macro Suggestions ====
+  * Show table of contents - {Table of Contents}
+  * Show children pages - {Children Display}
+
+==== insert an svg file ====
+tags | show svg file
+
+  * Type '!' then select the attached SVG
+  * It renders inline
+  * Adjust the image size as needed.
+
+Ref:- https://bobswift.atlassian.net/wiki/spaces/info/pages/31916055/How+to+display+SVG+attachments+in+Confluence
+
+==== features missing ====
+  * sectional editing is not possible.\\ Ref:-
+    * https://confluence.atlassian.com/confkb/can-users-edit-individual-sections-within-a-page-199206.html
+    * https://jira.atlassian.com/browse/CONFSERVER-5913
+

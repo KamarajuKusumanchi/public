@@ -1,0 +1,15 @@
+==== telugu songs ====
+To listen to Telugu songs on the speaker
+  * Play the songs on the phone using the gaana app
+  * Cast the audio to google speaker
+
+Advantages of this approach:
+  * You can play songs even when the app is minimized
+  * no premium membership is needed
+
+tags | youtube music alternatives
+
+==== my setup ====
+asof 2020-12
+  * Google Nest Mini (2nd Gen) Smart Speaker Powered by Google Assistant
+  * LG Stylo 3 Plus phone running Android

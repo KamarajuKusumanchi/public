@@ -1,4 +1,6 @@
 ==== dummy ====
+  * [[google speaker notes]]
+  * [[confluence notes]]
   * [[regex notes]]
   * [[coronavirus]]
   * [[magazines]]
