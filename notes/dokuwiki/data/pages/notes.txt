@@ -1,4 +1,5 @@
 ==== dummy ====
+  * [[krusader notes]]
   * [[google speaker notes]]
   * [[confluence notes]]
   * [[regex notes]]

@@ -1,0 +1,11 @@
+==== run startup screen ====
+In ~/.config/krusaderrc change
+<code>
+First Time=false
+</code>
+to
+<code>
+First Time=true
+</code>
+Next time when krusader runs, it will show the initial startup configuration screen.
+
