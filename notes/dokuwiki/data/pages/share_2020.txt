@@ -1,6 +1,8 @@
 ==== 2020-12 ====
+  * 2020-12-26
+    * https://blog.plover.com/law/pecos-river.html - Water wars between Texas and New Mexico
   * 2020-12-15
-    * [[https://math.ucr.edu/home/baez/ramanujan/ramanujan_whittier_web.pdf]] (ucr.edu)\\ Ramanujan's easiest formula.
+    * https://math.ucr.edu/home/baez/ramanujan/ramanujan_whittier_web.pdf - Ramanujan's easiest formula.
 
   * 2020-12-09
     * [[https://tutorial.math.lamar.edu/|Paul's online math notes]] (lamar.edu)\\ Useful resouce for math tutorials and notes.
