@@ -33,7 +33,16 @@
         "last_checked": "2020-12-28"
     },
     {
+        "project": "Beautiful Soup",
+        "project_website": "https://www.crummy.com/software/BeautifulSoup/",
+        "latest_version": "4.9.3",
+        "release_date": "2020-10-03",
+        "releases": "https://www.crummy.com/software/BeautifulSoup/bs4/download/",
+        "last_checked": "2020-12-29"
+    },
+    {
         "project": "",
+        "project_website": "",
         "latest_version": "",
         "release_date": "",
         "releases": "",
