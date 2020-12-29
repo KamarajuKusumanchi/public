@@ -17,11 +17,11 @@
     },
     {
         "project": "conda",
-        "latest_version": "4.9.1",
-        "release_date": "2020-10-26",
+        "latest_version": "4.9.2",
+        "release_date": "2020-11-20",
         "releases": "https://github.com/conda/conda/releases",
         "code_repo": "https://github.com/conda/conda",
-        "last_checked": "2020-10-29"
+        "last_checked": "2020-12-28"
     },
     {
         "project": "",
