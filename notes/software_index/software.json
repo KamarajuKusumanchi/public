@@ -24,12 +24,21 @@
         "last_checked": "2020-12-28"
     },
     {
+        "project": "python",
+        "latest_version": "3.9.1",
+        "release_date": "2020-12-07",
+        "releases": "https://www.python.org/downloads/",
+        "release_notes": "https://docs.python.org/release/3.9.1/whatsnew/changelog.html#changelog",
+        "code_repo": "",
+        "last_checked": "2020-12-28"
+    },
+    {
         "project": "",
         "latest_version": "",
         "release_date": "",
         "releases": "",
         "release_notes": "",
-        "code_repo": ",
+        "code_repo": "",
         "last_checked": ""
     }
 ]
