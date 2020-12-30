@@ -1,4 +1,6 @@
 ==== dummy ====
+  * [[iPhone notes]]
+  * [[black notes]]
   * [[krusader notes]]
   * [[google speaker notes]]
   * [[confluence notes]]
@@ -8,6 +10,7 @@
   * [[Morganville]]
   * [[Robertsville Elementary school]]
   * [[pandas dataframe]]
+  * [[pandas notes]]
   * [[ipython notes]]
   * [[python notes]]
   * [[numpy exercises]]

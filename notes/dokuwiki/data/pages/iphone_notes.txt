@@ -1,0 +1,12 @@
+==== hard drive sizes ====
+<code>
+2010	iPhone 4	 32 GB
+2012	iPhone 5	 64 GB
+2014	iPhone 6	128 GB
+2016	iPhone 7	256 GB
+2018	iPhone XS	512 GB
+2019	iPhone 11 Pro	512 GB
+2020	iPhone 12 Pro	512 GB
+</code>
+
+Ref:- https://lemire.me/blog/2020/12/22/in-2011-i-predicted-that-the-iphone-would-have-1tb-of-storage-in-2020/

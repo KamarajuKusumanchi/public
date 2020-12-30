@@ -1,6 +1,7 @@
 ==== aisle map ====
 Scope | old bridge Walmart
 
+  * Hot chocolate - aisle A8 - A9
   * Marshmallows - aisle A14 - A15
   * Smuckers strawberry jam - aisle A14 - A15
   * Baking soda; Arm & hammer - aisle A16 - A17
