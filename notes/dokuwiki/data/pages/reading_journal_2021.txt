@@ -1,0 +1,9 @@
+==== 2021-01 ====
+  * 2021-01-01
+    * http://www.paulgraham.com/growth.html - Startup = Growth
+
+==== Policy ====
+  * Most recent first.
+  * Each month in its own section.
+  * Each year in its own page.
+  * If an individual entry takes more than a line, add an extra line for readability.

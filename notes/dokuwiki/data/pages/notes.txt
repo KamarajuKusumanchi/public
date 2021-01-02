@@ -1,4 +1,5 @@
 ==== dummy ====
+  * [[chrome notes]]
   * [[iPhone notes]]
   * [[black notes]]
   * [[krusader notes]]

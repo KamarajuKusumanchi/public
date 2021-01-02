@@ -1,0 +1,24 @@
+To extract all urls in a web page, you can use [[https://github.com/KamarajuKusumanchi/rutils/blob/master/python3/get_urls.py|get_urls.py]] (github.com/KamarajuKusumanchi). Sample usage
+
+<code>
+$ get_urls.py https://news.ycombinator.com/item?id=25271676
+...
+https://github.com/dddrrreee/cs140e-20win/
+https://cs140e.sergio.bz/syllabus/
+https://tc.gts3.org/cs3210/2020/spring/lab.html
+https://github.com/dddrrreee/cs140e-20win/
+http://ggp.stanford.edu/
+...
+</code>
+
+The important snippet is
+<code>
+def get_urls(url):
+    response = requests.get(url)
+    soup = BeautifulSoup(response.text, 'html.parser')
+    urls = [
+        x.get('href')
+        for x in soup.find_all(name='a', attrs={'href': re.compile('^https*://')})
+    ]
+    return urls
+</code>

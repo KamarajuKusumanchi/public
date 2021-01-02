@@ -15,6 +15,9 @@
 ==== useful plugins ====
   * https://www.dokuwiki.org/plugin:nodisp
   * https://www.dokuwiki.org/plugin:wrap
+  * https://www.dokuwiki.org/plugin:qna
+  * https://www.dokuwiki.org/plugin:mathjax
+  * https://www.dokuwiki.org/plugin:move
 ==== documentation links I came across ====
   * https://www.dokuwiki.org/index
 
