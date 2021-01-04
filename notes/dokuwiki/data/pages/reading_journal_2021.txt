@@ -1,6 +1,7 @@
 ==== 2021-01 ====
   * 2021-01-01
     * http://www.paulgraham.com/growth.html - Startup = Growth
+    * [[https://chemistry.stackexchange.com/a/7917 | Why can we smell copper?]] (stackexchange.com)
 
 ==== Policy ====
   * Most recent first.

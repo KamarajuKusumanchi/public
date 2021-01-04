@@ -1,0 +1,8 @@
+=== mas.to configuration ===
+==== select the languages ====
+<code>
+In the top left hand corner -> click the "Edit profile" link.
+You can also go there by https://mas.to/settings/profile.
+-> Preferences -> Other -> Filter languages
+-> select English and తెలుగు
+</code>
