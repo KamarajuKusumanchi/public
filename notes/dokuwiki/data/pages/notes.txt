@@ -1,4 +1,5 @@
 ==== dummy ====
+  * [[conda notes]]
   * [[mastodon notes]]
   * [[chrome notes]]
   * [[iPhone notes]]

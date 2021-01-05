@@ -1,6 +1,6 @@
-==== GSP North ====
-  * When going away from Morganville, no tolls at least until exit 137.
-
 ==== GSP South ====
   * When coming to Morganville, the nearest exit is 123 but comes with one extra toll.
   * Alternatively, you can take exit 129 for US 9 toward NJ-440/I-287/Woodbridge/Perth Amboy -> Keep left at the fork, follow signs for US-9 S/NJ-440 S/I-287 N/Raritan Center and merge onto U.S. 9 S -> Take the exit toward US-9 S/Freehold/Atlantic City.
+
+==== GSP North ====
+  * When going away from Morganville, no tolls at least until exit 137.

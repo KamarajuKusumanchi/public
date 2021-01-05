@@ -1,3 +1,7 @@
+==== field names in jql query ====
+  * https://confluence.atlassian.com/jirasoftwareserver085/advanced-searching-fields-reference-981156848.html - contains the list of field names we can use while writing JQL queries in filters.
+  * https://confluence.atlassian.com/jirasoftwareserver085/advanced-searching-981156836.html#Advancedsearching-referenceReference -> Fields -> Reference
+
 ==== check and cross marks ====
   * (/) - check, done etc.,
   * (x) - cross, not done etc.,
