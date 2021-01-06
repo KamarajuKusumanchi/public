@@ -1,4 +1,5 @@
 ==== dummy ====
+  * [[pip notes]]
   * [[git notes]]
   * [[passport notes]]
   * [[localc notes]]
