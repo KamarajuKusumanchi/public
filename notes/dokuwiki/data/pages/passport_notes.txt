@@ -1,0 +1,10 @@
+=== notes ===
+==== VFS Global ====
+  * website: https://www.vfsglobal.com/india/usa
+  * track an application: https://services.vfsglobal.com/usa/en/ind/track-application
+
+==== 2020-11 ====
+  * 2020-11-15
+    * Use VFS Global instead of CKGS to renew Indian passport in the US. This became effective from 2020-11-04.\\ Ref:-
+      * https://thesouthasiantimes.info/vfs-global-replacing-ckgs-as-service-provider-for-visa-passport/
+      * https://www.indiainnewyork.gov.in/pressevent?id=ZjZxZ3FIWGJsQmFIQ05aa3VKekRlUT09

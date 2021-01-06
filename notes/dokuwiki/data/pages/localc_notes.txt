@@ -1,0 +1,2 @@
+==== links I came across ====
+  * ceil - https://wiki.openoffice.org/wiki/Documentation/How_Tos/Calc:_CEILING_function

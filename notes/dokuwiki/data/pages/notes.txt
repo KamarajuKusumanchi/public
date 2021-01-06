@@ -1,4 +1,6 @@
 ==== dummy ====
+  * [[passport notes]]
+  * [[localc notes]]
   * [[conda notes]]
   * [[mastodon notes]]
   * [[chrome notes]]

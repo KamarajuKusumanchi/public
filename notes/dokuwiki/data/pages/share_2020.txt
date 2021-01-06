@@ -16,9 +16,7 @@
   * 2020-11-15
     * https://acoup.blog/2020/09/18/collections-iron-how-did-they-make-it-part-i-mining - Insightful articles on iron and steel production in the olden days. It comes in many parts. Very long and detail oriented.
     * [[https://www.fda.gov/food/food-labeling-nutrition/changes-nutrition-facts-label | Changes to the Nutrition Facts Label - FDA (2016) ]] (fda.gov)
-    * Use VFS Global instead of CKGS to renew Indian passport in the US. This became effective from 2020-11-04.\\ Ref:-
-      * https://thesouthasiantimes.info/vfs-global-replacing-ckgs-as-service-provider-for-visa-passport/
-      * https://www.indiainnewyork.gov.in/pressevent?id=ZjZxZ3FIWGJsQmFIQ05aa3VKekRlUT09
+
 
   * 2020-11-09
     * https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2771095 - Effects of Time-Restricted Eating on Weight Loss and Other Metabolic Parameters\\ This randomized clinical trial analyzed the effects of time-restricted eating on weight loss. They did not find any statistically significant benefit compared to the control group. 116 adults participated. So it is not a very big study... but an important data point never the less.
