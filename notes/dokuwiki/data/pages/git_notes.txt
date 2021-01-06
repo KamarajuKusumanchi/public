@@ -1,3 +1,4 @@
+=== dummy ===
 ==== show which branch is linked to which remote branch ====
   * https://stackoverflow.com/questions/171550/find-out-which-remote-branch-a-local-branch-is-tracking
 
@@ -13,3 +14,15 @@ git show HEAD^:full/path/to/file/from/top/dir/of/the/repository
 </code>
 See also:
   * https://stackoverflow.com/questions/1395445/viewing-a-deleted-file-in-git - I got the answer from here. It also contains a few other alternate solutions.
+
+=== frequently used ===
+==== newly created repo ====
+<code>
+git config user.name "Kamaraju S. Kusumanchi"
+git config user.email "kamaraju@gmail.com"
+</code>
+
+==== push related ====
+<code>
+git pull --rebase --autostash -v origin
+</code>

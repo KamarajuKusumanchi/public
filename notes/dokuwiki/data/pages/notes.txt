@@ -1,4 +1,5 @@
 ==== dummy ====
+  * [[git notes]]
   * [[passport notes]]
   * [[localc notes]]
   * [[conda notes]]
@@ -28,7 +29,6 @@
   * [[mathjax notes]]
   * [[dmv notes]]
   * [[explorer++]]
-  * [[git notes]]
   * [[recipes]]
   * [[moving notes]]
   * [[debian notes]]
