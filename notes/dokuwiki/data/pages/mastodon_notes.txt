@@ -1,4 +1,15 @@
-=== mas.to configuration ===
+===== dummy =====
+==== links I came across ====
+  * https://mastodon.help/ - mastodon help
+  * https://changelog.complete.org/archives/10124-how-to-join-the-fediverse-and-cast-off-the-attention-economy - what motivated me to join mastodon in the first place
+  * https://docs.joinmastodon.org/ - documentation
+
+==== terminology ====
+
+^ mastodon ^ facebook ^
+| favorite | like |
+
+===== mas.to configuration =====
 ==== select the languages ====
 <code>
 In the top left hand corner -> click the "Edit profile" link.
@@ -6,9 +17,3 @@ You can also go there by https://mas.to/settings/profile.
 -> Preferences -> Other -> Filter languages
 -> select English and తెలుగు
 </code>
-
-=== dummy ===
-==== links I came across ====
-  * https://mastodon.help/ - mastodon help
-  * https://changelog.complete.org/archives/10124-how-to-join-the-fediverse-and-cast-off-the-attention-economy - what motivated me to join mastodon in the first place
-  * https://docs.joinmastodon.org/ - documentation

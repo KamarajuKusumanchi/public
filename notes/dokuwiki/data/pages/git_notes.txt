@@ -1,4 +1,4 @@
-=== dummy ===
+===== dummy =====
 ==== show which branch is linked to which remote branch ====
   * https://stackoverflow.com/questions/171550/find-out-which-remote-branch-a-local-branch-is-tracking
 
@@ -15,7 +15,12 @@ git show HEAD^:full/path/to/file/from/top/dir/of/the/repository
 See also:
   * https://stackoverflow.com/questions/1395445/viewing-a-deleted-file-in-git - I got the answer from here. It also contains a few other alternate solutions.
 
-=== frequently used ===
+===== git grep commands =====
+==== dokuwiki table syntax ====
+<code>
+git grep -i --all-match -e '\^.*\^' -e '|.*|'
+</code>
+===== frequently used =====
 ==== newly created repo ====
 <code>
 git config user.name "Kamaraju S. Kusumanchi"
