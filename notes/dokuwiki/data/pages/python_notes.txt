@@ -12,5 +12,9 @@ if os.stat(input_file).st_size == 0:
         pass
 </code>
 
+==== python tutorials ====
+  * Classes - https://docs.python.org/3/tutorial/classes.html
+  * https://docs.python.org/3/tutorial/index.html
+
 ==== python release cycle ====
-* https://python-release-cycle.glitch.me/ - useful to check when a Python version was released and when it would be EOL.
+  * https://python-release-cycle.glitch.me/ - useful to check when a Python version was released and when it would be EOL.

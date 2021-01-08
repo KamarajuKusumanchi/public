@@ -1,0 +1,4 @@
+==== preserve timestamps while copying ====
+<code>
+cp --preserve=timestamps
+</code>
