@@ -1,4 +1,12 @@
 === dummy ===
+==== create an environment on the fly ====
+Sample commands:
+<code>
+conda create -n <myenv> python ipython prompt_toolkit=2 jupyter pandas numpy scipy scikit-learn matplotlib
+
+conda create -n <myenv> python=3.9 pandas pandas-datareader
+</code>
+
 ==== documentation links ====
   * conda install - https://docs.conda.io/projects/conda/en/latest/commands/install.html
   * conda update - https://docs.conda.io/projects/conda/en/latest/commands/update.html

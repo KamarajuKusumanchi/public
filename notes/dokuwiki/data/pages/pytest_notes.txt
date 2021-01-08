@@ -1,3 +1,19 @@
+==== test a script that prints to stdout ====
+  * https://docs.pytest.org/en/stable/capture.html#accessing-captured-output-from-a-test-function
+  * https://stackoverflow.com/a/56300627/6305733 - contains a simple example; I first came across capsys here.
+  * https://github.com/KamarajuKusumanchi/rutils/blob/master/python3/tests/test_get_column_names.py - I used capsys for the first time here.
+
+snippet 1:
+<code>
+captured = capsys.readouterr()
+...
+assert captured.out == output_expected
+</code>
+
+snippet 2:
+<code>
+out, error = capsys.readouterr()
+</code>
 ==== run pytest on the current file from the current file ====
   * https://stackoverflow.com/questions/35353771/invoke-pytest-from-python-for-current-module-only - gives the solution
   * https://docs.pytest.org/en/stable/usage.html#calling-pytest-from-python-code

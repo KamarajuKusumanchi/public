@@ -62,3 +62,24 @@ Ref:- https://en.wikipedia.org/wiki/Apotex
 
 See also:
   * https://en.wikipedia.org/wiki/Playa_de_Gulpiyuri
+
+==== Undershirt size conversion chart ====
+Follow this size chart for better fit.
+Measure chest around fullest part of body.
+
+^ country ^ units ^ ^ ^ ^ ^ ^ ^
+| India | cm | 80 | 85 | 90 | 95 | 100 | 105 |
+| UK | | 42 | 44 | 48 | 52 | 56 | 60 |
+| USA | | XS | S | M | L | XL | XXL |
+| Germany | | 3 | 4 | 5 | 6 | 7 | 8 |
+| France | | 1 | 2 | 3 | 4 | 5 | 6 |
+| UAE |  | 32 | 34 | 36 | 38 | 40 | 42 |
+
+tags | vest
+
+Related:
+  * https://en.wikipedia.org/wiki/Undershirt
+
+==== American English vs British English ====
+^ American ^ British ^ ^
+| Undershirt | vest | [[https://en.wikipedia.org/wiki/Undershirt|Undershirt]] (wikipedia.org) |

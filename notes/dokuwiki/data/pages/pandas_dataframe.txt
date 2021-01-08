@@ -2,6 +2,19 @@
 ==== Add dates ====
   * [[Add dates]]
 
+==== clean up column names ====
+<code>
+# Strip out the white space from both ends of the column names
+df.columns = df.columns.str.strip()
+</code>
+
+<code>
+# Remove white space from both ends of the column names
+# -> convert them to lower case
+# -> replace space with an underscore
+# -> remove open and close parenthesis
+df.columns = df.columns.str.strip().str.lower().str.replace(' ', '_').str.replace('(', '').str.replace(')', '')
+</code>
 ==== round a single column ====
 How to round a single column in pandas without affecting other columns? For example, given
 <code>
