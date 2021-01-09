@@ -12,6 +12,16 @@ if os.stat(input_file).st_size == 0:
         pass
 </code>
 
+==== config files ====
+  * https://docs.python.org/3/library/configparser.html#configparser.ConfigParser.defaults - start from here to see the list of functions available
+  * use extension .cfg for config files.
+    * based on: https://docs.python.org/3/library/configparser.html -> search for .cfg
+    * another choice is .ini . But I prefer .cfg over .ini
+    * more info on INI: https://en.wikipedia.org/wiki/INI_file
+
+==== python reference ====
+  * operator precedence - https://docs.python.org/3/reference/expressions.html#operator-precedence
+
 ==== python tutorials ====
   * Classes - https://docs.python.org/3/tutorial/classes.html
   * https://docs.python.org/3/tutorial/index.html

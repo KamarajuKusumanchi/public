@@ -20,6 +20,17 @@ See also:
 <code>
 git grep -i --all-match -e '\^.*\^' -e '|.*|'
 </code>
+
+===== git commands usage =====
+==== git cherry-pick ====
+<code>
+git cherry-pick <Commit1> <Commit2> <...>
+</code>
+
+Ref:-
+  * https://stackoverflow.com/questions/9339429/what-does-cherry-picking-a-commit-with-git-mean
+  * https://learngitbranching.js.org/ -> Moving Work Around -> 1: Cherry-pick Intro
+
 ===== frequently used =====
 ==== newly created repo ====
 <code>
