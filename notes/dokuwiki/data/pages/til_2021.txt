@@ -1,4 +1,7 @@
 ==== 2021-01 ====
+  * 2021-01-10
+    * The author masked a pin on an old Mini PCIE WLAN card to get it working on a modern laptop.\\ https://gsid.in/using-old-mini-pcie-wlan-cards-in-modern-laptops/
+
   * 2021-01-08
     * Haven, the Amazon-Berkshire-JPMorgan venture to disrupt health care, is disbanding after 3 years - https://www.cnbc.com/2021/01/04/haven-the-amazon-berkshire-jpmorgan-venture-to-disrupt-healthcare-is-disbanding-after-3-years.html
 
