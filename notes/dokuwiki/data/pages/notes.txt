@@ -1,4 +1,4 @@
-==== dummy ====
+==== python ====
   * [[pandas dataframe]]
   * [[pandas notes]]
   * [[python notes]]
@@ -6,6 +6,9 @@
   * [[numpy exercises]]
   * [[pytest notes]]
   * [[pycharm notes]]
+
+==== dummy ====
+  * [[zim notes]]
   * [[cp usage]]
   * [[cooking]]
   * [[pip notes]]

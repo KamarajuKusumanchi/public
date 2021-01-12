@@ -1,0 +1,3 @@
+==== links I came across ====
+  * https://zim-wiki.org/manual/Help/Config_Files.html
+  * https://zim-wiki.org/manual/Help/Key_Bindings.html
