@@ -1,0 +1,43 @@
+==== level ====
+If a dataframe has multiple indices but you need to groupby on only of them, use level. So, level=0 groups it on the first index, level=1 on the second index, level=-1 on the last index etc.,
+
+tags | pandas groupby level=0
+
+<code>
+$ ipython
+Python 3.6.12 |Anaconda, Inc.| (default, Sep  9 2020, 00:29:25) [MSC v.1916 64 bit (AMD64)]
+Type 'copyright', 'credits' or 'license' for more information
+IPython 7.16.1 -- An enhanced Interactive Python. Type '?' for help.
+
+In [1]:
+import pandas as pd
+df = pd.DataFrame([{'year':2000,'team':'A','game':4,'goals':2},
+                   {'year':2000,'team':'B','game':5,'goals':4},
+                   {'year':2001,'team':'B','game':6,'goals':3}
+                   ]).set_index(['year', 'team'])
+df
+Out[1]:
+           game  goals
+year team
+2000 A        4      2
+     B        5      4
+2001 B        6      3
+
+In [2]:
+df.groupby(level=0).size()
+Out[2]:
+year
+2000    2
+2001    1
+dtype: int64
+
+In [3]:
+df.groupby(level=1).size()
+Out[3]:
+team
+A    1
+B    2
+dtype: int64
+</code>
+
+Ref: https://stackoverflow.com/questions/49859182/understanding-level-0-and-group-keys

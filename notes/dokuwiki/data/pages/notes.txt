@@ -1,5 +1,6 @@
 ==== python ====
   * [[pandas dataframe]]
+  * [[pandas groupby]]
   * [[pandas notes]]
   * [[python notes]]
   * [[ipython notes]]
