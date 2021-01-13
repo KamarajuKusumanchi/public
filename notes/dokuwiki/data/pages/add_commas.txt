@@ -1,0 +1,154 @@
+===== add commas =====
+
+search tags | f strings, thousands separator, format integers with commas
+==== input is a single number; without pandas ====
+| '{:,}'.format(value) | For Python ≥2.7 |
+| f'{value:,}' | For Python ≥3.6 |
+
+<code>
+In [1]:
+value = 12345
+</code>
+For python >= 2.7
+<code>
+In [2]:
+'{:,}'.format(value)
+Out[2]:
+'12,345'
+</code>
+For python >= 3.6
+<code>
+In [3]:
+f'{value:,}'
+Out[3]:
+'12,345'
+</code>
+
+Examples using a print statement
+<code>
+In [1]:
+a = 123456
+
+In [2]:
+print('The magic number is = {alpha:,}'.format(alpha=a))
+The magic number is = 123,456
+
+In [3]:
+print('The magic number is = {:,}'.format(a))
+The magic number is = 123,456
+
+In [4]:
+print('The magic number is = {:}'.format(a))
+The magic number is = 123456
+</code>
+
+Ref:-
+  * https://stackoverflow.com/questions/1823058/how-to-print-number-with-commas-as-thousands-separators
+  * https://mail.python.org/pipermail/python-list/2020-May/896878.html
+
+==== input is a dataframe ====
+Given a data frame such as
+<code>
+       X           Y
+0  12345  67891011.0
+1  54321         NaN
+2  67890   1234567.0
+</code>
+how can I get
+<code>
+        X             Y
+0  12,345  67,891,011.0
+1  54,321           nan
+2  67,890   1,234,567.0
+</code>
+Use .apply(np.vectorize(lambda x: f"{x:,}")) or .applymap(lambda x: f"{x:,}"). I prefer the .apply() approach as it can be applied on a single column or multiple columns or entire dataframe. The .applymap() works only on the entire dataframe but not on a series.
+
+In both cases, the original dataframe is unaltered.
+
+If a column is not "convertible" (ex:- a column with strings in it), an exception will be thrown.
+
+Example:
+
+Prepare the input
+<code>
+$ ipython
+Python 3.8.5 (default, Sep  3 2020, 21:29:08) [MSC v.1916 64 bit (AMD64)]
+Type 'copyright', 'credits' or 'license' for more information
+IPython 7.19.0 -- An enhanced Interactive Python. Type '?' for help.
+
+In [1]:
+import pandas as pd
+df = pd.DataFrame([{'X': 12345, 'Y': 67891011},
+                   {'X': 54321, 'Y': None},
+                   {'X': 67890, 'Y': 1234567}])
+df
+Out[1]:
+       X           Y
+0  12345  67891011.0
+1  54321         NaN
+2  67890   1234567.0
+</code>
+
+Use .apply() on a single column
+<code>
+In [2]:
+import numpy as np
+df['X'].apply(np.vectorize(lambda x: f"{x:,}"))
+Out[2]:
+0    12,345
+1    54,321
+2    67,890
+Name: X, dtype: object
+
+In [3]:
+df['Y'].apply(np.vectorize(lambda x: f"{x:,}"))
+Out[3]:
+0    67,891,011.0
+1             nan
+2     1,234,567.0
+Name: Y, dtype: object
+</code>
+
+Use .apply() on multiple columns
+<code>
+In [4]:
+df[['X', 'Y']].apply(np.vectorize(lambda x: f"{x:,}"))
+Out[4]:
+        X             Y
+0  12,345  67,891,011.0
+1  54,321           nan
+2  67,890   1,234,567.0
+</code>
+
+Use .apply() on the entire dataframe
+<code>
+In [5]:
+df.apply(np.vectorize(lambda x: f"{x:,}"))
+Out[5]:
+        X             Y
+0  12,345  67,891,011.0
+1  54,321           nan
+2  67,890   1,234,567.0
+</code>
+
+Use .applymap() on the entire dataframe
+<code>
+In [6]:
+df.applymap(lambda x: f"{x:,}")
+Out[6]:
+        X             Y
+0  12,345  67,891,011.0
+1  54,321           nan
+2  67,890   1,234,567.0
+</code>
+
+The original dataframe remains intact.
+<code>
+In [7]:
+df
+Out[7]:
+       X           Y
+0  12345  67891011.0
+1  54321         NaN
+2  67890   1234567.0
+</code>

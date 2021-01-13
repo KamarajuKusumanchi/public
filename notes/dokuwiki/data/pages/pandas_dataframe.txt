@@ -1,6 +1,8 @@
-===== dummy =====
-==== Add dates ====
+===== Tasks =====
   * [[Add dates]]
+  * [[Add commas]]
+
+===== dummy =====
 
 ==== clean up column names ====
 <code>
@@ -297,6 +299,12 @@ In [4]: print(df2)
      a    b
 0  648  175
 1  435  389
+</code>
+
+==== dollars two decimal places ====
+Use float_format="%.2f"
+<code>
+df.to_csv(file_path, float_format="%.2f")
 </code>
 
 ===== Sample usage =====

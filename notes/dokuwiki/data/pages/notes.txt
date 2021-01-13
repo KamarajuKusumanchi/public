@@ -9,6 +9,7 @@
   * [[pycharm notes]]
 
 ==== dummy ====
+  * [[task boiler]]
   * [[zim notes]]
   * [[cp usage]]
   * [[cooking]]

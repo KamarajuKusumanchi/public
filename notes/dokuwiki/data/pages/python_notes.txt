@@ -19,6 +19,9 @@ if os.stat(input_file).st_size == 0:
     * another choice is .ini . But I prefer .cfg over .ini
     * more info on INI: https://en.wikipedia.org/wiki/INI_file
 
+==== python mailing list ====
+  * archives -https://mail.python.org/pipermail/python-list/
+  * list info - https://mail.python.org/mailman/listinfo/python-list
 ==== python reference ====
   * operator precedence - https://docs.python.org/3/reference/expressions.html#operator-precedence
 

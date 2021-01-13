@@ -1,4 +1,4 @@
-=== Add dates ===
+===== Add dates =====
 
 ==== single start date; multiple offsets; with pandas ====
 prepare the input
