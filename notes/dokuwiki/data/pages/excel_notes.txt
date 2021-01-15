@@ -1,3 +1,9 @@
+==== concatenate with a delimiter ====
+This will combine B3, C3 and D3 with '_' as the delimiter.
+<code>
+=B3&"_"&C3&"_"&D3
+</code>
+
 ==== format dollars ====
 To put the dollar sign on the left and right justify the number, use the custom format
 <code>

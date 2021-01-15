@@ -7,21 +7,30 @@
   * [[numpy exercises]]
   * [[pytest notes]]
   * [[pycharm notes]]
+  * [[pip notes]]
+  * [[conda notes]]
+  * [[black notes]]
+
+==== CLI ====
+  * [[ssh notes]]
+  * [[cp usage]]
+  * [[git notes]]
+  * [[rsync notes]]
+  * [[pdftk notes]]
+  * [[tar usage]]
+
+==== apps ====
+  * [[zim notes]]
+  * [[chrome notes]]
 
 ==== dummy ====
+  * [[linux_notes]]
   * [[task boiler]]
-  * [[zim notes]]
-  * [[cp usage]]
   * [[cooking]]
-  * [[pip notes]]
-  * [[git notes]]
   * [[passport notes]]
   * [[localc notes]]
-  * [[conda notes]]
   * [[mastodon notes]]
-  * [[chrome notes]]
   * [[iPhone notes]]
-  * [[black notes]]
   * [[krusader notes]]
   * [[google speaker notes]]
   * [[confluence notes]]
@@ -30,7 +39,6 @@
   * [[magazines]]
   * [[Morganville]]
   * [[Robertsville Elementary school]]
-  * [[rsync notes]]
   * [[njng notes]]
   * [[math]]
   * [[write math formulas]]
@@ -49,7 +57,6 @@
   * [[products]]
   * [[services]]
   * [[bash notes]]
-  * [[linux_notes]]
   * [[DIY]]
   * [[2020 presidential election]]
   * [[about]]
@@ -70,8 +77,6 @@
   * [[documentation]]
   * [[haversine]]
   * [[finviz notes]]
-  * [[pdftk notes]]
-  * [[tar usage]]
 
 ==== have to sort ====
   * [[sort_001]]

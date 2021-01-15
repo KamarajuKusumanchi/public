@@ -1,0 +1,14 @@
+==== copying keys ====
+When setting up password less authentication via ssh, use ssh-copy-id to copy the public key to the remote machine.
+
+The command looks like
+<code>
+ssh-copy-id user@host
+</code>
+When you run it the first time, it will ask for password and then copies the key to the remote machine. It is very convenient!
+
+Ref:
+  * man page - https://linux.die.net/man/1/ssh-copy-id
+
+==== Useful links ====
+  * [[http://www.linuxproblem.org/art_9.html | ssh without password]]
