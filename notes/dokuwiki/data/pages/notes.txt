@@ -12,6 +12,7 @@
   * [[black notes]]
 
 ==== CLI ====
+  * [[ls usage]]
   * [[ssh notes]]
   * [[cp usage]]
   * [[git notes]]

@@ -1,0 +1,21 @@
+==== Show file date in different date formats ====
+tags | YYYY-MM-DD, YYYYMMDD, YYYYMMDD_HHMMSS
+
+Use one of
+<code>
+--time-style='+%Y%m%d_%H%M%S'
+--time-style='+%Y-%m-%d'
+--time-style='+%Y%m%d'
+</code>
+
+For example
+<code>
+% ls -l --time-style='+%Y%m%d_%H%M%S' ~/.vimrc
+-rwx------ 1 rajulocal rajulocal 1112 20201017_141554 /home/rajulocal/.vimrc*
+
+% ls -l --time-style='+%Y-%m-%d' ~/.vimrc
+-rwx------ 1 rajulocal rajulocal 1112 2020-10-17 /home/rajulocal/.vimrc*
+
+% ls -l --time-style='+%Y%m%d' ~/.vimrc 
+-rwx------ 1 rajulocal rajulocal 1112 20201017 /home/rajulocal/.vimrc*
+</code>

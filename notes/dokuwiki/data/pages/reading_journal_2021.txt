@@ -1,4 +1,7 @@
 ==== 2021-01 ====
+  * 2021-01-15
+    * [[https://nedbatchelder.com/text/names.html | Facts and myths about Python names and values]] (nedbatchelder.com)\\ Good explanation.
+
   * 2021-01-12
     * https://www.youtube.com/watch?v=yYAw79386WI - This video, made in 1937, explains how a car differential works in simple terms. It was made by Jam Handy.
     * <- https://www.roadandtrack.com/car-culture/classic-cars/a25833/1937-film-perfectly-explains-how-a-car-differential-works/
