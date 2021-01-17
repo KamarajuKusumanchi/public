@@ -1,0 +1,96 @@
+===== get first element of series if not empty =====
+
+tags | apply iloc[0] on a series only if it is not empty, pandas check for emptiness before applying iloc, check for emptiness before getting the first element, pandas iloc on empty series, pandas series return first value if not empty
+
+==== Task ====
+dataframe -> filter rows -> take one column -> get the first value
+
+==== Issue ====
+We can't use something like
+
+<code>
+df.loc[mask]['C'].iloc[0]
+</code>
+since iloc[0] will throw
+<code>
+IndexError: single positional indexer is out-of-bounds
+</code>
+exception if df.loc[mask] is empty.
+
+For example
+<code>
+% ipython
+Python 3.8.5 (default, Sep  4 2020, 07:30:14) 
+Type 'copyright', 'credits' or 'license' for more information
+IPython 7.18.1 -- An enhanced Interactive Python. Type '?' for help.
+
+In [1]: 
+import pandas as pd
+import numpy as np
+df = pd.DataFrame({'A': 'foo bar foo bar foo bar foo foo'.split(),
+                   'B': 'one one two three two two one three'.split(),
+                   'C': np.arange(8) + 1.5, 'D': np.arange(8) * 2})
+print(df)
+
+     A      B    C   D
+0  foo    one  1.5   0
+1  bar    one  2.5   2
+2  foo    two  3.5   4
+3  bar  three  4.5   6
+4  foo    two  5.5   8
+5  bar    two  6.5  10
+6  foo    one  7.5  12
+7  foo  three  8.5  14
+</code>
+
+<code>
+In [2]:
+mask = (df['A'] == 'foo') & (df['B'] == 'four')
+df.loc[mask]['C'].iloc[0]
+
+...
+IndexError: single positional indexer is out-of-bounds
+</code>
+
+==== Solution ====
+Use
+<code>
+next(iter(df.loc[mask]['C']), None)
+</code>
+or next(iter(series), default) in general.
+
+With the above example
+<code>
+In [3]: 
+next(iter(df.loc[mask]['C']), None)
+
+In [4]: 
+next(iter(df.loc[mask]['C']), None) is None
+Out[4]: 
+True
+</code>
+
+when df.loc[mask] is not empty, it works as expected.
+<code>
+In [5]: 
+mask2 = (df['A'] == 'foo') & (df['B'] == 'two')
+df.loc[mask2]['C']
+Out[5]: 
+2    3.5
+4    5.5
+Name: C, dtype: float64
+
+In [6]: 
+next(iter(df.loc[mask2]['C']), None)
+Out[6]: 
+3.5
+
+In [7]: 
+type(next(iter(df.loc[mask2]['C']), None))
+Out[7]: 
+float
+</code>
+
+==== related links ====
+  * https://stackoverflow.com/questions/363944/python-idiom-to-return-first-item-or-none
+  * https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.iloc.html

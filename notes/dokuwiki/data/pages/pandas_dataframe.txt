@@ -1,6 +1,7 @@
 ===== Tasks =====
   * [[Add dates]]
   * [[Add commas]]
+  * [[Get first element of series if not empty]]
 
 ===== dummy =====
 
