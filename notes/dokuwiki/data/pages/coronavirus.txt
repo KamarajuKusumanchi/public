@@ -1,4 +1,10 @@
-=== Pfizer and BioNTech vaccine ===
+===== Corona virus ====
+tags | china virus
+
+==== Useful links ====
+  * https://covid19.nj.gov/faqs/nj-information/slowing-the-spread/who-is-eligible-for-vaccination-in-new-jersey-who-is-included-in-the-vaccination-phases#direct-link - shows who is eligible for vaccination in New Jersey.
+
+===== Pfizer and BioNTech vaccine =====
 ==== How many doses of Pfizer vaccine can be made? ====
 50 million in 2020 and 2 billion by the end of 2021.
 
