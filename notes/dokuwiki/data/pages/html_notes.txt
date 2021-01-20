@@ -1,0 +1,22 @@
+==== tab ====
+<code>
+&nbsp;
+</code>
+Sample usage: view-source of https://jeffhuang.com/best_paper_awards/
+
+==== html forms ====
+
+To get input from a user in a html web page - use the "HTML forms".
+
+Tutorial:- http://www.w3schools.com/html/html_forms.asp
+
+
+
+==== html editors ====
+HTML WYSIWYG editors in Debian
+
+[[https://packages.debian.org/jessie/tinymce | tinymce]], [[https://packages.debian.org/search?keywords=ckeditor ckeditor]]
+
+reviews on html editors
+  * http://www.turnkeylinux.org/blog/tinymce-vs-ckeditor
+  * http://www.junauza.com/2008/09/5-best-html-editors-for-linux.html

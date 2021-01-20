@@ -1,0 +1,7 @@
+==== facebook stats ====
+  * Facebook has close to 2bn users, posting over 100bn things each day.
+  * The latest numbers can be obtained from https://investor.fb.com/financials/default.aspx -> choose the latest quarter -> Earnings Slides.
+    * The Q3 2020 pdf -> slide 2 shows
+      * The number of daily active users (DAUs) for the past 9 quarters.
+      * In each quarter, the numbers are broken down into four regions.
+      * For each quarter, it also shows the ratio of daily active users to monthly active users.

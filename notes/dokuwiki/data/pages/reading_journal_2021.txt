@@ -1,4 +1,7 @@
 ==== 2021-01 ====
+  * 2021-01-20
+    * [[https://www.bloomberg.com/opinion/articles/2020-12-30/how-texas-can-become-the-next-silicon-valley | How Texas Can Become the Next Silicon Valley]] (bloomberg.com)
+
   * 2021-01-18
     * [[https://philipkiely.com/assets/files/WfSD_Bonus_Interview_-_Donald_Knuth.pdf | Interview Transcript - Donald Knuth]] [pdf] (philipkiely.com)
 

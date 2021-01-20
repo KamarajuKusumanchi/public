@@ -25,6 +25,8 @@
   * [[chrome notes]]
 
 ==== dummy ====
+  * [[html notes]]
+  * [[facebook notes]]
   * [[linux_notes]]
   * [[task boiler]]
   * [[cooking]]

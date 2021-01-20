@@ -1,3 +1,17 @@
+===== Shell =====
 ==== what is the use of histappend? ====
 See
   * https://unix.stackexchange.com/questions/6501/why-would-anyone-not-set-histappend-in-bash
+
+===== code snippets =====
+==== check if a number is equal to another number ====
+tags | equality
+<code>
+    current_minute=`date +'%M'`
+    clean_up_minute=15
+    if [ "$current_minute" -eq "$clean_up_minute" ];
+    then
+        /* do something */
+    fi
+</code>
+===== Scripting =====
