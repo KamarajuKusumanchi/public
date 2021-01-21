@@ -22,7 +22,7 @@ set +eux
 # to use 'conda activate'.
 source "$(dirname $(which conda))/../etc/profile.d/conda.sh"
 
-conda activate $RISK_ORIGINATION_ENV_NAME
+conda activate $ENV_NAME
 set -eux
 </code>
 
@@ -38,7 +38,7 @@ See also: [[#source activate vs. conda activate]], [[#source activate]]
 # Until the issue is fixed, set +eu before calling "source activate"
 # and set -eu afterwards
 set +eux
-source activate $RISK_ORIGINATION_ENV_NAME
+source activate $ENV_NAME
 set -eux
 </code>
 
