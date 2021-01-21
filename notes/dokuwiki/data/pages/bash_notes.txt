@@ -4,7 +4,35 @@ See
   * https://unix.stackexchange.com/questions/6501/why-would-anyone-not-set-histappend-in-bash
 
 ===== code snippets =====
-==== check if a number is equal to another number ====
+==== check if an integer is in an interval ====
+<code>
+    current_minute=`date +'%M'`
+    clean_up_start_minute=40
+    clean_up_end_minute=50
+    if (( $current_minute >= $clean_up_start_minute )) &&
+       (( $current_minute < $clean_up_end_minute )) ;
+    then
+        /* do something */
+    fi
+</code>
+
+<code>
+$ (( 5 >= 15 )) && (( 5 < 30 ))  && echo 1 || echo 0
+0
+
+$ (( 15 >= 15 )) && (( 15 < 30 ))  && echo 1 || echo 0
+1
+
+$ (( 20 >= 15 )) && (( 20 < 30 ))  && echo 1 || echo 0
+1
+
+$ (( 30 >= 15 )) && (( 30 < 30 ))  && echo 1 || echo 0
+0
+
+$ (( 35 >= 15 )) && (( 35 < 30 ))  && echo 1 || echo 0
+0
+</code>
+==== check if an integer is equal to another integer ====
 tags | equality
 <code>
     current_minute=`date +'%M'`
@@ -13,5 +41,35 @@ tags | equality
     then
         /* do something */
     fi
+</code>
+
+It works for both positive and negative integers.
+<code>
+$ [ 15 -eq 2 ] && echo 1 || echo 0
+0
+
+$ [ 15 -eq 15 ] && echo 1 || echo 0
+1
+
+$ [ -15 -eq 15 ] && echo 1 || echo 0
+0
+
+$ [ -15 -eq -15 ] && echo 1 || echo 0
+1
+</code>
+
+But not for floating point numbers
+<code>
+$ [ 1.5 -eq 2 ] && echo 1 || echo 0
+bash: [: 1.5: integer expression expected
+0
+
+$ [ 15 -eq 2.0 ] && echo 1 || echo 0
+bash: [: 2.0: integer expression expected
+0
+
+$ [ 2.0 -eq 2.0 ] && echo 1 || echo 0
+bash: [: 2.0: integer expression expected
+0
 </code>
 ===== Scripting =====
