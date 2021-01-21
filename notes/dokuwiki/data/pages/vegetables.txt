@@ -1,3 +1,15 @@
+==== cabbage vs lettuce nutrition ====
+  * nutritional info:
+    * https://en.wikipedia.org/wiki/Lettuce#Nutritional_content
+    * https://en.wikipedia.org/wiki/Cabbage#Culinary_use
+
+==== lettuce ====
+For questions like "What are the different types of lettuces", "What is the most popular lettuce in US?", "What is the difference between Romaine lettuce vs. Iceberg lettuce", "Which is more nutritious - romaine or iceberg?" etc,
+  * https://web.extension.illinois.edu/veggies/lettuce.cfm
+  * <- [[https://en.wikipedia.org/wiki/Lettuce#Cultivars_(varieties)]] 
+
+
+
 ==== zucchini vs. courgette ====
   * Both refer to the same vegetable
   * Zucchini is used in American English speaking countries

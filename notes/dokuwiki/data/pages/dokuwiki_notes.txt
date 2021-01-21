@@ -1,4 +1,7 @@
 ==== Useful documentation ====
+  * https://www.dokuwiki.org/wiki:syntax#quoting - quote some text. You can have other stuff like bold text, monospaced text etc., within the quoted text
+  * https://www.dokuwiki.org/wiki:syntax#basic_text_formatting - format text as bold, italic, underlined and monospaced
+
   * https://www.dokuwiki.org/wiki:syntax#tables
   * https://www.dokuwiki.org/wiki:syntax#lists
   * https://www.dokuwiki.org/wiki:syntax#headline_level_3

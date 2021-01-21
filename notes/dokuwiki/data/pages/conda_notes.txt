@@ -1,4 +1,52 @@
-=== dummy ===
+===== activate conda environment =====
+tags | activate conda environment through shell script
+==== source activate vs. conda activate ====
+For conda >= 4.4.0, use "conda activate" instead of "source activate". The former is faster and the command remains same across OSes.
+
+From https://github.com/conda/conda/blob/master/CHANGELOG.md#440-2017-12-20 -> "New Feature Highlights" section
+
+> **conda activate**: The logic and mechanisms underlying environment activation have been reworked. With conda 4.4, ''conda activate'' and ''conda deactivate'' are now the preferred commands for activating and deactivating environments. You'll find they are much more snappy than the ''source activate'' and ''source deactivate'' commands from previous conda versions. The ''conda activate'' command also has advantages of (1) being universal across all OSes, shells, and platforms, and (2) not having path collisions with scripts from other packages like python virtualenv's activate script.
+
+See also: [[#conda activate]], [[#source activate]]
+==== conda activate ====
+<code>
+# As described in https://github.com/conda/conda/issues/8186
+# The conda activate command is failing with
+# conda.sh: line 55: PS1: unbound variable
+# Until the issue is fixed, set +eu before calling "source activate"
+# and set -eu afterwards
+set +eux
+
+# If the conda.sh is not sourced, then 'conda activate' is giving
+# CommandNotFoundError: Your shell has not been properly configured
+# to use 'conda activate'.
+source "$(dirname $(which conda))/../etc/profile.d/conda.sh"
+
+conda activate $RISK_ORIGINATION_ENV_NAME
+set -eux
+</code>
+
+tested with conda 4.8.3 on a machine running RHEL 7.6
+
+See also: [[#source activate vs. conda activate]], [[#source activate]]
+==== source activate ====
+
+<code>
+# As described in https://github.com/conda/conda/issues/8186
+# The conda activate command is failing with
+# conda.sh: line 55: PS1: unbound variable
+# Until the issue is fixed, set +eu before calling "source activate"
+# and set -eu afterwards
+set +eux
+source activate $RISK_ORIGINATION_ENV_NAME
+set -eux
+</code>
+
+tested with conda 4.8.3 on a machine running RHEL 7.6
+
+See also: [[#source activate vs. conda activate]], [[#conda activate]]
+===== dummy =====
+
 ==== create an environment on the fly ====
 Sample commands:
 <code>
