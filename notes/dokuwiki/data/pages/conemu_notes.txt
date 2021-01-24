@@ -1,0 +1,53 @@
+==== tasks ====
+tags | conemu star an ssh session, specify startup directory for ssh
+
+To start a git bash terminal
+<code>
+> -cur_console:d:C:\Users\raju "%ProgramFiles%\Git\git-cmd.exe" --no-cd --command=usr/bin/bash.exe -l -i
+</code>
+
+To start two git bash terminals in two directories
+<code>
+> -cur_console:d:C:\Users\raju\dir1 "%ProgramFiles%\Git\git-cmd.exe" --no-cd --command=usr/bin/bash.exe -l -i
+
+-cur_console:d:C:\Users\raju\dir2 "%ProgramFiles%\Git\git-cmd.exe" --no-cd --command=usr/bin/bash.exe -l -i
+</code>
+
+To start an ssh session
+<code>
+> -cur_console:d:C:\Users\raju "%ProgramFiles%\Git\git-cmd.exe" --no-cd --command=usr/bin/ssh.exe username@server
+</code>
+
+To start an ssh session and go to a directory
+<code>
+> -cur_console:d:C:\Users\raju "%ProgramFiles%\Git\git-cmd.exe" --no-cd --command=usr/bin/ssh.exe -t username@server "cd ~/dir1 && bash"
+</code>
+
+To name the tabs, add something like ''-cur_console:n:t:blah'', ''-cur_console:n:t:"blah blah"''. For example
+<code>
+> -cur_console:d:C:\Users\raju "%ProgramFiles%\Git\git-cmd.exe" --no-cd --command=usr/bin/ssh.exe -t username@server "cd ~/dir1 && bash" -cur_console:n:t:"Tab name"
+</code>
+
+See also:- https://github.com/tovletoglou/comenu-pane-templates -> search for "Task examples"
+
+==== run task from command line ====
+<code>
+/C/Program\ Files\ \(x86\)/GitHub/ConEmuPack/ConEmu.exe -run {taskname}
+</code>
+
+Ref:- https://conemu.github.io/en/ConEmuArgs.html
+
+==== grouping windows for alt tab ====
+tags | conemu alt tab, group tabs, club windows
+
+If there are N conemu windows with M tabs in each (on average), the following setting will let you cycle through N icons instead of N*M icons.
+
+<code>
+Settings -> General -> Task bar -> Taskbar buttons -> Active console only (ConEmu window)
+</code>
+
+Sample use case 1:- I usually open a separate conemu window per "task" and multiple tabs within each window for a "subtask".
+
+Sample use case 2:- Say we are working on two machines (ex:- dev and uat). We can open two conemu windows for each of them. On each machine we can have three tabs pointing to three different directories, for example source code, input, and output. With the default settings, clicking on the conemu icon in the taskbar or alt+tab will show 6 conemu icons. But with the above setting, we will only see 2 icons.
+
+See also:- https://github.com/cmderdev/cmder/issues/758

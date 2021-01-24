@@ -1,3 +1,10 @@
+==== change the encoding to utf-8 ====
+<code>
+:set fileencoding=utf8
+:w myfilename
+</code>
+Ref:- https://stackoverflow.com/questions/9310274/how-can-i-use-vim-to-convert-my-file-to-utf8
+
 ==== insert newline in search and replace ====
   :%s/29/\r29/gc
 will insert a new line before each occurrence of 29.

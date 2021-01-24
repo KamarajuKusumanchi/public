@@ -1,4 +1,10 @@
 ===== dummy =====
+==== view your mutes ====
+tags | see who you have muted
+
+<code>
+mastodon -> profile icon (top left) -> Import and export -> Data export -> You mute -> csv
+</code>
 ==== links I came across ====
   * https://mastodon.help/ - mastodon help
   * https://changelog.complete.org/archives/10124-how-to-join-the-fediverse-and-cast-off-the-attention-economy - what motivated me to join mastodon in the first place

@@ -4,8 +4,13 @@ tags | china virus
 ==== Useful links ====
   * https://covid19.nj.gov/faqs/nj-information/slowing-the-spread/who-is-eligible-for-vaccination-in-new-jersey-who-is-included-in-the-vaccination-phases#direct-link - shows who is eligible for vaccination in New Jersey.
 
-===== Pfizer and BioNTech vaccine =====
-==== How many doses of Pfizer vaccine can be made? ====
+===== vaccine =====
+==== How many doses of Moderna's vaccine will be made? ====
+600 million in 2021.
+
+Ref:- https://www.reuters.com/article/health-coronavirus-vaccines-moderna/update-1-moderna-raises-2021-vaccine-output-forecast-to-at-least-600-mln-doses-idUSL4N2JF30F dated 2021-01-04
+
+==== How many doses of Pfizer and BioNTech’s vaccine will be made? ====
 50 million in 2020 and 2 billion by the end of 2021.
 
 Ref:-

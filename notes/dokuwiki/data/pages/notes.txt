@@ -23,8 +23,10 @@
 ==== apps ====
   * [[zim notes]]
   * [[chrome notes]]
+  * [[conemu notes]]
 
 ==== dummy ====
+  * [[app groups]]
   * [[html notes]]
   * [[facebook notes]]
   * [[linux_notes]]

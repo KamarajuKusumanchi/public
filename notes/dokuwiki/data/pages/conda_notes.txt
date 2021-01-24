@@ -16,12 +16,10 @@ See also: [[#conda activate]], [[#source activate]]
 # Until the issue is fixed, set +eu before calling "source activate"
 # and set -eu afterwards
 set +eux
-
 # If the conda.sh is not sourced, then 'conda activate' is giving
 # CommandNotFoundError: Your shell has not been properly configured
 # to use 'conda activate'.
 source "$(dirname $(which conda))/../etc/profile.d/conda.sh"
-
 conda activate $ENV_NAME
 set -eux
 </code>
@@ -46,6 +44,27 @@ tested with conda 4.8.3 on a machine running RHEL 7.6
 
 See also: [[#source activate vs. conda activate]], [[#conda activate]]
 ===== dummy =====
+
+==== find the package version ====
+tags | check package version, list packages in environment, show the package version
+
+To find the version of a package installed
+<code>
+conda list -n env_name package_name
+</code>
+For example
+<code>
+$ conda list pandas -n py36
+# packages in environment at C:\ProgramData\Continuum\Anaconda\envs\py36:
+#
+# Name                    Version                   Build  Channel
+pandas                    0.23.3           py36h830ac7b_0
+pandas-datareader         0.5.0                    py36_0
+</code>
+
+You can also use this technique to check if a package is installed.
+
+Ref:- https://conda.io/docs/commands/conda-list.html
 
 ==== create an environment on the fly ====
 Sample commands:

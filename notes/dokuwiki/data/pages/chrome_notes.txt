@@ -1,2 +1,10 @@
+==== extensions I use ====
+  * autoscroll
+    * Install this extension to scroll using the middle mouse button in chrome on Debian.
+    * It supports two ways of scrolling:
+      - Press (or hold) the middle mouse button and then move the mouse
+      - Hold Ctrl and press the left mouse button
+    * https://chrome.google.com/webstore/detail/autoscroll/occjjkgifpmdgodlplnacmkejpdionan?hl=en
+
 ==== links I came across ====
   * https://support.google.com/chrome/answer/157179 - chrome keyboard shortcuts
