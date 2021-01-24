@@ -51,3 +51,35 @@ Sample use case 1:- I usually open a separate conemu window per "task" and multi
 Sample use case 2:- Say we are working on two machines (ex:- dev and uat). We can open two conemu windows for each of them. On each machine we can have three tabs pointing to three different directories, for example source code, input, and output. With the default settings, clicking on the conemu icon in the taskbar or alt+tab will show 6 conemu icons. But with the above setting, we will only see 2 icons.
 
 See also:- https://github.com/cmderdev/cmder/issues/758
+
+==== launch conemu windows ====
+<code>
+$ cat launch_windows.bat
+REM Sample script to launch different conemu task windows.
+REM You can either double click this file in file explorer or create a shortcut
+REM to it on desktop and double click there.
+
+REM start /B is like Linux's & (which backgrounds the jobs).
+REM If you do not use it, then {task2} will be started only after all the
+REM windows from {task1} are exited.
+start /B cmd.exe /c ""C:\Program Files (x86)\GitHub\ConEmuPack\ConEmu.exe" -run {task1}"
+start /B cmd.exe /c ""C:\Program Files (x86)\GitHub\ConEmuPack\ConEmu.exe" -run {task2}"
+start /B cmd.exe /c ""C:\Program Files (x86)\GitHub\ConEmuPack\ConEmu.exe" -run {task3}"
+
+cd /D "%~dp0"
+start /B cmd.exe /c ""C:\Program Files (x86)\GitHub\ConEmuPack\ConEmu.exe" -Title notes -run @%cd%\task_notes.txt"
+
+REM The launching shell remains open and has to be manually closed. Afterwards,
+REM see if there is a way to close it automatically.
+</code>
+
+where task1, task2, task3 are the conemu tasks specified on the “Tasks” page of “Settings” dialog.
+
+The task_notes.txt is a taskfile stored in the same directory as that of the batch script. It contains a list of tabs to be launched in a conemu window.
+<code>
+$ cat task_notes.txt
+> -cur_console:d:C:\Users\raju\ideas "%ProgramFiles%\Git\git-cmd.exe" --no-cd --command=usr/bin/bash.exe -l -i -cur_console:n:t:"ideas"
+> -cur_console:d:C:\Users\raju\thoughts "%ProgramFiles%\Git\git-cmd.exe" --no-cd --command=usr/bin/bash.exe -l -i -cur_console:n:t:"thoughts"
+</code>
+
+Ref:- https://conemu.github.io/en/ConEmuArgs.html - explains about the -run argument.

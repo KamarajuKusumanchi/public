@@ -1,8 +1,9 @@
 ===== Corona virus ====
 tags | china virus
 
-==== Useful links ====
+==== links I came across ====
   * https://covid19.nj.gov/faqs/nj-information/slowing-the-spread/who-is-eligible-for-vaccination-in-new-jersey-who-is-included-in-the-vaccination-phases#direct-link - shows who is eligible for vaccination in New Jersey.
+  * https://covid.cdc.gov/covid-data-tracker/#vaccinations - COVID-19 Vaccinations in the United States
 
 ===== vaccine =====
 ==== How many doses of Moderna's vaccine will be made? ====
