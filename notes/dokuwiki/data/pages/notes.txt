@@ -26,6 +26,7 @@
   * [[conemu notes]]
 
 ==== dummy ====
+  * [[Windows notes]]
   * [[app groups]]
   * [[html notes]]
   * [[facebook notes]]
@@ -75,7 +76,6 @@
   * [[Hanuman chalisa]]
   * [[websites]]
   * [[vegetables]]
-  * [[Windows notes]]
   * [[Robertsville PTO]]
   * [[Idioms]]
   * [[Walmart]]

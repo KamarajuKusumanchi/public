@@ -1,3 +1,13 @@
+===== dummy =====
+==== Linux to Windows ====
+tags | equivalent of foo in windows
+
+^ Linux ^ Windows ^ notes ^
+| cat | type | https://superuser.com/questions/434870/what-is-the-windows-equivalent-of-the-unix-command-cat |
+| rm | del | |
+| rm -rf "path" | rd /s /q "path" | https://stackoverflow.com/questions/97875/rm-rf-equivalent-for-windows |
+
+
 ==== software I am currently evaluating ====
   * https://explorerplusplus.com/
     * Advantages:
@@ -11,4 +21,12 @@
   -> View your active networks -> click the link after "Connections:"
   -> which will be something like Wi-Fi (SSID)
   -> Wireless Properties -> Security -> Network security key
-  -> Show characters -> enter the admin password 
+  -> Show characters -> enter the admin password
+
+===== batch script ====
+==== batch file calling another batch file ====
+<code>
+call foo.bat
+call bar.bat
+</code>
+Ref:- https://stackoverflow.com/questions/1103994/how-to-run-multiple-bat-files-within-a-bat-file
