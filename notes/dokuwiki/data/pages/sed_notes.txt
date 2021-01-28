@@ -1,3 +1,109 @@
+
+==== replace text between two lines with a file ====
+tags | line numbers, sed command to insert a file
+
+Replace lines between \$start and \$end in main.txt with contents of part.txt
+<code>
+sed -e "$start e cat part.txt" -e "$start,$end d" main.txt
+</code>
+
+Sample command:
+<code>
+sed -e "1 e cat part.txt" -e "1,2 d" main.txt
+</code>
+
+<code>
+$ cat main.txt
+a b c
+d e f
+g h i
+j k l
+
+$ cat part.txt
+x y z
+p q r
+s t u
+
+$ start=1; end=2; sed -e "$start e cat part.txt" -e "$start,$end d" main.txt
+x y z
+p q r
+s t u
+g h i
+j k l
+
+$ start=2; end=4; sed -e "$start e cat part.txt" -e "$start,$end d" main.txt
+a b c
+x y z
+p q r
+s t u
+
+$ start=2; end=3; sed -e "$start e cat part.txt" -e "$start,$end d" main.txt
+a b c
+x y z
+p q r
+s t u
+j k l
+
+$ start=2; end=2; sed -e "$start e cat part.txt" -e "$start,$end d" main.txt
+a b c
+x y z
+p q r
+s t u
+g h i
+j k l
+</code>
+
+==== insert file at the beginning of another file ====
+This will insert part.txt at the beginning of main.txt.
+
+<code>
+sed -e "1 e cat part.txt" main.txt
+</code>
+
+Example:
+<code>
+$ cat main.txt
+a b c
+d e f
+g h i
+j k l
+
+$ cat part.txt
+x y z
+p q r
+s t u
+
+$ sed -e "1 e cat part.txt" main.txt
+x y z
+p q r
+s t u
+a b c
+d e f
+g h i
+j k l
+</code>
+
+Found it in: https://unix.stackexchange.com/questions/337435/sed-insert-file-at-top-of-another
+
+==== backup with timestamp ====
+tags | sed create backup, YYYYMMDD_HHMMSS
+
+<code>
+sed "-i_asof_`date +%Y%m%d_%H%M%S`" -e 's/foo/bar/g' main.txt
+</code>
+will backup to something like main.txt_asof_20210128_151656
+
+<code>
+sed "-i.`date +%F`" -e 's/foo/bar/g' main.txt
+</code>
+will backup to something like main.txt.2021-01-28
+
+==== sed do not change line endings ====
+<code>
+sed -b
+</code>
+
+Ref:- https://stackoverflow.com/questions/4652652/preserve-line-endings
 ==== replace double quote with single quote ====
   sed "s/\"/'/g"
 Ref:- https://stackoverflow.com/questions/16154007/replace-all-double-quotes-with-single-quotes

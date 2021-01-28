@@ -4,3 +4,12 @@
 
 ==== stackoverflow answers I came across ====
   * prepend to a file - https://stackoverflow.com/questions/10587615/unix-command-to-prepend-text-to-a-file
+
+==== get file modified time in shell script ====
+<code>
+date +%Y%m%d_%H%M%S -r $input_file
+</code>
+
+Used it in | https://github.com/KamarajuKusumanchi/rutils/blob/master/python3/black_on_selected.sh
+
+Found it in | https://stackoverflow.com/questions/16391208/print-a-files-last-modified-date-in-bash

@@ -1,3 +1,41 @@
+==== configure pycharm to format code with black ====
+To run black on the entire file
+<code>
+File -> Settings
+-> Tools -> External Tools -> click on + sign
+-> Name: Black
+   Description: Black in pycharm configuration
+   Program: C:\ProgramData\Continuum\Anaconda\envs\[ENV_NAME]\Scripts\black.exe
+   Arguments: $FilePath$
+   Working directory: $ProjectFileDir$
+</code>
+
+To run black on selected text
+<code>
+File -> Settings
+-> Tools -> External Tools -> click on + sign
+-> Name: Black Selected
+   Description: run black on selected text
+   Program: "C:\Program Files\Git\bin\bash.exe"
+   Arguments: --login H:\work\myrepos\rutils\python3\black_on_selected.sh C:\ProgramData\Continuum\Anaconda\envs\ro_udw_env\Scripts\black.exe $FilePath$ $SelectionStartLine$ $SelectionEndLine$
+   Working directory: $ProjectFileDir$
+</code>
+
+Restart pycharm after adding the external tools.
+
+To format code
+<code>
+Select code of interest
+-> Tools -> External Tools -> Black Selected
+</code>
+
+
+See also :- 
+  * [[https://github.com/KamarajuKusumanchi/rutils/blob/master/python3/black_on_selected.sh | black_on_selected.sh]] (github.com/KamarajuKusumanchi) - simpler implementation; works with GNU sed. Tested it on Windows 10 + git bash + GNU sed 4.7.
+  * https://godatadriven.com/blog/partial-python-code-formatting-with-black-pycharm/ - well explained; His script is a bit complex and the sed commands are mac specific.
+  * https://www.jetbrains.com/help/pycharm/configuring-third-party-tools.html
+
+
 ==== useful links ====
   * https://black.now.sh/ - Black Playground; To try black online
   * code repo - https://github.com/psf/black
