@@ -1,4 +1,7 @@
 ==== 2021-01 ====
+  * 2021-01-27
+    * [[http://www.maynardkeynes.org/keynes-the-speculator.html | Keynes The Speculator]] (maynardkeynes.org)
+
   * 2021-01-20
     * [[https://www.bloomberg.com/opinion/articles/2020-12-30/how-texas-can-become-the-next-silicon-valley | How Texas Can Become the Next Silicon Valley]] (bloomberg.com)
 
