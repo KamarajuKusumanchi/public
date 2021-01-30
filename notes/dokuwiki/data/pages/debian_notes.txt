@@ -1,3 +1,6 @@
+==== bullseye release ====
+  * https://release.debian.org/bullseye/freeze_policy.html
+
 ==== status of debian testing ====
 Useful links:
   * https://bugs.debian.org/release-critical/other/testing.html - Shows the number of release critical bugs that are affecting testing
