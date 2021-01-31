@@ -1,30 +1,31 @@
-==== 2021-01 ====
-  * 2021-01-27
-    * [[http://www.maynardkeynes.org/keynes-the-speculator.html | Keynes The Speculator]] (maynardkeynes.org)
+===== 2021-01 =====
+==== 2021-01-27 ====
+  * [[http://www.maynardkeynes.org/keynes-the-speculator.html | Keynes The Speculator]] (maynardkeynes.org)
 
-  * 2021-01-20
-    * [[https://www.bloomberg.com/opinion/articles/2020-12-30/how-texas-can-become-the-next-silicon-valley | How Texas Can Become the Next Silicon Valley]] (bloomberg.com)
+==== 2021-01-20 ====
+  * [[https://www.bloomberg.com/opinion/articles/2020-12-30/how-texas-can-become-the-next-silicon-valley | How Texas Can Become the Next Silicon Valley]] (bloomberg.com)
 
-  * 2021-01-18
-    * [[https://philipkiely.com/assets/files/WfSD_Bonus_Interview_-_Donald_Knuth.pdf | Interview Transcript - Donald Knuth]] [pdf] (philipkiely.com)
+==== 2021-01-18 ====
+  * [[https://philipkiely.com/assets/files/WfSD_Bonus_Interview_-_Donald_Knuth.pdf | Interview Transcript - Donald Knuth]] [pdf] (philipkiely.com)
 
-  * 2021-01-17
-    * [[https://www.reuters.com/article/us-usa-drones-faa/u-s-to-allow-small-drones-to-fly-over-people-at-night-idUSKBN2921R8|U.S. to allow small drones to fly over people and at night]] (reuters.com)
-    * [[https://www.youtube.com/watch?v=fn3KWM1kuAw | Boston Dynamics: Do You Love Me?]] [video] (youtube.com)
+==== 2021-01-17 ====
+  * [[https://www.reuters.com/article/us-usa-drones-faa/u-s-to-allow-small-drones-to-fly-over-people-at-night-idUSKBN2921R8|U.S. to allow small drones to fly over people and at night]] (reuters.com)
+  * [[https://www.youtube.com/watch?v=fn3KWM1kuAw | Boston Dynamics: Do You Love Me?]] [video] (youtube.com)
 
-  * 2021-01-15
-    * [[https://nedbatchelder.com/text/names.html | Facts and myths about Python names and values]] (nedbatchelder.com)\\ Good explanation.
+==== 2021-01-15 ====
+  * [[https://nedbatchelder.com/text/names.html | Facts and myths about Python names and values]] (nedbatchelder.com)\\ Good explanation.
 
-  * 2021-01-12
-    * https://www.youtube.com/watch?v=yYAw79386WI - This video, made in 1937, explains how a car differential works in simple terms. It was made by Jam Handy.
-    * <- https://www.roadandtrack.com/car-culture/classic-cars/a25833/1937-film-perfectly-explains-how-a-car-differential-works/
+==== 2021-01-12 ====
+  * https://www.youtube.com/watch?v=yYAw79386WI - This video, made in 1937, explains how a car differential works in simple terms. It was made by Jam Handy.
+  * <- https://www.roadandtrack.com/car-culture/classic-cars/a25833/1937-film-perfectly-explains-how-a-car-differential-works/
 
-  * 2021-01-01
-    * http://www.paulgraham.com/growth.html - Startup = Growth
-    * [[https://chemistry.stackexchange.com/a/7917 | Why can we smell copper?]] (stackexchange.com)
+==== 2021-01-01 ====
+  * http://www.paulgraham.com/growth.html - Startup = Growth
+  * [[https://chemistry.stackexchange.com/a/7917 | Why can we smell copper?]] (stackexchange.com)
 
 ==== Policy ====
   * Most recent first.
-  * Each month in its own section.
   * Each year in its own page.
+  * Separate sections for each month.
+  * Separate sections for each date.
   * If an individual entry takes more than a line, add an extra line for readability.

@@ -1,5 +1,6 @@
 ==== bullseye release ====
   * https://release.debian.org/bullseye/freeze_policy.html
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=981424 - blocker to upgrade from buster to bullseye
 
 ==== status of debian testing ====
 Useful links:
