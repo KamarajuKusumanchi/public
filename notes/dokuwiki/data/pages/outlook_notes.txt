@@ -1,0 +1,11 @@
+==== outlook calendar not showing all times ====
+<code>
+File -> Options -> Calendar
+-> Work time -> Work Hours
+-> set 'Start time:' to 12:00 AM
+-> Set 'End time:' to 11:30 PM
+-> Select all days in 'Work Week:'
+-> OK
+</code>
+
+Found the answer in | <nowiki>https://answers.microsoft.com/en-us/msoffice/forum/msoffice_outlook-mso_other-mso_2016/outlook-calendar-view-how-limit-hours-shown/7c0524d8-3b03-4bc4-ac23-e21c872d9bbc</nowiki>

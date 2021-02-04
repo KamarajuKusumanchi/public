@@ -4,7 +4,63 @@
   * [[Get first element of series if not empty]]
 
 ===== dummy =====
+==== get unique values in a series as another series ====
+  * Series.unique() returns a numpy.ndarray
+  * Series.drop_duplicates() returns a Series
+    * Series.drop_duplicates(keep='first') retains the first occurrence of any duplicates, keep='last' retains the last occurrence, and keep=False retains NONE of the duplicates. keep='first' is the default.
 
+<code>
+In [1]:
+import pandas as pd
+df = pd.DataFrame({
+    'a': [1,2,3,3],
+    'b': ['foo', 'foo', 'bar', 'bar']})
+df
+Out[1]:
+   a    b
+0  1  foo
+1  2  foo
+2  3  bar
+3  3  bar
+
+In [2]:
+df['a'].unique()
+Out[2]:
+array([1, 2, 3], dtype=int64)
+
+In [3]:
+type(df['a'].unique())
+Out[3]:
+numpy.ndarray
+
+In [4]:
+df['a'].drop_duplicates()
+Out[4]:
+0    1
+1    2
+2    3
+Name: a, dtype: int64
+
+In [5]:
+type(df['a'].drop_duplicates())
+Out[5]:
+pandas.core.series.Series
+
+In [6]:
+df['a'].drop_duplicates(keep='last')
+Out[6]:
+0    1
+1    2
+3    3
+Name: a, dtype: int64
+
+In [7]:
+type(df['a'].drop_duplicates(keep='last'))
+Out[7]:
+pandas.core.series.Series
+</code>
+
+Ref:- https://github.com/pandas-dev/pandas/issues/1923#issuecomment-398217427
 ==== clean up column names ====
 <code>
 # Strip out the white space from both ends of the column names
@@ -327,3 +383,13 @@ df = df.astype({'col_a': np.int64,
 <code>
 df['col_a'] = df['col_a'].astype(np.int64)
 </code>
+
+===== stackoverflow questions I came across ====
+==== normalize data within each group ====
+  * https://stackoverflow.com/questions/46419180/pandas-normalize-within-the-group
+
+===== pandas documentation links I came across =====
+==== dummy ====
+^ url ^ function ^ notes ^
+| pandas.Series.str.split | https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.str.split.html |
+| pandas.Series.str.join | https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.str.join.html#pandas.Series.str.join |

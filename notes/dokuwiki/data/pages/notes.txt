@@ -1,5 +1,6 @@
 ==== python ====
   * [[pandas dataframe]]
+  * [[pandas series]]
   * [[pandas groupby]]
   * [[pandas notes]]
   * [[python notes]]
@@ -26,6 +27,8 @@
   * [[conemu notes]]
 
 ==== dummy ====
+  * [[outlook notes]]
+  * [[eb5 notes]]
   * [[Windows notes]]
   * [[app groups]]
   * [[html notes]]

@@ -1,0 +1,20 @@
+==== append element to series ====
+<code>
+In [1]:
+import pandas as pd
+s = pd.Series(dtype='int')
+N = 4
+for i in range(N):
+    s.at[i**2] = i
+print(s)
+0    0
+1    1
+4    2
+9    3
+dtype: int64
+
+In [2]:
+pd.__version__
+Out[2]:
+'1.2.1'
+</code>
