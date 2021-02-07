@@ -393,3 +393,7 @@ df['col_a'] = df['col_a'].astype(np.int64)
 ^ url ^ function ^ notes ^
 | pandas.Series.str.split | https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.str.split.html |
 | pandas.Series.str.join | https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.str.join.html#pandas.Series.str.join |
+
+==== user guide ====
+^ url ^ title ^ notes ^
+| https://pandas.pydata.org/pandas-docs/stable/user_guide/reshaping.html | Reshaping and pivot tables | tags: stacked or record format, denormalized to normalized data |

@@ -1,3 +1,78 @@
+==== preserve the highest value entries in each group ====
+tags | filter by value
+Given
+<code>
+    Sp  Mt Value  count
+0  MM1  S1     a      3
+1  MM1  S1     n      2
+2  MM1  S3    cb      5
+3  MM2  S3    mk      8
+4  MM2  S4    bg     10
+5  MM2  S4   dgd      1
+6  MM4  S2    rd      2
+7  MM4  S2    cb      7
+8  MM4  S2   uyi      7
+</code>
+get all the rows with highest 'count' for each ['Sp', 'Mt'] combination. That is we want
+<code>
+    Sp  Mt Value  count
+0  MM1  S1     a      3
+2  MM1  S3    cb      5
+3  MM2  S3    mk      8
+4  MM2  S4    bg     10
+7  MM4  S2    cb      7
+8  MM4  S2   uyi      7
+</code>
+
+Solution
+<code>
+In [1]:
+import pandas as pd
+df = pd.DataFrame({'Sp': ['MM1', 'MM1', 'MM1', 'MM2', 'MM2', 'MM2', 'MM4', 'MM4', 'MM4'],
+                   'Mt': ['S1', 'S1', 'S3', 'S3', 'S4', 'S4', 'S2', 'S2', 'S2'],
+                   'Value': ['a', 'n', 'cb', 'mk', 'bg', 'dgd', 'rd', 'cb', 'uyi'],
+                   'count': [3, 2, 5, 8, 10, 1, 2, 7, 7]})
+df
+Out[1]:
+    Sp  Mt Value  count
+0  MM1  S1     a      3
+1  MM1  S1     n      2
+2  MM1  S3    cb      5
+3  MM2  S3    mk      8
+4  MM2  S4    bg     10
+5  MM2  S4   dgd      1
+6  MM4  S2    rd      2
+7  MM4  S2    cb      7
+8  MM4  S2   uyi      7
+
+In [2]:
+df.groupby(['Sp', 'Mt'])['count'].transform(max)
+Out[2]:
+0     3
+1     3
+2     5
+3     8
+4    10
+5    10
+6     7
+7     7
+8     7
+Name: count, dtype: int64
+
+In [3]:
+idx = df.groupby(['Sp', 'Mt'])['count'].transform(max) == df['count']
+df[idx]
+Out[3]:
+    Sp  Mt Value  count
+0  MM1  S1     a      3
+2  MM1  S3    cb      5
+3  MM2  S3    mk      8
+4  MM2  S4    bg     10
+7  MM4  S2    cb      7
+8  MM4  S2   uyi      7
+</code>
+
+Ref:- https://stackoverflow.com/questions/15705630/get-the-rows-which-have-the-max-value-in-groups-using-groupby
 ==== level ====
 If a dataframe has multiple indices but you need to groupby on only of them, use level. So, level=0 groups it on the first index, level=1 on the second index, level=-1 on the last index etc.,
 
@@ -41,3 +116,85 @@ dtype: int64
 </code>
 
 Ref: https://stackoverflow.com/questions/49859182/understanding-level-0-and-group-keys
+
+==== extract groupby object by key ====
+  * groups.get_group(key_value) if grouping on a single column
+  * groups.get_group(key_value_tuple) if grouping on multiple columns.
+<code>
+In [1]:
+import pandas as pd
+df = pd.DataFrame({'a': ['foo', 'bar'] * 4 + ['foo'],
+                   'b': [1, 1, 1, 0, 0, 0, 0, 2, 2],
+                   'c': [1, 2, 3, 4, 5, 6, 7, 8, 9]})
+df
+Out[1]:
+     a  b  c
+0  foo  1  1
+1  bar  1  2
+2  foo  1  3
+3  bar  0  4
+4  foo  0  5
+5  bar  0  6
+6  foo  0  7
+7  bar  2  8
+8  foo  2  9
+
+In [2]:
+grp1 = df.groupby(['b'])
+
+In [3]:
+grp1.get_group(0)
+Out[3]:
+     a  b  c
+3  bar  0  4
+4  foo  0  5
+5  bar  0  6
+6  foo  0  7
+
+In [4]:
+grp1.get_group(1)
+Out[4]:
+     a  b  c
+0  foo  1  1
+1  bar  1  2
+2  foo  1  3
+
+In [5]:
+grp2 = df.groupby(['a'])
+
+In [6]:
+grp2.get_group('foo')
+Out[6]:
+     a  b  c
+0  foo  1  1
+2  foo  1  3
+4  foo  0  5
+6  foo  0  7
+8  foo  2  9
+
+In [7]:
+grp2.get_group('bar')
+Out[7]:
+     a  b  c
+1  bar  1  2
+3  bar  0  4
+5  bar  0  6
+7  bar  2  8
+
+In [8]:
+grp3 = df.groupby(['a', 'b'])
+
+In [9]:
+grp3.get_group(('foo',1))
+Out[9]:
+     a  b  c
+0  foo  1  1
+2  foo  1  3
+
+In [10]:
+grp3.get_group(('bar',0))
+Out[10]:
+     a  b  c
+3  bar  0  4
+5  bar  0  6
+</code>

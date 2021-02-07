@@ -11,6 +11,7 @@
   * [[pip notes]]
   * [[conda notes]]
   * [[black notes]]
+  * [[python cli]]
 
 ==== CLI ====
   * [[ls usage]]

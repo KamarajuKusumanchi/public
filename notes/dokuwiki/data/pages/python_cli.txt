@@ -1,0 +1,5 @@
+==== using python instead of tr ====
+<code>
+get_column_names.py $filename | grep -i coupon | \
+python -c "import sys; print(','.join(line.strip() for line in sys.stdin))"
+</code>
