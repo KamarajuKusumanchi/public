@@ -12,8 +12,6 @@
   * [[https://www.reuters.com/article/us-usa-drones-faa/u-s-to-allow-small-drones-to-fly-over-people-at-night-idUSKBN2921R8|U.S. to allow small drones to fly over people and at night]] (reuters.com)
   * [[https://www.youtube.com/watch?v=fn3KWM1kuAw | Boston Dynamics: Do You Love Me?]] [video] (youtube.com)
 
-==== 2021-01-15 ====
-  * [[https://nedbatchelder.com/text/names.html | Facts and myths about Python names and values]] (nedbatchelder.com)\\ Good explanation.
 
 ==== 2021-01-12 ====
   * https://www.youtube.com/watch?v=yYAw79386WI - This video, made in 1937, explains how a car differential works in simple terms. It was made by Jam Handy.

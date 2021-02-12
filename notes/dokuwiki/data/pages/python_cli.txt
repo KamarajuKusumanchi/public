@@ -3,3 +3,9 @@
 get_column_names.py $filename | grep -i coupon | \
 python -c "import sys; print(','.join(line.strip() for line in sys.stdin))"
 </code>
+
+==== sql string in clause ====
+<code>
+cat junk3.txt | \
+python -c "import sys; print('\'', '\', \''.join(line.strip() for line in sys.stdin), '\'', sep='')"
+</code>

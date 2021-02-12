@@ -208,6 +208,175 @@ In [3]: df['z'] = df['x'].map(mapping.set_index('daynum')['day'])
 
 See also: https://stackoverflow.com/questions/46049658/mapping-columns-from-one-dataframe-to-another-to-create-a-new-column - shows other possible solutions
 
+==== start column numbers from 1 ====
+By default, column numbers start from 0.
+<code>
+% ipython
+Python 3.8.3 (default, Jul  2 2020, 16:21:59)
+Type 'copyright', 'credits' or 'license' for more information
+IPython 7.16.1 -- An enhanced Interactive Python. Type '?' for help.
+
+In [1]: import pandas as pd
+   ...: import numpy as np
+   ...: n = np.ones(10).reshape(2,5)
+   ...: print(n)
+[[1. 1. 1. 1. 1.]
+ [1. 1. 1. 1. 1.]]
+
+In [2]: df = pd.DataFrame(n)
+   ...: print(df)
+     0    1    2    3    4
+0  1.0  1.0  1.0  1.0  1.0
+1  1.0  1.0  1.0  1.0  1.0
+</code>
+
+To change them to start from 1
+<code>
+In [3]: df.columns = range(1, df.shape[1]+1)
+   ...: print(df)
+     1    2    3    4    5
+0  1.0  1.0  1.0  1.0  1.0
+1  1.0  1.0  1.0  1.0  1.0
+</code>
+where df.shape[1] gives the number of columns in a dataframe.
+<code>
+In [4]: print(df.shape[1])
+5
+</code>
+
+==== read everything as string ====
+  pd.read_csv(file_path, dtype=str)
+Ref:- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html
+==== convert all columns in a dataframe to string ====
+  df.astype(str)
+
+Example:
+<code>
+In [1]: import pandas as pd
+   ...: df = pd.DataFrame({'a': [648, 435], 'b': [175, 389]})
+   ...: print(df)
+     a    b
+0  648  175
+1  435  389
+
+In [2]: df.dtypes
+Out[2]:
+a    int64
+b    int64
+dtype: object
+
+In [3]: df2 = df.astype(str)
+   ...: df2.dtypes
+Out[3]:
+a    object
+b    object
+dtype: object
+
+In [4]: print(df2)
+     a    b
+0  648  175
+1  435  389
+</code>
+
+==== dollars two decimal places ====
+Use float_format="%.2f"
+<code>
+df.to_csv(file_path, float_format="%.2f")
+</code>
+
+==== convert two columns of dataframe into a dictionary ====
+<code>
+df.set_index('id')['value'].to_dict()
+</code>
+
+Example
+<code>
+In [1]:
+import pandas as pd
+df = pd.DataFrame({'id': [0, 1, 2], 'value': [1.7, 5.2, 4.4]})
+df
+Out[1]:
+   id  value
+0   0    1.7
+1   1    5.2
+2   2    4.4
+
+In [2]:
+df.set_index('id')['value'].to_dict()
+Out[2]:
+{0: 1.7, 1: 5.2, 2: 4.4}
+</code>
+
+Ref:- https://stackoverflow.com/questions/18695605/python-pandas-dataframe-to-dictionary
+
+==== number of days between two YYYYMMDD string columns ====
+tags | number of days between two dates, convert YYYYMMDD to date
+
+<code>
+a_dt = pd.to_datetime(df['a'], format='%Y%m%d')
+b_dt = pd.to_datetime(df['b'], format='%Y%m%d')
+df['days'] = (a_dt - b_dt).dt.days
+</code>
+
+See also:
+  * https://docs.microsoft.com/en-us/sql/t-sql/functions/datediff-transact-sql?view=sql-server-ver15 - similar operation in sql. {tags | sql datediff dd}
+==== migrate sql case when else statements to build a new column ====
+Use np.select()
+
+Ref:- 
+  * https://stackoverflow.com/questions/49228596/pandas-case-when-default-in-pandas - contains an example and other possible approaches
+  * https://stackoverflow.com/a/57392776
+  * https://numpy.org/doc/stable/reference/generated/numpy.select.html
+  * https://www.w3schools.com/sql/sql_case.asp
+
+==== convert all categorical columns to string columns ====
+<code>
+df.loc[:, df.dtypes == "category"] = df.select_dtypes(
+    ["category"]
+    ).apply(lambda x: x.astype("object"))
+</code>
+
+Ref:- https://stackoverflow.com/a/56944992
+===== Missing values =====
+
+==== number of missing values in a dataframe ====
+  * df.isna().sum().sum() - total number of missing values in the entire dataframe.
+  * df.isna().sum() - number of missing values per column
+  * df.isna() - boolean dataframe with True if value is missing, false otherwise.
+<code>
+In [1]:
+import pandas as pd
+import numpy as np
+df = pd.DataFrame({'A': [3, None, 5, 7], 'B': [np.nan, 5, None, 4]})
+df
+Out[1]:
+     A    B
+0  3.0  NaN
+1  NaN  5.0
+2  5.0  NaN
+3  7.0  4.0
+
+In [2]:
+df.isna().sum().sum()
+Out[2]:
+3
+
+In [3]:
+df.isna().sum()
+Out[3]:
+A    1
+B    2
+dtype: int64
+
+In [4]:
+df.isna()
+Out[4]:
+       A      B
+0  False   True
+1   True  False
+2  False   True
+3  False  False
+</code>
 ==== fill missing values using a lookup table ====
 Q. Fill the NaNs in
 <code>
@@ -288,81 +457,7 @@ Out[4]:
 </code>
 
 Ref:- https://stackoverflow.com/questions/64438066/how-can-i-fillna-based-on-the-columns-from-another-dataframe/ - original question. Here, I changed the column names for brevity.
-==== start column numbers from 1 ====
-By default, column numbers start from 0.
-<code>
-% ipython
-Python 3.8.3 (default, Jul  2 2020, 16:21:59)
-Type 'copyright', 'credits' or 'license' for more information
-IPython 7.16.1 -- An enhanced Interactive Python. Type '?' for help.
 
-In [1]: import pandas as pd
-   ...: import numpy as np
-   ...: n = np.ones(10).reshape(2,5)
-   ...: print(n)
-[[1. 1. 1. 1. 1.]
- [1. 1. 1. 1. 1.]]
-
-In [2]: df = pd.DataFrame(n)
-   ...: print(df)
-     0    1    2    3    4
-0  1.0  1.0  1.0  1.0  1.0
-1  1.0  1.0  1.0  1.0  1.0
-</code>
-
-To change them to start from 1
-<code>
-In [3]: df.columns = range(1, df.shape[1]+1)
-   ...: print(df)
-     1    2    3    4    5
-0  1.0  1.0  1.0  1.0  1.0
-1  1.0  1.0  1.0  1.0  1.0
-</code>
-where df.shape[1] gives the number of columns in a dataframe.
-<code>
-In [4]: print(df.shape[1])
-5
-</code>
-
-==== read everything as string ====
-  pd.read_csv(file_path, dtype=str)
-Ref:- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html
-==== convert all columns in a dataframe to string ====
-  df.astype(str)
-
-Example:
-<code>
-In [1]: import pandas as pd
-   ...: df = pd.DataFrame({'a': [648, 435], 'b': [175, 389]})
-   ...: print(df)
-     a    b
-0  648  175
-1  435  389
-
-In [2]: df.dtypes
-Out[2]:
-a    int64
-b    int64
-dtype: object
-
-In [3]: df2 = df.astype(str)
-   ...: df2.dtypes
-Out[3]:
-a    object
-b    object
-dtype: object
-
-In [4]: print(df2)
-     a    b
-0  648  175
-1  435  389
-</code>
-
-==== dollars two decimal places ====
-Use float_format="%.2f"
-<code>
-df.to_csv(file_path, float_format="%.2f")
-</code>
 
 ===== Sample usage =====
 ==== read_csv usage ====
@@ -388,12 +483,38 @@ df['col_a'] = df['col_a'].astype(np.int64)
 ==== normalize data within each group ====
   * https://stackoverflow.com/questions/46419180/pandas-normalize-within-the-group
 
+===== pivot related =====
+==== pivot and sum ====
+call pivot_table() with aggfunc=np.sum
+
+Ref:-
+  * https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.pivot_table.html - contains examples
+  * https://pandas.pydata.org/pandas-docs/stable/user_guide/reshaping.html
+
+==== convert pivot table output to dataframe ====
+Sample code
+<code>
+table = df[cols_of_interest].pivot_table(values=['amount'], index=['foo', 'bar'],
+                                         columns=['class_name'], aggfunc=np.sum)
+table.columns = table.columns.droplevel(0)    # removes the values from level 0
+table.columns.name = None                     # removes the columns as the column name
+table = table.reset_index()                   # changes index to columns
+</code>
+
+Ref:-
+  * https://stackoverflow.com/questions/43756052/transform-pandas-pivot-table-to-regular-dataframe - where I found the answer
+  * https://pandas.pydata.org/pandas-docs/stable/user_guide/reshaping.html
 ===== pandas documentation links I came across =====
 ==== dummy ====
 ^ url ^ function ^ notes ^
 | pandas.Series.str.split | https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.str.split.html |
 | pandas.Series.str.join | https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.str.join.html#pandas.Series.str.join |
 
+^ url ^ function ^ notes ^
+| pandas.DataFrame.fillna | https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.fillna.html |
+| pandas.DataFrame.replace | https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.replace.html |
+| pandas.DataFrame.rename | https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.rename.html |
+| pandas.DataFrame.notna | https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.notna.html |
 ==== user guide ====
 ^ url ^ title ^ notes ^
 | https://pandas.pydata.org/pandas-docs/stable/user_guide/reshaping.html | Reshaping and pivot tables | tags: stacked or record format, denormalized to normalized data |

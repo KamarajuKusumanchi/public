@@ -1,6 +1,30 @@
 ==== tasks ====
   * [[get urls in a url]]
 
+==== where is a module imported from ====
+tags | module path
+
+one way:
+<code>
+import importlib
+importlib.util.find_spec("foo")
+</code>
+
+Alternative:
+<code>
+import imp
+imp.find_module("foo")
+</code>
+
+Note:
+  * The imp module is deprecated in favour of importlib. So use the first approach whenever possible.
+
+==== get the function name ====
+<code>
+my_function.__name__
+</code>
+Ref:- https://stackoverflow.com/questions/251464/how-to-get-a-function-name-as-a-string
+
 ==== empty file ====
 Task: If input file is empty, write an empty output file
 <code>
@@ -31,3 +55,6 @@ if os.stat(input_file).st_size == 0:
 
 ==== python release cycle ====
   * https://python-release-cycle.glitch.me/ - useful to check when a Python version was released and when it would be EOL.
+
+==== useful links ====
+  * [[https://nedbatchelder.com/text/names.html | Facts and myths about Python names and values]] (nedbatchelder.com) - well explained.

@@ -1,0 +1,6 @@
+==== useful links ====
+  * https://csvkit.readthedocs.io/en/1.0.5/scripts/csvcut.html
+  * https://csvkit.readthedocs.io/en/1.0.5/scripts/csvgrep.html
+
+==== notes ====
+  * To filter on rows, use csvgrep. csvcut is not the right tool for it.

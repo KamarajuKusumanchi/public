@@ -198,3 +198,49 @@ Out[10]:
 3  bar  0  4
 5  bar  0  6
 </code>
+
+==== apply a function on each group ====
+Note:- think of a better function for black_ops. The current function does not really demand a groupby. We can simply do those column operations on the top level dataframe
+
+<code>
+In [1]:
+import pandas as pd
+import numpy as np
+np.random.seed(42)
+df = pd.DataFrame({
+    'a': ['foo', 'foo', 'bar', 'bar', 'baz', 'baz', 'qux', 'qux'],
+    'b': np.random.randn(8),
+    'c': np.random.randn(8),
+    'd': np.random.rand(8)})
+df
+Out[1]:
+     a         b         c         d
+0  foo  0.496714 -0.469474  0.611853
+1  foo -0.138264  0.542560  0.139494
+2  bar  0.647689 -0.463418  0.292145
+3  bar  1.523030 -0.465730  0.366362
+4  baz -0.234153  0.241962  0.456070
+5  baz -0.234137 -1.913280  0.785176
+6  qux  1.579213 -1.724918  0.199674
+7  qux  0.767435 -0.562288  0.514234
+
+In [2]:
+def black_ops(df):
+    return df['b'] + df['c'] + df['d']
+
+
+In [3]:
+df.groupby('a').apply(black_ops).reset_index(name='blackops').drop('level_1', axis=1)
+Out[3]:
+     a    blackops
+0  bar  0.476415
+1  bar  1.423662
+2  baz  0.463879
+3  baz -1.362241
+4  foo  0.639093
+5  foo  0.543790
+6  qux  0.053969
+7  qux  0.719382
+</code>
+
+tags | reset_index remove level_1 column, apply function to multiple columns and rename result, groupby apply name the result, groupby apply remove level_1

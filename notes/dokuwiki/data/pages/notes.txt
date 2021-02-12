@@ -28,6 +28,7 @@
   * [[conemu notes]]
 
 ==== dummy ====
+  * [[csvcut notes]]
   * [[outlook notes]]
   * [[eb5 notes]]
   * [[Windows notes]]
@@ -86,6 +87,7 @@
   * [[documentation]]
   * [[haversine]]
   * [[finviz notes]]
+  * [[medical notes]]
 
 ==== have to sort ====
   * [[sort_001]]
