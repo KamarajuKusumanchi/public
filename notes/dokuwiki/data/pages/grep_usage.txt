@@ -1,0 +1,6 @@
+==== wordscapes ====
+<code>
+% grep -i "^[slev][slev][slev][slev]s$" /usr/share/dict/american-english 
+elves
+sells
+</code>

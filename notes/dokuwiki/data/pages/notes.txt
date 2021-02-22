@@ -27,6 +27,9 @@
   * [[chrome notes]]
   * [[conemu notes]]
 
+==== linux cli ====
+  * [[grep usage]]
+
 ==== dummy ====
   * [[csvcut notes]]
   * [[outlook notes]]
@@ -88,6 +91,7 @@
   * [[haversine]]
   * [[finviz notes]]
   * [[medical notes]]
+  * [[interesting images]]
 
 ==== have to sort ====
   * [[sort_001]]
