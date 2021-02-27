@@ -1,4 +1,9 @@
-===== 2021-01 =====
+===== 2021-02 =====
+==== 2021-02-25 ====
+  * https://en.wikipedia.org/wiki/Brandolini%27s_law - Brandolini's law, also known as the bullshit asymmetry principle, is an internet adage which emphasizes the difficulty of debunking false, facetious, or otherwise misleading information: "The amount of energy needed to refute bullshit is an order of magnitude larger than to produce it."
+
+
+
 ==== 2021-02-22 ====
   * Vitamin D is used to kill rodents: https://en.wikipedia.org/wiki/Vitamin_D_toxicity#Use_as_rodenticide
 
@@ -6,6 +11,8 @@
   * https://linux-hardware.org/ - a project to anonymously collect hardware details of Linux-powered computers over the world and help people to collaboratively debug hardware related issues, check for Linux-compatibility and find drivers.
 ==== 2021-02-19 ====
   * https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html - shows the solar system to scale. It gave me some perspective on how far apart the planets really are.
+
+===== 2021-01 =====
 ==== 2021-01-10 ====
   * The author masked a pin on an old Mini PCIE WLAN card to get it working on a modern laptop.\\ https://gsid.in/using-old-mini-pcie-wlan-cards-in-modern-laptops/
 

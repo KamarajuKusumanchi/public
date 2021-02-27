@@ -4,3 +4,21 @@
 elves
 sells
 </code>
+
+==== repeat previous character N times ====
+Use (character){N} and call grep with -E
+
+<code>
+ % grep -Ei "^[enrich]i([enrich]){2}e$" /usr/share/dict/american-english
+Circe
+niche
+niece
+</code>
+
+is equivalent to
+<code>
+ % grep -i "^[enrich]i[enrich][enrich]e$" /usr/share/dict/american-english
+Circe
+niche
+niece
+</code>

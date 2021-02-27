@@ -4,6 +4,7 @@
 
 ==== stackoverflow answers I came across ====
   * prepend to a file - https://stackoverflow.com/questions/10587615/unix-command-to-prepend-text-to-a-file
+  * remove leading and trailing spaces - https://unix.stackexchange.com/a/102021/198064
 
 ==== get file modified time in shell script ====
 <code>

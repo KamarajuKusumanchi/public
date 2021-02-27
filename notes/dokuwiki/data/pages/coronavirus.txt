@@ -1,11 +1,12 @@
 ===== Corona virus ====
 tags | china virus
 
-==== links I came across ====
-  * https://covid19.nj.gov/faqs/nj-information/slowing-the-spread/who-is-eligible-for-vaccination-in-new-jersey-who-is-included-in-the-vaccination-phases#direct-link - shows who is eligible for vaccination in New Jersey.
-  * https://covid.cdc.gov/covid-data-tracker/#vaccinations - COVID-19 Vaccinations in the United States
-
 ===== vaccine =====
+==== How many in the US are vaccinated? ====
+See https://covidvaxcount.live/ for an up-to-date number.
+
+  * As of 2021-02-23, 14% of the population (=46 mln) are vaccinated.
+  * As of 2021-02-26, 16% of the population (=52 mln) are vaccinated.
 ==== How many doses of Moderna's vaccine will be made? ====
 600 million in 2021.
 
@@ -20,3 +21,8 @@ Ref:-
 
 ==== Notes ====
   * This paper, {url: https://www.nejm.org/doi/full/10.1056/NEJMoa2034577, title: 'Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine', journal: 'The New England Journal of Medicine'}, contains all the details regarding Pfizer BioNTech vaccine trials like how many people participated in the clinical trials, how effective it is, how safe it is, what are the side effects reported etc., \\ It was referenced in https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-celebrate-historic-first-authorization -> 6th paragraph.
+
+===== dummy =====
+==== links I came across ====
+  * https://covid19.nj.gov/faqs/nj-information/slowing-the-spread/who-is-eligible-for-vaccination-in-new-jersey-who-is-included-in-the-vaccination-phases#direct-link - shows who is eligible for vaccination in New Jersey.
+  * https://covid.cdc.gov/covid-data-tracker/#vaccinations - COVID-19 Vaccinations in the United States

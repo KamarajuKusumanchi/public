@@ -46,6 +46,7 @@ Mon-Fri 8 am - 4:30 pm, Sat 8 am - 3 pm
   * Marlboro water - 732-591-1757
 
 ==== Marlboro township ====
+  * https://www.marlboro-nj.gov/online-pothole-reporting - to report potholes
   * https://www.marlboro-nj.gov/storm-updates - storm updates
   * https://marlboro-nj.gov/public-utilities - contains phone numbers of utility companies.
   * https://marlboro-nj.gov/images/notices/2020/COVID-Testing-Sites-Poster.pdf - It has locations and timings during which you can get tested for Covid 19 for free. No appointment necessary and you do not have to be symptomatic. It is only for Monmouth county residents.\\ I got this link from https://www.marlboro-nj.gov/weekend-update-october-30
@@ -53,12 +54,26 @@ Mon-Fri 8 am - 4:30 pm, Sat 8 am - 3 pm
   * https://www.marlboro-nj.gov/images/notices/2019/deeranimalcontrol.pdf - Animal control and deer removal FAQ
   * https://www.marlboropd.org/animalcontrol - relevant for questions such as "I see a fox in my backyard. How do I get rid of it?"
 
+==== recycling calendar ====
+  * 2021 - https://marlboro-nj.gov/images/public-works/2021/2021-Recycling-Calendar.pdf
+
+==== recycling center ====
+  * Hours:
+    * Mon, Wed - 8 am - 1:30 pm
+    * Sat - 8 am - 4 pm
+    * Ref:- https://marlboro-nj.gov/images/public-works/2021/2021-Recycling-Calendar.pdf#page=10
+  * Address:
+    * 1979 Township Drive, off Wyncrest Road in Marlboro
+  * Phone: 732-536-9295
+
 ==== Emergencies ====
   * Water leak
     * turn off water main shutoff
     * notify neighbors
     * contact a plumber to repair
     * call Marlboro water at 732-591-1757 and ask them to turn off the water
-  * Surviving the snow - https://www.marlboro-nj.gov/images/public-works/2020-Recycling-Calendar.pdf#page=14
+  * Surviving the snow
+    * 2021 - https://marlboro-nj.gov/images/public-works/2021/2021-Recycling-Calendar.pdf#page=14
+    * 2020 - https://www.marlboro-nj.gov/images/public-works/2020-Recycling-Calendar.pdf#page=14
   * Power outages
     * To report power outages, call JCP&L 1-888-lightss (1-888-544-4877)

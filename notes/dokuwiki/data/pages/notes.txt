@@ -13,7 +13,9 @@
   * [[black notes]]
   * [[python cli]]
 
-==== CLI ====
+==== linux cli ====
+  * [[grep usage]]
+  * [[linux_notes]]
   * [[ls usage]]
   * [[ssh notes]]
   * [[cp usage]]
@@ -27,8 +29,6 @@
   * [[chrome notes]]
   * [[conemu notes]]
 
-==== linux cli ====
-  * [[grep usage]]
 
 ==== dummy ====
   * [[csvcut notes]]
@@ -38,7 +38,6 @@
   * [[app groups]]
   * [[html notes]]
   * [[facebook notes]]
-  * [[linux_notes]]
   * [[task boiler]]
   * [[cooking]]
   * [[passport notes]]
@@ -92,6 +91,7 @@
   * [[finviz notes]]
   * [[medical notes]]
   * [[interesting images]]
+  * [[DAELC]]
 
 ==== have to sort ====
   * [[sort_001]]
