@@ -1,4 +1,7 @@
 ===== dummy =====
+==== stackoverflow answers I came across ====
+  * ignore all directories with a specific name - https://stackoverflow.com/questions/1470572/ignoring-any-bin-directory-on-a-git-project
+
 ==== show which branch is linked to which remote branch ====
   * https://stackoverflow.com/questions/171550/find-out-which-remote-branch-a-local-branch-is-tracking
 

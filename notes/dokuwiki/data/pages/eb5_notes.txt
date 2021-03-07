@@ -3,10 +3,17 @@
 
 ==== data points of I-526 processing times ====
 From https://egov.uscis.gov/processing-times/
-* Asof 2021-02-02
 
+  * Asof 2021-02-02
 <code>
 Estimated time range            Form type                                                                                       Receipt date for a case inquiry
 51.5 Months to 75.5 Months	China - mainland born - For use by an investor who wishes to immigrate to the United States	October 30, 2014
 28.5 Months to 44 Months	All other areas - For use by an investor who wishes to immigrate to the United States	        June 07, 2017
+</code>
+
+  * Asof 2021-03-01
+<code>
+Estimated time range            Form type                                                                                       Receipt date for a case inquiry
+58.5 Months to 78 Months	China - mainland born - For use by an investor who wishes to immigrate to the United States	September 13, 2014
+31 Months to 48 Months		All other areas - For use by an investor who wishes to immigrate to the United States		March 14, 2017
 </code>

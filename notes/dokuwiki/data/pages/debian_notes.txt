@@ -1,3 +1,30 @@
+==== apt-cache search with tags ====
+Use axi-cache instead of apt-cache
+<code>
+axi-cache search term tag
+</code>
+For example
+<code>
+ % axi-cache search scanner suite::kde
+2 results found.
+Results 1-2:
+100% skanlite - image scanner based on the KSane backend
+68% skanlite:i386 - image scanner based on the KSane backend
+More terms: ksane skanlite backend image based attached scanning
+More tags: hardware::scanner works-with-format::png works-with-format::jpg use::scanning works-with::image:raster works-with::image scope::application
+</code>
+
+If we are using apt-cache, it would not be possible to "discover" skanlite unless we know the right set of keywords. For example, searching for 'scanner' and 'kde' would not have told us about skanlite package.
+<code>
+ % apt-cache search scanner kde
+clamtk - graphical front-end for ClamAV
+libkf5sane-data - scanner library (data files)
+libkf5sane-dev - scanner library development headers
+libkf5sane5 - scanner library (runtime)
+</code>
+
+Ref:- https://debian-handbook.info/browse/stable/sect.apt-cache.html
+
 ==== bullseye release ====
   * https://release.debian.org/bullseye/freeze_policy.html
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=981424 - blocker to upgrade from buster to bullseye

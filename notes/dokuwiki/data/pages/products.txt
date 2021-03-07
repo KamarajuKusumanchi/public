@@ -1,3 +1,20 @@
+==== printer ====
+  * Color LaserJet Pro MFP M283cdw
+  * Bought from Costco in 2021-03; $400 + tax
+
+  * compatible toners:
+    * /* Have not tried them yet. But keeping them handy for future. */
+    * [[https://www.costco.com/hp-206a-toner-cartridge%2c-yellow.product.100696622.html | HP 206A Toner Cartridge, Yellow]] (costco.com)
+    * [[https://www.costco.com/hp-206a-black-toner-cartridge.product.100696627.html | HP 206A Black Toner Cartridge]] (costco.com)
+    * [[https://www.costco.com/hp-206a-magenta-toner-cartridge.product.100696600.html | HP 206A Magenta Toner Cartridge]] (costco.com)
+
+==== vacuum cleaner ====
+  * Eureka Mighty Mite 3670G Corded Canister Vacuum Cleaner
+  * https://www.amazon.com/gp/product/B00002N8CX/
+  * Works well and happy with it.
+  * Owner's manual: https://images10.newegg.com/UploadFilesForNewegg/itemintelligence/Eureka/eu3670ownerGuide1453015356552.pdf
+  * If I have to buy again, I will get the latest model and one that has a hepa filter.
+
 ==== unicorn backdrop ====
   * https://smile.amazon.com/Mocsicka-Watercolor-Photography-Background-Decoration/dp/B08H232JRX/
   * Good quality. Everything as described.
@@ -35,6 +52,8 @@
   * https://smile.amazon.com/NewDenBer-Classical-Comfortable-Flip-Flop-Pinkorange/dp/B07VMQX4NQ/?th=1&psc=1
   * smooth sole; good for indoors
   * arch support is not good
+  * gets smelly  after continuously using for couple of days.
+  * have to wash every couple of days to get rid of the stinky smell.
   * will not buy again
 
 ==== hand blender ====

@@ -67,8 +67,6 @@
   * [[elizabeth]]
   * [[word groups]]
   * [[excel notes]]
-  * [[products]]
-  * [[services]]
   * [[bash notes]]
   * [[DIY]]
   * [[2020 presidential election]]
@@ -92,6 +90,10 @@
   * [[medical notes]]
   * [[interesting images]]
   * [[DAELC]]
+
+==== dummy ====
+  * [[products]]
+  * [[services]]
 
 ==== have to sort ====
   * [[sort_001]]
