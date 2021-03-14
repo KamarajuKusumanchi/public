@@ -1,0 +1,75 @@
+==== compatible toners ====
+/* Have not tried them yet. But keeping them handy for future. */
+  * [[https://www.costco.com/hp-206a-toner-cartridge%2c-yellow.product.100696622.html | HP 206A Toner Cartridge, Yellow]] (costco.com)
+  * [[https://www.costco.com/hp-206a-black-toner-cartridge.product.100696627.html | HP 206A Black Toner Cartridge]] (costco.com)
+  * [[https://www.costco.com/hp-206a-magenta-toner-cartridge.product.100696600.html | HP 206A Magenta Toner Cartridge]] (costco.com)
+
+==== effect of resolution ====
+  * Item: Indian passport
+  * Output: 19 scanned pages, each scanned page consists of 2 pages in the passport.
+
+<code>
+% du -b passport_dpi_*pdf    
+6675192    passport_dpi_300.pdf
+37585496   passport_dpi_600.pdf
+</code>
+
+<code>
+% python
+>>> 37585496 / 6675192
+5.6306239580824045
+>>> import math
+>>> math.sqrt(37585496 / 6675192)
+2.372893583387676
+</code>
+
+<code>
+% pdfimages -list passport_dpi_300.pdf
+page   num  type   width height color comp bpc  enc interp  object ID x-ppi y-ppi size ratio
+--------------------------------------------------------------------------------------------
+   1     0 image    2550  3300  rgb     3   8  jpeg   no         6  0   300   300  401K 1.6%
+   2     1 image    2550  3300  rgb     3   8  jpeg   no        11  0   300   300  438K 1.8%
+   3     2 image    2550  3300  rgb     3   8  jpeg   no        16  0   300   300  316K 1.3%
+   4     3 image    2550  3300  rgb     3   8  jpeg   no        21  0   300   300  325K 1.3%
+   5     4 image    2550  3300  rgb     3   8  jpeg   no        26  0   300   300  320K 1.3%
+   6     5 image    2550  3300  rgb     3   8  jpeg   no        31  0   300   300  323K 1.3%
+   7     6 image    2550  3300  rgb     3   8  jpeg   no        36  0   300   300  317K 1.3%
+   8     7 image    2550  3300  rgb     3   8  jpeg   no        41  0   300   300  331K 1.3%
+   9     8 image    2550  3300  rgb     3   8  jpeg   no        46  0   300   300  308K 1.3%
+  10     9 image    2550  3300  rgb     3   8  jpeg   no        51  0   300   300  330K 1.3%
+  11    10 image    2550  3300  rgb     3   8  jpeg   no        56  0   300   300  306K 1.2%
+  12    11 image    2550  3300  rgb     3   8  jpeg   no        61  0   300   300  341K 1.4%
+  13    12 image    2550  3300  rgb     3   8  jpeg   no        66  0   300   300  305K 1.2%
+  14    13 image    2550  3300  rgb     3   8  jpeg   no        71  0   300   300  334K 1.4%
+  15    14 image    2550  3300  rgb     3   8  jpeg   no        76  0   300   300  314K 1.3%
+  16    15 image    2550  3300  rgb     3   8  jpeg   no        81  0   300   300  325K 1.3%
+  17    16 image    2550  3300  rgb     3   8  jpeg   no        86  0   300   300  307K 1.2%
+  18    17 image    2550  3300  rgb     3   8  jpeg   no        91  0   300   300  414K 1.7%
+  19    18 image    2550  3300  rgb     3   8  jpeg   no        96  0   300   300  450K 1.8%
+
+% pdfimages -list passport_dpi_600.pdf                            
+page   num  type   width height color comp bpc  enc interp  object ID x-ppi y-ppi size ratio
+--------------------------------------------------------------------------------------------
+   1     0 image    5100  6600  rgb     3   8  jpeg   no         6  0   600   600 1880K 1.9%
+   2     1 image    5100  6600  rgb     3   8  jpeg   no        11  0   600   600 2045K 2.1%
+   3     2 image    5100  6600  rgb     3   8  jpeg   no        16  0   600   600 1897K 1.9%
+   4     3 image    5100  6600  rgb     3   8  jpeg   no        21  0   600   600 2016K 2.0%
+   5     4 image    5100  6600  rgb     3   8  jpeg   no        26  0   600   600 1903K 1.9%
+   6     5 image    5100  6600  rgb     3   8  jpeg   no        31  0   600   600 1991K 2.0%
+   7     6 image    5100  6600  rgb     3   8  jpeg   no        36  0   600   600 1793K 1.8%
+   8     7 image    5100  6600  rgb     3   8  jpeg   no        41  0   600   600 2030K 2.1%
+   9     8 image    5100  6600  rgb     3   8  jpeg   no        46  0   600   600 1805K 1.8%
+  10     9 image    5100  6600  rgb     3   8  jpeg   no        51  0   600   600 2032K 2.1%
+  11    10 image    5100  6600  rgb     3   8  jpeg   no        56  0   600   600 1783K 1.8%
+  12    11 image    5100  6600  rgb     3   8  jpeg   no        61  0   600   600 2053K 2.1%
+  13    12 image    5100  6600  rgb     3   8  jpeg   no        66  0   600   600 1781K 1.8%
+  14    13 image    5100  6600  rgb     3   8  jpeg   no        71  0   600   600 2035K 2.1%
+  15    14 image    5100  6600  rgb     3   8  jpeg   no        76  0   600   600 1876K 1.9%
+  16    15 image    5100  6600  rgb     3   8  jpeg   no        81  0   600   600 2011K 2.0%
+  17    16 image    5100  6600  rgb     3   8  jpeg   no        86  0   600   600 1842K 1.9%
+  18    17 image    5100  6600  rgb     3   8  jpeg   no        91  0   600   600 1973K 2.0%
+  19    18 image    5100  6600  rgb     3   8  jpeg   no        96  0   600   600 1948K 2.0%
+</code>
+
+==== hplip ====
+  * https://developers.hp.com/hp-linux-imaging-and-printing/news/hplip -> "HPLIP 3.19.12 Release Notes" section - shows that support for "HP Color LaserJet Pro MFP M283cdw" was added in hplip 3.9.12.

@@ -1,0 +1,2 @@
+==== I could not find a way to ====
+  * send a message / photo to myself.

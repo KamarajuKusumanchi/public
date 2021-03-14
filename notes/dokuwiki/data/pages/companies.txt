@@ -1,0 +1,7 @@
+==== NJ - Python ====
+filter: opportunity is in NJ, requires python, full time, will hire H1Bs
+
+  * https://www.valohealth.com/#careers
+    * Princeton based
+  * https://careers.covance.com/global/en/?utm_source=covancewebsite&utm_campaign=header&utm_medium=na
+    * Covance is the drug development business of LabCorp

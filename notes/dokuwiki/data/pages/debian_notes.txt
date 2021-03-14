@@ -1,3 +1,28 @@
+==== find the dpi of images in a pdf ====
+<code>
+$ pdfimages -list deptest.pdf
+</code>
+
+Ref:- https://askubuntu.com/questions/760993/how-to-programmatically-determine-dpi-of-images-in-pdf-file
+
+==== combine multiple jpegs into one pdf ====
+snippet 1:
+<code>
+convert *.jpg file.pdf
+</code>
+
+snippet 2:
+<code>
+ % cat combine_pics.sh
+#! /usr/bin/env bash
+
+script_dir=`dirname "$0"`
+cd $script_dir/bin
+convert `ls -v individual_pics/*.jpeg` all_pics_combined.pdf
+</code>
+
+Ref:- https://stackoverflow.com/questions/13618236/merge-multiple-jpg-into-single-pdf-in-linux
+
 ==== apt-cache search with tags ====
 Use axi-cache instead of apt-cache
 <code>

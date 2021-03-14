@@ -1,12 +1,8 @@
 ==== printer ====
-  * Color LaserJet Pro MFP M283cdw
+  * HP Color LaserJet Pro MFP M283cdw
   * Bought from Costco in 2021-03; $400 + tax
 
-  * compatible toners:
-    * /* Have not tried them yet. But keeping them handy for future. */
-    * [[https://www.costco.com/hp-206a-toner-cartridge%2c-yellow.product.100696622.html | HP 206A Toner Cartridge, Yellow]] (costco.com)
-    * [[https://www.costco.com/hp-206a-black-toner-cartridge.product.100696627.html | HP 206A Black Toner Cartridge]] (costco.com)
-    * [[https://www.costco.com/hp-206a-magenta-toner-cartridge.product.100696600.html | HP 206A Magenta Toner Cartridge]] (costco.com)
+  * My notes: [[HP Color LaserJet Pro MFP M283cdw]]
 
 ==== vacuum cleaner ====
   * Eureka Mighty Mite 3670G Corded Canister Vacuum Cleaner

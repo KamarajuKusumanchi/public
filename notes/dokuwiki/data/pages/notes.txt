@@ -23,12 +23,13 @@
   * [[rsync notes]]
   * [[pdftk notes]]
   * [[tar usage]]
+  * [[find usage]]
 
 ==== apps ====
   * [[zim notes]]
   * [[chrome notes]]
   * [[conemu notes]]
-
+  * [[whatsapp notes]]
 
 ==== dummy ====
   * [[csvcut notes]]
@@ -90,6 +91,7 @@
   * [[medical notes]]
   * [[interesting images]]
   * [[DAELC]]
+  * [[companies]]
 
 ==== dummy ====
   * [[products]]
