@@ -1,0 +1,3 @@
+==== code search ====
+  * https://grep.app/
+    * sample query: https://grep.app/search?q=binary%20gap%20&filter[lang][0]=Python

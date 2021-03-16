@@ -92,6 +92,7 @@
   * [[interesting images]]
   * [[DAELC]]
   * [[companies]]
+  * [[github notes]]
 
 ==== dummy ====
   * [[products]]
