@@ -1,0 +1,3 @@
+==== string concatenation ====
+  * https://waymoot.org/home/python_string/ - Efficient String Concatenation in Python
+    * It talks about various ways of doing string concatenation and then shows which approach is better.

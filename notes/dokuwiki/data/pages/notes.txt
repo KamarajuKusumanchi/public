@@ -12,6 +12,7 @@
   * [[conda notes]]
   * [[black notes]]
   * [[python cli]]
+  * [[python strings]]
 
 ==== linux cli ====
   * [[grep usage]]

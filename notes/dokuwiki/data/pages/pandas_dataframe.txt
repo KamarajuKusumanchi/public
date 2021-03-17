@@ -493,6 +493,8 @@ df['col_a'] = df['col_a'].astype(np.int64)
 ===== stackoverflow questions I came across ====
 ==== normalize data within each group ====
   * https://stackoverflow.com/questions/46419180/pandas-normalize-within-the-group
+==== links ====
+  * https://stackoverflow.com/questions/43537166/select-columns-from-dataframe-on-condition-they-exist - Select columns from a dataframe only if they exist
 
 ===== pivot related =====
 ==== pivot and sum ====

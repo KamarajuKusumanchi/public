@@ -41,7 +41,15 @@ git config user.name "Kamaraju S. Kusumanchi"
 git config user.email "kamaraju@gmail.com"
 </code>
 
-==== push related ====
+==== pull related ====
+for git $\geq$ 2.23.0
+<code>
+git -c advice.detachedHead=false pull --rebase --autostash -v origin
+</code>
+
+for git $\leq$ 2.20.1
 <code>
 git pull --rebase --autostash -v origin
 </code>
+
+used in | https://github.com/KamarajuKusumanchi/rutils/blob/master/bin/git-up
