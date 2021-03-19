@@ -1,3 +1,4 @@
+===== dummy =====
 ==== tasks ====
   * [[get urls in a url]]
 
@@ -58,3 +59,8 @@ if os.stat(input_file).st_size == 0:
 
 ==== useful links ====
   * [[https://nedbatchelder.com/text/names.html | Facts and myths about Python names and values]] (nedbatchelder.com) - well explained.
+
+===== stack overflow links I came across =====
+==== memory consumed by a function ====
+  * https://stackoverflow.com/a/49271549
+    * refers to | http://web.archive.org/web/20180416235121/http://ihorbobak.com/index.php/2018/02/22/python-process-memory-profiling/

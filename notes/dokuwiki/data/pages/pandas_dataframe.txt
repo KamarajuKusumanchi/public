@@ -320,6 +320,41 @@ df['days'] = (a_dt - b_dt).dt.days
 
 See also:
   * https://docs.microsoft.com/en-us/sql/t-sql/functions/datediff-transact-sql?view=sql-server-ver15 - similar operation in sql. {tags | sql datediff dd}
+==== Select columns from a dataframe only if they exist ====
+<code>
+df[df.columns.intersection(set(['list', 'of', 'cols']))]
+</code>
+Example:
+<code>
+$ ipython
+Python 3.8.5 (default, Sep  3 2020, 21:29:08) [MSC v.1916 64 bit (AMD64)]
+Type 'copyright', 'credits' or 'license' for more information
+IPython 7.20.0 -- An enhanced Interactive Python. Type '?' for help.
+
+In [1]:
+import pandas as pd
+df = pd.DataFrame(columns=[1,2,3,4])
+df
+Out[1]:
+Empty DataFrame
+Columns: [1, 2, 3, 4]
+Index: []
+
+In [2]:
+df[df.columns.intersection(set([1, 2, 2, 5]))]
+Out[2]:
+Empty DataFrame
+Columns: [1, 2]
+Index: []
+
+In [3]:
+pd.__version__
+Out[3]:
+'1.2.1'
+</code>
+
+See also:- https://stackoverflow.com/questions/43537166/select-columns-from-dataframe-on-condition-they-exist
+
 ==== migrate sql case when else statements to build a new column ====
 Use np.select()
 
@@ -494,7 +529,7 @@ df['col_a'] = df['col_a'].astype(np.int64)
 ==== normalize data within each group ====
   * https://stackoverflow.com/questions/46419180/pandas-normalize-within-the-group
 ==== links ====
-  * https://stackoverflow.com/questions/43537166/select-columns-from-dataframe-on-condition-they-exist - Select columns from a dataframe only if they exist
+<place holder>
 
 ===== pivot related =====
 ==== pivot and sum ====
