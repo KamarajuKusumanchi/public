@@ -1,3 +1,29 @@
+===== Configuration =====
+==== Threaded display in Outlook 365 ====
+click on a folder -> View tab
+<code>
+  -> Select "Show as Conversations"
+  -> In "Conversation Settings" -> select "Use Classic Indented View"
+  -> In "Message Preview" -> select Off
+</code>
+The following should be checked when you right click on the message index pane
+<code>
+  Date (Conversations)
+  Show as Conversations
+  Show in Groups
+</code>
+Select sorting so as to display new items at the bottom.
+
+==== Threaded display in older outlook versions ====
+tags | sorting and grouping messages
+
+To display the emails in the good old thread display
+
+  - Right click on Arrange By -> Select "Date", "Show as Conversations", "Show in Groups"
+  - Right click on Arrange By -> View Settings -> Other settings -> check "Show conversation groups using Classic Indented view" -> OK -> OK
+  - Select "Oldest on top".
+
+Tested on | Microsoft Office Professional Plus 2016
 ==== outlook calendar not showing all times ====
 <code>
 File -> Options -> Calendar

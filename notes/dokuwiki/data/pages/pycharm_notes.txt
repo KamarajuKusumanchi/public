@@ -24,5 +24,9 @@ Ref:-
   * https://www.jetbrains.com/pycharm/download/previous.html - previous releases
 
 ==== useful links ====
+  * https://www.jetbrains.com/help/pycharm/basic-tutorials.html
+    * -> https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html - for beginners; useful if you have not read it before.
+    * -> https://www.jetbrains.com/help/pycharm/debugging-your-first-python-application.html - for beginners; useful if you have not read it before.
+    * -> https://www.jetbrains.com/help/pycharm/testing-your-first-python-application.html - for beginners; useful if you have not read it before.
   * Where are run debug configurations stored?\\ See:
     * https://www.jetbrains.com/help/pycharm/run-debug-configuration.html

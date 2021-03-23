@@ -23,3 +23,9 @@ Circe
 niche
 niece
 </code>
+
+Another example:
+<code>
+ % grep -Ei "^([dunes]){2}u([dunes]){2}d$" /usr/share/dict/american-english
+unused
+</code>

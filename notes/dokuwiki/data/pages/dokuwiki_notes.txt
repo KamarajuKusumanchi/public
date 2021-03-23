@@ -13,6 +13,8 @@
   * https://www.dokuwiki.org/export
   * https://www.dokuwiki.org/locking
 
+  * https://www.dokuwiki.org/tips:good_style
+
   * https://wiki.chongtin.com/adding_google_adsense
 
 ==== useful plugins ====
