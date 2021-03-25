@@ -1,0 +1,18 @@
+==== filter on multiple from addresses ====
+When creating the filter, use something like below in the "From" field
+<code>
+(email1@host.com OR email2@host.com)
+</code>
+
+This will do a search for
+<code>
+from:(email1@host.com OR email2@host.com)
+</code>
+
+==== keyboard shortcuts ====
+  * To enable keyboard shortcuts:\\ Gear icon -> Settings -> General -> Keyboard shortcuts -> select Keyboard shortcuts on -> Save Changes
+  * press ? to display the keyboard shortcuts in gmail
+  * e - archive
+  * # - delete
+
+  * https://support.google.com/mail/answer/6594 - lists all the keyboard shortcuts.

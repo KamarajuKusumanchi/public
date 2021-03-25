@@ -18,6 +18,8 @@
   * https://wiki.chongtin.com/adding_google_adsense
 
 ==== useful plugins ====
+  * https://www.dokuwiki.org/plugin:include - to transclude pages
+    * Using this to include [[python_pages]] as a section in [[notes]]
   * https://www.dokuwiki.org/plugin:nodisp
   * https://www.dokuwiki.org/plugin:wrap
   * https://www.dokuwiki.org/plugin:qna
@@ -25,6 +27,8 @@
   * https://www.dokuwiki.org/plugin:move
 ==== documentation links I came across ====
   * https://www.dokuwiki.org/index
+  * https://www.dokuwiki.org/faq:lists - has answers for
+    * How to put line breaks in lists?
 
 ==== Questions to look into ====
   * Is it possible to persist the breadcrumbs across user sessions? For example, the breadcrumbs are lost if I close the chrome browser and reopen it. Is it possible to preserve them even in such cases?
