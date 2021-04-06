@@ -38,7 +38,7 @@
   * [[google speaker notes]]
   * [[confluence notes]]
   * [[regex notes]]
-  * [[coronavirus]]
+  * [[covid notes]]
   * [[magazines]]
   * [[Morganville]]
   * [[Robertsville Elementary school]]
@@ -83,6 +83,7 @@
   * [[companies]]
   * [[github notes]]
   * [[gmail notes]]
+  * [[airindia notes]]
 
 ==== dummy ====
   * [[products]]
