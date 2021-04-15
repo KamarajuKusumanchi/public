@@ -1,6 +1,15 @@
 ===== Corona virus ====
 tags | china virus, corona virus
 
+==== What is COVID-19? ====
+COVID-19 stands for "coronavirus disease 2019." It is an infection caused by a virus called SARS-CoV-2. The virus first appeared in late 2019 and has since spread throughout the world. People in many areas have been told to stay home as much as possible in order to slow the spread of the virus.
+
+Ref:- https://www.uptodate.com/contents/diffuse-large-b-cell-lymphoma-in-adults-beyond-the-basics#H2893604919
+
+==== What are the symptoms of covid-19? ====
+
+Fever, chills, cough, breathing difficulties, fatigue, muscle aches/soreness, headache, sore throat, nausea, vomiting, diarrhea, loss of taste/smell, runny nose/congestion.
+
 ===== vaccine =====
 ==== How many in the US are vaccinated? ====
 See https://covidvaxcount.live/ for an up-to-date number.

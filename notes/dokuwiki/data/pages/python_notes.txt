@@ -64,3 +64,6 @@ if os.stat(input_file).st_size == 0:
 ==== memory consumed by a function ====
   * https://stackoverflow.com/a/49271549
     * refers to | http://web.archive.org/web/20180416235121/http://ihorbobak.com/index.php/2018/02/22/python-process-memory-profiling/
+
+==== dummy ====
+  * https://superuser.com/questions/1633073/why-are-tar-xz-files-15x-smaller-when-using-pythons-tar-library-compared-to-mac - Why are tar.xz files 15x smaller when using Python's tar library compared to macOS tar?

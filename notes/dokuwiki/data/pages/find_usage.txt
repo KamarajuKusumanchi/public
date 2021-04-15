@@ -1,2 +1,5 @@
+==== dummy ====
+  * [[grep on find results]]
+
 ==== find and sort ====
 See: https://unix.stackexchange.com/questions/34325/sorting-the-output-of-find

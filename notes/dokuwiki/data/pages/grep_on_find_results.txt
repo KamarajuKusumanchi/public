@@ -1,0 +1,41 @@
+To grep on the results of a find command, you can use something like
+<code>
+find . -iname '*.py' -exec grep something -inH --color {} +
+</code>
+
+Another solution is to use xargs
+<code>
+find . -iname '*.py' -print0 | xargs -0 grep something -inH --color
+</code>
+
+The output can be redirected to a file
+<code>
+find . -iname '*.py' -exec grep something -inH --color {} + > output.txt
+</code>
+
+Notes:
+
+Here is an excerpt from the man page of find (https://man7.org/linux/man-pages/man1/find.1.html -> search for "-exec command {} +")
+
+<code>
+       -exec command {} +
+              This variant of the -exec action runs the specified
+              command on the selected files, but the command line is
+              built by appending each selected file name at the end; the
+              total number of invocations of the command will be much
+              less than the number of matched files.  The command line
+              is built in much the same way that xargs builds its
+              command lines.  Only one instance of `{}' is allowed
+              within the command, and it must appear at the end,
+              immediately before the `+'; it needs to be escaped (with a
+              `\') or quoted to protect it from interpretation by the
+              shell.  The command is executed in the starting directory.
+              If any invocation with the `+' form returns a non-zero
+              value as exit status, then find returns a non-zero exit
+              status.  If find encounters an error, this can sometimes
+              cause an immediate exit, so some pending commands may not
+              be run at all.  For this reason -exec my-
+              command ... {} + -quit may not result in my-command
+              actually being run.  This variant of -exec always returns
+              true.
+</code>
