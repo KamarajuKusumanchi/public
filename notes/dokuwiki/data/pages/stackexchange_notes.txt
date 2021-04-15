@@ -1,0 +1,4 @@
+==== links I came across ====
+  * https://codegolf.stackexchange.com/ - recreational programming competitions
+  * https://softwareengineering.stackexchange.com/
+  * https://codereview.stackexchange.com/

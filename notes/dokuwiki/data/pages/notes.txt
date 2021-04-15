@@ -35,6 +35,7 @@
   * [[mastodon notes]]
   * [[iPhone notes]]
   * [[krusader notes]]
+  * [[google notes]]
   * [[google speaker notes]]
   * [[confluence notes]]
   * [[regex notes]]
@@ -84,6 +85,11 @@
   * [[github notes]]
   * [[gmail notes]]
   * [[airindia notes]]
+  * [[android notes]]
+  * [[dlbcl notes]]
+  * [[vlc notes]]
+  * [[nutrition notes]]
+  * [[stackexchange notes]]
 
 ==== dummy ====
   * [[products]]

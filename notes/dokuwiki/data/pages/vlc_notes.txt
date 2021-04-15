@@ -1,0 +1,2 @@
+==== links I came across ====
+  * https://wiki.videolan.org/VLC_HowTo/Jump_to_a_certain_time - start video at a specific time

@@ -1,0 +1,2 @@
+==== urls I came across ====
+  * https://search.google.com/test/mobile-friendly - check if page is mobile friendly
