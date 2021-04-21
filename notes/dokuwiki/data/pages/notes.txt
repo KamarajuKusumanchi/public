@@ -19,6 +19,7 @@
   * [[chrome notes]]
   * [[conemu notes]]
   * [[whatsapp notes]]
+  * [[okular notes]]
 
 ==== dummy ====
   * [[csvcut notes]]
@@ -42,6 +43,7 @@
   * [[covid notes]]
   * [[magazines]]
   * [[Morganville]]
+  * [[07751]]
   * [[Robertsville Elementary school]]
   * [[njng notes]]
   * [[math]]
@@ -90,6 +92,8 @@
   * [[vlc notes]]
   * [[nutrition notes]]
   * [[stackexchange notes]]
+  * [[air india notes]]
+  * [[telugu diet]]
 
 ==== dummy ====
   * [[products]]

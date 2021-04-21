@@ -53,7 +53,7 @@ Mon-Fri 8 am - 4:30 pm, Sat 8 am - 3 pm
   * https://marlboro-nj.gov/public-utilities - contains phone numbers of utility companies.
   * https://marlboro-nj.gov/images/notices/2020/COVID-Testing-Sites-Poster.pdf - It has locations and timings during which you can get tested for Covid 19 for free. No appointment necessary and you do not have to be symptomatic. It is only for Monmouth county residents.\\ I got this link from https://www.marlboro-nj.gov/weekend-update-october-30
 
-  * https://www.marlboro-nj.gov/images/notices/2019/deeranimalcontrol.pdf - Animal control and deer removal FAQ
+  * https://www.marlboro-nj.gov/images/notices/2019/deeranimalcontrol.pdf - Animal control and deer removal FAQ. Useful if you hit a deer or see one on the side of the road. 
   * https://www.marlboropd.org/animalcontrol - relevant for questions such as "I see a fox in my backyard. How do I get rid of it?"
 
 ==== recycling calendar ====
@@ -67,6 +67,14 @@ Mon-Fri 8 am - 4:30 pm, Sat 8 am - 3 pm
   * Address:
     * 1979 Township Drive, off Wyncrest Road in Marlboro
   * Phone: 732-536-9295
+
+==== recreation center ====
+  * Hours:
+    * Mon - Fri - 8 am - 4:30 pm
+  * Address:
+    * 1996 Recreation Way, Marlboro, NJ 07746
+  * Phone: 732 617-0100
+  * Website: https://www.marlboro-nj.gov/departments/recreation
 
 ==== Emergencies ====
   * Water leak

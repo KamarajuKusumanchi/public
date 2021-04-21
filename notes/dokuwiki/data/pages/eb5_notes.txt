@@ -24,3 +24,10 @@ Estimated time range            Form type                                       
 65 Months to 74.5 Months	China - mainland born - For use by an investor who wishes to immigrate to the United States     January 10, 2015
 29 Months to 50.5 Months	All other areas - For use by an investor who wishes to immigrate to the United States           January 08, 2017
 </code>
+
+  * Asof 2021-04-21
+<code>
+Estimated time range            Form type                                                                                       Receipt date for a case inquiry
+65 Months to 74.5 Months	China - mainland born - For use by an investor who wishes to immigrate to the United States	February 12, 2015
+29 Months to 50.5 Months	All other areas - For use by an investor who wishes to immigrate to the United States	        February 10, 2017
+</code>

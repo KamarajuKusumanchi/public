@@ -29,6 +29,15 @@ Ref:-
   * From https://www.bloomberg.com/news/articles/2021-01-11/pfizer-biontech-boost-covid-vaccine-target-to-2-billion-doses dated 2021-01-11 \\ Pfizer Inc. and BioNTech SE plan to produce 2 billion doses of their Covid-19 vaccine this year, boosting previously expected output by more than 50% in response to surging global demand.
   * From https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-celebrate-historic-first-authorization dated 2020-12-11 -> "Manufacturing and Delivery Capabilities" section \\ Based on current projections, Pfizer’s and BioNTech’s combined manufacturing network has the potential to supply globally up to 50 million vaccine doses in 2020 and up to 1.3 billion doses by the end of 2021.
 
+==== NJ vaccine notes ====
+  * https://www.vaccinespotter.org/NJ/
+  * https://covid19.nj.gov/pages/finder - State Vaccine Appointment Finder. On this website you can search for appointments available throughout the state. It hopes to ease the need to navigate multiple websites. The site refreshes multiple times an hour as appointments become available.
+  * https://covid19.nj.gov/pages/vaccine
+
+Individual pharamcy websites that have appointments but are not tracked by https://covid19.nj.gov/pages/finder
+  * Pharmacy Emporium. Book appt at https://www.emporiumrx.com/ -> click on "Book a COVID-19 Vaccine Appointment" which takes you to https://hipaa.jotform.com/210986243290053
+  * Future Pharmacy in Manalapan by NetCost market. Book appt at https://www.futurepharmacynj.com/ or call 732-851-7100
+
 ==== Notes ====
   * This paper, {url: https://www.nejm.org/doi/full/10.1056/NEJMoa2034577, title: 'Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine', journal: 'The New England Journal of Medicine'}, contains all the details regarding Pfizer BioNTech vaccine trials like how many people participated in the clinical trials, how effective it is, how safe it is, what are the side effects reported etc., \\ It was referenced in https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-celebrate-historic-first-authorization -> 6th paragraph.
 

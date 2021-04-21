@@ -13,3 +13,4 @@
   * [[black notes]]
   * [[python cli]]
   * [[python strings]]
+  * [[numpy notes]]

@@ -1,0 +1,16 @@
+==== Annotations ====
+tags | Draw a rectangle, highlight an area
+<code>
+Tools -> Review (F6)
+</code>
+
+Works in okular 1.3.2, Debian Buster.
+
+<code>
+ % dpkg -l okular | grep ^ii      
+ii  okular         4:17.12.2-2.2+deb10u1 amd64        universal document viewer
+</code>
+
+Ref:- 
+  * http://docs.kde.org/stable/en/kdegraphics/okular/annotations.html
+  * https://superuser.com/questions/349000/how-do-i-annotate-a-pdf-file-in-ubuntu
