@@ -1,0 +1,9 @@
+==== 2021-04 ====
+  * 2021-04-25
+    * https://www.youtube.com/watch?v=yYUuWWnfRsk - A new robot called Stretch, designed by Boston Dynamics to move boxes in warehouse.
+
+==== Policy ====
+  * Most recent first
+  * Each month in its own section
+  * Each year in its own page.
+  * If an individual entry takes more than a line, add an extra line for readability.

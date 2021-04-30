@@ -37,6 +37,7 @@
   * [[iPhone notes]]
   * [[krusader notes]]
   * [[google notes]]
+  * [[google drive notes]]
   * [[google speaker notes]]
   * [[confluence notes]]
   * [[regex notes]]
@@ -94,6 +95,10 @@
   * [[stackexchange notes]]
   * [[air india notes]]
   * [[telugu diet]]
+  * [[xkcd notes]]
+  * [[news sources]]
+  * [[mtps notes]]
+  * [[subaru notes]]
 
 ==== dummy ====
   * [[products]]

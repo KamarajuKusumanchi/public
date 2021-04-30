@@ -1,0 +1,4 @@
+==== mount google drive on debian linux ====
+use rclone
+  * https://ostechnix.com/how-to-mount-google-drive-locally-as-virtual-file-system-in-linux - shows how to mount google drive as a local folder. Well written, easy to understand and follow along.
+  * https://rclone.org/drive/ - shows how to configure a remote, explains all the available options
