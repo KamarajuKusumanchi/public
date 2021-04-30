@@ -17,6 +17,8 @@ See https://covidvaxcount.live/ for an up-to-date number.
   * As of 2021-02-23, 14% of the population (=46 mln) are vaccinated.
   * As of 2021-02-26, 16% of the population (=52 mln) are vaccinated.
   * As of 2021-03-25, 28% of the population (=92 mln) are vaccinated.
+  * As of 2021-04-23, 45% of the population (=146 mln) are vaccinated.
+
 ==== How many doses of Moderna's vaccine will be made? ====
 600 million in 2021.
 
@@ -43,5 +45,29 @@ Individual pharamcy websites that have appointments but are not tracked by https
 
 ===== dummy =====
 ==== links I came across ====
+  * https://www.cdc.gov/coronavirus/2019-ncov/vaccines/facts.html - Myths and facts about covid-19 vaccines
+  * https://www.cdc.gov/coronavirus/2019-ncov/vaccines/faq.html - FAQ on covid-19 vaccines
+  * https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines.html - learn about different covid-19 vaccines
   * https://covid19.nj.gov/faqs/nj-information/slowing-the-spread/who-is-eligible-for-vaccination-in-new-jersey-who-is-included-in-the-vaccination-phases#direct-link - shows who is eligible for vaccination in New Jersey.
   * https://covid.cdc.gov/covid-data-tracker/#vaccinations - COVID-19 Vaccinations in the United States
+
+==== dashboards ====
+  * NJ
+    * https://www.state.nj.us/health/cd/documents/topics/NCOV/COVID_Confirmed_Case_Summary.pdf - Best dashboard. Everything in one place.
+    * https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml
+  * NYC - https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf  - daily summary.
+  * US - https://www.worldometers.info/coronavirus/country/us/
+
+  * AP - https://www.covid19india.org/state/AP
+  * India - https://www.covid19india.org/ - Can drill down to state, district level.
+
+  * India statewise status
+    * https://www.covid19india.org/ - click on the corresponding state
+    * https://www.mohfw.gov.in/ -> /* scroll to the bottom*/ -> "CLICK TO SEE COVID19 STATEWISE STATUS".
+
+  * Global
+    * https://ourworldindata.org/epi-curve-covid-19 - To check if the world is making any progress against Covid 19.
+    * https://ourworldindata.org/the-coronavirus-pandemic-data-explorer - The Coronavirus Pandemic Data Explorer\\ Shows a nice graph of "Daily new confirmed COVID-19 deaths" in various countries. You can hover around each curve to look at the numbers. You can also choose different metrics for example "Confirmed Cases" instead of "Confirmed deaths". up-to-date data.
+    * https://www.worldometers.info/coronavirus/ - up-to-date data; charts. It contains total cases, total deaths, plots them in linear and log scales, breaks it down in terms of countries. Very impressive.
+
+  * Long Island - https://projects.newsday.com/long-island/tracking-the-coronavirus-on-long-island/ \\ daily updates of covid cases broken down by town

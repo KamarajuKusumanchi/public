@@ -1,3 +1,8 @@
+===== 2021-04 =====
+==== 2021-04-23 ====
+  * You can use rclone to mount google drive as a local folder on a Debian Linux machine and then use unix commands such as mv, cp, rm to modify it - 
+ https://ostechnix.com/how-to-mount-google-drive-locally-as-virtual-file-system-in-linux . It supports other cloud providers such as Amazon S3, Dropbox.
+
 ===== 2021-03 =====
 ==== 2021-03-09 ====
   * [[https://en.wikipedia.org/wiki/List_of_inventors_killed_by_their_own_inventions | List of inventors killed by their own inventions]] (wikipedia.org)

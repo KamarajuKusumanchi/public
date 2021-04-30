@@ -51,3 +51,5 @@ Additional notes:
 
 Ref:- https://www.lifewire.com/automatically-dialing-extensions-on-android-577619 - answers the question but very wordy. See if you can find a better reference.
 
+==== dummy 005 ====
+  * US operates five consulates in India and an embassy in New Delhi. All the consulates are in different cities.

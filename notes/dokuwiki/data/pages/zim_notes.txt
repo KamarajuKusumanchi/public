@@ -1,3 +1,15 @@
 ==== links I came across ====
+  * https://zim-wiki.org/manual/Help/Auto_Formatting.html
   * https://zim-wiki.org/manual/Help/Config_Files.html
   * https://zim-wiki.org/manual/Help/Key_Bindings.html
+
+  * zim wiki code repository - https://github.com/jaap-karssenberg/zim-desktop-wiki/
+  * http://zim-wiki.org/manual/Help/Key_Bindings.html - key board shortcuts in zim
+  * http://wiki.ordi49.fr/doku.php/en:tech:dev:around_zim_desktop - talks about porting zim notebooks between Linux and Windows environments.
+
+  * zim wiki community documentation - https://github.com/jaap-karssenberg/zim-wiki/wiki
+
+  * To find out What is new in the latest zim version - https://github.com/jaap-karssenberg/zim-desktop-wiki/blob/master/CHANGELOG.txt
+
+==== check later ====
+  * http://www.vim.org/scripts/script.php?script_id=3703 - Syntax highlighting in vim for zim wiki pages

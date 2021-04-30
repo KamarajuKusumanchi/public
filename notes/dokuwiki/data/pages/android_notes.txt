@@ -5,3 +5,11 @@ Settings -> About phone
 ===== Apps =====
 ==== apps I am currently trying ====
   * https://play.google.com/store/apps/details?id=com.teacapps.barcodescanner - contains ads. See if you can find something that is functionally equivalent but ad free.
+
+  * https://play.google.com/store/apps/details?id=com.mobilityware.Sudoku
+    * It is 40 MB which is a lot for a sudoku game.
+
+  * https://play.google.com/store/apps/details?id=com.Appgeneration.Sudoku
+    * It is 59 MB which is a lot for a sudoku game.
+    * I did not find a 6x6 version
+    * See if you can find something that is functionally equivalent but better
