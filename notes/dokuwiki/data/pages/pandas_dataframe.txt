@@ -2,6 +2,7 @@
   * [[Add dates]]
   * [[Add commas]]
   * [[Get first element of series if not empty]]
+  * [[Order columns alphabetically]]
 
 ===== dummy =====
 ==== get unique values in a series as another series ====

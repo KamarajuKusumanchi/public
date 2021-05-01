@@ -38,6 +38,7 @@
   * [[krusader notes]]
   * [[google notes]]
   * [[google drive notes]]
+  * [[google assistant notes]]
   * [[google speaker notes]]
   * [[confluence notes]]
   * [[regex notes]]
@@ -99,6 +100,7 @@
   * [[news sources]]
   * [[mtps notes]]
   * [[subaru notes]]
+  * [[shoutwiki notes]]
 
 ==== dummy ====
   * [[products]]

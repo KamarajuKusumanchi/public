@@ -1,4 +1,6 @@
 ==== 2021 ====
+  * 2021-05-01 My chess rating touched 1800 for the first time today! Yay! https://lichess.org/@/kamaraju/perf/rapid
+
   * 2021-04-08 [[grep on find results]]
 
 ==== 2020 ====

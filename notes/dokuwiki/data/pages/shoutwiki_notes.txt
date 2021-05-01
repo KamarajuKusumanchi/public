@@ -1,0 +1,8 @@
+==== operational notes ====
+Plan: Migrate the contents from http://raju.shoutwiki.com to http://www.kamaraju.xyz/dk/
+
+Why:
+
+^ ^ shoutwiki ^ self hosted ^
+| Backup of the wiki contents | I cannot do it myself. | I can do it myself and also automate it.|
+| Down time | Is down once in a while.\\ Not under my control. | Under my control. |

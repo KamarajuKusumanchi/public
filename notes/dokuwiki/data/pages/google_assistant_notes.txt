@@ -1,0 +1,6 @@
+==== take a screenshot ====
+  * On your Android phone or tablet, say "Hey Google, open Assistant settings."
+  * Under "All settings," tap General.
+  * Turn on Use screen context.
+
+Ref:- https://support.google.com/assistant/answer/9402361

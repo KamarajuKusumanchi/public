@@ -1,0 +1,52 @@
+===== Order columns alphabetically ====
+scope | tabular data\\
+tags | csv, reorder
+==== Task ====
+Convert
+<code>
+    name  address  number
+     Ane      USA    1212
+   Joane  England    2323
+</code>
+to
+<code>
+   address   name  number
+       USA    Ane    1212
+   England  Joane    2323
+</code>
+
+==== solution ====
+<code>
+df = df[sorted(df.columns)]
+</code>
+
+==== Example ====
+<code>
+$ ipython
+Python 3.8.5 (default, Sep  3 2020, 21:29:08) [MSC v.1916 64 bit (AMD64)]
+In [1]:
+import pandas as pd
+df = pd.DataFrame(
+  [['Ane', 'USA', 1212],
+   ['Joane', 'England', 2323]],
+  columns=['name', 'address', 'number'])
+df
+Out[1]:
+    name  address  number
+0    Ane      USA    1212
+1  Joane  England    2323
+
+In [2]:
+df = df[sorted(df.columns)]
+
+In [3]:
+df
+Out[3]:
+   address   name  number
+0      USA    Ane    1212
+1  England  Joane    2323
+</code>
+
+==== See also ====
+  * https://github.com/KamarajuKusumanchi/rutils/blob/master/python3/order_columns.py - my script to do this on the command line
+  * https://stackoverflow.com/questions/11067027/re-ordering-columns-in-pandas-dataframe-based-on-column-name - gives other solutions that might be more efficient.

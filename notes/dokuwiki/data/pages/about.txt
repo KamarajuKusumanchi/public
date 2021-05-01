@@ -2,6 +2,9 @@
   * Name: Kamaraju S. Kusumanchi
   * Email: kamaraju at gmail dot com
 
+==== admin log ====
+  * [[admin log]]
+
 ==== about the wiki ====
   * This wiki is my brain dump.
   * I use it to reduce my cognitive load and help my future self.
