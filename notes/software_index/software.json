@@ -25,12 +25,12 @@
     },
     {
         "project": "python",
-        "latest_version": "3.9.1",
-        "release_date": "2020-12-07",
+        "latest_version": "3.9.4",
+        "release_date": "2021-04-04",
         "releases": "https://www.python.org/downloads/",
-        "release_notes": "https://docs.python.org/release/3.9.1/whatsnew/changelog.html#changelog",
+        "release_notes": "https://docs.python.org/release/3.9.4/whatsnew/changelog.html#changelog",
         "code_repo": "",
-        "last_checked": "2020-12-28"
+        "last_checked": "2021-05-03"
     },
     {
         "project": "Beautiful Soup",
