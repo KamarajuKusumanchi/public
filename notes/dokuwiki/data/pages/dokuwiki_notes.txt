@@ -1,4 +1,6 @@
 ==== Useful documentation ====
+  * https://www.dokuwiki.org/namespaces has answers for
+    * How to create new namespaces?
   * https://www.dokuwiki.org/wiki:syntax#quoting - quote some text. You can have other stuff like bold text, monospaced text etc., within the quoted text
   * https://www.dokuwiki.org/wiki:syntax#basic_text_formatting - format text as bold, italic, underlined and monospaced
 
@@ -18,6 +20,7 @@
   * https://wiki.chongtin.com/adding_google_adsense
 
 ==== useful plugins ====
+  * https://www.dokuwiki.org/plugin:nspages - to list all pages in a namespace
   * https://www.dokuwiki.org/plugin:include - to transclude pages
     * Using this to include [[python_pages]] as a section in [[notes]]
   * https://www.dokuwiki.org/plugin:nodisp
@@ -27,8 +30,53 @@
   * https://www.dokuwiki.org/plugin:move
 ==== documentation links I came across ====
   * https://www.dokuwiki.org/index
-  * https://www.dokuwiki.org/faq:lists - has answers for
+  * https://www.dokuwiki.org/faq:lists has answers for
     * How to put line breaks in lists?
+
+==== multiple lines in table cell ====
+Install the wrap plugin and do something like
+
+<code>
+^ days ^ months ^
+| <WRAP>
+  * Sunday
+  * Monday
+</WRAP> | <WRAP>
+  * January
+  * February
+  * March
+</WRAP> |
+| <WRAP>
+  * Tuesday
+  * Wednesday
+</WRAP> | <WRAP>
+  * April
+  * May
+</WRAP> |
+</code>
+
+which will give
+
+^ days ^ months ^
+| <WRAP>
+  * Sunday
+  * Monday
+</WRAP> | <WRAP>
+  * January
+  * February
+  * March
+</WRAP> |
+| <WRAP>
+  * Tuesday
+  * Wednesday
+</WRAP> | <WRAP>
+  * April
+  * May
+</WRAP> |
+
+Ref:-
+  * https://www.dokuwiki.org/plugin:wrap
+  * https://forum.dokuwiki.org/d/9110-is-it-possible-to-use-list-or-carriage-return-inside-table-s-cell
 
 ==== Questions to look into ====
   * Is it possible to persist the breadcrumbs across user sessions? For example, the breadcrumbs are lost if I close the chrome browser and reopen it. Is it possible to preserve them even in such cases?

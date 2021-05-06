@@ -1,8 +1,8 @@
 <nodisp 8>
 [[:personal:]]
   * [[:personal:shopping list]]
-
 Public:
+</nodisp>
   * [[notes]]
   * [[blog]]
   * [[share 2020]]
@@ -10,4 +10,9 @@ Public:
   * [[reading journal 2021]]
   * [[TIL 2021]]
   * [[share 2021]]
+
+<nodisp 8>
+[[:scratch:]]
+
+[[:private:]]
 </nodisp>

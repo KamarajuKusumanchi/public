@@ -14,3 +14,4 @@
   * [[python cli]]
   * [[python strings]]
   * [[numpy notes]]
+  * [[python dictionaries]]
