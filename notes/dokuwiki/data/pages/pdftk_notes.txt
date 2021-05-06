@@ -1,3 +1,16 @@
+==== store a pdf without password ====
+tags | remove password pdf
+
+<code>
+qpdf --password=YOURPASSWORD --decrypt input.pdf output.pdf
+
+pdftk secured.pdf input_pw YOURPASSWORD output unsecured.pdf
+</code>
+
+Note:- If possible switch to using qpdf instead of pdftk. There were couple of instances where the pdftk command failed and qpdf succeeded.
+
+Ref:- https://www.cyberciti.biz/faq/removing-password-from-pdf-on-linux/ - Mentions qpdf; gives more alternatives.
+
 ==== make two copies of the same document ====
 <code>
 pdftk in.pdf cat 1-end 1-end output out.pdf
