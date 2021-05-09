@@ -102,6 +102,8 @@
   * [[subaru notes]]
   * [[shoutwiki notes]]
   * [[mattress notes]]
+  * [[ikea notes]]
+  * [[icmr notes]]
 
 ==== dummy ====
   * [[products]]

@@ -4,3 +4,6 @@
 
 ==== GSP North ====
   * When going away from Morganville, no tolls at least until exit 137.
+
+==== exits ====
+  * Ikea Paramus exit on gsp north - exit 161

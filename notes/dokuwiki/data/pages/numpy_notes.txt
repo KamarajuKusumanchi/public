@@ -29,3 +29,6 @@ b.dtype
 Out[5]: 
 dtype('float64')
 </code>
+
+==== SO links I came across ====
+  * https://stackoverflow.com/questions/59105921/why-is-numpy-random-seed-not-remaining-fixed-but-randomstate-is-when-run-in-para - Why is numpy random seed not remaining fixed but RandomState is when run in parallel?\\ -> has sample code to reproduce the problem.

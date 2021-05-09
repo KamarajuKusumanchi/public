@@ -12,3 +12,5 @@
   * 2020-10-26 [[du on month end dates]]
   * 2020-10-25 [[add numbers on the command line]]
   * 2020-10-14 [[Configure ipython terminal prompts]]
+
+  * 2020-07-05 [[Continue running already back grounded jobs]]

@@ -1,4 +1,7 @@
 ===== dummy =====
+==== useful command line shortcuts ====
+  * Ctrl+E - recent files
+
 ==== release history ====
 <code>
 released, version
@@ -24,9 +27,29 @@ Ref:-
   * https://www.jetbrains.com/pycharm/download/previous.html - previous releases
 
 ==== useful links ====
+  * Editor basics - https://www.jetbrains.com/help/pycharm/using-code-editor.html
+    * -> Came to know about Ctrl-Shift-F12 shortcut from here
+
   * https://www.jetbrains.com/help/pycharm/basic-tutorials.html
     * -> https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html - for beginners; useful if you have not read it before.
     * -> https://www.jetbrains.com/help/pycharm/debugging-your-first-python-application.html - for beginners; useful if you have not read it before.
     * -> https://www.jetbrains.com/help/pycharm/testing-your-first-python-application.html - for beginners; useful if you have not read it before.
   * Where are run debug configurations stored?\\ See:
     * https://www.jetbrains.com/help/pycharm/run-debug-configuration.html
+
+  * pycharm tutorial - https://www.jetbrains.com/help/pycharm/quick-start-guide.html
+  * checkout code from subversion repository - https://www.jetbrains.com/help/pycharm/checking-out-files-from-subversion-repository.html
+  * add directory to the module path - https://stackoverflow.com/questions/28326362/pycharm-and-pythonpath
+  * Feature-by-feature comparison between community and professional versions - https://www.jetbrains.com/pycharm/features/editions_comparison_matrix.html
+  * https://www.jetbrains.com/help/pycharm/menus-and-toolbars.html - contains a picture showing the menus and toolbars
+  * homepage - https://www.jetbrains.com/pycharm/
+
+  * documentaion in pdf - https://www.jetbrains.com/help/pycharm/2017.1/pycharm-2017.1-help.pdf . Does a similar thing exist for 2017.2?
+  * Joining Lines and Literals - https://www.jetbrains.com/help/pycharm/joining-lines-and-literals.html
+==== links to the documentation ====
+  * Change project name - https://www.jetbrains.com/help/pycharm/renaming-projects.html
+  * Exclude some directories from pycharm project - https://www.jetbrains.com/help/pycharm/excluding-files-from-projects.html
+  * Find Tool Window - https://www.jetbrains.com/help/pycharm/find-tool-window.html
+  * Where is a variable declared - https://www.jetbrains.com/help/idea/navigating-to-declaration-or-type-declaration-of-a-symbol.html
+  * Always open a new project in a new window - https://www.jetbrains.com/help/pycharm/opening-reopening-and-closing-projects.html
+  * check the log commits betwen two branches - https://www.jetbrains.com/help/pycharm/manage-branches.html#compare_branches \\ tags | git log branchA..branchB

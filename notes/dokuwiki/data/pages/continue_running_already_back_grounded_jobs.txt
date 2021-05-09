@@ -1,0 +1,36 @@
+Use the disown shell builtin to exit the shell but continue running already back grounded jobs. The syntax changes from shell to shell.
+
+zsh
+<code>
+disown [ job ... ]
+</code>
+bash
+<code>
+disown [-ar] [-h] [jobspec ...]
+</code>
+
+Example:
+<code>
+foo &
+disown %1
+exit
+</code>
+
+Relevant commands:
+  * find the parent pid
+<code>
+ps xao pid,ppid,comm | grep foo
+</code>
+  * get information on a process
+<code>
+ps aux | grep NNNN
+</code>
+
+Ref:-
+  * https://www.slashroot.in/disown-command-linux-explained-example-usage - goes into the details; good explanation with relevant screenshots; has some typos;
+  * relevant section in zsh documentation: http://zsh.sourceforge.net/Doc/Release/Shell-Builtin-Commands.html -> search for disown
+  * relevant section in bash documentation: http://manpages.ubuntu.com/manpages/bionic/man7/bash-builtins.7.html -> search for disown -> go to the second hit
+
+Note:- To attach a disowned job, the instructions in https://unix.stackexchange.com/questions/31824/how-do-i-attach-a-terminal-to-a-detached-process might be helpful. But I have not tried them.
+
+tags | continue running the jobs in the background, detach

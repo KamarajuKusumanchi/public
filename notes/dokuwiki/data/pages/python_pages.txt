@@ -5,6 +5,7 @@
   * [[pandas notes]]
   * [[python notes]]
   * [[ipython notes]]
+  * [[numpy notes]]
   * [[numpy exercises]]
   * [[pytest notes]]
   * [[pycharm notes]]
@@ -13,5 +14,4 @@
   * [[black notes]]
   * [[python cli]]
   * [[python strings]]
-  * [[numpy notes]]
   * [[python dictionaries]]

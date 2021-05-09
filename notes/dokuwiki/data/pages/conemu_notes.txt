@@ -1,3 +1,16 @@
+===== default configuration =====
+==== copy paste multiple lines ====
+<code>
+Settings -> Keys & Macro -> Paste ->
+-> Pasting text behaviour (with exception of Far Manager)
+-> Paste mode #2 (Shift+Insert)
+-> Multi lines
+</code>
+
+solves | New lines lost when pasting into ipython
+
+Ref:- https://github.com/Maximus5/ConEmu/issues/1809
+===== dummy =====
 ==== tasks ====
 tags | conemu star an ssh session, specify startup directory for ssh
 
