@@ -104,6 +104,14 @@
   * [[mattress notes]]
   * [[ikea notes]]
   * [[icmr notes]]
+  * [[YYYYMMDD_HHMMSS]]
+
+  * [[share 2020]]
+  * [[TIL 2020]]
+  * [[reading journal 2021]]
+  * [[TIL 2021]]
+  * [[share 2021]]
+
 
 ==== dummy ====
   * [[products]]

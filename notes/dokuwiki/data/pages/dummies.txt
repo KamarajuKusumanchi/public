@@ -53,3 +53,21 @@ Ref:- https://www.lifewire.com/automatically-dialing-extensions-on-android-57761
 
 ==== dummy 005 ====
   * US operates five consulates in India and an embassy in New Delhi. All the consulates are in different cities.
+
+==== dummy 006 ====
+Notes from https://www.bloomberg.com/news/articles/2021-05-10/millennium-set-to-open-two-more-offices-in-tax-friendly-florida
+  * Millennium Management will open two more offices in Florida
+  * Some PMs, traders, developers, and engineers are moving there but senior management will stay in NY.
+  * WorldQuant manages money for Millennium and the latter manages $50 billion.
+  * Elliott Management, D1 Capital Partners - other companies moving to Florida
+
+==== dummy 007 ====
+
+| Country | US | India |
+| Drug | Acetaminophen | Paracetamol |
+| Drug name origin | para-**acet**yl-**amino**-**phen**ol | **par**a-**acet**yl-**am**ino-phen**ol** |
+| Brand name | Tylenol | Crocin, Calpol, Dolo |
+
+Both acetaminophen and paracetamol come from a chemical name for the compound: para-**acet**yl-**amino**-**phen**ol and **par**a-**acet**yl-**am**ino-phen**ol**.
+
+Ref:- https://en.wikipedia.org/wiki/Paracetamol#Naming

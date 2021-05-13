@@ -1,4 +1,12 @@
 ===== 2021-05 =====
+==== 2021-05-12 ====
+  * https://techcrunch.com/2021/05/11/google-pay-us-users-can-now-send-money-to-india-and-singapore/
+    * You can now use Google Pay to send money from US to India.
+    * Only person-to-person payments are allowed.
+    * Businesses in U.S. can’t send to either individuals or businesses in India.
+
+  * https://en.wikipedia.org/wiki/Kelly_criterion - Kelly Criterion
+
 ==== 2021-05-06 ====
   * [[http://paulgraham.com/richnow.html | How people get rich now]] (paulgraham.com)
 

@@ -1,0 +1,7 @@
+tags | time stamp
+
+==== date ====
+<code>
+ % date +%Y%m%d_%H%M%S
+20210512_142514
+</code>

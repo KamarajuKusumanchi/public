@@ -2,4 +2,4 @@
   * 2020-09-15 Enabled url rewriting
   * 2020-09-30 Added the statcounter button
   * 2020-11-30 Google started indexing the pages
-
+  * 2021-05-11 Enabled sitemap
