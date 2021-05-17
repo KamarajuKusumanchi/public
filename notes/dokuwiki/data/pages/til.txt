@@ -1,13 +1,20 @@
-===== 2021-04 =====
+==== 2021-05-13 ====
+  * Use date +'%-M' to get the current minute without a leading zero (ex:- 8 instead of 08). Compare this with date +'%M' which pads it by 0 (ex:- 08 instead of 8).
+
+Ref: https://unix.stackexchange.com/questions/79371/removing-leading-zeros-from-date-output
+
+Use case: In https://github.com/KamarajuKusumanchi/.mycd/blob/master/mycd.sh, I needed a way to check if the current minute is in a given range. If the current minute is padded with zero then bash is interpreting it as an octal number which leads to problems if the current minute happens to be 08 which is not a valid octal number.
+
+
 ==== 2021-04-23 ====
   * You can use rclone to mount google drive as a local folder on a Debian Linux machine and then use unix commands such as mv, cp, rm to modify it - 
  https://ostechnix.com/how-to-mount-google-drive-locally-as-virtual-file-system-in-linux . It supports other cloud providers such as Amazon S3, Dropbox.
 
-===== 2021-03 =====
+
 ==== 2021-03-09 ====
   * [[https://en.wikipedia.org/wiki/List_of_inventors_killed_by_their_own_inventions | List of inventors killed by their own inventions]] (wikipedia.org)
 
-===== 2021-02 =====
+
 ==== 2021-02-25 ====
   * https://en.wikipedia.org/wiki/Brandolini%27s_law - Brandolini's law, also known as the bullshit asymmetry principle, is an internet adage which emphasizes the difficulty of debunking false, facetious, or otherwise misleading information: "The amount of energy needed to refute bullshit is an order of magnitude larger than to produce it."
 
@@ -21,7 +28,7 @@
 ==== 2021-02-19 ====
   * https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html - shows the solar system to scale. It gave me some perspective on how far apart the planets really are.
 
-===== 2021-01 =====
+
 ==== 2021-01-10 ====
   * The author masked a pin on an old Mini PCIE WLAN card to get it working on a modern laptop.\\ https://gsid.in/using-old-mini-pcie-wlan-cards-in-modern-laptops/
 

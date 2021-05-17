@@ -71,3 +71,11 @@ Notes from https://www.bloomberg.com/news/articles/2021-05-10/millennium-set-to-
 Both acetaminophen and paracetamol come from a chemical name for the compound: para-**acet**yl-**amino**-**phen**ol and **par**a-**acet**yl-**am**ino-phen**ol**.
 
 Ref:- https://en.wikipedia.org/wiki/Paracetamol#Naming
+
+==== dummy 008 ====
+
+| water boils at | 212 $^\circ$F |
+| Cakes bake at | 350 $^\circ$F |
+| Wood burns at | 575 $^\circ$F |
+| Glass melts at | 900 $^\circ$F |
+| Sparklers burn at | 1200 $^\circ$F |

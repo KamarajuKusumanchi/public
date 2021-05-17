@@ -1,0 +1,2 @@
+==== dummy ====
+  * https://marketingreportoptout.visa.com/OPTOUT/request.do - opt out of VISA marketing.
