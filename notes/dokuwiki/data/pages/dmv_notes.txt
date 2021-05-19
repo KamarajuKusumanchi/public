@@ -1,5 +1,8 @@
+==== links I came across ====
+  * https://www.state.nj.us/mvc/locations/facilitystatus.htm - NJ DMV status by location.
+
 ==== Freehold dmv ====
-  * Freehold DMV will be appointment-only on Saturday, Nov. 21. No walk-ins will be allowed. I am not sure whether it is like that for every day or just for that day.\\ Source: https://www.state.nj.us/mvc/locations/facilitystatus.htm
+  * Freehold DMV will be appointment-only. No walk-ins allowed.\\ Source: https://www.state.nj.us/mvc/locations/facilitystatus.htm
 
 ==== NJ dmv ====
   * news - https://www.nj.gov/mvc/news/news.htm \\ tags | press archives
@@ -21,3 +24,7 @@ tags | asof 2020-11-11
   * drivers license renewal = $24
 
 tags | asof 2021-05-09
+
+==== contact information ====
+  * If the information printed on the enclosed license is incorrect, please call (609) 292-6500 ext. 5058 or email Central.Issuance@mvc.nj.gov immediately.
+  * 862-283-0717 - NJ Motor Vehicle Commission Management Operations Services. When we call (609) 292-6500 ext. 5058, it is going to this number.

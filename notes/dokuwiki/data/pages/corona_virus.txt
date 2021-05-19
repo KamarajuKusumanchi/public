@@ -43,8 +43,21 @@ Individual pharamcy websites that have appointments but are not tracked by https
 ==== Notes ====
   * This paper, {url: https://www.nejm.org/doi/full/10.1056/NEJMoa2034577, title: 'Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine', journal: 'The New England Journal of Medicine'}, contains all the details regarding Pfizer BioNTech vaccine trials like how many people participated in the clinical trials, how effective it is, how safe it is, what are the side effects reported etc., \\ It was referenced in https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-celebrate-historic-first-authorization -> 6th paragraph.
 
+===== Drugs =====
+
+==== treatments I came across ====
+  * 2D Glucose drug by DRDO
+    * https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-treatment-drdo-launches-anti-covid-medicine-2-deoxy-d-glucose-know-all-about-how-it-works/articleshow/82703766.cms
+  * Remdesivir
+  * Ivermectin
+  * Dexamethasone 
+  * tocilizumab
+  * hydroxychloroquine
+
 ===== dummy =====
 ==== links I came across ====
+  * [[https://stemcellsjournals.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)9999-0003.Covid-19-and-stem-cells]] - Covid-19 and stem cells
+
   * https://www.cdc.gov/coronavirus/2019-ncov/vaccines/facts.html - Myths and facts about covid-19 vaccines
   * https://www.cdc.gov/coronavirus/2019-ncov/vaccines/faq.html - FAQ on covid-19 vaccines
   * https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines.html - learn about different covid-19 vaccines
@@ -71,3 +84,11 @@ Individual pharamcy websites that have appointments but are not tracked by https
     * https://www.worldometers.info/coronavirus/ - up-to-date data; charts. It contains total cases, total deaths, plots them in linear and log scales, breaks it down in terms of countries. Very impressive.
 
   * Long Island - https://projects.newsday.com/long-island/tracking-the-coronavirus-on-long-island/ \\ daily updates of covid cases broken down by town
+
+==== resources ====
+  * https://covidwin.in/ - crowdsourced; verified; can't filter by drug (ex:- if we want to check where 2D glucose is available in Hyderabad, there is no way to do it).
+
+  * https://public.tableau.com/profile/prashant.sharma#!/vizhome/CovidHelp/Search
+    * Can also be accessed via http://bit.ly/CovidCareResources
+
+  * https://t.me/covidhelp3 - telegram group for Covid Resources. 350 members asof 2021-05-19.

@@ -42,7 +42,7 @@
   * [[google speaker notes]]
   * [[confluence notes]]
   * [[regex notes]]
-  * [[covid notes]]
+  * [[corona_virus]]
   * [[magazines]]
   * [[Morganville]]
   * [[07751]]

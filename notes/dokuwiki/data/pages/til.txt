@@ -1,3 +1,6 @@
+==== 2021-05-17 ====
+  * https://www.reuters.com/world/asia-pacific/singapore-warns-children-susceptible-virus-variants-shuts-schools-2021-05-17/ - Singapore is going to close schools as the new strain affects kids.
+
 ==== 2021-05-13 ====
   * Use date +'%-M' to get the current minute without a leading zero (ex:- 8 instead of 08). Compare this with date +'%M' which pads it by 0 (ex:- 08 instead of 8).
 
