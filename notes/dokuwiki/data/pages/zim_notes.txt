@@ -1,9 +1,10 @@
 ==== links I came across ====
+  * zim wiki code repository - https://github.com/jaap-karssenberg/zim-desktop-wiki/
+
   * https://zim-wiki.org/manual/Help/Auto_Formatting.html
   * https://zim-wiki.org/manual/Help/Config_Files.html
   * https://zim-wiki.org/manual/Help/Key_Bindings.html
 
-  * zim wiki code repository - https://github.com/jaap-karssenberg/zim-desktop-wiki/
   * http://zim-wiki.org/manual/Help/Key_Bindings.html - key board shortcuts in zim
   * http://wiki.ordi49.fr/doku.php/en:tech:dev:around_zim_desktop - talks about porting zim notebooks between Linux and Windows environments.
 

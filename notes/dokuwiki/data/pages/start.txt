@@ -6,6 +6,8 @@ Public:
   * [[notes]]
   * [[blog]]
 <nodisp 8>
+[[:sotm:]]
+
 [[:scratch:]]
 
 [[:private:]]
