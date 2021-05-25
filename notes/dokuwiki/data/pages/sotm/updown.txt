@@ -1,0 +1,4 @@
+
+^ Date ^ market ^ possibly because ^
+| 2021-05-18 | down | in anticipation of FOMC minutes on 2021-05-19. |
+| 2021-05-20 | up | initial claims data released at 8:30 am.\\ The data is for 5/15, expected = 460k, actual = 444k, prior = 478k. |
