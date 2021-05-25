@@ -1,4 +1,4 @@
-==== top level separation ====
+===== top level separation =====
 Situation:\\
 I have a directory (say source/) with many sub directories and files under it (source/dir1, source/dir2, ... , source/file1, source/file2, ...). I want to copy it to two separate folders (say destA, destB). The first folder contains all the top level files (source/file1, source/file2 etc.,), the second folder contains the rest (source/dir1, source/dir2 etc., but not source/file1, or source/file2 etc.,).
 

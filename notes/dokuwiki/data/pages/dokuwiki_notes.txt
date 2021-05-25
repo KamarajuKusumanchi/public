@@ -20,6 +20,7 @@
   * https://wiki.chongtin.com/adding_google_adsense
 
 ==== useful plugins ====
+  * https://www.dokuwiki.org/plugin:saveandedit - Adds a checkbox to continue editing after the page is saved.
   * https://www.dokuwiki.org/plugin:nspages - to list all pages in a namespace
   * https://www.dokuwiki.org/plugin:include - to transclude pages
     * Using this to include [[python_pages]] as a section in [[notes]]
@@ -28,6 +29,11 @@
   * https://www.dokuwiki.org/plugin:qna
   * https://www.dokuwiki.org/plugin:mathjax
   * https://www.dokuwiki.org/plugin:move
+
+==== conflicting plugins ====
+  * https://www.dokuwiki.org/plugin:edittable - seems nice. But it is conflicting with https://www.dokuwiki.org/plugin:wrap . For example, if I have a cell with a list of items, and if I install the edittable plugin and then try to edit that table, the cell contents are not longer rendered as a list.
+    * Todo:- Try to come up with a small test case and report it upstream.
+
 ==== documentation links I came across ====
   * https://www.dokuwiki.org/index
   * https://www.dokuwiki.org/faq:lists has answers for
