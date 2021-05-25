@@ -53,6 +53,7 @@ Individual pharamcy websites that have appointments but are not tracked by https
   * Dexamethasone 
   * tocilizumab
   * hydroxychloroquine
+  * Casirivimab and Imdevimab injection by Roche India and Cipla
 
 ===== dummy =====
 ==== links I came across ====
