@@ -78,6 +78,38 @@ if os.stat(input_file).st_size == 0:
 ==== tasks ====
   * [[get urls in a url]]
 
+===== Snippets =====
+==== print exception and continue ====
+<code>
+from traceback import format_exc
+
+try:
+    # my code
+except Exception as exc:
+    print 'caught exception while doing foo'
+    print format_exc()
+    print exc
+</code>
+
+==== print exception to log file ====
+<code>
+from traceback import format_exc
+
+try:
+    # my code
+except Exception as exc:
+    logger.error('Caught exception while doing stuff.')
+    logger.error(format_exc())
+    logger.error(exc)
+</code>
+
+When the code is executed in pycharm and the exception is encountered, the traceback is printed in both pycharm window and in the file.
+
+To test the above code, you can raise a simple exception using
+<code>
+raise ValueError("test exception handling.")
+</code>
+
 ===== format related =====
 ==== assert variable in a list ====
 <code>
