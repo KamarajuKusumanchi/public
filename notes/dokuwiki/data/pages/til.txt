@@ -1,3 +1,6 @@
+==== 2021-05-28 ====
+  * A Trump administration rule requires hospitals to post their prices in public, but the penalty for noncompliance is just $300 a day.\\ Ref:- https://www.wsj.com/articles/amazon-and-walmart-have-an-rx-for-healthcare-the-cure-wont-be-easy-11622194240
+
 ==== 2021-05-17 ====
   * https://www.reuters.com/world/asia-pacific/singapore-warns-children-susceptible-virus-variants-shuts-schools-2021-05-17/ - Singapore is going to close schools as the new strain affects kids.
 
@@ -10,8 +13,7 @@ Use case: In https://github.com/KamarajuKusumanchi/.mycd/blob/master/mycd.sh, I 
 
 
 ==== 2021-04-23 ====
-  * You can use rclone to mount google drive as a local folder on a Debian Linux machine and then use unix commands such as mv, cp, rm to modify it - 
- https://ostechnix.com/how-to-mount-google-drive-locally-as-virtual-file-system-in-linux . It supports other cloud providers such as Amazon S3, Dropbox.
+  * You can use rclone to mount google drive as a local folder on a Debian Linux machine and then use unix commands such as mv, cp, rm to modify it. \\ https://ostechnix.com/how-to-mount-google-drive-locally-as-virtual-file-system-in-linux . \\ It supports other cloud providers such as Amazon S3, Dropbox.
 
 
 ==== 2021-03-09 ====
@@ -19,7 +21,7 @@ Use case: In https://github.com/KamarajuKusumanchi/.mycd/blob/master/mycd.sh, I 
 
 
 ==== 2021-02-25 ====
-  * https://en.wikipedia.org/wiki/Brandolini%27s_law - Brandolini's law, also known as the bullshit asymmetry principle, is an internet adage which emphasizes the difficulty of debunking false, facetious, or otherwise misleading information: "The amount of energy needed to refute bullshit is an order of magnitude larger than to produce it."
+  * Brandolini's law, also known as the bullshit asymmetry principle, is an internet adage which emphasizes the difficulty of debunking false, facetious, or otherwise misleading information: "The amount of energy needed to refute bullshit is an order of magnitude larger than to produce it."\\ https://en.wikipedia.org/wiki/Brandolini%27s_law
 
 
 

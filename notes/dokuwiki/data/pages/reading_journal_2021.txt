@@ -1,4 +1,9 @@
 ===== 2021-05 =====
+==== 2021-05-26 ====
+  * Bimekizumab versus Adalimumab in Plaque Psoriasis: https://www.nejm.org/doi/10.1056/NEJMoa2102388
+    * Bimekizumab is more effective than Adalimumab for Psoriasis.
+  * https://www.nytimes.com/2021/04/27/technology/daniel-kaminsky-dead.html - Daniel Kaminsky, Internet Security Savior, Dies at 42.
+
 ==== 2021-05-12 ====
   * https://techcrunch.com/2021/05/11/google-pay-us-users-can-now-send-money-to-india-and-singapore/
     * You can now use Google Pay to send money from US to India.
