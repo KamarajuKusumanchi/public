@@ -22,6 +22,7 @@
   * [[okular notes]]
 
 ==== dummy ====
+  * [[java notes]]
   * [[csvcut notes]]
   * [[outlook notes]]
   * [[eb5 notes]]

@@ -1,0 +1,39 @@
+==== Install and setup Java ====
+  * Setup directories
+<code>
+mkdir -p ~/software/zipped/java ~/software/unZipped
+</code>
+
+  * Download Java
+http://www.java.com/en/download/linux_manual.jsp → scroll to the bottom → click link under "Linux x64" → jre-8u271-linux-x64.tar.gz
+
+Move the tar.gz file into ~/software/zipped/java
+
+  * unzip
+<code>
+cd ~/software/unZipped
+tar xzvf ~/software/zipped/java/jre-8u271-linux-x64.tar.gz -C .
+</code>
+
+  * Add the unzipped directory to PATH in ~/.zshrc
+<code>
+# For Java
+export PATH=$HOME/software/unZipped/jre1.8.0_271/bin:$PATH
+</code>
+
+==== run jnlp files ====
+
+use javaws
+
+<code>
+sudo apt-get install icedtea-netx
+javaws foo.jnlp
+</code>
+
+==== where is jconsole ====
+
+It comes as part of java installation. Sample location C:\Program Files\Java\jdk1.8.0_161\bin\jconsole.exe
+
+==== What is the difference between jmc and jconsole ====
+
+jconsole is light weight compared to jmc.
