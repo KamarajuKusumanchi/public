@@ -4,25 +4,11 @@
 ==== data points of I-526 processing times ====
 From https://egov.uscis.gov/processing-times/
 
-  * Asof 2021-02-02
+  * Asof 2021-05-23
 <code>
 Estimated time range            Form type                                                                                       Receipt date for a case inquiry
-51.5 Months to 75.5 Months	China - mainland born - For use by an investor who wishes to immigrate to the United States	October 30, 2014
-28.5 Months to 44 Months	All other areas - For use by an investor who wishes to immigrate to the United States	        June 07, 2017
-</code>
-
-  * Asof 2021-03-01
-<code>
-Estimated time range            Form type                                                                                       Receipt date for a case inquiry
-58.5 Months to 78 Months	China - mainland born - For use by an investor who wishes to immigrate to the United States	September 13, 2014
-31 Months to 48 Months		All other areas - For use by an investor who wishes to immigrate to the United States		March 14, 2017
-</code>
-
-  * Asof 2021-03-19
-<code>
-Estimated time range            Form type                                                                                       Receipt date for a case inquiry
-65 Months to 74.5 Months	China - mainland born - For use by an investor who wishes to immigrate to the United States     January 10, 2015
-29 Months to 50.5 Months	All other areas - For use by an investor who wishes to immigrate to the United States           January 08, 2017
+69 Months to 88 Months          China - mainland born - For use by an investor who wishes to immigrate to the United States	February 01, 2014
+31 Months to 49.5 Months	All other areas - For use by an investor who wishes to immigrate to the United States           April 24, 2017
 </code>
 
   * Asof 2021-04-21
@@ -32,9 +18,57 @@ Estimated time range            Form type                                       
 29 Months to 50.5 Months	All other areas - For use by an investor who wishes to immigrate to the United States	        February 10, 2017
 </code>
 
-  * Asof 2021-05-23
+  * Asof 2021-03-19
 <code>
 Estimated time range            Form type                                                                                       Receipt date for a case inquiry
-69 Months to 88 Months          China - mainland born - For use by an investor who wishes to immigrate to the United States	February 01, 2014
-31 Months to 49.5 Months	All other areas - For use by an investor who wishes to immigrate to the United States           April 24, 2017
+65 Months to 74.5 Months	China - mainland born - For use by an investor who wishes to immigrate to the United States     January 10, 2015
+29 Months to 50.5 Months	All other areas - For use by an investor who wishes to immigrate to the United States           January 08, 2017
 </code>
+
+  * Asof 2021-03-01
+<code>
+Estimated time range            Form type                                                                                       Receipt date for a case inquiry
+58.5 Months to 78 Months	China - mainland born - For use by an investor who wishes to immigrate to the United States	September 13, 2014
+31 Months to 48 Months		All other areas - For use by an investor who wishes to immigrate to the United States		March 14, 2017
+</code>
+
+  * Asof 2021-02-02
+<code>
+Estimated time range            Form type                                                                                       Receipt date for a case inquiry
+51.5 Months to 75.5 Months	China - mainland born - For use by an investor who wishes to immigrate to the United States	October 30, 2014
+28.5 Months to 44 Months	All other areas - For use by an investor who wishes to immigrate to the United States	        June 07, 2017
+</code>
+
+==== I-526 stats ====
+
+^ Fiscal period ^ Forms Received ^ Approved ^ Denied ^ Pending ^
+| [[https://www.uscis.gov/sites/default/files/document/reports/Quarterly_All_Forms_FY2020Q4.pdf | Q1 2020]] |  4,264 |  383 |  72 |  17,468 |
+| [[https://www.uscis.gov/sites/default/files/document/reports/Quarterly_All_Forms_FY2020Q4.pdf | Q2 2020]] |  21 |  714 |  190 |  16,633 |
+| [[https://www.uscis.gov/sites/default/files/document/reports/Quarterly_All_Forms_FY2020Q4.pdf | Q3 2020]] |  40 |  576 |  346 |  15,955 |
+| [[https://www.uscis.gov/sites/default/files/document/reports/Quarterly_All_Forms_FY2020Q4.pdf | Q4 2020]] |  53 |  904 |  236 |  15,063 |
+| [[https://www.uscis.gov/sites/default/files/document/reports/Quarterly_All_Forms_FY2021Q1.pdf | Q1 2021]] |  D |  1,004 |  119 |  13,746 |
+
+
+To get details on the number of I-526 petitions received, approved, denied, pending etc.,
+
+<code>
+https://www.uscis.gov/tools/reports-studies/immigration-forms-data
+-> Filter by  category = EB-5 Immigrant Investor Program
+-> Search
+</code>
+
+In the results, look for something like
+  * "Immigrant Petition by Alien Entrepreneur (Form I-526) Quarterly Report (Fiscal Year 2019, 2nd Quarter, Jan. 1-Mar. 31, 2019)" . Sample link https://www.uscis.gov/sites/default/files/USCIS/Resources/Reports%20and%20Studies/Immigration%20Forms%20Data/Employment-based/I526_performancedata_fy2019_qtr2.pdf
+  * "All USCIS Application and Petition Form Types (Fiscal Year 2021, 1st Quarter, October 1 - December 31, 2020)" . Sample link https://www.uscis.gov/sites/default/files/document/reports/Quarterly_All_Forms_FY2021Q1.pdf
+
+You can also go to https://www.uscis.gov/tools/reports-studies/immigration-forms-data via
+
+https://www.uscis.gov/sitemap -> Search for "Reports and Studies" -> click on "Immigration and Citizenship Data" link.
+
+
+==== terminology ====
+  * Q1 of FY 2021 (October through December of calendar year 2020)
+
+==== notes ====
+  * I-526 case status - https://egov.uscis.gov/casestatus/landing.do
+  * https://www.uscis.gov/news/news-releases/uscis-adjusts-process-managing-eb-5-visa-petition-inventory - Starting from 2020-03-31, I-526 applications will be processed based on visa availability. Previously, they used to process it on a first in first out basis.

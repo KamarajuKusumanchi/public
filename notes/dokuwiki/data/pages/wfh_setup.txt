@@ -2,3 +2,4 @@
 ^ item ^ details ^ review ^ recommendation ^
 | Mouse | Logitech precision pro from [[https://www.costco.com/logitech-precision-pro-wireless-mouse.product.100527136.html | Costco]]. \\ \$30 \\ Purchased: 2020-10-12 | Very good.\\ Smooth scrolling.\\ Better than [[https://www.amazon.com/gp/product/B005EJH6Z4 | AmazonBasics]] mouse. | Yes |
 | Earbuds | Jabra Elite Active 75T True Wireless Earbuds \\ from [[https://www.costco.com/jabra-elite-active-75t-noise-cancelling-earbuds-with-wireless-charging-case.product.100655110.html | Costco]]. \\ \$213 (= \$200 + tax) \\ Purchased: 2020-07-08 | Wireless Charging Case \\ noise cancellation | Yes |
+| USB Flash drive | SanDisk 256 GB, 130 MB/s, Ultra USB 3.0 Flash Drive \\ from [[https://www.walmart.com/ip/SanDisk-256GB-Ultra-USB-3-0-Flash-Drive-130MB-s-SDCZ48-256G-AW46/259605765 | Walmart]] \\ SDCZ48-256G-AW46 \\ \$35 (= \$33 + tax) \\ Purchased: 2021-05-30 |
