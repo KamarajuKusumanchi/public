@@ -1,3 +1,6 @@
+==== notes ====
+  * Apple announced the first iPhone in 2007.\\ Ref:- https://en.wikipedia.org/wiki/IPhone
+
 ==== hard drive sizes ====
 <code>
 2010	iPhone 4	 32 GB

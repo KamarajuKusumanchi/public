@@ -1,2 +1,7 @@
+==== upgrade pip ====
+<code>
+python -m pip install --upgrade pip
+</code>
+
 ==== links I came across ====
   * Changes to the pip dependency resolver in 20.3 - https://pip.pypa.io/en/stable/user_guide/#changes-to-the-pip-dependency-resolver-in-20-3-2020

@@ -1,3 +1,7 @@
+===== 2021-06 =====
+==== 2021-06-14 ====
+  * [[https://oceanservice.noaa.gov/facts/springtide.html | What are spring and neap tides? ]] (noaa.gov)
+
 ===== 2021-05 =====
 ==== 2021-05-26 ====
   * Bimekizumab versus Adalimumab in Plaque Psoriasis: https://www.nejm.org/doi/10.1056/NEJMoa2102388
@@ -10,7 +14,7 @@
     * Only person-to-person payments are allowed.
     * Businesses in U.S. can’t send to either individuals or businesses in India.
 
-  * https://en.wikipedia.org/wiki/Kelly_criterion - Kelly Criterion
+  * https://en.wikipedia.org/wiki/Kelly_criterion - Kelly Criterion\\ tags | bet sizing
 
 ==== 2021-05-06 ====
   * [[http://paulgraham.com/richnow.html | How people get rich now]] (paulgraham.com)

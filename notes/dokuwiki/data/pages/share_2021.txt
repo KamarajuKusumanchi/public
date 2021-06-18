@@ -1,4 +1,6 @@
 ==== 2021-04 ====
+  * 2021-06-06
+    * https://www.wsj.com/articles/the-huge-tax-break-for-home-sellers-what-to-know-about-the-500-000-tax-exemption-11622771143 - The Huge Tax Break for Home Sellers: What to Know About the $500,000 Exemption
   * 2021-05-09
     * https://www.nj.gov/mvc/press/archives/2021/042921.htm  - NJMVC to Begin Scheduling Appointments for Driver Permits Regardless of Immigration Status May 1
     * So previously, if anyone on visa (like H1B, H4) tried to renew their drivers license,  the new license will be given until the I-797 expiration date. Going forward, we will be able to renew it for 4 years irrespective of the visa status.

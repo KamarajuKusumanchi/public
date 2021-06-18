@@ -1,9 +1,21 @@
+===== getopts =====
+==== useful articles ====
+  * https://sookocheff.com/post/bash/parsing-bash-script-arguments-with-shopts/ - Parsing bash script options with getopts
+
 ===== Shell =====
 ==== what is the use of histappend? ====
 See
   * https://unix.stackexchange.com/questions/6501/why-would-anyone-not-set-histappend-in-bash
 
 ===== code snippets =====
+==== getopts shift OPTIND ====
+<code>
+shift "$((OPTIND-1))"
+</code>
+
+Notes:
+  * The quotes are important for reasons explained in https://unix.stackexchange.com/questions/214141/explain-the-shell-command-shift-optind-1/
+
 ==== check if an integer is in an interval ====
 <code>
     current_minute=`date +'%M'`
@@ -73,3 +85,22 @@ bash: [: 2.0: integer expression expected
 0
 </code>
 ===== Scripting =====
+==== echo a string with multiple spaces ====
+Put the variable in double quotes to prevent field splitting
+<code>
+echo "$a"
+</code>
+Example:
+<code>
+$ a='^  foo|'
+
+$ echo $a
+^ foo|
+
+$ echo "$a"
+^  foo|
+</code>
+
+Ref:- https://unix.stackexchange.com/questions/273660/how-do-i-echo-a-string-with-multiple-spaces-in-bash-untouched/273663
+
+search tags | string concatenation multiple spaces

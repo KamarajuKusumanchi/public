@@ -1,3 +1,9 @@
+==== privacy settings ====
+  * Make sure your Facebook app doesn’t have microphone access.
+  * Better yet uninstall Facebook app from your phone
+
+Why? I have heard of situations where two friends talk about a car and then facebook started showing them ads about that car.
+
 ==== facebook stats ====
   * Facebook has close to 2bn users, posting over 100bn things each day.
   * The latest numbers can be obtained from https://investor.fb.com/financials/default.aspx -> choose the latest quarter -> Earnings Slides.

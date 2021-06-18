@@ -18,6 +18,7 @@ See https://covidvaxcount.live/ for an up-to-date number.
   * As of 2021-02-26, 16% of the population (=52 mln) are vaccinated.
   * As of 2021-03-25, 28% of the population (=92 mln) are vaccinated.
   * As of 2021-04-23, 45% of the population (=146 mln) are vaccinated.
+  * As of 2021-05-31, 55% of the population (=179 mln) are vaccinated.
 
 ==== How many doses of Moderna's vaccine will be made? ====
 600 million in 2021.
@@ -48,6 +49,11 @@ Individual pharamcy websites that have appointments but are not tracked by https
 ==== treatments I came across ====
   * 2D Glucose drug by DRDO
     * https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-treatment-drdo-launches-anti-covid-medicine-2-deoxy-d-glucose-know-all-about-how-it-works/articleshow/82703766.cms
+    * [unverified]
+      * Hospitals have to raise a request to Dr Reddy's by emailing 2dg@drreddys.com, ashokvk@drreddys.com .
+      * Upon approval, you can buy it from (Medihauxe Pharma, SR nagar) or from Yash agencies. Both are selling for MRP.
+      * Each sachet costs Rs. 990. Total box Rs. 9,900.
+      * Customer care of Dr Reddys: {Phone: 1800 425 0014 (Mondays through Friday, 8 AM to 6 PM, IST), Email : customerservices@drreddys.com}
   * Remdesivir
   * Ivermectin
   * Dexamethasone 
