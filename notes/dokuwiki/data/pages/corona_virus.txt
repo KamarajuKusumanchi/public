@@ -1,16 +1,5 @@
-===== Corona virus ====
-tags | china virus, corona virus
 
-==== What is COVID-19? ====
-COVID-19 stands for "coronavirus disease 2019." It is an infection caused by a virus called SARS-CoV-2. The virus first appeared in late 2019 and has since spread throughout the world. People in many areas have been told to stay home as much as possible in order to slow the spread of the virus.
-
-Ref:- https://www.uptodate.com/contents/diffuse-large-b-cell-lymphoma-in-adults-beyond-the-basics#H2893604919
-
-==== What are the symptoms of covid-19? ====
-
-Fever, chills, cough, breathing difficulties, fatigue, muscle aches/soreness, headache, sore throat, nausea, vomiting, diarrhea, loss of taste/smell, runny nose/congestion.
-
-===== vaccine =====
+===== Vaccine =====
 ==== How many in the US are vaccinated? ====
 See https://covidvaxcount.live/ for an up-to-date number.
 
@@ -19,6 +8,7 @@ See https://covidvaxcount.live/ for an up-to-date number.
   * As of 2021-03-25, 28% of the population (=92 mln) are vaccinated.
   * As of 2021-04-23, 45% of the population (=146 mln) are vaccinated.
   * As of 2021-05-31, 55% of the population (=179 mln) are vaccinated.
+  * As of 2021-06-25, 61% of the population (=199 mln) are vaccinated.
 
 ==== How many doses of Moderna's vaccine will be made? ====
 600 million in 2021.
@@ -43,6 +33,17 @@ Individual pharamcy websites that have appointments but are not tracked by https
 
 ==== Notes ====
   * This paper, {url: https://www.nejm.org/doi/full/10.1056/NEJMoa2034577, title: 'Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine', journal: 'The New England Journal of Medicine'}, contains all the details regarding Pfizer BioNTech vaccine trials like how many people participated in the clinical trials, how effective it is, how safe it is, what are the side effects reported etc., \\ It was referenced in https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-celebrate-historic-first-authorization -> 6th paragraph.
+===== Corona virus ====
+tags | china virus, corona virus
+
+==== What is COVID-19? ====
+COVID-19 stands for "coronavirus disease 2019." It is an infection caused by a virus called SARS-CoV-2. The virus first appeared in late 2019 and has since spread throughout the world. People in many areas have been told to stay home as much as possible in order to slow the spread of the virus.
+
+Ref:- https://www.uptodate.com/contents/diffuse-large-b-cell-lymphoma-in-adults-beyond-the-basics#H2893604919
+
+==== What are the symptoms of covid-19? ====
+
+Fever, chills, cough, breathing difficulties, fatigue, muscle aches/soreness, headache, sore throat, nausea, vomiting, diarrhea, loss of taste/smell, runny nose/congestion.
 
 ===== Drugs =====
 

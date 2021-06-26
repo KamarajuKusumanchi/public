@@ -2,3 +2,12 @@
 ^ Date ^ market ^ possibly because ^
 | 2021-05-18 | down | in anticipation of FOMC minutes on 2021-05-19. |
 | 2021-05-20 | up | initial claims data released at 8:30 am.\\ The data is for 5/15, expected = 460k, actual = 444k, prior = 478k. |
+
+market = sp500.
+
+bps = day-over-day relative change of closing prices in bps. That is (P2/P1 * 100 * 100) rounded to the nearest integer.
+
+^ Date ^ market ^ bps ^ possibly because ^
+| 2021-05-24 | up |  106 | |
+| 2021-06-04 | up |  88 | |
+| 2021-06-16 | down |  -54 | FOMC Rate Decision at 2 PM. \\ Actual = 0.125%, expected = 0.125%, prior = 0.125%|
