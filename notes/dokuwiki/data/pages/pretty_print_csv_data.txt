@@ -1,0 +1,72 @@
+==== bare bones solution ====
+<code>
+ | column -t -s,
+</code>
+Example:
+<code>
+$ cat mason.csv
+transaction_id,seller_id,customer_id,customer_name,amount
+739554149,456938,7196590,unknown,38.05
+730159148,206741,0676350,foo,9.68
+703679772,590474,0177317,barbie,0.7
+670454639,528847,0582211,vicky,370.45
+</code>
+
+<code>
+$ cat mason.csv | column -t -s,
+transaction_id  seller_id  customer_id  customer_name  amount
+739554149       456938     7196590      unknown        38.05
+730159148       206741     0676350      foo            9.68
+703679772       590474     0177317      barbie         0.7
+670454639       528847     0582211      vicky          370.45
+</code>
+
+Tested on:
+
+git bash 2.18.0 running on Windows 10 Enterprise
+
+==== bash function ====
+Add this to ~/.bashrc
+<code>
+# Pretty print csv data
+# Sample usage:
+# pretty_csv data.csv
+# cat data.csv | pretty_csv
+# pretty_csv < data.csv
+function pretty_csv
+{
+  column -t -s, "$@"
+}
+</code>
+
+Tested on:
+
+git bash 2.18.0 running on Windows 10 Enterprise
+
+See also:- https://www.stefaanlippens.net/pretty-csv.html - talks about handling corner cases and other OSes.
+
+==== vim ====
+To convert the whole file
+<code>
+:%!column -t
+</code>
+To convert a visual selection
+<code>
+:'<,'>!column -t
+</code>
+
+Sample input:
+<code>
+1.33570301776, 3.61194e-06, 7.24503e-06, -9.91572e-06, 1.25098e-05, 0.0102828
+1.34538754675, 3.3689e-06, 9.86066e-06, -9.12075e-06, 1.18058e-05, 0.00334344
+1.34808186291, -1.99011e-06, 6.53026e-06, -1.18909e-05, 9.52337e-06, 0.00158065
+</code>
+
+Sample output:
+<code>
+1.33570301776,  3.61194e-06,   7.24503e-06,  -9.91572e-06,  1.25098e-05,  0.0102828
+1.34538754675,  3.3689e-06,    9.86066e-06,  -9.12075e-06,  1.18058e-05,  0.00334344
+1.34808186291,  -1.99011e-06,  6.53026e-06,  -1.18909e-05,  9.52337e-06,  0.00158065
+</code>
+
+Ref:- https://stackoverflow.com/questions/1229900/reformat-in-vim-for-a-nice-column-layout - contains some tips on how to handle cases where there are delimiters inside string literals.

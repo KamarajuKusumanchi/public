@@ -22,6 +22,8 @@
   * [[okular notes]]
 
 ==== dummy ====
+  * [[csv notes]]
+  * [[vim notes]]
   * [[facebook notes]]
   * [[java notes]]
   * [[csvcut notes]]
@@ -71,7 +73,6 @@
   * [[admin log]]
   * [[youtube notes]]
   * [[sed notes]]
-  * [[vim notes]]
   * [[dokuwiki notes]]
   * [[foobar]]
   * [[Hanuman chalisa]]
@@ -111,6 +112,7 @@
   * [[ibkr notes]]
   * [[insurance]]
   * [[personal finance]]
+  * [[dad jokes]]
 
   * [[share 2020]]
   * [[TIL 2020]]
