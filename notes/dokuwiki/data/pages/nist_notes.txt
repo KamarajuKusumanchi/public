@@ -1,0 +1,13 @@
+===== links I came across =====
+==== software ====
+  * https://github.com/usnistgov
+
+==== engineering statistics handbook ====
+  * http://www.nist.gov/stat.handbook/ - top level page; easy to remember.
+  * https://www.itl.nist.gov/div898/handbook/index.htm - top level page. http://www.nist.gov/stat.handbook/ redirects to it.
+  * https://www.itl.nist.gov/div898/handbook/toolaids/pff/E-Handbook.pdf - pdf of the whole handbook
+  * https://www.itl.nist.gov/div898/handbook/eda/eda.htm - chapter 1 of the handbook; title = exploratory data analysis
+
+==== labs ====
+  * https://www.nist.gov/itl - Information technology laboratory
+  * https://www.nist.gov/pml - NIST physical measurement laboratory

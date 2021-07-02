@@ -107,6 +107,10 @@
   * [[icmr notes]]
   * [[YYYYMMDD_HHMMSS]]
   * [[drug finder]]
+  * [[nist notes]]
+  * [[ibkr notes]]
+  * [[insurance]]
+  * [[personal finance]]
 
   * [[share 2020]]
   * [[TIL 2020]]

@@ -1,4 +1,15 @@
 ===== dummy =====
+==== Skip breakpoints ====
+  * https://www.jetbrains.com/help/pycharm/stepping-through-the-program.html#force-run-to-cursor
+    * Ctrl+Alt+F9 - run to cursor and skip all the break points in between
+  * https://www.jetbrains.com/help/pycharm/stepping-through-the-program.html#force-step-over
+    * Alt+Shift+F8 - step over the current line of code and ignore all the break points in between
+
+  * https://www.jetbrains.com/help/pycharm/stepping-through-the-program.html#run-to-cursor
+    * Alt+F9 - run to cursor
+  * https://www.jetbrains.com/help/pycharm/stepping-through-the-program.html#step-over
+    * F8 - step over
+
 ==== useful command line shortcuts ====
   * Ctrl+E - recent files
 

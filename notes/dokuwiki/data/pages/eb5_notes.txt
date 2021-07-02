@@ -39,14 +39,21 @@ Estimated time range            Form type                                       
 28.5 Months to 44 Months	All other areas - For use by an investor who wishes to immigrate to the United States	        June 07, 2017
 </code>
 
+See also
+  * https://iiusa.org/eb5_processing_times/ - EB-5 processing times dashboard. Shows historical data as charts.
 ==== I-526 stats ====
 
 ^ Fiscal period ^ Forms Received ^ Approved ^ Denied ^ Pending ^
+| [[https://www.uscis.gov/sites/default/files/document/data/I526_performancedata_fy2019_qtr4.pdf | Q1 2019]] |  1,808 |  2,175 |  398 |  13,508 |
+| [[https://www.uscis.gov/sites/default/files/document/data/I526_performancedata_fy2019_qtr4.pdf | Q2 2019]] |  580 |  795 |  180 |  13,105 |
+| [[https://www.uscis.gov/sites/default/files/document/data/I526_performancedata_fy2019_qtr4.pdf | Q3 2019]] |  615 |  333 |  246 |  13,070 |
+| [[https://www.uscis.gov/sites/default/files/document/data/I526_performancedata_fy2019_qtr4.pdf | Q4 2019]] |  1,191 |  356 |  190 |  13,763 |
 | [[https://www.uscis.gov/sites/default/files/document/reports/Quarterly_All_Forms_FY2020Q4.pdf | Q1 2020]] |  4,264 |  383 |  72 |  17,468 |
 | [[https://www.uscis.gov/sites/default/files/document/reports/Quarterly_All_Forms_FY2020Q4.pdf | Q2 2020]] |  21 |  714 |  190 |  16,633 |
 | [[https://www.uscis.gov/sites/default/files/document/reports/Quarterly_All_Forms_FY2020Q4.pdf | Q3 2020]] |  40 |  576 |  346 |  15,955 |
 | [[https://www.uscis.gov/sites/default/files/document/reports/Quarterly_All_Forms_FY2020Q4.pdf | Q4 2020]] |  53 |  904 |  236 |  15,063 |
 | [[https://www.uscis.gov/sites/default/files/document/reports/Quarterly_All_Forms_FY2021Q1.pdf | Q1 2021]] |  D |  1,004 |  119 |  13,746 |
+| [[https://www.uscis.gov/sites/default/files/document/reports/Quarterly_All_Forms_FY2021Q2.pdf | Q2 2021]] |  98 |  752 |  130 |  13,044 |
 
 
 To get details on the number of I-526 petitions received, approved, denied, pending etc.,
@@ -58,8 +65,10 @@ https://www.uscis.gov/tools/reports-studies/immigration-forms-data
 </code>
 
 In the results, look for something like
-  * "Immigrant Petition by Alien Entrepreneur (Form I-526) Quarterly Report (Fiscal Year 2019, 2nd Quarter, Jan. 1-Mar. 31, 2019)" . Sample link https://www.uscis.gov/sites/default/files/USCIS/Resources/Reports%20and%20Studies/Immigration%20Forms%20Data/Employment-based/I526_performancedata_fy2019_qtr2.pdf
   * "All USCIS Application and Petition Form Types (Fiscal Year 2021, 1st Quarter, October 1 - December 31, 2020)" . Sample link https://www.uscis.gov/sites/default/files/document/reports/Quarterly_All_Forms_FY2021Q1.pdf
+  * "All USCIS Application and Petition Form Types (Fiscal Year 2021, 2nd Quarter, Jan. 1-Mar 31, 2021)" . Sample link https://www.uscis.gov/sites/default/files/document/reports/Quarterly_All_Forms_FY2021Q2.pdf
+
+  * "Immigrant Petition by Alien Entrepreneur (Form I-526) Quarterly Report (Fiscal Year 2019, 2nd Quarter, Jan. 1-Mar. 31, 2019)" . Sample link https://www.uscis.gov/sites/default/files/USCIS/Resources/Reports%20and%20Studies/Immigration%20Forms%20Data/Employment-based/I526_performancedata_fy2019_qtr2.pdf
 
 You can also go to https://www.uscis.gov/tools/reports-studies/immigration-forms-data via
 

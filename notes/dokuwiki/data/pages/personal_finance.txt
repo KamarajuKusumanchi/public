@@ -1,0 +1,5 @@
+==== RMD ====
+RMD = Required minimum distribution.
+
+  * The IRS requires to start taking tax deferred retirement money out at the age of 72 (or 70.5 if you were born before July 1, 1949).
+  * RMD is 3.9% at age 72, 8.8% at age 90.
