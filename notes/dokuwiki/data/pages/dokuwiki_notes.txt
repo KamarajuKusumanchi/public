@@ -1,4 +1,18 @@
+==== include code in ordered lists ====
+Put the ''<nowiki><code></nowiki>'' tag on the same line of the item. For example
+  * foo <code>
+bar
+</code>
+as opposed to
+  * foo
+<code>
+bar
+</code>
+
 ==== Useful documentation ====
+  * https://www.dokuwiki.org/tips
+  * https://www.dokuwiki.org/tips:good_style
+
   * https://www.dokuwiki.org/namespaces has answers for
     * How to create new namespaces?
   * https://www.dokuwiki.org/wiki:syntax#quoting - quote some text. You can have other stuff like bold text, monospaced text etc., within the quoted text
@@ -15,8 +29,6 @@
   * https://www.dokuwiki.org/export
   * https://www.dokuwiki.org/locking
 
-  * https://www.dokuwiki.org/tips:good_style
-
   * https://wiki.chongtin.com/adding_google_adsense
 
 ==== useful plugins ====
@@ -30,6 +42,10 @@
   * https://www.dokuwiki.org/plugin:mathjax
   * https://www.dokuwiki.org/plugin:move
 
+==== plugins I came across ====
+https://www.dokuwiki.org/tips:book mentions two plugins that are useful for creating books.
+  * https://www.dokuwiki.org/plugin:bookcreator
+  * https://www.dokuwiki.org/plugin:dw2pdf
 ==== conflicting plugins ====
   * https://www.dokuwiki.org/plugin:edittable - seems nice. But it is conflicting with https://www.dokuwiki.org/plugin:wrap . For example, if I have a cell with a list of items, and if I install the edittable plugin and then try to edit that table, the cell contents are not longer rendered as a list.
     * Todo:- Try to come up with a small test case and report it upstream.

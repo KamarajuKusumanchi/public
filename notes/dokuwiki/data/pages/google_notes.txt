@@ -1,2 +1,3 @@
 ==== urls I came across ====
+  * https://myaccount.google.com/recovery/email - verify the recovery email address
   * https://search.google.com/test/mobile-friendly - check if page is mobile friendly

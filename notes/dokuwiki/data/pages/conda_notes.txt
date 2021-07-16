@@ -1,3 +1,41 @@
+===== dummy =====
+
+
+==== find the package version ====
+tags | check package version, list packages in environment, show the package version
+
+To find the version of a package installed
+<code>
+conda list -n env_name package_name
+</code>
+For example
+<code>
+$ conda list pandas -n py39
+# packages in environment at C:\ProgramData\Continuum\Anaconda\envs\py39:
+#
+# Name                    Version                   Build  Channel
+pandas                    1.2.4            py39hd77b12b_0
+pandas-datareader         0.9.0                      py_0
+</code>
+
+You can also use this technique to check if a package is installed.
+
+For multiple packages
+<code>
+conda list -n env_name | grep -E "pkgA|pkgB"
+</code>
+For example
+<code>
+$ conda list -n py39 | grep -E "pandas|numpy"
+numpy                     1.20.1           py39h34a8a5c_0
+numpy-base                1.20.1           py39haf7ebc8_0
+pandas                    1.2.4            py39hd77b12b_0
+pandas-datareader         0.9.0                      py_0
+</code>
+
+Ref:- https://conda.io/docs/commands/conda-list.html
+
+
 ===== activate conda environment =====
 tags | activate conda environment through shell script
 ==== source activate vs. conda activate ====
@@ -44,27 +82,6 @@ tested with conda 4.8.3 on a machine running RHEL 7.6
 
 See also: [[#source activate vs. conda activate]], [[#conda activate]]
 ===== dummy =====
-
-==== find the package version ====
-tags | check package version, list packages in environment, show the package version
-
-To find the version of a package installed
-<code>
-conda list -n env_name package_name
-</code>
-For example
-<code>
-$ conda list pandas -n py36
-# packages in environment at C:\ProgramData\Continuum\Anaconda\envs\py36:
-#
-# Name                    Version                   Build  Channel
-pandas                    0.23.3           py36h830ac7b_0
-pandas-datareader         0.5.0                    py36_0
-</code>
-
-You can also use this technique to check if a package is installed.
-
-Ref:- https://conda.io/docs/commands/conda-list.html
 
 ==== create an environment on the fly ====
 Sample commands:

@@ -96,3 +96,8 @@ $ cat task_notes.txt
 </code>
 
 Ref:- https://conemu.github.io/en/ConEmuArgs.html - explains about the -run argument.
+
+==== useful links ====
+  * https://conemu.github.io/en/KeyboardShortcuts.html
+  * https://github.com/Maximus5/ConEmu/releases - release history
+    * Useful for "how many conemu releases were there between 210422 and 210627?"

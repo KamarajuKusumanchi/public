@@ -79,3 +79,7 @@ Ref:- https://en.wikipedia.org/wiki/Paracetamol#Naming
 | Wood burns at | 575 $^\circ$F |
 | Glass melts at | 900 $^\circ$F |
 | Sparklers burn at | 1200 $^\circ$F |
+
+==== dummy 009 ====
+  * https://www.hazlettwp.org/ - Hazlet town website
+  * https://www.hazlettwp.org/CivicAlerts.aspx?AID=702 - fireworks show will be on 2021-07-05

@@ -1,3 +1,14 @@
+===== 2021-07 =====
+==== 2021-07-13 ====
+  * https://newatlas.com/materials/thermally-stable-zte-advanced-material/
+    * A new material made of scandium, aluminum, tungsten and oxygen did not change in volume at temperatures ranging from 4 to 1,400 Kelvin (-269 to 1126 °C, -452 to 2059 °F).
+    * Name of the new material - orthorhombic $Sc_{1.5}Al_{0.5}W_{3}O_{12}$
+    * Of all the four elements, scandium is rarer and more costly.
+    * The other ingredients are widely available, and bond together using a "relatively simple synthesis".
+
+==== 2021-07-11 ====
+  * https://www.bloomberg.com/news/articles/2021-07-11/branson-poised-to-take-off-on-virgin-galactic-flight-to-space?srnd=premium
+
 ===== 2021-06 =====
 ==== 2021-06-14 ====
   * [[https://oceanservice.noaa.gov/facts/springtide.html | What are spring and neap tides? ]] (noaa.gov)
