@@ -1,0 +1,79 @@
+
+===== convert dict of dicts to list of dicts =====
+==== task ====
+Convert
+<code>
+  dod = {
+      "alice":
+      {
+          "lang": "python",
+          "level": "expert"
+      },
+      "bob":
+      {
+          "lang": "perl",
+          "level": "noob"
+      }
+  }
+</code>
+
+to
+<code>
+  lod = [
+      {
+          "name": "alice",
+          "lang": "python",
+          "level": "expert"
+      },
+      {
+          "name": "bob",
+          "lang": "perl",
+          "level": "noob"
+      }
+  ]
+</code>
+==== solution ====
+
+<code>
+lod = [dict(value, name=key) for key, value in dod.items()]
+</code>
+
+Example:
+<code>
+$ ipython
+
+In [1]:
+dod = {
+    "alice":
+    {
+        "lang": "python",
+        "level": "expert"
+    },
+    "bob":
+    {
+        "lang": "perl",
+        "level": "noob"
+    }
+}
+
+In [2]:
+dod
+Out[2]:
+{'alice': {'lang': 'python', 'level': 'expert'},
+ 'bob': {'lang': 'perl', 'level': 'noob'}}
+
+In [3]:
+lod = [dict(value, name=key) for key, value in dod.items()]
+
+In [4]:
+lod
+Out[4]:
+[{'lang': 'python', 'level': 'expert', 'name': 'alice'},
+ {'lang': 'perl', 'level': 'noob', 'name': 'bob'}]
+</code>
+
+System information: python 3.9.4 and ipython 7.22.0
+
+==== Ref ====
+  * https://mail.python.org/pipermail/python-list/2021-March/901629.html - thread where I first came across this problem. It provides many alternative solutions besides the one above.
+

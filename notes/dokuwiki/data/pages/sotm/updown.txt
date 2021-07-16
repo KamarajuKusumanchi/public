@@ -11,3 +11,6 @@ bps = day-over-day relative change of closing prices in bps. That is (P2/P1 * 10
 | 2021-05-24 | up |  106 | |
 | 2021-06-04 | up |  88 | |
 | 2021-06-16 | down |  -54 | FOMC Rate Decision at 2 PM. \\ Actual = 0.125%, expected = 0.125%, prior = 0.125%|
+
+^ Date ^ market ^ notes ^
+| 2021-07-08 | previous close: 4358.13 \\ today open: 4321.07 \\ today close: 4320.82 \\ close to close ret: -86 bps | Market went down a lot between 2021-07-07 close and 2021-07-08 open.\\ It then recovered during regular trading hours on 2021-07-08.\\ US 30 year treasury rate dipped below 1.90. |

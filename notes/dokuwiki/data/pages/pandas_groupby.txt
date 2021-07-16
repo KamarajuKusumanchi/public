@@ -1,5 +1,6 @@
 ==== preserve the highest value entries in each group ====
 tags | filter by value
+
 Given
 <code>
     Sp  Mt Value  count
@@ -73,6 +74,123 @@ Out[3]:
 </code>
 
 Ref:- https://stackoverflow.com/questions/15705630/get-the-rows-which-have-the-max-value-in-groups-using-groupby
+
+==== preserve the highest odd value in each group ====
+tags | pandas groupby transform maximum odd number, maxodd
+
+Given
+<code>
+     Sp  Mt Value  count
+0   MM1  S1     a      1
+1   MM1  S1     n      2
+2   MM1  S1    cb      3
+3   MM2  S2    mk      1
+4   MM2  S2    bg      2
+5   MM3  S3   dgd      2
+6   MM3  S3    rd      3
+7   MM4  S4    cb      1
+8   MM4  S4   uyi      3
+9   MM5  S5     w      1
+10  MM6  S6    ea      2
+11  MM7  S7     t      3
+</code>
+
+We want
+<code>
+     Sp  Mt Value  count
+2   MM1  S1    cb      3
+3   MM2  S2    mk      1
+6   MM3  S3    rd      3
+8   MM4  S4   uyi      3
+9   MM5  S5     w      1
+11  MM7  S7     t      3
+</code>
+That is get all the rows with highest odd 'count' for each ['Sp', 'Mt'] combination.
+If there is a group with only even 'count' values, discard it.
+
+Solution
+<code>
+In [1]:
+import pandas as pd
+df = pd.DataFrame({'Sp': ['MM1', 'MM1', 'MM1', 'MM2', 'MM2', 'MM3', 'MM3',
+                          'MM4', 'MM4', 'MM5', 'MM6', 'MM7'],
+                   'Mt': ['S1', 'S1', 'S1', 'S2', 'S2', 'S3', 'S3',
+                          'S4', 'S4', 'S5', 'S6', 'S7'],
+                   'Value': ['a', 'n', 'cb', 'mk', 'bg', 'dgd', 'rd',
+                             'cb', 'uyi', 'w', 'ea', 't'],
+                   'count': [1, 2, 3, 1, 2, 2, 3, 1, 3, 1, 2, 3]})
+df
+Out[1]:
+     Sp  Mt Value  count
+0   MM1  S1     a      1
+1   MM1  S1     n      2
+2   MM1  S1    cb      3
+3   MM2  S2    mk      1
+4   MM2  S2    bg      2
+5   MM3  S3   dgd      2
+6   MM3  S3    rd      3
+7   MM4  S4    cb      1
+8   MM4  S4   uyi      3
+9   MM5  S5     w      1
+10  MM6  S6    ea      2
+11  MM7  S7     t      3
+
+In [2]:
+def max_odd(s):
+    value = s.loc[s % 2 == 1].max()
+    return value
+
+
+In [3]:
+idx = df.groupby(['Sp', 'Mt'])['count'].transform(max_odd) == df['count']
+df[idx]
+Out[3]:
+     Sp  Mt Value  count
+2   MM1  S1    cb      3
+3   MM2  S2    mk      1
+6   MM3  S3    rd      3
+8   MM4  S4   uyi      3
+9   MM5  S5     w      1
+11  MM7  S7     t      3
+</code>
+
+Breakdown of how it works:
+<code>
+In [4]:
+df.groupby(['Sp', 'Mt'])['count'].transform(max_odd)
+Out[4]:
+0     3.0
+1     3.0
+2     3.0
+3     1.0
+4     1.0
+5     3.0
+6     3.0
+7     3.0
+8     3.0
+9     1.0
+10    NaN
+11    3.0
+Name: count, dtype: float64
+
+In [5]:
+idx = df.groupby(['Sp', 'Mt'])['count'].transform(max_odd) == df['count']
+idx
+Out[5]:
+0     False
+1     False
+2      True
+3      True
+4     False
+5     False
+6      True
+7     False
+8      True
+9      True
+10    False
+11     True
+Name: count, dtype: bool
+</code>
 ==== level ====
 If a dataframe has multiple indices but you need to groupby on only of them, use level. So, level=0 groups it on the first index, level=1 on the second index, level=-1 on the last index etc.,
 

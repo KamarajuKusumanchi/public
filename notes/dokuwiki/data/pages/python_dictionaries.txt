@@ -1,3 +1,6 @@
+==== tasks ====
+  * [[convert dict of dicts to list of dicts]]
+
 ==== initialize a dictionary ====
 <code>
 In [1]:
