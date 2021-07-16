@@ -22,6 +22,7 @@
   * [[okular notes]]
 
 ==== dummy ====
+  * [[weather notes]]
   * [[csv notes]]
   * [[vim notes]]
   * [[facebook notes]]

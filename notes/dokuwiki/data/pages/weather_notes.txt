@@ -1,0 +1,5 @@
+==== useful links I came across ====
+  * https://wttr.in/edison - show weather for Edison, NJ
+    * Is there an equivalent to show weather in Morganville, NJ?
+  * https://github.com/chubin/wttr.in - the readme shows various options available. Well written; easy to follow.
+  * https://v3.wttr.in/edison - map view; \\ But it is showing the temperature in Celsius. Is there a way to get the info in Fahrenheit instead? https://v3.wttr.in/edison?u does not work.
