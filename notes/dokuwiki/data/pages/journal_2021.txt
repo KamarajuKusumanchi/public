@@ -1,4 +1,8 @@
 ===== 2021-07 =====
+==== 2021-07-17 ====
+  * https://www.youtube.com/watch?v=RSTNhvDGbYI
+    * This video explains how rice cookers work by taking advantage of concepts such as latent heat, magnets etc.,
+
 ==== 2021-07-13 ====
   * https://newatlas.com/materials/thermally-stable-zte-advanced-material/
     * A new material made of scandium, aluminum, tungsten and oxygen did not change in volume at temperatures ranging from 4 to 1,400 Kelvin (-269 to 1126 °C, -452 to 2059 °F).
