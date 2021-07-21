@@ -1,0 +1,17 @@
+==== sample commands ====
+<code>
+csvgrep -c col1 -m "val1" file.csv | \
+csvgrep -c col2 -r "foo|bar" | \
+csvcut -c col1,col2,col3 | \
+column -t -s,
+</code>
+
+demonstrates | regex a or b
+
+Ref:- https://dl.icewarp.com/online_help/203030104.htm - Simple RegEx Tutorial. It talks about the '|' OR operator in regex. For example "foo|bar" matches a string that has either "foo" or "bar" in it.
+
+==== useful links ====
+  * https://csvkit.readthedocs.io/en/1.0.6/scripts/csvgrep.html
+  * https://github.com/wireservice/csvkit/releases
+  * https://csvkit.readthedocs.io/en/latest/scripts/csvgrep.html
+  * https://csvkit.readthedocs.io/en/latest/

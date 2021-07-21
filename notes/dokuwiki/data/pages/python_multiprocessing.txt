@@ -1,0 +1,42 @@
+==== using pool ====
+Goal: Run two functions in parallel. The second function should start irrespective of whether the first one finished or not.
+
+<code>
+$ cat use_pool.py
+from multiprocessing import Pool
+from time import sleep
+
+def square(x):
+    res = x*x
+    print('square(', x, ') = ', res)
+    # artificially increase the runtime of the function
+    sleep(10)
+    return res
+
+def cube(x):
+    res = x**3
+    print('cube(', x, ') = ', res)
+    # artificially increase the runtime of the function
+    sleep(10)
+    return res
+
+if __name__ == '__main__':
+    num_workers = 2
+    pool = Pool(num_workers)
+    funcs = [square, cube]
+    token = 2
+    tasks = [pool.apply_async(func, (token,))
+             for func in funcs]
+    [task.get() for task in tasks]
+</code>
+
+<code>
+$ python use_pool.py
+square( 2 ) =  4
+cube( 2 ) =  8
+</code>
+
+<code>
+$ python --version
+Python 3.9.4
+</code>

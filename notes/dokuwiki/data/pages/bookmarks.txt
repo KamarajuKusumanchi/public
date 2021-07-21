@@ -1,4 +1,5 @@
 ==== dummy ====
+  * https://www.cpubenchmark.net/market_share.html - AMD vs. Intel CPU Market Share
   * https://marketingreportoptout.visa.com/OPTOUT/request.do - opt out of VISA marketing.
   * https://puzzlepaheliyan.com/ - Puzzles and riddles with answers and explanations.
   * https://www.worldtimebuddy.com/ - Useful for questions like \\ If it is 7 am in USA, what is the corresponding time in India?

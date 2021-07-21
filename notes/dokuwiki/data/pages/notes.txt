@@ -22,12 +22,14 @@
   * [[okular notes]]
 
 ==== dummy ====
+  * [[symphony notes]]
   * [[integration]]
   * [[weather notes]]
   * [[csv notes]]
   * [[vim notes]]
   * [[facebook notes]]
   * [[java notes]]
+  * [[csvgrep notes]]
   * [[csvcut notes]]
   * [[outlook notes]]
   * [[eb5 notes]]
@@ -118,7 +120,7 @@
 
   * [[share 2020]]
   * [[TIL 2020]]
-  * [[reading journal 2021]]
+  * [[journal_2021]]
   * [[TIL]]
   * [[share 2021]]
   * [[bookmarks]]

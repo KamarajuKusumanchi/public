@@ -5,4 +5,9 @@ Why:
 
 ^ ^ shoutwiki ^ self hosted ^
 | Backup of the wiki contents | I cannot do it myself. | I can do it myself and also automate it.|
-| Down time | Is down once in a while.\\ Not under my control. | Under my control. |
+| Scheduled down time | Not under my control. | Under my control. |
+| Bad Gateway error | Shoutwiki is often down with "502 Bad Gateway" error.\\ I was impacted by it on the following dates <WRAP>
+  * 2021-07-19
+</WRAP> | N/A |
+
+tags | why not shoutwiki

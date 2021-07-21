@@ -1,0 +1,50 @@
+===== dummy =====
+==== emoticons ====
+  * :sunglasses:
+  * :heart_eyes:
+
+==== links I came across ====
+  * https://support.symphony.com/hc/en-us/articles/360037594432-How-to-check-the-Symphony-Desktop-Application-SDA-version
+    * <- Answers "What version of symphony am I using?"
+  * https://resources.symphony.com/help/index.html - documentation
+  * https://goto.symphony.com/rs/945-HBF-959/images/2019-SyMS_MicrosoftOffice.pdf
+    * <- Is this a feature we have to buy separately?
+  * https://support.symphony.com/hc/en-us/articles/360000701066-Manage-your-layout - manage the layout
+  * https://support.symphony.com/hc/en-us/articles/360000701106-Create-and-update-folders - Create and update folders
+
+===== Configuration =====
+==== settings I am currently trying ====
+<code>
+Global Settings button at the top right ->
+General
+-> Auto Hide
+  -> Hide chats that have been read and inactive for
+    -> check the box
+    -> 30 Days
+    -> refresh Symphony
+</code>
+
+<code>
+Global Settings button at the top right ->
+Alerts -> Message Notifications
+
+  Rooms ->
+    select "Numbered Badge" in the dropdown.
+    Enable Desktop Alerts -> check
+    Flashing Desktop Alerts -> uncheck
+    Persist Notifications -> uncheck
+  IMS ->
+    Enable Desktop Alerts -> check
+    Flashing Desktop Alerts -> uncheck
+    Persist Notifications -> check
+
+  Configure Desktop Alert Positions ->
+    Notifications shown on Monitor = 3  /* This is my left most monitor.
+                                           They are positioned as 3-1-2. */
+    Position = Top Left
+</code>
+
+<code>
+Global Settings button at the top right ->
+Themes -> Symphony Blue
+</code>
