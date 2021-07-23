@@ -1,0 +1,9 @@
+==== how long does a snippet take? ====
+<code>
+$ python -m timeit -n 3 "from time import sleep; sleep(4)"
+3 loops, best of 5: 4 sec per loop
+</code>
+
+Ref:-
+  * https://realpython.com/python-sleep/#adding-a-python-sleep-call-with-timesleep
+  * https://docs.python.org/3/library/timeit.html#timeit-command-line-interface

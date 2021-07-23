@@ -1,0 +1,23 @@
+===== dummy =====
+==== similar apps ====
+  * bijiben - for gnome <code>
+ % date; apt-cache search --names-only "bijiben|knotes" | popsort.py      
+Fri 23 Jul 2021 10:38:08 AM EDT
+6285 bijiben - intuitive note editor integrated with GNOME 3
+3474 knotes - sticky notes application
+</code>
+
+===== configuration =====
+==== strikethrough text ====
+  * To configure it on a per note basis <code>
+Open the note -> right click on the title bar
+-> Preferences -> Editor Settings -> Rich text
+</code>
+
+  * To enable it for all notes <code>
+Right click on the application icon -> Configure KNotes
+-> Editor -> Rich text -> OK
+</code> Note:
+    * This will only affect new notes going forward.
+    * The existing notes are left as is.
+    * To change it for the existing notes, use the "per note" hack above.

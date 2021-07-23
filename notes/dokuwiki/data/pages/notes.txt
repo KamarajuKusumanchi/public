@@ -22,6 +22,8 @@
   * [[okular notes]]
 
 ==== dummy ====
+  * [[knotes]]
+  * [[telegram notes]]
   * [[symphony notes]]
   * [[integration]]
   * [[weather notes]]

@@ -16,3 +16,4 @@
   * [[python strings]]
   * [[python dictionaries]]
   * [[python multiprocessing]]
+  * [[python timeit]]

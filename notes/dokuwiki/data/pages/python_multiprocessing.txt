@@ -40,3 +40,8 @@ cube( 2 ) =  8
 $ python --version
 Python 3.9.4
 </code>
+
+tags | run processes in parallel
+
+==== links I came across ====
+  * https://docs.python.org/3/library/multiprocessing.html

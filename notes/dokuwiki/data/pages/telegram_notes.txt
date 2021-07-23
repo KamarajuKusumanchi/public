@@ -1,0 +1,5 @@
+===== configuration =====
+==== Only allow your contacts to add you to group chats ====
+<code>
+Privacy and Security -> Groups -> My Contacts
+</code>

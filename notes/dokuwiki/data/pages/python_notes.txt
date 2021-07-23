@@ -78,6 +78,20 @@ if os.stat(input_file).st_size == 0:
 ==== tasks ====
   * [[get urls in a url]]
 
+==== isinstance experiments ====
+<code>
+In [1]: 
+isinstance(True, int)
+Out[1]: 
+True
+
+In [2]: 
+type(True) is int
+Out[2]: 
+False
+</code>
+Using Python 3.9.5
+
 ===== Snippets =====
 ==== print exception and continue ====
 <code>
@@ -109,6 +123,17 @@ To test the above code, you can raise a simple exception using
 <code>
 raise ValueError("test exception handling.")
 </code>
+
+==== sleep for 10 seconds ====
+tags | sleep for N seconds
+
+<code>
+from time import sleep
+sleep(10)
+</code>
+
+Ref:- https://realpython.com/python-sleep/ - well written article that talks about how you might use the sleep function in real life. Worth reading end-to-end once.
+
 
 ===== format related =====
 ==== assert variable in a list ====
