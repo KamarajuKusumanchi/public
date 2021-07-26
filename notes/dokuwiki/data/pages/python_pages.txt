@@ -14,6 +14,7 @@
   * [[black notes]]
   * [[python cli]]
   * [[python strings]]
+  * [[python lists]]
   * [[python dictionaries]]
   * [[python multiprocessing]]
   * [[python timeit]]

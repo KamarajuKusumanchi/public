@@ -1,0 +1,52 @@
+===== Get unique items in a list =====
+==== Task ====
+Given
+<code>
+mylist = ['nowplaying', 'PBS', 'PBS', 'nowplaying', 'job', 'debate', 'thenandnow']
+</code>
+get the list of unique items. The output can be one of three ways:
+  - Order does not matter. <code>
+['thenandnow', 'debate', 'nowplaying', 'PBS', 'job']
+</code>
+  - Preserve the order and keep the first unique item. <code>
+['nowplaying', 'PBS', 'job', 'debate', 'thenandnow']
+</code>
+  - Preserve the order and keep the last unique item. <code>
+['PBS', 'nowplaying', 'job', 'debate', 'thenandnow']
+</code>
+
+==== Notes and assumptions ====
+  * Starting from Python 3.7, dictionaries in python are ordered by insertion order. Per https://docs.python.org/3.7/tutorial/datastructures.html#dictionaries <code>
+Performing list(d) on a dictionary returns a list of all the keys used in the dictionary, in insertion order
+</code>
+  * Assume Python >= 3.7 is used.
+
+==== Case 1: unique unordered ====
+<code>
+uniq_no_order = list(set(mylist))
+print(uniq_no_order)
+</code>
+
+<code>
+['nowplaying', 'job', 'debate', 'PBS', 'thenandnow']
+</code>
+
+==== Case 2: keep first unique ====
+<code>
+uniq_first = list({key:1 for key in mylist}.keys())
+print(uniq_first)
+</code>
+
+<code>
+['nowplaying', 'PBS', 'job', 'debate', 'thenandnow']
+</code>
+
+==== Case 3: keep last unique ====
+<code>
+uniq_last = list({key:1 for key in mylist[::-1]}.keys())[::-1]
+print(uniq_last)
+</code>
+
+<code>
+['PBS', 'nowplaying', 'job', 'debate', 'thenandnow']
+</code>

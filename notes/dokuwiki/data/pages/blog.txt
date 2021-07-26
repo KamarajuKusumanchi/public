@@ -1,4 +1,5 @@
 ==== 2021 ====
+  * 2021-07-23 [[get unique items in a list]]
   * 2021-07-02 [[Pretty print csv data]]
 
   * 2021-05-01 My chess rating touched 1800 for the first time today! Yay! https://lichess.org/@/kamaraju/perf/rapid
