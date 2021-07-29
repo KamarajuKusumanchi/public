@@ -119,14 +119,16 @@
   * [[insurance]]
   * [[personal finance]]
   * [[dad jokes]]
-
-  * [[share 2020]]
-  * [[TIL 2020]]
-  * [[journal_2021]]
-  * [[TIL]]
-  * [[share 2021]]
   * [[bookmarks]]
 
+==== by date ====
+  * [[reading journal 2021]]
+  * [[TIL 2021]]
+  * [[TIL 2020]]
+  * [[share 2021]]
+  * [[share 2020]]
+
+Policy:- sort by (type, year descending)
 
 ==== dummy ====
   * [[products]]

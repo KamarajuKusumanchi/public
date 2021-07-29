@@ -1,4 +1,8 @@
 ===== 2021-07 =====
+==== 2021-07-29 ====
+  * https://en.wikipedia.org/wiki/Disruptive_innovation Disruptive innovation
+    * https://en.wikipedia.org/wiki/Disruptive_innovation#Examples - some examples of disruptive innovation.
+
 ==== 2021-07-17 ====
   * https://www.youtube.com/watch?v=RSTNhvDGbYI
     * This video explains how rice cookers work by taking advantage of concepts such as latent heat, magnets etc.,
@@ -51,7 +55,6 @@
   * [[https://www.reuters.com/article/us-usa-drones-faa/u-s-to-allow-small-drones-to-fly-over-people-at-night-idUSKBN2921R8|U.S. to allow small drones to fly over people and at night]] (reuters.com)
   * [[https://www.youtube.com/watch?v=fn3KWM1kuAw | Boston Dynamics: Do You Love Me?]] [video] (youtube.com)
 
-
 ==== 2021-01-12 ====
   * https://www.youtube.com/watch?v=yYAw79386WI - This video, made in 1937, explains how a car differential works in simple terms. It was made by Jam Handy.
   * <- https://www.roadandtrack.com/car-culture/classic-cars/a25833/1937-film-perfectly-explains-how-a-car-differential-works/
@@ -60,9 +63,9 @@
   * http://www.paulgraham.com/growth.html - Startup = Growth
   * [[https://chemistry.stackexchange.com/a/7917 | Why can we smell copper?]] (stackexchange.com)
 
+
 ==== Policy ====
   * Most recent first.
   * Each year in its own page.
-  * Separate sections for each month.
-  * Separate sections for each date.
+  * Separate sections by month and date.
   * If an individual entry takes more than a line, add an extra line for readability.
