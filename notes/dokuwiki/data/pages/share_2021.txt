@@ -1,4 +1,7 @@
 ==== 2021 ====
+  * 2021-07-30
+    * https://www.cnbc.com/2021/07/01/tesla-model-s-plaid-caught-fire-while-being-driven-fire-chief.html - Tesla Model S Plaid caught fire while driver was at the wheel
+
   * 2021-07-24
     * https://github.com/linuxhw/TestCoverage/tree/main/Dist/Debian_11 - Debian 11 - Tested Hardware & Statistics
 

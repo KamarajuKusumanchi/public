@@ -1,3 +1,6 @@
+===== dummy =====
+==== useful links ====
+  * https://mywiki.wooledge.org/ArithmeticExpression - Arithmetic Expansion 
 ===== getopts =====
 ==== useful articles ====
   * https://sookocheff.com/post/bash/parsing-bash-script-arguments-with-shopts/ - Parsing bash script options with getopts

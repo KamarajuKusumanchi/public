@@ -1,5 +1,6 @@
 ==== Fed ====
   * John Williams - Federal Reserve Bank of New York President
+  * James Bullard - St. Louis Fed President
 
 ==== dummy ====
   * Tony Rodriguez - head of fixed income strategy at Nuveen
