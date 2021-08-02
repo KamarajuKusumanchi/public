@@ -1,5 +1,29 @@
+===== Q and A =====
+==== Was there a beta and gamma covid variant before delta? ====
+Yes.
 
-===== Vaccine =====
+^ WHO label ^ Covid variant ^ First detected ^
+| Alpha | B.1.1.7 | <WRAP>
+  * in UK
+  * in US in 2020-12
+</WRAP> |
+| Beta | B.1.351 | <WRAP>
+  * in South Africa in 2020-12
+  * in US in 2021-01
+</WRAP> |
+| Gamma | P.1 | <WRAP>
+  * in Japan/Brazil in 2021-01
+  * in US in 2021-01
+</WRAP> |
+| Delta | B.1.617.2 | <WRAP>
+  * in India in 2020-12
+  * in US in 2021-03
+</WRAP> |
+
+Ref:
+  * https://www.cdc.gov/coronavirus/2019-ncov/variants/variant-info.html#Concern - shows the country where the variant of concern is first identified.
+  * https://www.cdc.gov/coronavirus/2019-ncov/science/science-briefs/scientific-brief-emerging-variants.html
+
 ==== How many in the US are vaccinated? ====
 See https://covidvaxcount.live/ for an up-to-date number.
 
@@ -10,6 +34,7 @@ See https://covidvaxcount.live/ for an up-to-date number.
   * As of 2021-05-31, 55% of the population (=179 mln) are vaccinated.
   * As of 2021-06-25, 61% of the population (=199 mln) are vaccinated.
 
+2021-08-01: The website (https://covidvaxcount.live/) is not working
 ==== How many doses of Moderna's vaccine will be made? ====
 600 million in 2021.
 
@@ -22,6 +47,16 @@ Ref:-
   * From https://www.bloomberg.com/news/articles/2021-01-11/pfizer-biontech-boost-covid-vaccine-target-to-2-billion-doses dated 2021-01-11 \\ Pfizer Inc. and BioNTech SE plan to produce 2 billion doses of their Covid-19 vaccine this year, boosting previously expected output by more than 50% in response to surging global demand.
   * From https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-celebrate-historic-first-authorization dated 2020-12-11 -> "Manufacturing and Delivery Capabilities" section \\ Based on current projections, Pfizer’s and BioNTech’s combined manufacturing network has the potential to supply globally up to 50 million vaccine doses in 2020 and up to 1.3 billion doses by the end of 2021.
 
+==== What is COVID-19? ====
+COVID-19 stands for "coronavirus disease 2019." It is an infection caused by a virus called SARS-CoV-2. The virus first appeared in late 2019 and has since spread throughout the world. People in many areas have been told to stay home as much as possible in order to slow the spread of the virus.
+
+Ref:- https://www.uptodate.com/contents/diffuse-large-b-cell-lymphoma-in-adults-beyond-the-basics#H2893604919
+
+==== What are the symptoms of covid-19? ====
+
+Fever, chills, cough, breathing difficulties, fatigue, muscle aches/soreness, headache, sore throat, nausea, vomiting, diarrhea, loss of taste/smell, runny nose/congestion.
+
+===== Vaccine =====
 ==== NJ vaccine notes ====
   * https://www.vaccinespotter.org/NJ/
   * https://covid19.nj.gov/pages/finder - State Vaccine Appointment Finder. On this website you can search for appointments available throughout the state. It hopes to ease the need to navigate multiple websites. The site refreshes multiple times an hour as appointments become available.
@@ -31,19 +66,12 @@ Individual pharamcy websites that have appointments but are not tracked by https
   * Pharmacy Emporium. Book appt at https://www.emporiumrx.com/ -> click on "Book a COVID-19 Vaccine Appointment" which takes you to https://hipaa.jotform.com/210986243290053
   * Future Pharmacy in Manalapan by NetCost market. Book appt at https://www.futurepharmacynj.com/ or call 732-851-7100
 
-==== Notes ====
-  * This paper, {url: https://www.nejm.org/doi/full/10.1056/NEJMoa2034577, title: 'Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine', journal: 'The New England Journal of Medicine'}, contains all the details regarding Pfizer BioNTech vaccine trials like how many people participated in the clinical trials, how effective it is, how safe it is, what are the side effects reported etc., \\ It was referenced in https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-celebrate-historic-first-authorization -> 6th paragraph.
 ===== Corona virus ====
 tags | china virus, corona virus
 
-==== What is COVID-19? ====
-COVID-19 stands for "coronavirus disease 2019." It is an infection caused by a virus called SARS-CoV-2. The virus first appeared in late 2019 and has since spread throughout the world. People in many areas have been told to stay home as much as possible in order to slow the spread of the virus.
+==== Notes ====
+  * This paper, {url: https://www.nejm.org/doi/full/10.1056/NEJMoa2034577, title: 'Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine', journal: 'The New England Journal of Medicine'}, contains all the details regarding Pfizer BioNTech vaccine trials like how many people participated in the clinical trials, how effective it is, how safe it is, what are the side effects reported etc., \\ It was referenced in https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-celebrate-historic-first-authorization -> 6th paragraph.
 
-Ref:- https://www.uptodate.com/contents/diffuse-large-b-cell-lymphoma-in-adults-beyond-the-basics#H2893604919
-
-==== What are the symptoms of covid-19? ====
-
-Fever, chills, cough, breathing difficulties, fatigue, muscle aches/soreness, headache, sore throat, nausea, vomiting, diarrhea, loss of taste/smell, runny nose/congestion.
 
 ===== Drugs =====
 
@@ -64,6 +92,8 @@ Fever, chills, cough, breathing difficulties, fatigue, muscle aches/soreness, he
 
 ===== dummy =====
 ==== links I came across ====
+  * https://www.cdc.gov/coronavirus/2019-ncov/science/science-briefs/scientific-brief-emerging-variants.html - Science Briefs
+
   * [[https://stemcellsjournals.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)9999-0003.Covid-19-and-stem-cells]] - Covid-19 and stem cells
 
   * https://www.cdc.gov/coronavirus/2019-ncov/vaccines/facts.html - Myths and facts about covid-19 vaccines

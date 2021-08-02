@@ -1,0 +1,12 @@
+==== US related ====
+  * HHS - The US Department of Health and Human Services
+  * CDC - Centers for Disease Control and Prevention
+  * NIH - National Institutes of Health (NIH)
+  * FDS - Food and Drug Administration
+  * BARDA - Biomedical Advanced Research and Development Authority (BARDA)
+  * DoD - Department of Defense
+
+  * SIG - SARS-CoV-2 Interagency Group
+    * Established by HHS
+    * to improve coordination among CDC, NIH, FDA, BARDA, DoD
+    * Ref:- https://www.cdc.gov/coronavirus/2019-ncov/variants/variant-info.html -> "Variant classifications"

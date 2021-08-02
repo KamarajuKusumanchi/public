@@ -1,3 +1,11 @@
+==== remove extra line in lists inside table cells ====
+When the WRAP plugin is used to create lists inside table cells, an extra line is added at the end of the list. To remove it, add the following to /etc/dokuwiki/userstyle.css .
+<code>
+div.plugin_wrap ul { margin-bottom: 0px; }
+</code>
+
+The new setting will be picked up automatically when the page is refreshed.
+
 ==== include code in ordered lists ====
 Put the ''<nowiki><code></nowiki>'' tag on the same line of the item. For example
   * foo <code>
@@ -9,7 +17,12 @@ as opposed to
 bar
 </code>
 
+==== links I came across ====
+  * https://www.dokuwiki.org/irc
+
 ==== Useful documentation ====
+  * https://www.dokuwiki.org/wiki:syntax#tables
+
   * https://www.dokuwiki.org/tips
   * https://www.dokuwiki.org/tips:good_style
 
@@ -18,7 +31,7 @@ bar
   * https://www.dokuwiki.org/wiki:syntax#quoting - quote some text. You can have other stuff like bold text, monospaced text etc., within the quoted text
   * https://www.dokuwiki.org/wiki:syntax#basic_text_formatting - format text as bold, italic, underlined and monospaced
 
-  * https://www.dokuwiki.org/wiki:syntax#tables
+
   * https://www.dokuwiki.org/wiki:syntax#lists
   * https://www.dokuwiki.org/wiki:syntax#headline_level_3
   * https://www.dokuwiki.org/wiki:syntax#links
