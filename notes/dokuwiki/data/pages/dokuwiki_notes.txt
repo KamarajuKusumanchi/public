@@ -1,4 +1,6 @@
 ==== remove extra line in lists inside table cells ====
+tags | lists inside table cells wrap plugin
+
 When the WRAP plugin is used to create lists inside table cells, an extra line is added at the end of the list. To remove it, add the following to /etc/dokuwiki/userstyle.css .
 <code>
 div.plugin_wrap ul { margin-bottom: 0px; }

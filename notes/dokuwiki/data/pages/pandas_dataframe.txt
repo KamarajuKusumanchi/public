@@ -571,6 +571,9 @@ df['col_a'] = df['col_a'].astype(np.int64)
 ===== stackoverflow questions I came across ====
 ==== normalize data within each group ====
   * https://stackoverflow.com/questions/46419180/pandas-normalize-within-the-group
+==== find many to one mappings ====
+  * https://stackoverflow.com/questions/24005064/finding-rows-in-a-pandas-dataframe-with-columns-that-violate-a-one-to-one-mappin
+
 ==== links ====
 <place holder>
 
