@@ -1,0 +1,6 @@
+==== useful links ====
+  * customer service - care@feedly.com
+  * export feeds to an OPML file - http://feedly.com/i/opml
+  * import OPML file - https://feedly.com/i/cortex
+  * delete account - http://feedly.com/i/erase
+  * https://feedly.com/i/index - single look at all the feeds

@@ -22,6 +22,7 @@
   * [[okular notes]]
 
 ==== dummy ====
+  * [[feedly notes]]
   * [[acronyms]]
   * [[knotes]]
   * [[telegram notes]]
