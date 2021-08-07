@@ -1,0 +1,3 @@
+==== useful tutorials ====
+  * https://www.digitalocean.com/community/tutorials/how-to-schedule-routine-tasks-with-cron-and-anacron-on-a-vps - How To Schedule Routine Tasks With Cron and Anacron on a VPS
+    * Worth reading end-to-end one time.
