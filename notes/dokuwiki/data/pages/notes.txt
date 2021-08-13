@@ -22,6 +22,10 @@
   * [[okular notes]]
 
 ==== dummy ====
+  * [[git bash notes]]
+  * [[bash notes]]
+  * [[shell scripting notes]]
+  * [[github notes]]
   * [[DigitalOcean notes]]
   * [[feedly notes]]
   * [[acronyms]]
@@ -74,7 +78,6 @@
   * [[elizabeth]]
   * [[word groups]]
   * [[excel notes]]
-  * [[bash notes]]
   * [[DIY]]
   * [[2020 presidential election]]
   * [[about]]
@@ -97,7 +100,6 @@
   * [[interesting images]]
   * [[DAELC]]
   * [[companies]]
-  * [[github notes]]
   * [[gmail notes]]
   * [[airindia notes]]
   * [[android notes]]

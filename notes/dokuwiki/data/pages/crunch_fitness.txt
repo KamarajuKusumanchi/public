@@ -1,0 +1,17 @@
+==== membership details ====
+asof 2021-08-08
+  * enrollment fee = $20; payable on Day 1
+  * monthly fee = $25
+  * Annual fee = $59; payable on Day 45
+  * 1 year contract
+    * For month-to-month, it is $60 extra
+  * If paying upfront, 1 year fee = $365
+    * Compare this with \$379 (= \$20 + \$25 * 12 + \$59)
+    * This can be paid in cash; No credit card needed.
+
+  * Membership is good for multi-location, classes, Sauna/steam.
+
+  * Hours:
+    * Mon - Thu - 24 hours
+    * Fri - until 9 pm
+    * Sat & Sun - 7 am - 6 pm

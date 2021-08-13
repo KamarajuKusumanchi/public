@@ -1,0 +1,12 @@
+==== find out whether a terminal is cygwin or git bash ====
+<code>
+uname -s | cut -f 1 -d '-'
+</code>
+
+^ terminal ^ output ^
+| git bash | MINGW64_NT |
+| cygwin | CYGWIN_NT |
+
+See also:
+  * https://github.com/KamarajuKusumanchi/sampleusage/blob/master/bash/compare_strings.sh - shell script snippet to branch off code based on terminal type.
+  * https://stackoverflow.com/questions/3466166/how-to-check-if-running-in-cygwin-mac-or-linux

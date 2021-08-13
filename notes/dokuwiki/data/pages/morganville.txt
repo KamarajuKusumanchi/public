@@ -1,3 +1,6 @@
+==== gym ====
+  * [[crunch_fitness]]
+
 ==== recycling calendar ====
   * 2021 - https://marlboro-nj.gov/images/public-works/2021/2021-Recycling-Calendar.pdf
 
