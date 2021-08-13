@@ -18,3 +18,4 @@
   * [[python dictionaries]]
   * [[python multiprocessing]]
   * [[python timeit]]
+  * [[python:packages:requests]]
