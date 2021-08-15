@@ -1,0 +1,37 @@
+===== Default arguments are evaluated only once in Python ====
+Python’s default arguments are evaluated //once// when the function is defined, not each time the function is called. Consider for example
+<code>
+% cat test_defaults.py 
+import datetime
+import time
+
+def test_defaults(prefix, now=datetime.datetime.now()):
+    print(prefix, now)
+
+test_defaults('one')
+time.sleep(1)
+
+test_defaults('two')
+time.sleep(1)
+
+test_defaults('three', datetime.datetime.now())
+time.sleep(1)
+
+test_defaults('four')
+</code>
+
+which outputs:
+
+<code>
+% python3 test_defaults.py
+one 2021-08-14 20:13:27.830082
+two 2021-08-14 20:13:27.830082
+three 2021-08-14 20:13:29.832481
+four 2021-08-14 20:13:27.830082
+</code>
+
+Notice that 'one', 'two' and 'four' have the same time. It changes only when it is explicitly overridden.
+
+==== References ====
+  * https://docs.python-guide.org/writing/gotchas/#mutable-default-arguments -  It is worth reading this article once end-to-end. It explains the same concept in a better way with a different example. It also goes over two more common python gotchas. Well written with high information density.
+  * https://www.mail-archive.com/python-list@python.org/msg443694.html - I got the initial version of this script from here.

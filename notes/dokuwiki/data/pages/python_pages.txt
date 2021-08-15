@@ -19,3 +19,4 @@
   * [[python multiprocessing]]
   * [[python timeit]]
   * [[python:packages:requests]]
+  * [[Manipulating dates in python]]

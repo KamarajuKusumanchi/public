@@ -1,4 +1,8 @@
 ===== dummy =====
+
+==== useful links ====
+  * [[https://nedbatchelder.com/text/names.html | Facts and myths about Python names and values]] (nedbatchelder.com) - well explained.
+
 ==== validate inputs ====
 Sample snippet:
 <code>
@@ -71,9 +75,6 @@ if os.stat(input_file).st_size == 0:
 
 ==== python release cycle ====
   * https://python-release-cycle.glitch.me/ - useful to check when a Python version was released and when it would be EOL.
-
-==== useful links ====
-  * [[https://nedbatchelder.com/text/names.html | Facts and myths about Python names and values]] (nedbatchelder.com) - well explained.
 
 ==== tasks ====
   * [[get urls in a url]]

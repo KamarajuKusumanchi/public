@@ -1,4 +1,6 @@
 ==== 2021 ====
+  * 2021-08-14 [[Default arguments are evaluated only once in Python]]
+
   * 2021-07-23 [[get unique items in a list]]
   * 2021-07-02 [[Pretty print csv data]]
 
