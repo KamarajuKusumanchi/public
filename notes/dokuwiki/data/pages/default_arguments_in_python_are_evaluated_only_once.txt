@@ -1,4 +1,4 @@
-===== Default arguments are evaluated only once in Python ====
+===== Default arguments in Python are evaluated only once ====
 Python’s default arguments are evaluated //once// when the function is defined, not each time the function is called. Consider for example
 <code>
 % cat test_defaults.py 
