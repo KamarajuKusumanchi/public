@@ -1,3 +1,39 @@
+===== workflow =====
+==== Updating feature branch with the latest development branch ====
+tags | bring feature branch up to date with development branch
+
+Situation 1:
+  * User 1 raised a merge request to merge feature1 to development branch
+  * Before the merge request is accepted, development branch is updated by User 2
+
+Situation 2:
+  * Say you forked from development branch a while ago to work on a feature and created a branch called "feature1".
+  * After a while, development branch might have progressed and may have new changes added to it.
+
+Task:
+  * Bring the feature1 branch up to date with the latest development branch.
+
+Solution:
+
+Get the latest versions of development and feature branches in the local repository.
+<code>
+git checkout development
+git pull
+git checkout feature1
+git pull
+</code> 
+
+Merge development branch into the feature branch and resolve any conflicts that may arise.
+<code>
+git merge development
+</code> 
+Push the changes to the remote.
+<code>
+git push
+</code> 
+
+Note:- The "git merge development" command works even if you have local changes not committed to feature1.
+
 ===== dummy =====
 ==== stackoverflow answers I came across ====
   * ignore all directories with a specific name - https://stackoverflow.com/questions/1470572/ignoring-any-bin-directory-on-a-git-project

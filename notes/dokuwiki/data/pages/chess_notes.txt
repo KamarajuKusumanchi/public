@@ -1,0 +1,3 @@
+==== useful links ====
+  * https://en.wikipedia.org/wiki/Checkmate_pattern
+    * [[https://en.wikipedia.org/wiki/Checkmate_pattern#Anastasia's_mate]]

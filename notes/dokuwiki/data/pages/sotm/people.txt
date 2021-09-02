@@ -1,10 +1,15 @@
 ==== Fed ====
+  * Dallas Fed President - Robert Kaplan
+  * St. Louis Fed President - James Bullard
+
   * Lael Brainard - Federal Reserve Governor
   * John Williams - Federal Reserve Bank of New York President
-  * James Bullard - St. Louis Fed President
+
 
 
 ==== dummy ====
+  * Treasury Secretary - Janet Yellen
+
   * Tony Rodriguez - head of fixed income strategy at Nuveen
   * Dan Krieter - BMO strategist
   * Antony Blinken - U.S. Secretary of State

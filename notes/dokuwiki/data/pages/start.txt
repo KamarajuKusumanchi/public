@@ -1,6 +1,7 @@
 <nodisp 8>
 [[:personal:]]
   * [[:personal:shopping list]]
+  * [[:personal:weekend tasks]]
 Public:
 </nodisp>
   * [[notes]]

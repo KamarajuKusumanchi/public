@@ -1,3 +1,10 @@
+==== minimum recommended version ====
+  * github recommends >= 2.29 for caching github credentials (https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git). It is the first version offering OAuth support for GitHub.
+
+==== links I came across ====
+  * https://gitforwindows.org/
+    * Is this same as getting 'git bash' terminal?
+
 ==== find out whether a terminal is cygwin or git bash ====
 <code>
 uname -s | cut -f 1 -d '-'

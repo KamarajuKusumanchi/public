@@ -22,6 +22,8 @@
   * [[okular notes]]
 
 ==== dummy ====
+  * [[chess notes]]
+  * [[njit notes]]
   * [[git bash notes]]
   * [[bash notes]]
   * [[shell scripting notes]]
@@ -142,5 +144,4 @@ Policy:- sort by (type, year descending)
 ==== have to sort ====
   * [[sort_001]]
   * [[dummies]]
-  * [[scratches]]
   * [[export_indian_wear]]

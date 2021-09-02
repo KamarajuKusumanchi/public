@@ -5,6 +5,16 @@
   * [[Order columns alphabetically]]
 
 ===== dummy =====
+
+==== convert all categorical columns to string columns ====
+<code>
+df.loc[:, df.dtypes == "category"] = df.select_dtypes(
+    ["category"]
+    ).apply(lambda x: x.astype("object"))
+</code>
+
+Ref:- https://stackoverflow.com/a/56944992
+
 ==== sum if columns exist ====
 tags | sum if column exists
 
@@ -406,15 +416,6 @@ Ref:-
   * https://stackoverflow.com/a/57392776
   * https://numpy.org/doc/stable/reference/generated/numpy.select.html
   * https://www.w3schools.com/sql/sql_case.asp
-
-==== convert all categorical columns to string columns ====
-<code>
-df.loc[:, df.dtypes == "category"] = df.select_dtypes(
-    ["category"]
-    ).apply(lambda x: x.astype("object"))
-</code>
-
-Ref:- https://stackoverflow.com/a/56944992
 
 ==== initialize column with strings that range from 1 to N ====
 To set it to '1', '2', ..., 'N'

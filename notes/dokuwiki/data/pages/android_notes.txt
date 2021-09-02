@@ -3,6 +3,24 @@
 Settings -> About phone
 
 ===== Apps =====
+==== hourly chimes ====
+  * Yes
+  * using | asof 2021-09-02
+    * https://play.google.com/store/apps/details?id=com.github.axet.hourlyreminder - Hourly Reminder
+  * Have to try
+    * https://play.google.com/store/apps/details?id=chime.me.big.ben.free.emad - Chime Me Big Ben Free
+  * No
+    * https://play.google.com/store/apps/details?id=com.caynax.hourlychime - Hourly chime
+      * Has a pro version (meaning the free version is not good enough)
+    * https://play.google.com/store/apps/details?id=it.nadolski.blipblip - Blip Blip (hourly chime)
+      * Has a paid version (meaning the free version is not good enough)
+
+==== apps I came across ====
+  * MacroDroid - Device Automation
+    * https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid
+    * Can this be used to chime every half an hour?
+
+
 ==== apps I am currently trying ====
   * https://play.google.com/store/apps/details?id=com.teacapps.barcodescanner - contains ads. See if you can find something that is functionally equivalent but ad free.
 

@@ -1,3 +1,9 @@
+==== links I came across ====
+  * [[https://docs.github.com/en/get-started/signing-up-for-github/verifying-your-email-address | Verifying your email address]] (docs.github.com)
+  * [[https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token | Creating a personal access token]] (docs.github.com)
+  * [[https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ | Token authentication requirements for Git operations]] (github.blog)
+    * Beginning August 13, 2021, we will no longer accept account passwords when authenticating Git operations on GitHub.com.
+
 ==== useful links ====
   * https://www.githubstatus.com/
 
