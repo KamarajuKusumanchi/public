@@ -103,11 +103,17 @@ tags | china virus, corona virus
   * https://covid.cdc.gov/covid-data-tracker/#vaccinations - COVID-19 Vaccinations in the United States
 
 ==== dashboards ====
+  * US - https://www.worldometers.info/coronavirus/country/us/
   * NJ
-    * https://www.state.nj.us/health/cd/documents/topics/NCOV/COVID_Confirmed_Case_Summary.pdf - Best dashboard. Everything in one place.
+    * https://arcg.is/mbvWq
+      * Best dashboard layout. Everything in one place.
+      * The tabs at the top left show analytics for different cases such as "Confirmed Cases", "Ever Hospitalized", "Deaths" etc.,
+      * You can also reach the above via https://www.nj.gov/health/cd/topics/ncov.shtml -> click the link under "Daily Confirmed Case Summary (updated daily)"
+    * https://www.state.nj.us/health/cd/documents/topics/NCOV/COVID_Confirmed_Case_Summary.pdf
+      * Asof 2021-09-06, it shows a chart for 2020-07-30. So the data is not being updated.
+      * Best dashboard layout. Everything in one place.
     * https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml
   * NYC - https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf  - daily summary.
-  * US - https://www.worldometers.info/coronavirus/country/us/
 
   * AP - https://www.covid19india.org/state/AP
   * India - https://www.covid19india.org/ - Can drill down to state, district level.
