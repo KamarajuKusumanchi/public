@@ -1,7 +1,23 @@
-==== NJ - Python ====
+===== NJ - python - full time =====
+filter: opportunity is in NJ, requires python, full time, may or may not hire H1Bs
+
+==== Zoetis ====
+  * https://www.zoetisus.com/
+  * https://careers.zoetis.com/country-pages/united-states.aspx - US careers page
+  * Headquarters is located in Parsippany, NJ
+  * https://zoetis.wd5.myworkdayjobs.com/zoetis/jobs - All US jobs
+
+have to find out
+  * Do they hire H1Bs?
+
+
+===== NJ - python - full time - h1b =====
 filter: opportunity is in NJ, requires python, full time, will hire H1Bs
 
+==== Valo ====
   * https://www.valohealth.com/#careers
-    * Princeton based
+  * Princeton based
+
+==== Covance ====
   * https://careers.covance.com/global/en/?utm_source=covancewebsite&utm_campaign=header&utm_medium=na
-    * Covance is the drug development business of LabCorp
+  * Covance is the drug development business of LabCorp

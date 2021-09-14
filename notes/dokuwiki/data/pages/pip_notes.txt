@@ -1,3 +1,24 @@
+==== pip cache ====
+install a package without using the cache, just for this run.
+  pip install --no-cache-dir <package>
+
+configure pip to not use the cache "globally" (in all commands)
+  pip config set global.cache-dir false
+
+remove all wheel files related to matplotlib from pip's cache.
+  pip cache remove matplotlib
+
+clear all files from pip's cache.
+  pip cache purge
+
+pip cache directory
+  pip cache dir
+
+Availability: {'pip cache': 'pip >= 20.1', 'pip config': 'pip >= 10.0', '--no-cache-dir': 'pip >= 6.0'}
+
+Ref:-
+  * https://stackoverflow.com/a/61762308/6305733 - response from a pip maintainer.
+
 ==== upgrade pip ====
 <code>
 python -m pip install --upgrade pip

@@ -1,13 +1,14 @@
 ==== Fed ====
   * Dallas Fed President - Robert Kaplan
+  * New York Fed President - John Williams
   * St. Louis Fed President - James Bullard
 
   * Lael Brainard - Federal Reserve Governor
-  * John Williams - Federal Reserve Bank of New York President
-
-
 
 ==== dummy ====
+  * SEC Chair - Gary Gensler
+    * Is SEC chief $\equiv$ SEC chair?
+
   * Treasury Secretary - Janet Yellen
 
   * Tony Rodriguez - head of fixed income strategy at Nuveen

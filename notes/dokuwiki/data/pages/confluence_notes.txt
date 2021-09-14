@@ -1,3 +1,17 @@
+==== sample searches ====
+
+Ref:
+  * https://confluence.atlassian.com/conf74/space-keys-1003128251.html - Space keys
+  * https://confluence.atlassian.com/conf74/confluence-search-syntax-1003129087.html - Confluence search syntax
+
+==== search tips ====
+  * type / to start searching.
+
+Ref:
+  * https://confluence.atlassian.com/conf74/search-1003129065.html - Search tips
+
+==== links I came across ====
+
 ==== field names in jql query ====
   * https://confluence.atlassian.com/jirasoftwareserver085/advanced-searching-fields-reference-981156848.html - contains the list of field names we can use while writing JQL queries in filters.
   * https://confluence.atlassian.com/jirasoftwareserver085/advanced-searching-981156836.html#Advancedsearching-referenceReference -> Fields -> Reference

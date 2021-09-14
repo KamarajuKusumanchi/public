@@ -1,0 +1,3 @@
+==== links I came across ====
+  * https://www.squarefree.com/bookmarklets/forms.html
+    * I found the remember password bookmarklet useful.

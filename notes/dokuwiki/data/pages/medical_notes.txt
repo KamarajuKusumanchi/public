@@ -1,2 +1,4 @@
 ==== links I came across ====
+  * https://turquoise.health/ - Compare prices before you get care
+
   * [[https://www.hhs.gov/about/news/2020/10/29/trump-administration-finalizes-rule-requiring-health-insurers-disclose-price-and-cost-sharing.html | Trump Administration Finalizes Rule Requiring Health Insurers to Disclose Price and Cost-Sharing Information]] (hhs.gov)

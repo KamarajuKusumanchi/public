@@ -1,3 +1,6 @@
+==== issues reported by me ====
+  * https://github.com/splitbrain/dokuwiki/issues/3531 - display section numbers in the page and table of contents
+
 ==== remove extra line in lists inside table cells ====
 tags | lists inside table cells wrap plugin
 
@@ -21,6 +24,7 @@ bar
 
 ==== links I came across ====
   * https://www.dokuwiki.org/irc
+  * https://github.com/splitbrain/dokuwiki
 
 ==== Useful documentation ====
   * https://www.dokuwiki.org/wiki:syntax#tables
