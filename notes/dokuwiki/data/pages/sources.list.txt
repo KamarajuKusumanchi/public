@@ -1,0 +1,26 @@
+==== bullseye ====
+My /etc/apt/sources.list for bullseye
+
+<code>
+#------------------------------------------------------------------------------
+
+deb http://deb.debian.org/debian bullseye main contrib non-free
+deb-src http://deb.debian.org/debian bullseye main contrib non-free
+
+deb http://deb.debian.org/debian bullseye-updates main contrib non-free
+deb-src http://deb.debian.org/debian bullseye-updates main contrib non-free
+
+# deb http://deb.debian.org/debian bullseye-backports main
+
+deb http://deb.debian.org/debian-security bullseye-security main contrib non-free
+deb-src http://deb.debian.org/debian-security bullseye-security main contrib non-free
+
+deb http://deb.debian.org/debian-debug bullseye-debug main contrib non-free
+#-----------------------------------------------------------------------------
+</code>
+
+asof
+<code>
+ % date
+Thu 23 Sep 2021 12:44:28 AM EDT
+</code>

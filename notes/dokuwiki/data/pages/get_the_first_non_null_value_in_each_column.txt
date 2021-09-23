@@ -1,0 +1,154 @@
+===== Get the first non null value in each column =====
+==== Task ====
+Get the first non null value in each column.
+
+Corner cases:
+  * If a column is all NaNs, return a NaN.
+
+For example, given
+<code>
+   jim  joe  jolie  jack
+     0  1.0    NaN   NaN
+     0  NaN    2.0   NaN
+     1  3.0    NaN   NaN
+     1  NaN    4.0   NaN
+</code>
+
+We want
+<code>
+   jim  joe  jolie  jack
+     0  1.0    2.0   NaN
+     1  3.0    4.0   NaN
+</code>
+
+==== Solution ====
+
+<code>
+$ ipython
+
+In [1]:
+import pandas as pd
+import numpy as np
+df = pd.DataFrame({'jim': [0, 0, 1, 1],
+                   'joe': [1, np.nan, 3, np.nan],
+                   'jolie': [np.nan, 2, np.nan, 4],
+                   'jack': [np.nan, np.nan, np.nan, np.nan]})
+df
+Out[1]:
+   jim  joe  jolie  jack
+0    0  1.0    NaN   NaN
+1    0  NaN    2.0   NaN
+2    1  3.0    NaN   NaN
+3    1  NaN    4.0   NaN
+
+In [2]:
+def get_first_non_nan(s):
+    values = s.loc[~s.isnull()]
+    value = values.iloc[0] if not values.empty else np.nan
+    return value
+
+
+In [3]:
+df.groupby('jim').agg(get_first_non_nan)
+Out[3]:
+     joe  jolie  jack
+jim
+0    1.0    2.0   NaN
+1    3.0    4.0   NaN
+
+In [4]:
+df.groupby('jim').agg(get_first_non_nan).reset_index()
+Out[4]:
+   jim  joe  jolie  jack
+0    0  1.0    2.0   NaN
+1    1  3.0    4.0   NaN
+</code>
+
+==== meta ====
+Used | Python 3.9.4 and IPython 7.22.0
+
+demonstrates | apply a function on each column of a dataframe after doing a groupby
+
+===== Get the first value not equal to a number =====
+==== Use case ====
+One downside of using np.nan to denote a missing value is that an integer column of a
+dataframe gets "promoted" to a floating point column even if there is a single np.nan in it.
+
+One work around is to use a specific integer to denote a missing value. For example, if we expect
+all integers to be positive, we can use -9999 to denote a missing value. Let's call this
+special integer NAN_INT.
+
+==== Task ====
+Get the first value not equal to NAN_INT
+
+Corner cases:
+  * If a column is all NAN_INTs, return a NAN_INT
+
+For example, give
+<code>
+   jim   joe  jolie  jack
+     0     1  -9999 -9999
+     0 -9999      2 -9999
+     1     3  -9999 -9999
+     1 -9999      4 -9999
+</code>
+We want
+<code>
+   jim  joe  jolie  jack
+     0    1      2 -9999
+     1    3      4 -9999
+</code>
+==== Solution ====
+<code>
+$ ipython
+
+In [1]:
+import pandas as pd
+import numpy as np
+NAN_INT = -9999
+df = pd.DataFrame({'jim': [0, 0, 1, 1],
+                   'joe': [1, NAN_INT, 3, NAN_INT],
+                   'jolie': [NAN_INT, 2, NAN_INT, 4],
+                   'jack': [NAN_INT, NAN_INT, NAN_INT, NAN_INT]})
+df
+Out[1]:
+   jim   joe  jolie  jack
+0    0     1  -9999 -9999
+1    0 -9999      2 -9999
+2    1     3  -9999 -9999
+3    1 -9999      4 -9999
+
+In [2]:
+df.dtypes
+Out[2]:
+jim      int64
+joe      int64
+jolie    int64
+jack     int64
+dtype: object
+
+In [3]:
+def get_first_non_missing(s):
+    NAN_INT = -9999
+    values = s.loc[(s != NAN_INT)]
+    value = values.iloc[0] if not values.empty else NAN_INT
+    return value
+
+
+In [4]:
+df.groupby('jim').agg(get_first_non_missing)
+Out[4]:
+     joe  jolie  jack
+jim
+0      1      2 -9999
+1      3      4 -9999
+
+In [5]:
+df.groupby('jim').agg(get_first_non_missing).reset_index()
+Out[5]:
+   jim  joe  jolie  jack
+0    0    1      2 -9999
+1    1    3      4 -9999
+</code>
+==== meta ====
+Used | Python 3.9.4, IPython 7.22.0

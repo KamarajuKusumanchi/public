@@ -1,3 +1,4 @@
+===== dummy =====
 ==== append element to series ====
 <code>
 In [1]:
@@ -18,3 +19,50 @@ pd.__version__
 Out[2]:
 '1.2.1'
 </code>
+
+===== check if =====
+==== check if a series is empty ====
+Use pandas.Series.empty .
+
+<code>
+$ ipython
+
+In [1]:
+import pandas as pd
+import numpy as np
+df1 = pd.DataFrame({'A':  []})
+df1
+Out[1]:
+Empty DataFrame
+Columns: [A]
+Index: []
+
+In [2]:
+df1['A'].empty
+Out[2]:
+True
+</code>
+
+A series with just NaNs is considered "non-empty". Drop the NaNs to make it "empty".
+<code>
+In [3]:
+df2 = pd.DataFrame({'A':  [np.nan]})
+df2
+Out[3]:
+    A
+0 NaN
+
+In [4]:
+df2['A'].empty
+Out[4]:
+False
+
+In [5]:
+df2['A'].dropna().empty
+Out[5]:
+True
+</code>
+
+Used Python 3.9.4 and IPython 7.22.0
+
+tags | check if a series has at least one element

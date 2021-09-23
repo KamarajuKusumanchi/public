@@ -1,3 +1,6 @@
+==== links in this wiki ====
+  * [[sources.list]]
+
 ==== find the dpi of images in a pdf ====
 <code>
 $ pdfimages -list deptest.pdf
@@ -52,7 +55,6 @@ Ref:- https://debian-handbook.info/browse/stable/sect.apt-cache.html
 
 ==== bullseye release ====
   * https://release.debian.org/bullseye/freeze_policy.html
-  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=981424 - blocker to upgrade from buster to bullseye
 
 ==== status of debian testing ====
 Useful links:

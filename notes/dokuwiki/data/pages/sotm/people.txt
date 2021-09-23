@@ -3,11 +3,12 @@
   * New York Fed President - John Williams
   * St. Louis Fed President - James Bullard
 
-  * Lael Brainard - Federal Reserve Governor
+  * Federal Reserve Governor - Lael Brainard
+  * Federal Reserve Chair - Jerome Powell
 
 ==== dummy ====
-  * SEC Chair - Gary Gensler
-    * Is SEC chief $\equiv$ SEC chair?
+  * SEC Chairman - Gary Gensler
+    * Is SEC chief $\equiv$ SEC chair $\equiv$ SEC Chairman?
 
   * Treasury Secretary - Janet Yellen
 
@@ -16,3 +17,6 @@
   * Antony Blinken - U.S. Secretary of State
   * Michael O’Rourke - chief market strategist at JonesTrading
   * Michael de Pass - global head of U.S. Treasury trading at Citadel Securities
+
+  * Elizabeth Warren
+    * U.S. Senator; Massachusetts Democrat

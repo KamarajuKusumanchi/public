@@ -1,3 +1,6 @@
+==== 2021-09-22 ====
+  * https://www.jmp.com/support/downloads/JMPC80_documentation/Content/JMPCUserGuide/GR_C_0033.htm - Trellis Plot
+
 ==== 2021-08-14 ====
   * https://phys.org/news/2021-08-technique-seamlessly-ammonia-green-hydrogen.html - Novel technique seamlessly converts ammonia to green hydrogen
 
