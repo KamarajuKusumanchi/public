@@ -1,4 +1,22 @@
-===== default configuration =====
+===== favorite configuration =====
+==== disable warning when pasting multiple lines ====
+Copy pasting multiple lines in vim gives the following warning
+<code>
+Warning!
+
+Pasting multi-line text involves
+sending <Enter> keypresses to console!
+
+Continue?
+</code>
+Disable it by doing
+<code>
+Settings -> Keys & Macro -> Paste ->
+-> Confirm critical actions
+-> Multi-line paste: avoid unexpected command execution by <Enter> keypress
+-> uncheck
+</code>
+
 ==== copy paste multiple lines ====
 <code>
 Settings -> Keys & Macro -> Paste ->

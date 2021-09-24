@@ -1,0 +1,3 @@
+==== notes on plotting stuff ====
+  * Try a table instead of a Pareto chart - https://planspace.org/20210907-try_a_table_instead_of_a_pareto_chart/
+  * Trellis Plot - https://www.jmp.com/support/downloads/JMPC80_documentation/Content/JMPCUserGuide/GR_C_0033.htm

@@ -22,6 +22,7 @@
   * [[okular notes]]
 
 ==== dummy ====
+  * [[plotting data]]
   * [[bookmarklets]]
   * [[nri notes]]
   * [[chess notes]]
