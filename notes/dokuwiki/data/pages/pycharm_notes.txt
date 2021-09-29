@@ -1,4 +1,7 @@
 ===== dummy =====
+==== copy function name with the class name ====
+  * ctrl+alt+shift+c
+
 ==== Skip breakpoints ====
   * https://www.jetbrains.com/help/pycharm/stepping-through-the-program.html#force-run-to-cursor
     * Ctrl+Alt+F9 - run to cursor and skip all the break points in between
