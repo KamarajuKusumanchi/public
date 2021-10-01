@@ -1,6 +1,40 @@
 ===== dummy =====
 
 
+==== update environment ====
+<code>
+conda env update -f environment.yml
+</code>
+where environment.yml is the path of the environment file
+
+Ref:- https://conda.io/docs/commands/env/conda-env-update.html
+
+==== update conda ====
+<code>
+conda update -n <env_name> -c defaults --yes conda
+</code>
+For example
+<code>
+conda update -n base -c defaults --yes conda
+</code>
+To specify a particular version number, X.Y.Z (ex:- 4.5.4)
+<code>
+conda update -n base -c defaults --yes conda=X.Y.Z
+</code>
+
+To downgrade to a specific version
+<code>
+conda config --set allow_conda_downgrades true
+conda install -n base -c defaults conda=4.6.14
+</code>
+
+tags | upgrade conda
+
+Ref:-
+  * https://anaconda.org/anaconda/conda - shows the latest conda version available
+
+
+
 ==== find the package version ====
 tags | check package version, list packages in environment, show the package version
 

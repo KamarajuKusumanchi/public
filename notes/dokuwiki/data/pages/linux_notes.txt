@@ -2,6 +2,17 @@
   * [[add numbers on the command line]]
   * [[du on month end dates]]
 
+==== remove large directories ====
+
+Use rsync to delete large directories.
+
+<code>
+mkdir empty_dir
+rsync -a --delete empty_dir/    yourdirectory/
+</code>
+
+As per https://unix.stackexchange.com/questions/37329/efficiently-delete-large-directory-containing-thousands-of-files, it is more efficient than running "rm -rf" or some combination of find + "rm -rf".
+
 ==== stackoverflow answers I came across ====
   * prepend to a file - https://stackoverflow.com/questions/10587615/unix-command-to-prepend-text-to-a-file
   * remove leading and trailing spaces - https://unix.stackexchange.com/a/102021/198064

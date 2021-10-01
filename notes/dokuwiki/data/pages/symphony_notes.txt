@@ -1,3 +1,13 @@
+===== tasks =====
+==== leave a group ====
+search | remove yourself from symphony group
+
+<code>
+click the "i" button at the top right
+-> Options -> Member Permissions
+-> Leave room
+</code>
+
 ===== dummy =====
 ==== emoticons ====
   * :sunglasses:

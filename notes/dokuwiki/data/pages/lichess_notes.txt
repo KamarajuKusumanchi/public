@@ -1,0 +1,16 @@
+
+==== game types ====
+  * It has bullet (1-3 mins), blitz (5 mins), rapid (10 mins), classical (15 mins). You can also create a game with your own timings if you want.
+  * My favorite is 10+0 Rapid style.
+
+==== analyze pgn ====
+  * copy paste the contents of pgn into https://lichess.org/paste
+  * I did not find a way to directly upload a pgn file to their server.
+
+==== for kids ====
+  * Enable the kid mode at https://lichess.org/account/kid . This will disable all site communications, communications from other internet users.
+
+==== useful links ====
+  * https://github.com/ornicar/lila - source code
+  * https://lichess.org/features - features
+  * https://lichess.org/@/<USERNAME> - gives the rank ranking history of the user. For example, my history is at https://lichess.org/@/kamaraju
