@@ -1,0 +1,4 @@
+==== commands I came across ====
+<code>
+curl cheat.sh/cp
+</code>
