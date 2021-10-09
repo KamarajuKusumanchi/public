@@ -1,3 +1,6 @@
 ==== dummy ====
+  * Q: Why does Python live on land?
+    * A: Because it is above C level.
+
   * What do clouds wear under their shorts?
     * Thunderpants

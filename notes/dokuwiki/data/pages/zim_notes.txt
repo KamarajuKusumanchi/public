@@ -1,3 +1,10 @@
+==== why zim ====
+Pros:
+  * Zim operates at a "collection of documents" or "project" level. Compare this to vim, notepad++ which operate at a "single document" level.
+  * Files are stored in plain text
+  * Open source
+  * Written in python
+
 ==== links I came across ====
   * Releases - https://github.com/zim-desktop-wiki/zim-desktop-wiki/releases
   * zim wiki code repository - https://github.com/jaap-karssenberg/zim-desktop-wiki/

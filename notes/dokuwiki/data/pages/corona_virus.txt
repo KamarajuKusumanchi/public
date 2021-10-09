@@ -135,4 +135,3 @@ tags | china virus, corona virus
   * https://public.tableau.com/profile/prashant.sharma#!/vizhome/CovidHelp/Search
     * Can also be accessed via http://bit.ly/CovidCareResources
 
-  * https://t.me/covidhelp3 - telegram group for Covid Resources. 350 members asof 2021-05-19.
