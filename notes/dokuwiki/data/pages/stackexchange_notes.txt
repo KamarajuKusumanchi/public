@@ -1,5 +1,8 @@
 ==== links I came across ====
+  * https://lifehacks.stackexchange.com/
   * https://cooking.stackexchange.com/
   * https://codegolf.stackexchange.com/ - recreational programming competitions
   * https://softwareengineering.stackexchange.com/
   * https://codereview.stackexchange.com/
+
+  * https://stackexchange.com/sites - all stackexchange sites

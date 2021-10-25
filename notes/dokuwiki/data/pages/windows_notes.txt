@@ -1,4 +1,33 @@
 ===== dummy =====
+==== last reboot time ====
+tags | when was a windows machine rebooted, check when a windows machine was rebooted.
+
+In git bash
+<code>
+systeminfo | grep -i "boot time"
+</code>
+
+In the Windows run box
+<code>
+cmd /k systeminfo | find /i "boot time"
+</code>
+
+In windows shell
+<code>
+systeminfo | find /i "boot time"
+</code>
+or
+<code>
+systeminfo | find "System Boot Time"
+</code>
+
+Works in Windows 7, Windows 2012.
+
+Ref:-
+  * https://serverfault.com/questions/159612/windows-server-last-reboot-time
+  * https://superuser.com/questions/523726/how-can-i-find-out-when-windows-was-last-restarted
+  * https://www.howtogeek.com/tips/how-to-tell-when-your-windows-pc-was-restarted-last/
+
 ==== Linux to Windows ====
 tags | equivalent of foo in windows
 
@@ -6,7 +35,6 @@ tags | equivalent of foo in windows
 | cat | type | https://superuser.com/questions/434870/what-is-the-windows-equivalent-of-the-unix-command-cat |
 | rm | del | |
 | rm -rf "path" | rd /s /q "path" | https://stackoverflow.com/questions/97875/rm-rf-equivalent-for-windows |
-
 
 ==== software I am currently evaluating ====
   * https://explorerplusplus.com/

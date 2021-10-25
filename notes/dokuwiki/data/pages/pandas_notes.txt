@@ -1,2 +1,7 @@
+==== What packages does pandas depend on? ====
+  * Dependencies - https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html#dependencies
+  * Recommended dependencies - https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html#recommended-dependencies
+  * Optional dependencies - https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html#optional-dependencies
+
 ==== links I came across ====
   * https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html - good reference to learn about iloc, slicing ranges

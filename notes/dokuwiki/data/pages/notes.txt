@@ -22,6 +22,7 @@
   * [[okular notes]]
 
 ==== dummy ====
+  * [[samsung tablet]]
   * [[journalists notes]]
   * [[dad jokes]]
   * [[cheat.sh notes]]

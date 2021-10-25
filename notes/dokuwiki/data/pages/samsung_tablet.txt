@@ -1,0 +1,5 @@
+==== model I have ====
+  * Samsung Galaxy Tab A
+
+==== Where is the settings button? ====
+notifications pop up -> touch the settings (gear icon) button on the top right.

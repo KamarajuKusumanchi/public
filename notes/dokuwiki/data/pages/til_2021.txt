@@ -1,5 +1,10 @@
 
 
+==== 2021-10-24 ====
+  * https://simple.wikipedia.org/ - Simple Wikipedia for children and adults who are learning English.
+
+==== 2021-10-23 ====
+  * The Sun accounts for about 99.86% of the total mass of the Solar System. \\ Ref:- https://en.wikipedia.org/wiki/Sun
 ==== 2021-08-14 ====
   * https://phys.org/news/2021-08-technique-seamlessly-ammonia-green-hydrogen.html - Novel technique seamlessly converts ammonia to green hydrogen
 
