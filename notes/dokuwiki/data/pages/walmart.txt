@@ -2,8 +2,11 @@
 Scope | old bridge Walmart
 
   * Hot chocolate - aisle A8 - A9
+  * Ketchup - aisle A8 - A9
   * Marshmallows - aisle A14 - A15
   * Smuckers strawberry jam - aisle A14 - A15
+  * Coconut milk - aisle A16 - A17
+  * milk powder - aisle A16 - A17
   * Baking soda; Arm & hammer - aisle A16 - A17
   * WD-40 - aisle I26
 

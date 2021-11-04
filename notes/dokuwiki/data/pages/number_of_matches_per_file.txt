@@ -1,0 +1,139 @@
+===== Task =====
+Given a bunch of files in a directory, count the number of times a word occurs in each file. For example, given
+
+<code>
+% tail -n +1 *
+==> junk1.txt <==
+foo
+bar
+foo bar foo
+bar foo bar
+
+==> junk2.txt <==
+foo
+bar
+foo bar foo
+bar foo bar
+foo foo foo
+</code>
+
+count the number of occurrences of 'foo' in each file. The expected answer is
+<code>
+junk1.txt:4
+junk2.txt:7
+</code>
+
+tags | Number of matches per file
+
+sample code demoes | cat with filename
+===== Solution using git grep and awk =====
+If it is a git repository
+<code>
+git grep -o foo  | awk -F':' '{freq[$1]++} END{for (file in freq) print file ":" freq[file]}'
+</code>
+
+If it is not a git repository
+<code>
+git grep --no-index -o foo  | awk -F':' '{freq[$1]++} END{for (file in freq) print file ":" freq[file]}'
+</code>
+
+For example
+<code>
+% git grep --no-index -o foo  | awk -F':' '{freq[$1]++} END{for (file in freq) print file ":" freq[file]}'
+junk2.txt:7
+junk1.txt:4
+</code>
+
+==== How it works ====
+The git grep command gives
+<code>
+% git grep --no-index -o foo
+junk1.txt:foo
+junk1.txt:foo
+junk1.txt:foo
+junk1.txt:foo
+junk2.txt:foo
+junk2.txt:foo
+junk2.txt:foo
+junk2.txt:foo
+junk2.txt:foo
+junk2.txt:foo
+junk2.txt:foo
+</code>
+The awk command counts the number of hits per file.
+
+==== References ====
+  * https://stackoverflow.com/questions/39945363/frequency-count-for-file-column-in-bash - count frequencies using awk
+
+==== tags ====
+awk frequency count, awk count breakdown, uniq reverse output, "git grep" count matches, count "grep -o", "grep -o" counts, "grep -o" summarize
+
+===== Solution using grep and awk =====
+<code>
+grep -ro foo * | awk -F':' '{freq[$1]++} END{for (file in freq) print file ":" freq[file]}'
+</code>
+
+Useful if git is not available.
+===== Solution using find, grep and wc =====
+<code>
+find * -printf 'echo "%p:$(grep -o "foo" %p | wc -l)";' | sh
+</code>
+
+For example
+<code>
+% find * -printf 'echo "%p:$(grep -o "foo" %p | wc -l)";' | sh
+junk1.txt:4
+junk2.txt:7
+</code>
+
+==== How it works ====
+To see how it works, run the command without piping the output to sh
+<code>
+% find * -printf 'echo "%p:$(grep -o "foo" %p | wc -l)";'     
+echo "junk1.txt:$(grep -o "foo" junk1.txt | wc -l)";echo "junk2.txt:$(grep -o "foo" junk2.txt | wc -l)";
+</code>
+
+So we are just building up a big command that would run "grep -o" on each file and then format the output.
+
+<code>
+find *          - find the files
+-printf ''      - format and print everything between the single-quotes.
+%p in -printf   - will be replaced by the filename in find's output
+grep -o         - print only the matched (non-empty) parts of a matching line, with each such part on a separate output line.
+| sh            - execute the command
+</code>
+
+Note: You have to use "grep -o" and not "grep -c". If a string occurs multiple times in a line, "grep -o" matches each of them separately. But "grep -c" counts them together. For example
+
+<code>
+% cat junk2.txt 
+foo
+bar
+foo bar foo
+bar foo bar
+foo foo foo
+
+% grep foo junk2.txt
+foo
+foo bar foo
+bar foo bar
+foo foo foo
+
+% grep -o foo junk2.txt 
+foo
+foo
+foo
+foo
+foo
+foo
+foo
+
+% grep -c foo junk2.txt
+4
+
+% grep -o foo junk2.txt| wc -l
+7
+</code>
+
+==== References ====
+  * https://newbedev.com/counting-all-occurrences-of-a-string-within-all-files-in-a-folder - where I came across this solution.

@@ -1,6 +1,31 @@
 ===== dummy =====
 
 
+==== Remove an environment ====
+To do it with no questions asked
+<code>
+conda env remove --name foo --yes
+</code>
+
+Ask for confirmation
+<code>
+conda env remove --name foo
+</code>
+
+If the environment was installed in a non standard location
+<code>
+conda env remove -p foo
+</code>
+where foo is the path of the environment.
+
+tags | delete
+
+related commands:
+<code>
+conda info --envs
+conda remove --help
+</code>
+
 ==== update environment ====
 <code>
 conda env update -f environment.yml

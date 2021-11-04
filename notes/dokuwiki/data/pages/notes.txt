@@ -109,7 +109,6 @@
   * [[medical notes]]
   * [[interesting images]]
   * [[DAELC]]
-  * [[companies]]
   * [[gmail notes]]
   * [[airindia notes]]
   * [[android notes]]
@@ -134,6 +133,7 @@
   * [[insurance]]
   * [[personal finance]]
   * [[bookmarks]]
+  * [[python jobs in nj]]
 
 ==== by date ====
   * [[reading journal 2021]]
