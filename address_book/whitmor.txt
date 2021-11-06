@@ -1,0 +1,5 @@
+company: Whitmor, Inc.
+phone: 888-944-8667
+email: help@whitmor.com
+address: 8680 Swinnea Rd #103, Southaven, MS 38671
+website: https://whitmor.com/
