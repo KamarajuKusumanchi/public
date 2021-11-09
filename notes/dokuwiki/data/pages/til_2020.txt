@@ -17,15 +17,6 @@
   * "rc-alert -d T" will show release critical bugs in packages that are currently installed on a system but only those that affect the testing distribution. This is useful to figure out how many RC bugs my system will have if I were to upgrade from stable to testing (but without actually changing sources.list or downloading the packages etc.,)
 
 tags | bugs affecting installed packages
-==== 2020-11-19 ====
-  * The account on https://ankiweb.net/ can be synchronised with anki (installed on a Debian machine). The advantage of the Debian version is that you can delete the cards as needed. The online version does not support card deletion. I am currently using
-<code>
-% anki --version
-anki 2.1.8
-
-% dpkg -l anki | grep ^ii
-ii  anki           2.1.8+dfsg-1 all          extensible flashcard learning program
-</code>
 
 ==== 2020-11-17 ====
   * Amazon launches online Pharmacy

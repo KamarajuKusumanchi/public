@@ -1,0 +1,371 @@
+==== 2021-11-03 ====
+Notes from https://www.bloomberg.com/news/articles/2021-11-03/cathie-wood-s-ark-grabs-more-zillow-as-real-estate-firm-slumps
+  * The $21.8 billion ARK Innovation ETF (ticker ARKK)
+  * The $3.4 billion ARK Fintech Innovation ETF (ARKF)
+  * The $5.6 billion ARK Next Generation Internet ETF (ARKW)
+
+Notes from https://www.bloomberg.com/news/articles/2021-11-03/zillow-s-flipping-halt-marks-stunning-collapse-in-housing-push?srnd=markets-vp
+  * the company was marketing about 7,000 homes for roughly $2.8 billion to institutional investors
+  * Zillow had ~8,000 employees as of Sept. 30.
+  * iBuying service
+  * In 2018, Zillow pivoted into the high-tech home-flipping business.
+
+==== 2021-10-25 ====
+Notes from https://www.bloomberg.com/news/articles/2021-10-25/hertz-said-to-order-100-000-teslas-in-car-rental-market-shake-up?srnd=premium
+  * Hertz Global Holdings Inc., placed an order for 100,000 Teslas.
+  * This brings in $4.2 billion of revenue for Tesla
+  * The cars will be delivered over the next 14 months
+  * Hertz is building its own charging infrastructure
+  * Mark Fields - Hertz's interim CEO
+  * "Tesla is the only manufacturer that can produce EVs at scale."
+  * Hertz’s new owners - Knighthead Capital Management and Certares Management
+  * Tesla is moving its headquarters from Palo Alto, California to Texas
+  * Tom Brady - seven-time Super Bowl-winning quarterback
+  * debt-to-equity ratio is a key measure of financial health
+  * Knighthead Capital Management - a distressed-debt hedge fund
+  * Certares Management - a private equity firm specializing in travel
+
+
+==== 2021-10-08 ====
+Notes from https://www.wsj.com/articles/september-jobs-report-unemployment-rate-2021-11633641477?mod=hp_lead_pos2&mod=hp_lead_pos1
+  * In the second chart titled "Payrolls by sector, changes since January 2020", I see the following sectors
+    * Local government education
+    * Retail trade
+    * Manufacturing
+    * Leisure and hospitality
+Afterwards, see if this list of sectors is any helpful?
+
+==== 2021-10-05 ====
+Notes from https://www.bloomberg.com/news/articles/2021-10-05/soros-s-fitzpatrick-says-firm-not-putting-money-into-china?srnd=markets-vp
+    * Dawn Fitzpatrick
+      * She is the CIO of Soros Fund Management
+      * She has been at the helm of the $27 billion fund for four years.
+      * Almost all the money she oversees is on behalf of the Open Society Foundations, the philanthropy Soros uses to promote democracy, equality and human rights.
+
+Notes from https://www.investors.intuit.com/news/news-details/2021/Intuit-to-Acquire-Mailchimp/default.aspx
+  * Intuit's ticker is INTU
+  * It makes TurboTax, QuickBooks, Mint, and Credit Karma
+  * Intuit is acquiring Mailchimp for $12 billion
+  * Mailchimp
+    * customer engagement and marketing platform
+
+Notes from https://news.ycombinator.com/item?id=28516219
+  * Mailchimp has ~13MM users and 800k paying customers.
+  * In 2019 they had revenues of \$700MM. In 2020 they had EBITDA of ~\$300MM.
+  * They are fully bootstrapped and have taken on zero outside funding.
+
+==== 2021-10-04 ====
+Notes from https://www.bloomberg.com/news/articles/2021-10-04/world-s-biggest-stock-market-loser-hong-kong-just-keeps-falling?srnd=markets-vp
+  * The Hang Seng China Enterprises Index (HSCEI)
+    * Tracks Chinese companies listed in Hong Kong
+  * Hong Kong’s Hang Seng Tech Index
+    * has a lot of overlap with the HSCEI
+  * Golden Week holiday
+
+==== 2021-09-29 ====
+Notes from https://www.bloomberg.com/news/articles/2021-09-29/market-maker-virtu-backs-venture-for-trading-private-stocks?srnd=markets-vp
+  * two of the largest electronic equity market-makers - Virtu and GTS
+  * ClearList
+    * Backed by Paul Tudor Jones’s investment firm, GTS, and Virtu.
+  * GTS
+    * Ari Rubenstein, co-founder and CEO of GTS
+
+==== 2021-09-28 ====
+Notes from https://www.bloomberg.com/news/articles/2021-09-28/bond-rout-is-reviving-quant-value-trade-in-best-year-since-2016?srnd=markets-vp
+  * As Treasury yields march higher for a fourth day, a market-neutral trade that goes long value stocks and shorts their more-expensive peers is set for another strong performance after posting the best gain since March on Monday.
+    * Is this always true? Does the value factor have any correlation to the treasury yields? Any lead/lag relation between the two?
+
+==== 2021-09-27 ====
+Notes from https://www.bloomberg.com/news/articles/2021-09-26/asia-stocks-to-open-steady-as-treasury-yields-rise-markets-wrap
+  * economically sensitive companies -- such as small caps, energy and financial shares
+
+Notes from https://www.bloomberg.com/opinion/articles/2021-09-26/supply-chain-financing-is-a-bigger-risk-to-china-than-evergrande?srnd=premium
+  * cash conversion cycles - the amount of time it takes to turn inventory investments into cash
+  * Chinese suppliers wait a long time to get paid by their customers
+    * average 92 days in China vs. 51 in the U.S.
+
+==== 2021-09-24 ====
+Notes from https://www.bloomberg.com/news/articles/2021-09-23/asian-stocks-set-for-steady-open-bond-yields-jump-markets-wrap
+  * The Nasdaq Golden Dragon China Index
+    * tracks some of China’s biggest firms listed in the U.S. and crypto-related stocks such as Coinbase Global Inc. and Marathon Digital Holdings Inc.
+  * Traders pulled $28.6 billion from U.S. equity funds in the week through Sept. 22
+  * EPFR Global data
+
+==== 2021-09-23 ====
+Notes from https://www.bloomberg.com/news/articles/2021-09-23/bankers-hurry-to-reassure-market-about-their-evergrande-exposure?srnd=markets-vp
+  * UBS Group AG’s risk is limited to the execution of collateral calls on margin loans
+  * UBS Chief Executive Officer Ralph Hamers
+  * Sam Woods, chief executive officer of the Bank of England’s Prudential Regulation Authority, which supervises banks and insurers
+  * David Qu, BI economist
+
+Notes from https://www.morningstar.co.uk/uk/news/215497/whos-buying-evergrandes-bonds.aspx
+  * Huarong is a financial institution and issued IG bonds.
+  * Property development sector accounts for almost one-third of China’s economic output.
+  * China's "Three Red Lines" policy
+    * a 70% ceiling on liabilities to assets, excluding advance proceeds from projects sold on contract,
+    * a 100% cap on net debt to equity,
+    * a cash to short-term borrowing ratio of at least one.
+    * Even if a firm passes all the requirements, it can only borrow an additional 15% in debt volume the next year.
+
+==== 2021-09-22 ====
+Notes from https://www.bloomberg.com/news/articles/2021-09-22/fed-signals-bond-buying-taper-may-start-soon-split-on-2022-hike
+  * The Fed is doubling the per-counterparty limit on its overnight reverse-repurchase agreement facility to $160 billion daily.
+  * The U.S. unemployment rate
+    * 5.2% in August 2021
+    * peak of 14.8% in April 2020
+    * 3.5% in February 2020
+  * Inflation was 4.2% in the 12 months through July
+
+
+==== 2021-09-21 ====
+Notes from https://www.bloomberg.com/news/articles/2021-09-21/dip-buying-returns-as-retail-investors-pounce-on-market-drop?srnd=markets-vp
+  * Individual investors bought a total of $1.93 billion worth of assets Monday.
+  * Vanda Research, a firm that tracks retail-trading flows in the U.S.
+  * the SPDR S&P 500 ETF Trust (ticker SPY) and Invesco QQQ Trust Series 1 (ticker QQQ)
+
+==== 2021-09-15 ====
+Notes from https://www.bloomberg.com/news/articles/2021-09-16/nomura-s-wealth-push-pays-off-with-fee-income-balancing-risks?srnd=markets-vp
+  * Nomura's competitors in managing money for the rich in Japan - Sumitomo Mitsui Financial Group Inc. and Goldman Sachs Group Inc.
+  * In Japan, households hold more than half of their roughly 2 quadrillion yen of assets in cash and deposits.
+
+==== 2021-09-14 ====
+Notes from https://www.wsj.com/articles/steven-cohen-to-invest-in-crypto-quant-trading-firm-11631611803?mod=hp_lead_pos10
+  * Steven Cohen
+    * owns New York Mets
+    * his hedge-fund name is Point72 Asset Management LP
+    * His old old hedge fund firm is SAC Capital Advisors LP
+    * SEC banned him from managing outside money for two years
+  * SAC Capital Advisors LP
+    * pleaded guilty to criminal insider-trading charges in 2013
+  * Point 72
+    * managed $21.8 billion in assets as of 2021-07-01
+    * has a venture-capital arm
+  * GTS
+    * based in New York
+    * a designated market maker, or DMM, on the New York Stock Exchange
+    * a high-speed trading firm active in stocks and options
+    * handles about 5% of daily U.S. equities trading volume
+    * Chief Executive Ari Rubenstein
+  * hedge-fund billionaires - Paul Tudor Jones and Stanley Druckenmiller
+  * NFTs = nonfungible tokens
+    * a type of digital asset that can be used as a certificate of authenticity for items such as artworks or sports collectibles.
+  * DeFi = decentralized finance
+    * seeks to replicate traditional functions of finance such as banking and lending using computer code
+  * bilateral trades
+  * Ryan Sheftel - a partner at GTS who was previously the global head of fixed-income electronic trading at Credit Suisse Group AG
+  * DMMs =  designated market makers
+    * They are firms responsible for overseeing orderly trading in NYSE-listed stocks.
+
+Notes from https://www.bloomberg.com/news/articles/2021-09-13/sec-chief-signals-he-wants-tougher-oversight-of-corporate-bonds?srnd=markets-vp
+  * corporate debt, municipal bonds and mortgage securities
+  * non-Treasury fixed income
+  * the security-based swaps fueled Archegos’s meltdown
+  * Financial Stability Oversight Council
+  * The Senate Banking Committee
+==== 2021-09-09 ====
+Notes from https://www.bloomberg.com/news/articles/2021-09-08/stocks-eye-drop-treasuries-rise-amid-growth-risks-markets-wrap
+  * Digital Realty, which manages technology-related properties
+
+==== 2021-08-09 ====
+Notes from https://www.reuters.com/article/usa-stocks/us-stocks-oil-stocks-pull-sp-500-dow-lower-as-virus-fears-weigh-idUSL4N2PG2EQ
+  * 11 major S&P sectors
+  * Defensive sectors such as consumer staples and healthcare
+
+==== 2021-08-03 ====
+Notes from https://www.bloomberg.com/news/articles/2021-07-31/florida-reports-record-daily-covid-cases-above-21-600-cdc-data
+  * Florida is the third most populous state
+  * Walt Disney Co. is the world’s largest theme-park operator
+
+Notes from https://www.bloomberg.com/opinion/articles/2021-08-03/inflation-the-bond-market-s-very-misleading-message?srnd=premium
+  * Written by Richard Cookson.
+  * Based on this article, I think he writes good quality articles and analyzes the problem well.
+  * So far this year, the Federal Reserve has purchased about \$490 billion of the \$2.7 trillion of the Treasury’s net issuance.
+  * That still leaves the tidy sum of $2.2 trillion that needs to find a home.
+  * Some $16 trillion of bonds globally have yields that are less than zero
+  * Normally, any foreign investor buying U.S. assets would have to take currency risk. But because short-term rates in the U.S. are so low and the Fed has flooded the world with dollars, foreign investors can buy U.S. Treasuries hedged into their own currencies with a huge pick up in yield compared with local alternatives, thanks to something called a cross-currency basis swap.
+  * South Korean export prices are the bellwether of global trade prices
+
+Notes from https://news.ycombinator.com/item?id=27734996
+  * FINRA itself was only established in 2007; the previous self-regulatory organization was the National Association of Securities Dealers, NASD - you may have heard of their Automated Quotation service, NASDAQ. FINRA was created after a long period of the SEC criticizing NASD for prioritizing the good of its business over effective self-regulation
+
+==== 2021-08-02 ====
+Notes from https://www.bloomberg.com/news/articles/2021-08-01/world-s-biggest-pension-fund-cuts-u-s-bond-weighting-by-record?srnd=premium
+  * GPIF - Japan’s Government Pension Investment Fund
+    * It is the world’s biggest pension fund
+    * AUM = $1.7 trillion.
+    * Eiji Ueda is the fund’s chief investment officer
+  * In the last 12 months, GPIF lowered US government bonds and loaded European sovereign debt
+  * FTSE Russell’s World Government Bond Index excluding Japan
+    * Is this what GPIF is using to benchmark their overseas debt?
+  * Japanese investors overall have sold a net \$24 billion of U.S. government bonds since the start of their current fiscal year on April 1. They offloaded \$35 billion in the 12 months before that.
+
+==== 2021-07-30 ====
+Notes from https://www.bloomberg.com/news/articles/2021-07-30/fed-s-bullard-wants-taper-to-start-in-fall-end-by-march-2022?srnd=markets-vp
+  * Since Sep 2020, Fed is buying \$80 billion Treasuries and \$40 billion mortgage-backed securities per month.
+
+Notes from https://www.bloomberg.com/news/articles/2021-07-30/nomura-returns-to-profit-as-japan-broker-moves-on-from-archegos?srnd=markets-vp
+  * Nomura has taken a $2.9 billion hit from the implosion of Bill Hwang’s family office
+  * Nomura's Chief Financial Officer Takumi Kitamura
+  * Nomura will stop offering cash prime-brokerage services in the U.S. and Europe
+    * What are cash prime-brokerage services?
+  * Christopher Willcox - co-head of Nomura's Americas unit
+  
+==== 2021-07-29 ====
+Notes from https://www.cnbc.com/2021/06/29/walmart-unveils-low-price-analog-insulin-amid-rising-diabetes-drug-costs.html
+  * analog insulin
+  * Walmart has sought to bring “everyday low price” to medical care by opening primary care clinics and acquiring a telehealth company.
+  * Walmart will sell an exclusive private-label version of analog insulin, ReliOn NovoLog, to adults and children who have a prescription.
+  * It will cost about \$73 for a vial or about \$86 for a package of prefilled insulin pens
+  * More than 34 million people in the U.S. — or nearly 11% of the population — have diabetes, and about 1.5 million Americans are diagnosed every year, according to the American Diabetes Association.
+  * Manufacturers of insulin - Sanofi and Eli Lilly
+  * Walmart worked directly with manufacturer Novo Nordisk to reduce costs.
+
+==== 2021-07-27 ====
+Notes from https://www.bloomberg.com/news/articles/2021-07-27/amazon-trades-in-canada-with-cibc-launch-of-depositary-receipts?srnd=markets-vp
+  * CIBC = Canadian Imperial Bank of Commerce
+  * CDRs = Canadian depositary receipts
+  * Neo Exchange - an upstart equity market that competes with the Toronto Stock Exchange
+  * Elliot Scherer - managing director and head of sales at CIBC’s Wealth Solutions group
+  * Canadian clients saw their U.S. stock gains reduced by a rise in the Canadian dollar.
+  * In 2020, SP500 gained 16.3% (in US dollars), 14.4% (in Canadian dollars).
+  * In 2019, a strong loonie lopped more than 6 percentage points off the U.S. equity benchmark’s 28.9% gain.
+  * The Canadian depositary receipts are designed to allow investors to buy foreign shares in loonies. There’s a built-in hedge so that the investor’s returns are based on how the stock performs, regardless of moves in the exchange rate.
+
+Notes from https://thehustle.co/the-economics-of-dollar-stores/ - The economics of dollar stores
+  * high information density; well written, short and to the point.
+
+Notes from https://www.bloomberg.com/news/articles/2021-07-27/chinese-tutoring-firm-new-oriental-downgraded-to-cusp-of-junk?srnd=markets-vp
+  * notice the usage of the word bellweather\\ A bellwether for China’s listed tutoring firms suffered a credit rating downgrade, following a recent crackdown on the nation’s private education firms.
+  * Baa3 is the lowest investment-grade rating, just one step away from junk territory at Moody’s Investors Service.
+
+Notes from https://www.bloomberg.com/news/articles/2021-07-26/asia-eyes-cautious-open-amid-china-curbs-earnings-markets-wrap
+  * pared some losses
+    * What does that mean?
+  * the Hang Seng Index
+  * the Hang Seng Tech Index
+
+==== 2021-07-26 ====
+Notes from https://www.bloomberg.com/news/articles/2021-07-24/china-bans-school-curriculum-tutoring-firms-from-going-public
+
+  * New Regulations for China’s Education Sector:
+    * Companies and institutions that teach the school curriculum must go non-profit
+    * Such institutions cannot pursue IPOs, or take foreign capital
+    * Listed companies will be prohibited from issuing stock or raising money in capital markets to invest in school-subject tutoring institutions, or acquiring their assets via stock or cash
+    * Foreign firms are banned from acquiring or holding shares in school curriculum tutoring institutions, or using VIEs (variable interest entities) to do so. Those already in violation need to rectify the situation
+    * All vacation and holiday cirriculum tutoring is off-limits
+    * Online tutoring and school-curriculum teaching for kids below six years of age is forbidden
+    * Agencies cannot teach foreign curriculums or hire foreigners outside of China to teach
+
+
+  * Weekend tutoring related to the school syllabus is now off-limits.
+  * Companies that teach school subjects can no longer accept overseas investment, which could include capital from the offshore registered entities of Chinese firms
+  * The new regulations are focused on compulsory subjects, meaning critical material like math, science and history. Classes for art or music mostly would not fall under the new restrictions.
+  * They also banned the teaching of foreign curriculums, tighten scrutiny over the import of textbooks and forbid the hiring of foreign teachers outside of China.
+  * State Council - the country’s most powerful administrative authority
+  * TAL Education Group, New Oriental Education & Technology Group and Gaotu Techedu Inc
+  * Education technology had emerged as one of the hottest investment plays in China in recent years, attracting billions from the likes of Tiger Global Management, Temasek Holdings Pte and SoftBank Group Corp.
+  * tutorial industry
+  * Weibo
+  * Didi Global Inc., Alibaba Group Holding Ltd.
+  * after-school tutoring
+  * one of Xi Jinping’s top priorities: boosting a declining birth rate
+  * Yuanfudao and Zuoyebang
+  * startups like VIPKid specialized in overseas tutors
+  * Online tutoring agencies will also be forbidden from accepting pupils under the age of six.
+  * China will improve the quality of state-run online education services and make them free of charge
+
+Notes from https://www.bloomberg.com/news/articles/2021-07-26/down-650-billion-chinese-stocks-in-u-s-set-for-even-more-pain?srnd=premium
+  * Nasdaq Golden Dragon China Index
+    * Tracks 98 of China’s biggest firms listed in the U.S.
+  * U.S.-listed Chinese stocks
+  * Regulators in China banned firms that teach school subjects from making profits, raising capital or going public.
+  * Cathie Wood’s flagship Ark Innovation ETF
+  * tech-giant Baidu Inc.
+  * Tencent Holdings Ltd.
+  * Chinese property site KE Holdings Inc.
+  * TAL Education Group, New Oriental Education & Technology Group Inc. and Gaotu Techedu Inc., some of China’s largest education companies
+  * more than $100 billion in market capitalization has been erased from Chinese education stocks traded in the U.S., China and Hong Kong this year
+  * food-delivery giant Meituan
+
+==== 2021-07-22 ====
+Notes from https://www.bloomberg.com/news/articles/2021-07-22/eisler-gets-1-billion-for-hedge-fund-to-make-big-leveraged-bets?srnd=markets-vp
+  * This article was written by Nishant Kumar
+  * It smells like a PR piece. In the future, you can safely ignore any articles written by him.
+  * Eisler Capital - one of Europe’s most secretive hedge funds
+  * Millennium Management and Citadel - industry giants in the multi-strategy sector
+  * Multi-strategy funds funds are run by dozens of traders making bets across asset classes, instead of an investment chief making the calls.
+  * billionaire Michael Platt’s BlueCrest Capital Management
+  * Bill Hwang’s Archegos Capital Management
+  * Goldman Sachs Group Inc.’s global securities unit
+
+==== 2021-06-30 ====
+Notes from https://www.bloomberg.com/news/articles/2021-06-30/tesla-stall-shows-wall-street-rift-on-stratospheric-stock-value?srnd=markets-vp - Tesla Stall Shows Analyst Rift on Stratospheric Valuation
+  * Tesla sold about half a million cars worldwide in 2020, accounting for a fraction of even the 14.5 million light vehicles sold in the U.S.
+    * What is the definition of a "light vehicle" in the above context?
+  * Tesla's P/E = 650 vs SP500 P/E = 30
+
+==== 2021-06-29 ====
+Notes from https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400 - Stack Overflow Sold to Tech Giant Prosus for $1.8 Billion
+  * Prosus is buying Stack Overflow for $1.8 billion
+  * Stack Overflow
+    * based in New York, closely held.
+    * 100 million visitors monthly
+    * source of revenue
+      * ads
+      * Stack Overflow for Teams - subscription based
+  * Prosus
+    * one of Europe’s most valuable tech companies
+    * the largest shareholder in Chinese internet and videogaming giant Tencent Holdings Ltd.
+    * has stakes in Udemy and Codecademy
+    * Listed in Amsterdam
+    * Its parent company is Naspers Ltd
+      * Bob Van Dijk is the CEO Naspers
+  * PayU payments company
+
+==== 2021-06-04 ====
+https://finviz.com/calendar.ashx shows
+
+<code>
+Fri Jun 04	Release				For	Actual	Expected	Prior
+8:30 AM		Nonfarm Payrolls		May	559K	720K		278K
+8:30 AM		Nonfarm Private Payrolls	May	492K	650K		219K
+8:30 AM		Avg. Hourly Earnings		May	0.5%	0.2%		0.7%
+8:30 AM		Unemployment Rate		May	5.8%	5.9%		6.1%
+8:30 AM		Average Workweek		May	34.9	34.9		34.9
+10:00 AM	Factory Orders			Apr	-0.6%	0.5%		1.4%
+</code>
+
+Notes from https://www.bloomberg.com/news/articles/2021-06-04/u-s-job-growth-picked-up-steam-in-may-after-disappointing-april?srnd=premium
+  * Payrolls gain of 559,000
+  * U.S. Adds 559,000 Jobs in May
+  * Payrolls increased by 559,000 last month after a revised 278,000 gain in April, according to a Labor Department report Friday.
+  * The jobless rate dropped to 5.8%, while the labor participation rate was little changed.
+  * Restaurants and bars reported the largest payrolls increase, with a gain of 186,000 jobs, the Labor Department’s report showed.
+  * The number of long-term unemployed, those out of work for 27 weeks or longer, declined by 431,000 in May.
+  * The labor force participation rate, a measure of those working or looking for work and closely watched by the Fed, was 61.6% in May after 61.7%. It remains well below the 63.3% before the pandemic. The employment-population ratio ticked up to 58%.
+  * Average hourly earnings rose 0.5% in May from a month earlier, to $30.33, the jobs report showed.
+==== 2021-05-28 ====
+Notes from https://www.wsj.com/articles/amazon-and-walmart-have-an-rx-for-healthcare-the-cure-wont-be-easy-11622194240
+  * traditional pharmacies -  Walgreens Boots Alliance (WBA) and CVS Health (CVS)
+
+
+==== 2021-05-24 ====
+Notes from https://www.bloomberg.com/news/articles/2021-05-23/asia-stocks-to-start-mixed-bitcoin-s-wild-ride-markets-wrap?srnd=markets-vp
+  * Richard Branson is a British billionaire who founded Virgin Galactic Holdings Inc.
+
+==== 2021-05-11 ====
+Notes from https://www.bloomberg.com/news/articles/2021-05-10/deadly-fungus-infection-found-in-covid-19-patients-in-india - Deadly Fungus Infection Found in Covid-19 Patients in India
+  * Mucormycosis, also called the “black fungus” infection, can damage the sinuses or lungs when the spores are inhaled.
+
+From MSG
+  * Black fungus is more deadlier then covid, affecting eye. In many cases eye removal is only option.
+  * It can affect a person with low immunity response.
+
+==== 2021-05-10 ====
+From https://www.bloomberg.com/news/articles/2021-05-09/u-s-fuel-sellers-scramble-for-alternatives-to-hacked-pipeline?srnd=premium
+  * Colonial Pipeline
+    * North America’s biggest petroleum pipeline
+    * It has the capacity to send about 2.5 million barrels (105 million gallons) a day from Houston as far as North Carolina, and another 900,000 barrels a day to New York.
+  * Plantation Pipeline
+    * Operated by Kinder Morgan
+    * It has a capacity of 720,000 barrels a day

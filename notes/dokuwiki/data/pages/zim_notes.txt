@@ -1,3 +1,12 @@
+==== Link to files ====
+tags | link to a file
+
+On windows:
+<code>
+file:///C:/path/to/the/file
+</code>
+
+Ref:- https://zim-wiki.org/manual/Help/Links.html -> "File Links" section
 ==== why zim ====
 Pros:
   * Zim operates at a "collection of documents" or "project" level. Compare this to vim, notepad++ which operate at a "single document" level.

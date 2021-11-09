@@ -1,5 +1,13 @@
 
 
+==== 2021-11-08 ====
+  * Came across this nice little piece of software called unison-gtk . It is a GUI application to synchronize files between two machines. Slick and intuitive GUI.
+  * https://packages.debian.org/stable/unison-gtk
+
+==== 2021-11-05 ====
+  * https://www.youtube.com/watch?v=71EU8gnZqZQ - Python Flask Authentication Tutorial - Learn Flask Login
+    * Easy to follow, high information density.
+
 ==== 2021-10-24 ====
   * https://simple.wikipedia.org/ - Simple Wikipedia for children and adults who are learning English.
 

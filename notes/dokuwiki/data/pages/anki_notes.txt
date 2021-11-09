@@ -1,0 +1,12 @@
+
+==== advantage of debian anki package ====
+  * The account on https://ankiweb.net/ can be synchronised with anki (installed on a Debian machine). The advantage of the Debian version is that you can delete the cards as needed. The online version does not support card deletion. I am currently using
+<code>
+% anki --version
+anki 2.1.8
+
+% dpkg -l anki | grep ^ii
+ii  anki           2.1.8+dfsg-1 all          extensible flashcard learning program
+</code>
+
+today | 2020-11-09

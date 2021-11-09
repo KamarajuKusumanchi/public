@@ -22,6 +22,10 @@
   * [[okular notes]]
 
 ==== dummy ====
+  * [[anki notes]]
+  * [[document_storage]]
+  * [[reddit notes]]
+  * [[irs notes]]
   * [[samsung tablet]]
   * [[journalists notes]]
   * [[dad jokes]]

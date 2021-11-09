@@ -1,0 +1,3 @@
+==== dummy ====
+  * Individuals can now contribute \$20,500 to their 401(k) plans in 2022. This limit used to be \$19,500 in 2020 and 2021. The announcement was made on 2021-11-04.
+    * https://www.irs.gov/newsroom/irs-announces-401k-limit-increases-to-20500

@@ -1,0 +1,15 @@
+==== dummy ====
+  * Google drive
+  * AWS cloud drive
+  * Apple iCloud
+
+==== synchronization ====
+  * https://syncthing.net/
+
+==== free storage limits ====
+  * dropbox
+    * 2 GB
+    * https://www.dropbox.com/basic
+
+Ref:
+  * https://www.cloudstorageoptions.com/free/
