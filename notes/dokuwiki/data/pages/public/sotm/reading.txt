@@ -1,3 +1,62 @@
+==== 2021-11-26 ====
+Notes from https://www.bloomberg.com/news/articles/2021-11-25/asian-stocks-set-for-mixed-open-amid-firm-dollar-markets-wrap?srnd=premium
+  * Jekyll-and-Hyde posture
+    * What is this?
+  * Investors poured almost $900 billion into equity exchange-traded and long-only funds in 2021
+
+==== 2021-11-22 ====
+Notes from https://www.cnbc.com/2021/11/22/biden-picks-jerome-powell-to-lead-the-fed-for-a-second-term-as-the-us-battles-covid-and-inflation.html
+  * Fed is now holding $4 trillion of treasuries and MBS.
+  * Current unemployment rate is 4.6%.
+  * Donald Trump appointed Powell to the position in 2018.
+  * Fed's mandates: [Maximize U.S. employment, keep inflation stable]
+  * Fed's leaders are known as governors.
+  * Fed's governors are nominated by the president.
+  * Fed's governors
+    * vote on how to adjust interest rates
+    * regulate the nation’s largest banks
+    * monitor the health of the economy
+  * Mike Feroli - chief U.S. economist at JPMorgan
+  * Janet Yellen
+    * Current Treasury Secretary
+    * first woman to serve as the Fed’s chair
+    * first female Treasury secretary
+
+==== 2021-11-17 ====
+Notes from https://www.bloomberg.com/news/articles/2021-11-17/bill-hwang-made-secret-bank-bet-before-20-billion-loss-archegos-collapse?srnd=premium
+  * Texas Capital Bancshares Inc.
+
+  * Texas Capital was founded by Jody Grant in 1998.
+  * Brian Jones was head of research at Archegos.
+
+==== 2021-11-12 ====
+Notes from https://www.bloomberg.com/news/articles/2021-11-12/weird-200-million-per-day-etf-flow-is-internal-nuveen-switch?srnd=markets-vp
+  * Ordinarily an ETF launches with cash lined up that is added in a lump sum in the first few days, or it relies on often-choppy organic flows. 
+  * TIAA-CREF Lifestyle and Lifecycle funds
+  * Jordan Farris, head of ETF product for Nuveen
+  * TIAA-CREF Large-Cap Growth Index Fund (TILIX)
+  * TIAA = Teachers Insurance and Annuity Association of America
+  * ANTs = active non-transparent ETS?
+  * Athanasios Psarofagis, an ETF analyst with Bloomberg Intelligence
+
+Notes from https://www.bloomberg.com/news/articles/2021-11-11/every-day-like-clockwork-200-million-flows-into-one-growth-etf?srnd=markets-vp
+  * Nuveen Growth Opportunities ETF (NUGO)
+    * It targets long-term capital appreciation in companies with a market cap above $1 billion.
+    * It launched in 9/2021.
+    * $2.7 billion AUM
+    * a big investor is drip-feeding in cash
+  * Most ETFs either launch “pre-seeded” -- cash already lined up that is invested in its first day or two -- or gather assets organically in the weeks that follow.
+  * Eric Balchunas, senior ETF analyst at BI (Bloomberg Intelligence?)
+  * U.S. ETF market is $7.1 trillion
+
+==== 2021-11-11 ====
+Links I came across
+  * https://www.nasdaq.com/market-activity/most-active - has a table that shows stocks that are most active by dollar volume.
+
+Notes from https://www.bloomberg.com/news/articles/2021-11-11/nasdaq-adds-retail-trading-tracker-in-wake-of-meme-stock-craze?srnd=markets-vp
+  * Nasdaq Data Link platform
+  * Oliver Albers, senior vice president and head of data for investment intelligence at Nasdaq
+
 ==== 2021-11-03 ====
 Notes from https://www.bloomberg.com/news/articles/2021-11-03/cathie-wood-s-ark-grabs-more-zillow-as-real-estate-firm-slumps
   * The $21.8 billion ARK Innovation ETF (ticker ARKK)

@@ -1,3 +1,5 @@
+Note:- My old blog is in http://raju.shoutwiki.com/wiki/Blog . I plan to migrate the articles from there to here as time permits.
+
 ==== 2021 ====
   * 2021-10-31 [[Number of matches per file]]
 

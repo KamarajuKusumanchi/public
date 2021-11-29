@@ -1,0 +1,15 @@
+===== mayo clinic =====
+==== publications ====
+  * https://www.mayo.edu/research/forefront - Forefront is a magazine published by Mayo Clinic Cancer Center.
+
+==== notes from news articles ====
+Notes from https://newsnetwork.mayoclinic.org/discussion/groundbreaking-early-cancer-detection-test-studied-at-mayo-clinic-introduced-nationally/
+  * published on 2021-06-04
+  * Mayo Clinic today recognized a multi-cancer early cancer detection (MCED) test called Galleri that can detect more than 50 types of cancers through a simple blood draw.
+  * the Circulating Cell-free Genome Atlas (CCGA) Study - a prospective, observational, longitudinal study designed to characterize the landscape of genomic cancer signals in the blood of people with and without cancer.
+  * Dr. Liu is the co-director of the Genomics in Action Program within the Mayo Clinic Center for Individualized Medicine, research chair of the Department of Oncology, and a consultant in the Department of Laboratory Medicine and Pathology.
+  * blood assays, novel therapeutics
+
+https://www.mayo.edu/research/forefront/mayo-clinic-researchers-study-blood-test-to-detect-multiple-cancers
+  * published in Volume 9, Issue 2, June 2020
+  * The test uses cell-free deoxyribonucleic acid (cfDNA) targeted methylation signals in the blood to provide a cancer signal and information about the tissue of origin.

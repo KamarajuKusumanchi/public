@@ -1,4 +1,7 @@
 ==== magazines I came across ====
+  * https://www.mayo.edu/research/forefront - Forefront is a magazine published by Mayo Clinic Cancer Center.
   * https://www.rwjbh.org/monmouth-medical-center/news/publications/ - 'Healthy together' magazine published by Monmouth Medical Center
   * https://www.rwjbh.org/saint-barnabas-medical-center/news/publications/ - 'Healthy together' magazine published by Saint Barnabas Medical Center
   * https://www.rwjbh.org/patients-visitors/publications/ - Publications of RWJ Barnabas Health
+
+{{tag>publications magazines}}

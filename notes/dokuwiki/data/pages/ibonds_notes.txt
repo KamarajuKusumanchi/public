@@ -1,0 +1,38 @@
+==== Notes ====
+
+Check out https://www.treasurydirect.gov/indiv/research/indepth/ibonds/res_ibonds.htm
+
+These I-bonds seem  like an interesting product: ~7% interest rate (but changes every 6 months); inflation protected; $10k investment limit per yer per ssn; only federal tax; no state tax; 1 year lockup; 3 month interest loss if withdrawn before 5 years.
+
+It seems like a good ROI with diversification benefits when mixed with other popular options like stocks, real estate.
+
+If the inflation goes up, the yield will go up and vice versa.
+
+The interstate rate has two components - fixed and inflation related. They are calling the total interest rate "composite".
+
+Here is the example: https://www.treasurydirect.gov/indiv/research/indepth/ibonds/res_ibonds_iratesandterms.htm#rate
+
+The same page also has historical interest rates at the bottom (https://www.treasurydirect.gov/indiv/research/indepth/ibonds/res_ibonds_iratesandterms.htm#compositerate). Since 1998, it was always above 7%.
+
+To buy them we have to open an account on treasurydirect.gov and buy it from there.
+
+today | 2021-11-23
+
+==== links I came across ====
+  * https://www.treasurydirect.gov/indiv/products/prod_ibonds_glance.htm - info on I-bonds
+  * https://www.treasurydirect.gov/indiv/research/indepth/ibonds/res_ibonds_ifaq.htm - FAQ on I-bonds
+  * https://www.treasurydirect.gov/indiv/research/indepth/ibonds/res_ibonds.htm - indepth info on I-bonds
+  * https://www.treasurydirect.gov/indiv/research/indepth/ibonds/res_ibonds_itaxconsider.htm - tax considerations for I-bonds
+  * https://www.treasurydirect.gov/indiv/research/indepth/ibonds/res_ibonds_iratesandterms.htm - shows the history of interest rates for I-bonds
+
+  * https://www.treasurydirect.gov/indiv/products/prod_tipsvsibonds.htm - I-bonds vs. Tips
+  * https://www.treasurydirect.gov/indiv/research/indepth/ebonds/res_e_bonds_eecomparison.htm - I-bonds vs EE-bonds
+  * https://www.treasurydirect.gov/indiv/help/TDHelp/help_ug_292-EntityAccountsLearnMore.htm - about entity accounts
+  * https://www.treasurydirect.gov/indiv/help/TDHelp/howdoi.htm#openminor - Instructions on how to open a tresurydirect account for a minor
+  * https://www.treasurydirect.gov/indiv/help/TDHelp/howdoi.htm - How do I this and that?
+
+  * https://www.treasurydirect.gov/indiv/products/prod_eebonds_glance.htm - EE bonds overview
+  * https://www.treasurydirect.gov/indiv/research/indepth/ebonds/res_e_bonds.htm
+    * Answers the question "What is the current interest rate of Series EE savings bonds"?
+  * https://www.treasurydirect.gov/indiv/research/indepth/ebonds/res_e_bonds_eeratesandterms.htm - interest rates for EE-bonds
+  * https://www.treasurydirect.gov/indiv/research/indepth/ebonds/res_e_bonds.htm - info on EE bonds

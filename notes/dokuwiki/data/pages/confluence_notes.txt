@@ -22,7 +22,11 @@ Ref:
 
 Ref:- https://confluence.atlassian.com/doc/symbols-emoticons-and-special-characters-136870.html -> "Insert emoticons" section
 
-==== Macro Suggestions ====
+==== Macros I came across ====
+  * https://docs.servicerocket.com/linking/macro-reference/incoming-links
+    * tags | incoming links, show back links
+
+==== Macro suggestions ====
   * Show table of contents - {Table of Contents}
   * Show children pages - {Children Display}
 

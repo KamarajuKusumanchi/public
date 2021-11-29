@@ -1,4 +1,5 @@
 ==== links I came across ====
+  * https://stats.stackexchange.com/
   * https://lifehacks.stackexchange.com/
   * https://cooking.stackexchange.com/
   * https://codegolf.stackexchange.com/ - recreational programming competitions

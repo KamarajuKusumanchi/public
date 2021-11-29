@@ -1,3 +1,44 @@
+
+==== useful plugins ====
+  * https://www.dokuwiki.org/plugin:tag - add search tags to the wiki pages.
+    * favorite configuration:
+      * set tags_list_css to "optimized for tags list at top of page"
+    * Multiple tags are separated by spaces. If a tag itself contains a space, it should be in quotes. For example <code>
+{{tag>"foo bar" baz}}
+</code> will set two tags "foo bar" and "baz".
+  * https://www.dokuwiki.org/plugin:saveandedit - Adds a checkbox to continue editing after the page is saved.
+  * https://www.dokuwiki.org/plugin:nspages - to list all pages in a namespace
+  * https://www.dokuwiki.org/plugin:include - to transclude pages
+    * Using this to include [[python_pages]] as a section in [[notes]]
+  * https://www.dokuwiki.org/plugin:nodisp
+  * https://www.dokuwiki.org/plugin:wrap
+  * https://www.dokuwiki.org/plugin:qna
+  * https://www.dokuwiki.org/plugin:mathjax
+  * https://www.dokuwiki.org/plugin:move
+
+==== plugins I am exploring ====
+  * https://www.dokuwiki.org/plugin:tabbox
+
+==== plugins I came across ====
+https://www.dokuwiki.org/tips:book mentions two plugins that are useful for creating books.
+  * https://www.dokuwiki.org/plugin:bookcreator
+  * https://www.dokuwiki.org/plugin:dw2pdf
+==== conflicting plugins ====
+  * https://www.dokuwiki.org/plugin:edittable - seems nice. But it is conflicting with https://www.dokuwiki.org/plugin:wrap . For example, if I have a cell with a list of items, and if I install the edittable plugin and then try to edit that table, the cell contents are not longer rendered as a list.
+    * Todo:- Try to come up with a small test case and report it upstream.
+
+==== buggy plugins ====
+  * https://www.dokuwiki.org/plugin:keywords - add keywords to the wiki pages
+    * The keywords are not rendered but you can search on them (expected behaviour).
+    * issues:
+      * https://github.com/i-net-software/dokuwiki-plugin-keywords/issues/1 - Key words with spaces are broken into individual words. For example "foo bar" will become "foo, bar".
+    * Use https://www.dokuwiki.org/plugin:tag instead. It populates the keywords meta field and does much more.
+
+  * https://www.dokuwiki.org/plugin:editsections2 is giving <code>
+startSectionEdit: $data "section" is NOT an array! One of your plugins needs an update.
+</code> on all the pages.
+    * Tested using 2012-10-13 version.
+
 ==== issues reported by me ====
   * https://github.com/splitbrain/dokuwiki/issues/3531 - display section numbers in the page and table of contents
 
@@ -49,31 +90,6 @@ bar
   * https://www.dokuwiki.org/locking
 
   * https://wiki.chongtin.com/adding_google_adsense
-
-==== useful plugins ====
-  * https://www.dokuwiki.org/plugin:saveandedit - Adds a checkbox to continue editing after the page is saved.
-  * https://www.dokuwiki.org/plugin:nspages - to list all pages in a namespace
-  * https://www.dokuwiki.org/plugin:include - to transclude pages
-    * Using this to include [[python_pages]] as a section in [[notes]]
-  * https://www.dokuwiki.org/plugin:nodisp
-  * https://www.dokuwiki.org/plugin:wrap
-  * https://www.dokuwiki.org/plugin:qna
-  * https://www.dokuwiki.org/plugin:mathjax
-  * https://www.dokuwiki.org/plugin:move
-
-==== plugins I came across ====
-https://www.dokuwiki.org/tips:book mentions two plugins that are useful for creating books.
-  * https://www.dokuwiki.org/plugin:bookcreator
-  * https://www.dokuwiki.org/plugin:dw2pdf
-==== conflicting plugins ====
-  * https://www.dokuwiki.org/plugin:edittable - seems nice. But it is conflicting with https://www.dokuwiki.org/plugin:wrap . For example, if I have a cell with a list of items, and if I install the edittable plugin and then try to edit that table, the cell contents are not longer rendered as a list.
-    * Todo:- Try to come up with a small test case and report it upstream.
-
-==== buggy plugins ====
-  * https://www.dokuwiki.org/plugin:editsections2 is giving <code>
-startSectionEdit: $data "section" is NOT an array! One of your plugins needs an update.
-</code> on all the pages.
-    * Tested using 2012-10-13 version.
 
 ==== documentation links I came across ====
   * https://www.dokuwiki.org/index

@@ -1,5 +1,8 @@
 
 
+==== 2021-11-18 ====
+  * https://math.stackexchange.com/a/1686299 - very good explanation of what makes a number transcendental.
+
 ==== 2021-11-08 ====
   * Came across this nice little piece of software called unison-gtk . It is a GUI application to synchronize files between two machines. Slick and intuitive GUI.
   * https://packages.debian.org/stable/unison-gtk
