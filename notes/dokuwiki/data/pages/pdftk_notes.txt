@@ -3,7 +3,14 @@ tags | remove password pdf
 
 <code>
 qpdf --password=YOURPASSWORD --decrypt input.pdf output.pdf
+</code>
+If the password has some special characters, quote it.
 
+<code>
+qpdf --password="YOURPASSWORD" --decrypt input.pdf output.pdf
+</code>
+
+<code>
 pdftk secured.pdf input_pw YOURPASSWORD output unsecured.pdf
 </code>
 

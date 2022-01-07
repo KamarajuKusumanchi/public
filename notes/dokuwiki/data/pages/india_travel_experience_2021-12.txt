@@ -1,0 +1,32 @@
+Here is my recent travel experience:
+
+Onward journey: \\
+Travel date: 12/5/2021 - 12/6/2021 \\
+Route: JFK -> New Delhi -> Vijayawada \\
+Airlines: Air India (for all the flights including New Delhi to Vijayawada)
+  * Air suvidha, rtpcr report, vaccination record - one hard copy was collected at the destination (Vijayawada).
+  * In all other places (JFK, New Delhi), I just had to show the documents. They did not collect them.
+  * I carried hard copeis. But had soft copies as a backup.
+  * Print air suvidha in color (only on one side of the paper).
+  * For the RTPCR test, it is 72 hours before departure (not arrival).
+  * Luggage is only checked in till New Delhi.
+  * I had to collect them and recheckin at New Delhi.
+  * Customs, immigration, luggage transfer etc., took 3+ hours in New Delhi.
+
+Return journey: \\
+Travel date: 12/25/2021 - 12/26/2021 \\
+Route: Vijayawada -> New Delhi -> JFK \\
+Airlines: Air India (for all the flights including Vijayawada to New Delhi)
+  * RTPCR test
+    * should be done 24 hours before departure.
+    * was checked at Vijayawada during checkin
+    * was checked at New Delhi before entering immigration
+  * Luggage booked all the way (Vijayawada to JFK). Did not have to collect or transfer it at New Delhi.
+  * Immigration took a long time at New Delhi.
+    * Long lines + very few employees.
+    * I had 2 hr 30 minutes gap between the flights and it was not enough.
+    * I almost missed the flight and had to run.
+    * Suggest to have 3+ hours in between.
+  * Immigration took long time at JFK also.
+    * Long lines.
+    * Flight landed at 6:30 am and by the time I came out it was 9 am.

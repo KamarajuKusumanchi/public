@@ -1,4 +1,7 @@
 ===== dummy =====
+==== create a file starting with dot in explorer ====
+To create a file with a dot at the beginning in explorer, add another dot at the end. Like .condarc. . Explorer will allow it and remove the trailing dot.
+
 ==== last reboot time ====
 tags | when was a windows machine rebooted, check when a windows machine was rebooted.
 
@@ -50,6 +53,9 @@ tags | equivalent of foo in windows
   -> which will be something like Wi-Fi (SSID)
   -> Wireless Properties -> Security -> Network security key
   -> Show characters -> enter the admin password
+
+==== clear recent files list ====
+https://www.businessinsider.com/how-to-clear-recent-files-windows-10
 
 ===== batch script ====
 ==== batch file calling another batch file ====

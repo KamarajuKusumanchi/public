@@ -107,3 +107,8 @@ $ echo "$a"
 Ref:- https://unix.stackexchange.com/questions/273660/how-do-i-echo-a-string-with-multiple-spaces-in-bash-untouched/273663
 
 search tags | string concatenation multiple spaces
+
+==== stackoverflow links I came across ====
+  * https://stackoverflow.com/questions/18668556/how-can-i-compare-numbers-in-bash
+      * check if a number is greater than something
+      * compare numbers

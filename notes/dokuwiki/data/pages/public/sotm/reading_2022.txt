@@ -1,0 +1,21 @@
+==== 2022-01-05 ====
+Notes from https://www.bloomberg.com/news/articles/2022-01-05/td-bank-to-sell-bonds-as-financial-companies-tap-market-en-masse?srnd=markets-vp
+  * TD Bank = Toronto-Dominion Bank
+  * Scott Kimball - head of investments for U.S. fixed income at BMO Global Asset Management
+
+==== 2022-01-04 ====
+Notes from https://www.bloomberg.com/news/articles/2022-01-04/charlie-munger-s-daily-journal-nearly-doubles-alibaba-holding?srnd=markets-vp
+  * Daily Journal Corp., a newspaper and software business
+  * The Chairman of its Board of Directors is Charlie Munger
+
+Notes from https://www.bloomberg.com/news/articles/2022-01-04/u-s-schools-close-in-droves-as-omicron-drives-staff-shortages?srnd=premium
+  * In New Jersey, 30% of schools had switched to virtual learning as of Jan. 3.
+  * Among 1.4 million K-12 students, infections have more than doubled in three weeks, to 11 per 1,000 pupils.
+  * Staff positives have quadrupled, to 24 per 1,000, according to state data. 
+
+Notes from https://www.bloomberg.com/news/articles/2022-01-04/denmark-dumps-7-billion-in-kroner-on-fx-market-to-protect-peg?srnd=markets-vp
+  * Denmark’s central bank sold 47 billion kroner ($7.1 billion) last month to protect its euro peg, the biggest monthly currency intervention to weaken the krone in seven years.
+  * With the sale, Denmark’s foreign currency reserves jumped to 529.8 billion kroner at the end of December 2021.
+  * The bank uses currency interventions to steer the krone in a tight band to the euro and changes its interest rates when those interventions become too great.
+  * Its benchmark deposit rate is already at minus 0.6%.
+  * Denmark has had negative rates longer than any other country.   

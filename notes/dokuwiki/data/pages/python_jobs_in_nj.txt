@@ -7,9 +7,24 @@ filter: opportunity is in NJ, requires python, full time, may or may not hire H1
   * Headquarters is located in Parsippany, NJ
   * https://zoetis.wd5.myworkdayjobs.com/zoetis/jobs - All US jobs
 
-have to find out
+Questions:
   * Do they hire H1Bs?
 
+===== NJ - python and C++ - full time =====
+filter: opportunity is in NJ, requires python and C++, full time, may or may not hire H1Bs
+
+==== Blueshift Asset Management ====
+  * https://www.blueshift.am/
+  * quantitative investment management and research company
+  * headquartered in Red Bank, NJ
+  * uses combination of algorithmic and high-frequency trading strategies
+    * The quantitative analyst position requires python, C++, and unix skills
+  * Per https://whalewisdom.com/filer/blueshift-asset-management-llc#tabsummary_tab_link they have
+    * 6 clients with ~$2.5 bln AUM ((Form ADV from 2021-08-27)
+    * 21 employees
+
+Questions:
+  * Do they hire H1Bs?
 
 ===== NJ - python - full time - h1b =====
 filter: opportunity is in NJ, requires python, full time, will hire H1Bs

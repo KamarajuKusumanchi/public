@@ -135,3 +135,13 @@ tags | china virus, corona virus
   * https://public.tableau.com/profile/prashant.sharma#!/vizhome/CovidHelp/Search
     * Can also be accessed via http://bit.ly/CovidCareResources
 
+==== traveling to US ====
+You need to get tested within 1 day of flight departure.
+
+Ref:
+  * https://www.cdc.gov/coronavirus/2019-ncov/travelers/testing-international-air-travelers.html#aircraft <code>
+When do I need to get a test to travel to the US?
+If you are 2 years or older, you must get tested no more than 1 day before your flight to the US departs.
+</code>
+
+  * https://www.cnn.com/2021/12/02/politics/testing-requirement-international-travel-us/index.html

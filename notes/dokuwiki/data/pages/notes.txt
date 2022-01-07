@@ -142,6 +142,9 @@
   * [[personal finance]]
   * [[bookmarks]]
   * [[python jobs in nj]]
+  * [[quotes]]
+  * [[jcpl]]
+  * [[came across]]
 
 ==== by date ====
   * [[reading journal 2021]]

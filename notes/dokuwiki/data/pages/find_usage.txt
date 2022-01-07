@@ -1,3 +1,10 @@
+==== find number of words in all files under a directory ====
+<code>
+find . -type f -exec wc -w {} + | tail -n1
+</code>
+
+Ref:- https://askubuntu.com/questions/926422/how-to-count-the-total-number-of-words-from-all-the-files-in-a-directory/1286714
+
 ==== dummy ====
   * [[grep on find results]]
 

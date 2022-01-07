@@ -1,3 +1,19 @@
+===== tasks =====
+
+==== sum values based on another column ====
+<code>
+=sumifs(D2:D21,F2:F21,"N",E2:E21,"Y")
+</code>
+will compute sum(D2:D21) where F2:F21 are N and E2:E21 are Y.
+
+Ref:
+  * https://support.microsoft.com/en-us/office/sumifs-function-c9e748f5-7ea7-455d-9406-611cebce642b - talks about other ways of defining the criterion (ex:- "=A*", "<>Bananas", 32, ">32", B4, "apples", "32")
+
+See also:
+  * https://exceljet.net/formula/sum-if-cell-contains-text-in-another-cell - talks about
+    * using wild cards, ex:- =sumifs(D2:D21,C2:C21,"*"&F6&"*")
+    * the sumif function, ex:- =sumif(range,"*"&A1&"*",sum_range)
+
 ==== concatenate with a delimiter ====
 This will combine B3, C3 and D3 with '_' as the delimiter.
 <code>
