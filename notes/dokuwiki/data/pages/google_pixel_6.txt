@@ -1,0 +1,10 @@
+==== background ====
+  * Switched from LG stylo 3 plus to Google pixel 6 around 2022-01.
+
+==== Notes ====
+  * Calls were getting dropped with 4G sim.\\ Fix:- Call the customer service to get a 5G sim card. They ship one for free to the home address.
+  * Cannot see the real time market data in the IBKR app.\\ Fix:- Uninstall the IBKR app on the old phone.
+
+==== apps to install ====
+  * lichess, whatsapp, facebook messenger, google maps, gaana, ibkr, venmo
+  * "Notepad - simple notes" by atomczak

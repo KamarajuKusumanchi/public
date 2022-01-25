@@ -18,6 +18,7 @@
 
 ==== plugins I am exploring ====
   * https://www.dokuwiki.org/plugin:tabbox
+  * https://www.dokuwiki.org/plugin:cli
 
 ==== plugins I came across ====
 https://www.dokuwiki.org/tips:book mentions two plugins that are useful for creating books.

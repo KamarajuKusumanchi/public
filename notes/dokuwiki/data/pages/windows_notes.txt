@@ -2,6 +2,7 @@
 ==== create a file starting with dot in explorer ====
 To create a file with a dot at the beginning in explorer, add another dot at the end. Like .condarc. . Explorer will allow it and remove the trailing dot.
 
+Ref: https://superuser.com/questions/64471/create-rename-a-file-folder-that-begins-with-a-dot-in-windows
 ==== last reboot time ====
 tags | when was a windows machine rebooted, check when a windows machine was rebooted.
 

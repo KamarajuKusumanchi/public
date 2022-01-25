@@ -94,6 +94,12 @@ False
 Using Python 3.9.5
 
 ===== Snippets =====
+==== check for minimum python version ====
+<code>
+import sys
+if sys.version_info[:2] < (3, 7):
+    raise RuntimeError('Requires Python 3.7 or greater')
+</code>
 ==== print exception and continue ====
 <code>
 from traceback import format_exc

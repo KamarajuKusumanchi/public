@@ -1,0 +1,17 @@
+===== 2022-01 =====
+==== 2022-01-27 ====
+  * [[https://sethmlarson.dev/blog/strict-python-function-parameters | Strict Python function parameters]] (sethmlarson.dev)
+    * Use <code>
+def process_data(data, /, *, encoding="ascii"):
+</code> instead of <code>
+def process_data(data, encoding="ascii"):
+</code>
+    * A / in the function signature means that all parameters to the left of it are positional-only parameters. Positional-only parameters can't be passed as keyword arguments.
+    * A * in the function signature means that all parameters to the right of it are keyword-only parameter. Keyword-only parameters can't be passed as positional arguments.
+    * The article goes over this in more detail and is worth reading once end-to-end.
+
+===== Policy =====
+  * Most recent first.
+  * Each year in its own page.
+  * Separate sections by month and date.
+  * If an individual entry takes more than a line, add an extra line for readability.

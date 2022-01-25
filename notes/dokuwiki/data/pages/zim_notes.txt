@@ -8,13 +8,16 @@ file:///C:/path/to/the/file
 
 Ref:- https://zim-wiki.org/manual/Help/Links.html -> "File Links" section
 ==== why zim ====
-Pros:
-  * Zim operates at a "collection of documents" or "project" level. Compare this to vim, notepad++ which operate at a "single document" level.
+Reasons on why I use Zim:
+  * Zim : (vim, notepad++) :: book : page :: "collection of documents" : "single document" :: directory : file .\\ For example, you can have links in one page that point to another page. But all the pages belong to a single notebook.
   * Files are stored in plain text
   * Open source
   * Written in python
+  * Works in both Linux and Windows.
 
 ==== links I came across ====
+  * http://zim-wiki.org/manual/Help/Key_Bindings.html - key board shortcuts in zim
+
   * Releases - https://github.com/zim-desktop-wiki/zim-desktop-wiki/releases
   * zim wiki code repository - https://github.com/jaap-karssenberg/zim-desktop-wiki/
 
@@ -22,7 +25,6 @@ Pros:
   * https://zim-wiki.org/manual/Help/Config_Files.html
   * https://zim-wiki.org/manual/Help/Key_Bindings.html
 
-  * http://zim-wiki.org/manual/Help/Key_Bindings.html - key board shortcuts in zim
   * http://wiki.ordi49.fr/doku.php/en:tech:dev:around_zim_desktop - talks about porting zim notebooks between Linux and Windows environments.
 
   * zim wiki community documentation - https://github.com/jaap-karssenberg/zim-wiki/wiki

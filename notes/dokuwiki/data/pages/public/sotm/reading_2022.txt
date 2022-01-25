@@ -1,3 +1,44 @@
+==== 2022-01-19 ====
+Notes from https://www.bloomberg.com/news/articles/2022-01-18/stocks-set-to-extend-drop-amid-higher-bond-yields-markets-wrap
+  * Upbeat earnings from Morgan Stanley, UnitedHealth Group Inc. and Procter & Gamble Co.
+
+Notes from https://www.bloomberg.com/news/articles/2022-01-19/blackrock-alumni-have-a-new-gameplan-to-disrupt-junk-debt-etfs?srnd=markets-vp
+  * Ben Johnson, director of global ETF research at Morningstar Inc
+  * AUM in U.S. fixed-income ETFs is around $1.3 trillion
+  * AUM in stock ETFs is around $5.6 trillion
+
+Notes from https://www.bloomberg.com/news/articles/2022-01-19/schwab-ceo-sees-brokerage-of-the-future-looking-more-like-uber?srnd=markets-vp
+  * "Charles Schwab Corp/The"
+    * CEO = Walt Bettinger
+      * He is 61 years old
+    * ticker = SCHW
+    * 50-year-old firm
+    * more than $8 trillion of client assets
+    * acquired TD Ameritrade for $26 billion
+    * relocating to Westlake, Texas, from San Francisco
+    * investment-services industry
+      * does SCHW come under this industry?
+  * Uber, DoorDash, Amazon
+  * Thinkorswim
+
+==== 2022-01-14 ====
+Notes from https://www.bloomberg.com/news/articles/2022-01-14/blackrock-s-assets-pass-10-trillion-for-the-first-time
+  * Current AUM is $10 trillion
+  * It has a chart that shows Blackrock's AUM by fiscal year; from FY2011 through FY2021.
+  * S&P 500 climbed 27% in 2021.
+  * AUM in actively managed funds = $2.6 trillion. The actively managed funds include ETFs and mutual funds.
+  * AUM in alternatives business = $265 billion. The alternatives business includes hedge funds.
+
+Notes from https://www.bloomberg.com/news/articles/2022-01-14/cathie-wood-outflows-grow-as-diehard-fans-face-biggest-ever-test?srnd=premium
+  * Cathie Wood’s flagship ARK Innovation ETF (ARKK)
+  * ARK
+    * 9 ETFs with current AUM $25 billion
+    * was founded in 2014
+    * investment horizon = 5 years
+  * ARK Genomic Revolution ETF (ARKG)
+  * ARK Israel Innovative Technology ETF (IZRL)
+  * The settlement schedule for the products mean that flow data arrives with a one-day lag. 
+
 ==== 2022-01-05 ====
 Notes from https://www.bloomberg.com/news/articles/2022-01-05/td-bank-to-sell-bonds-as-financial-companies-tap-market-en-masse?srnd=markets-vp
   * TD Bank = Toronto-Dominion Bank

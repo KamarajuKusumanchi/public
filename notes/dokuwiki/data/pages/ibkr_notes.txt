@@ -1,2 +1,11 @@
+===== configuration =====
+==== show after market prices in charts ====
+open the chart -> settings button at the top right -> Outside RTH -> drag to the right
+
+
+===== dummy =====
+==== useful links ====
+  * comparison of different trading platforms - https://www.interactivebrokers.com/en/index.php?f=13868
+
 ==== links I came across ====
   * https://www.interactivebrokers.com/en/software/am3/am/reporting/deliveredstatements.htm

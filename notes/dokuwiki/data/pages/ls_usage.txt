@@ -1,3 +1,38 @@
+==== sort ls output by filename length ====
+<code>
+ls --color=never --indicator-style=none | awk '{print length, $0}' |
+sort -n | cut -d" " -f2-
+</code>
+
+To see it in action, create some files
+<code>
+% touch a ab abc
+</code>
+
+and some directories
+<code>
+% mkdir d de def
+</code>
+
+Output of the normal ls command
+<code>
+% ls
+a  ab  abc  d/  de/  def/
+</code>
+
+Output from the proposed command
+<code>
+% ls --color=never --indicator-style=none | awk '{print length, $0}' |
+sort -n | cut -d" " -f2-
+a
+d
+ab
+de
+abc
+def
+</code>
+
+Ref:- https://stackoverflow.com/a/70628169
 ==== Show file date in different date formats ====
 tags | YYYY-MM-DD, YYYYMMDD, YYYYMMDD_HHMMSS
 

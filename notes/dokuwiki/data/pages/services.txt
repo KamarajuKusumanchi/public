@@ -13,18 +13,20 @@ Contact info:-
   * Their website is http://www.marlborofamilyeyecare.com/
 
 ==== Primary care ====
-I recommend Dr. Maryana Tselniker (732) 414-6506. Great doctor. She is patient, knowledgeable and approachable. Staff is efficient and friendly. Office is open for long hours during weekdays; open on Saturdays. Email friendly. Quick appointments. Calls back after getting blood work results.
+I recommend Dr. Maryana Tselniker (732) 414-6506. Great doctor. She is patient, knowledgeable and approachable. Staff is efficient and friendly. Office is open for long hours during weekdays; open on Saturdays. Quick appointments. Calls back after getting blood work results.
 
 
 I visited her for the first time in 2020-10 and all subsequent visits have been positive.
 
 Contact info:-
-  * https://www.compfamilymd.com/
-  * (732) 414-6506
-  * 100 Craig RoadSuite 110Manalapan, NJ 07726
-  * Hours: Mon-Fri 8 am - 7 pm, Sat 9 am - 4 pm.
-  * Email: compfamilymedical@gmail.com
-
+  * <code>
+Dr. Maryana Tselniker
+(732) 414-6506
+100 Craig Road, Suite 110Manalapan, NJ 07726
+Hours: Mon-Fri 8 am - 7 pm, Sat 9 am - 4 pm.
+Email: compfamilymedical@gmail.com
+https://www.compfamilymd.com/
+</code>
 ==== Home purchase ====
 I used
   * Philip B Stock - buyer's agent
