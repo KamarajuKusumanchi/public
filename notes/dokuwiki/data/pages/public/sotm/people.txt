@@ -22,3 +22,12 @@
     * U.S. Senator; Massachusetts Democrat
 
   * Bill Dudley - former New York Federal Reserve President
+
+==== Aaron Brown ====
+Aaron Brown  was Chief Risk Manager at AQR Capital Management. He was one of the original developers of value at risk and one of its strongest proponents.
+
+Ref:- [[https://en.wikipedia.org/wiki/Aaron_Brown_(financial_author)]]
+
+Aaron Brown is a former managing director and head of financial market research at AQR Capital Management. He is the author of "The Poker Face of Wall Street."
+
+Ref:- https://www.bloomberg.com/opinion/articles/2022-01-31/quant-strategies-have-proved-their-worth

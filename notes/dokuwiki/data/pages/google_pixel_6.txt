@@ -1,3 +1,5 @@
+
+===== dummy =====
 ==== background ====
   * Switched from LG stylo 3 plus to Google pixel 6 around 2022-01.
 
@@ -8,3 +10,14 @@
 ==== apps to install ====
   * lichess, whatsapp, facebook messenger, google maps, gaana, ibkr, venmo
   * "Notepad - simple notes" by atomczak
+  * Adobe acrobat reader, Firefox
+  * TD Bank (US), Jabra Sound+
+  * thrive - to order food in the Nomura cafe
+  * Wordus - ad free app to play the wordle game
+  * Dictionary - applet automatically created by google
+
+===== configuration =====
+==== disable notifications ====
+  * Settings -> Notifications -> App settings -> Youtube -> All YouTube notifications -> uncheck
+
+tags | silent notifications

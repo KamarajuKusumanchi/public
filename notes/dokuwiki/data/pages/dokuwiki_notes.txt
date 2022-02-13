@@ -1,4 +1,7 @@
 
+==== sitemap ====
+http://www.kamaraju.xyz/dk/start?do=sitemap
+
 ==== useful plugins ====
   * https://www.dokuwiki.org/plugin:tag - add search tags to the wiki pages.
     * favorite configuration:

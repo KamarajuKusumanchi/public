@@ -1,0 +1,4 @@
+==== sample grep commands ====
+<code>
+grep -Ei "^[a-z]{5}$" /usr/share/dict/american-english | grep -vi "[aiho]" | grep -i "s...e" | grep -i r
+</code>

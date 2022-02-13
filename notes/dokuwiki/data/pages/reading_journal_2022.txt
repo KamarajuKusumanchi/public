@@ -1,4 +1,13 @@
+===== 2022-02 =====
+==== 2022-02-xx ====
 ===== 2022-01 =====
+==== 2022-01-31 ====
+  * https://www.bloomberg.com/opinion/articles/2022-01-31/quant-strategies-have-proved-their-worth
+    * Value factor lost about half as much as the S&P 500.
+    * The pandemic did not respect historical earnings, book value or other common value metrics.
+    * Momentum did great.
+    * During bubbles and crashes momentum does well and value lags behind during the event. Their performance reverses in the aftermath.
+    * highly consequential unexpected event
 ==== 2022-01-27 ====
   * [[https://sethmlarson.dev/blog/strict-python-function-parameters | Strict Python function parameters]] (sethmlarson.dev)
     * Use <code>

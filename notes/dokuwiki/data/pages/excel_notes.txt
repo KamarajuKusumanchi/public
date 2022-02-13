@@ -1,5 +1,15 @@
 ===== tasks =====
 
+==== commands I came across ====
+^ command ^ description ^
+| <WRAP>
+  * excel.exe /s 
+  * excel.exe /safe
+</WRAP> | start excel in safe mode. |
+| excel.exe /autumation | do not automatically open files and do not auto-run macros. |
+
+Ref:-
+  * https://docs.microsoft.com/en-us/office/troubleshoot/excel/files-open-automatically - low information density.
 ==== sum values based on another column ====
 <code>
 =sumifs(D2:D21,F2:F21,"N",E2:E21,"Y")

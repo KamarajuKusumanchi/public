@@ -1,0 +1,2 @@
+==== 2021-02-01 ====
+  * You can reorder pages in confluence to put them in a different position amongst the child pages. \\ Ref:- Point 3 in https://confluence.atlassian.com/doc/move-and-reorder-pages-146407727.html

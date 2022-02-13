@@ -1,0 +1,8 @@
+===== 2022 =====
+==== 2022-02-05 ====
+  * [[https://www.nobelprize.org/prizes/chemistry/2021/press-release/ | The Nobel Prize in Chemistry 2021]] (nobelprize.org) \\ Building molecules is a difficult art. Benjamin List and David MacMillan are awarded the Nobel Prize in Chemistry 2021 for their development of a precise new tool for molecular construction: organocatalysis. This has had a great impact on pharmaceutical research, and has made chemistry greener.
+
+===== Policy =====
+  * Most recent first
+  * Each year in its own page.
+  * If an individual entry takes more than a line, add an extra line for readability.

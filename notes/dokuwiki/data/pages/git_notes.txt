@@ -35,6 +35,9 @@ git push
 Note:- The "git merge development" command works even if you have local changes not committed to feature1.
 
 ===== dummy =====
+==== git resources ====
+  * https://learngitbranching.js.org/ - Very good resource to learn git branching.
+
 ==== stackoverflow answers I came across ====
   * ignore all directories with a specific name - https://stackoverflow.com/questions/1470572/ignoring-any-bin-directory-on-a-git-project
 

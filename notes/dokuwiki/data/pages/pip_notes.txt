@@ -1,3 +1,10 @@
+==== install a package ====
+<code>
+pip install --ignore-installed PyYAML
+</code>
+
+Ref:- https://stackoverflow.com/questions/53807511/pip-cannot-uninstall-package-it-is-a-distutils-installed-project
+
 ==== pip cache ====
 install a package without using the cache, just for this run.
   pip install --no-cache-dir <package>
