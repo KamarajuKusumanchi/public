@@ -112,3 +112,47 @@ search tags | string concatenation multiple spaces
   * https://stackoverflow.com/questions/18668556/how-can-i-compare-numbers-in-bash
       * check if a number is greater than something
       * compare numbers
+
+==== add an element to an array ====
+
+<code>
+appliances=("AC" "TV" "Mobile" "Fridge" "Oven" "Blender")
+appliances+=("Dish Washer")
+for appliance in "${appliances[@]}"
+do
+     echo $appliance
+done
+</code>
+
+<code>
+languages=("PHP" "MySQL" "Bash" "Oracle")
+languages[${#languages[@]}]="Python"
+for language in "${languages[@]}"
+do
+     echo $language
+done
+</code>
+
+<code>
+fruits=("Banana" "Mango" "Watermelon" "Grape")
+fruits=(${fruits[@]} "Jack Fruit")
+for fruit in "${fruits[@]}"
+do
+     echo $fruit
+done
+</code>
+
+<code>
+men=("John" "Watson" "Micheal")
+women=("Lisa" "Ella" "Mila")
+people=(${men[@]} ${women[@]})
+
+for person in "${people[@]}"
+do
+     echo $person
+done
+</code>
+
+Ref:-
+  * https://linuxhint.com/bash_append_array/ - well written but the information density is low. So I just summarized the points here and renamed the variables a bit.
+  * https://stackoverflow.com/questions/1951506/add-a-new-element-to-an-array-without-specifying-the-index-in-bash

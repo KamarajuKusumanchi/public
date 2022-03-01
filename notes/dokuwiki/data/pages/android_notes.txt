@@ -31,3 +31,7 @@ Settings -> About phone
     * It is 59 MB which is a lot for a sudoku game.
     * I did not find a 6x6 version
     * See if you can find something that is functionally equivalent but better
+
+==== apps with too many ads ====
+
+  * wordus by Ruby Game Studio \\ Unpleasant experience. \\ I used it to play the wordle game. It was showing ads after each win and for each hint etc.,. It became so annoying that I decided to uninstall it in the end. \\ today | 2022-02-27.

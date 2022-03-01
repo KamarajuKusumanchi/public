@@ -1,3 +1,50 @@
+==== 2022-03-01 ====
+  * https://www.bloomberg.com/news/articles/2022-03-01/bitconnect-s-indicted-founder-kumbhani-has-disappeared-sec-says - BitConnect founder Satish Kumbhani, charged criminally in the U.S. last week with a $2.4 billion Ponzi scheme, has vanished from his native India, SEC officials said.
+  * https://en.wikipedia.org/wiki/Bitconnect
+
+==== 2022-02-25 ====
+Notes from https://www.bloomberg.com/news/articles/2022-02-24/eu-sanctions-plan-to-limit-russia-s-access-to-financial-markets
+  * Alfa Bank and Bank Otkritie are two Russian banks.
+
+==== 2022-02-22 ====
+Notes from https://www.bloomberg.com/news/articles/2022-02-22/mortgage-businesses-seen-laying-off-thousands-as-volume-drops?srnd=premium
+  * The number of people working as brokers for mortgages and other kinds of loans is a proxy for total home lending employment.
+  * LoanDepot Inc. is one of the largest lenders to consumers outside of the banking sector in the U.S.
+  * Mortgage lender Homepoint Capital
+  * Better.com, an online mortgage lender
+  * The credit rating for the average borrower whose loan is bundled into a mortgage bond backed by Fannie Mae or Freddie Mac fell to 733 in January from 750 a year earlier
+  * FICO scale goes from 300 to 850
+  * Mortgages for home purchases can take longer to process than refinancings
+  * For a purchase, the underwriter needs to evaluate new appraisal documentation, and look at down payments and other moving costs.
+  * Purchase loans = loans for home purchases
+  * United Wholesale Mortgage is one of the biggest mortgage wholesalers in the U.S.
+  * Home loans to borrowers that can’t document income and therefore don’t qualify for mortgages backed by government-sponsored enterprises like Fannie Mae are known as "non-qualified mortgages"
+  * Non-QM take longer to underwrite.
+
+Notes from https://www.credit.com/blog/what-is-a-prime-vs-subprime-credit-score-189867/#:~:text=Scores%20of%20620%20to%20799,distribution%20among%20United%20States%20consumers.
+  * Scores of 620 to 799 are usually considered prime. Scores below 620 are subprime.
+
+==== 2022-02-21 ====
+Notes from https://www.cnbc.com/2022/02/20/massive-credit-suisse-leak-reportedly-reveals-possible-criminal-ties-among-18000-accounts.html
+  * Credit Suisse is the second-biggest Swiss bank
+  * OCCRP - Organized Crime and Corruption Reporting Project
+
+==== 2022-02-18 ====
+Notes from https://www.wsj.com/articles/russia-ukraine-putin-nato-11643121821
+  * Nord Stream 2 is a natural-gas pipeline that runs from Russia to Germany.
+  * The pipeline is 764-mile long.
+  * U.S. thinks that the pipeline will strengthen Russia’s grip on the European energy market and weaken Ukraine.
+  * Germany is a NATO member.
+  * Germany is the world’s biggest buyer of Russian gas.
+  * Germany draws more than half of its gas supply from Russia
+  * German Chancellor Olaf Scholz
+
+==== 2022-02-14 ====
+Notes from https://www.bloomberg.com/news/articles/2022-02-14/morgan-stanley-s-wilson-sees-war-a-polar-vortex-risk-to-stocks?srnd=premium
+  * Michael Wilson
+    * Morgan Stanley’s chief U.S. equity strategist
+    * one of Wall Street’s most vocal bears
+
 ==== 2022-01-19 ====
 Notes from https://www.bloomberg.com/news/articles/2022-01-18/stocks-set-to-extend-drop-amid-higher-bond-yields-markets-wrap
   * Upbeat earnings from Morgan Stanley, UnitedHealth Group Inc. and Procter & Gamble Co.

@@ -30,3 +30,33 @@ https://www.compfamilymd.com/
 ==== Home purchase ====
 I used
   * Philip B Stock - buyer's agent
+  * Jacob S. Elkes - closing attorney
+
+==== Closing attorney ====
+I used "Jacob S. Elkes" as the attorney for closing on my home.
+<code>
+Jacob S. Elkes  (Josh)
+Attorney at Law
+400 West Main Street
+Freehold, NJ 07728
+Phone: 732-780-0900
+Fax: 732-303-5815
+Email: j.elkes@direct-title.com 
+</code>
+
+Marjorie works with Josh on the legal part.  Attorney review, and inspection issues if any.
+
+<code>
+Marjorie E. Morris
+Executive Assistant
+Direct Title
+400  West Main Street
+Freehold, NJ 07728
+Phone: 732-780-0900
+Fax: 732-303-5815
+M.Morris@Direct-Title.com
+</code>
+
+Charges | title related fees = ~\$2,500, deed recording fees = ~\$300, attorney fee= ~\$700, owner's title policy = ~\$350.
+
+This was in June 2019.

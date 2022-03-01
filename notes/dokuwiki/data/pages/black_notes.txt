@@ -36,6 +36,14 @@ See also :-
   * https://www.jetbrains.com/help/pycharm/configuring-third-party-tools.html
 
 
+==== do not convert single quotes to double quotes ====
+pass ''%%--skip-string-normalization%%'' on the command line.
+
+Ref:-
+  * https://black.readthedocs.io/en/stable/the_black_code_style/current_style.html#strings - this option is meant as an adoption helper, avoid using it for new projects.
+
+
+
 ==== useful links ====
   * https://black.now.sh/ - Black Playground; To try black online
   * code repo - https://github.com/psf/black

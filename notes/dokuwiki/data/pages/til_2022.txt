@@ -1,2 +1,5 @@
-==== 2021-02-01 ====
+==== 2022-02-23 ====
+  * In 2000, the United States Food and Drug Administration (FDA) established an online registry for the details of clinical trials. The FDA required that scientists who were studying therapies for serious diseases needed to provide some details of their study designs and the outcomes that they planned to investigate. This requirement reduced the bias towards positive findings in published research. We see evidence of this in the chart, showing clinical trials funded by the National Heart, Lung and Blood Institute (NHLBI), which adopted this requirement. Before 2000 – when pre-registration of studies was not required – most candidate drugs to treat or prevent cardiovascular disease showed large benefits. But most trials published after 2000 showed no benefit. \\ https://ourworldindata.org/randomized-controlled-trials#preregistration-allows-us-to-hold-researchers-accountable-to-their-original-study-plans
+
+==== 2022-02-01 ====
   * You can reorder pages in confluence to put them in a different position amongst the child pages. \\ Ref:- Point 3 in https://confluence.atlassian.com/doc/move-and-reorder-pages-146407727.html

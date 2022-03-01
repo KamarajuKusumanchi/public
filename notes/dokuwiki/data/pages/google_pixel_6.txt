@@ -13,8 +13,8 @@
   * Adobe acrobat reader, Firefox
   * TD Bank (US), Jabra Sound+
   * thrive - to order food in the Nomura cafe
-  * Wordus - ad free app to play the wordle game
   * Dictionary - applet automatically created by google
+  * Docket - for covid 19 vaccination record
 
 ===== configuration =====
 ==== disable notifications ====

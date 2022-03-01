@@ -7,6 +7,8 @@
   * Federal Reserve Chair - Jerome Powell
 
 ==== dummy ====
+  * Gil Holmes - global head of non-linear rates at JPM
+
   * SEC Chairman - Gary Gensler
     * Is SEC chief $\equiv$ SEC chair $\equiv$ SEC Chairman?
 
@@ -23,6 +25,8 @@
 
   * Bill Dudley - former New York Federal Reserve President
 
+  * Yudhveer Chaudhry - Global Head of FX Trading, Blackrock
+
 ==== Aaron Brown ====
 Aaron Brown  was Chief Risk Manager at AQR Capital Management. He was one of the original developers of value at risk and one of its strongest proponents.
 
@@ -31,3 +35,8 @@ Ref:- [[https://en.wikipedia.org/wiki/Aaron_Brown_(financial_author)]]
 Aaron Brown is a former managing director and head of financial market research at AQR Capital Management. He is the author of "The Poker Face of Wall Street."
 
 Ref:- https://www.bloomberg.com/opinion/articles/2022-01-31/quant-strategies-have-proved-their-worth
+
+==== spokesman ====
+  * Barclays - Matt Scully
+  * Morgan Stanley - Tom Walton
+  * JPMorgan - Richard Hillary

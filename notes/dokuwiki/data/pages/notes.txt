@@ -148,6 +148,7 @@
   * [[google pixel 6]]
   * [[toothpaste]]
   * [[wordus]]
+  * [[ublock origin]]
 
 ==== by date ====
   * [[reading journal 2022]]

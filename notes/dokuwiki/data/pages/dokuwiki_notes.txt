@@ -1,4 +1,15 @@
 
+==== double dashes in monospaced text ====
+Use ''<nowiki>''%%--%%''</nowiki>'' to render ''%%--%%''.
+
+Compare this to ''<nowiki>''--''</nowiki>'' which renders as a single dash ''--''
+
+Ref:- https://www.dokuwiki.org/wiki:syntax#no_formatting
+
+Extension:-
+To display an option such as ''%%--skip-string-normalization%%'', use
+''<nowiki>''%%--skip-string-normalization%%''</nowiki>''.
+
 ==== sitemap ====
 http://www.kamaraju.xyz/dk/start?do=sitemap
 

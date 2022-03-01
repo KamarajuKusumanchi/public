@@ -1,0 +1,16 @@
+==== my-ublock-static-filters_2022-02-21_02.08.55 ====
+<code>
+! 2020-08-30 https://www.bloomberg.com
+www.bloomberg.com###paywall-banner
+www.bloomberg.com##.navi-push-notification-prompt__title
+www.bloomberg.com##.navi-push-notification-prompt__table
+
+! 2022-01-16 https://www.bloomberg.com
+www.bloomberg.com##._2jge3GYu2lbNda7WGvmA86._1XooH4tzsM-atQfXfXrgGX
+
+! 2022-02-21 https://www.bloomberg.com
+||assets.bwbx.io/s3/plug/mfosfhvnpsciyojqoqckavox.jpg$image
+||assets.bwbx.io/s3/plug/mfosfhvnpsciyojqoqckavox.jpg$image
+www.bloomberg.com###plug-overlay
+www.bloomberg.com##._1bK9IToxObK6AqNZhCKx-1._1ZDzEERIcyY_DhtvHIXH6X.h6hHRNl6osUEFvQa2zruF._1ltbW3kIv6ZQAtHxUvcV7I
+</code>
