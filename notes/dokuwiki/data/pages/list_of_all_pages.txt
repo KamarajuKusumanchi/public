@@ -1,0 +1,9 @@
+^ Site ^ List of all pages ^
+| http://www.kamaraju.xyz/dk | http://www.kamaraju.xyz/dk/start?do=index |
+| http://raju.shoutwiki.com/ | http://raju.shoutwiki.com/wiki/Special:AllPages |
+
+tags | dokuwiki, mediawiki
+
+Ref:- 
+  * https://www.dokuwiki.org/index - for dokuwiki
+  * https://www.mediawiki.org/wiki/Manual:AllPages - for mediawiki

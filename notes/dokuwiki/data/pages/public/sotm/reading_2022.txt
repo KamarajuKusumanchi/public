@@ -1,3 +1,64 @@
+==== 2022-03-09 ====
+Notes from https://www.wsj.com/amp/articles/david-bennett-the-patient-who-received-a-pig-heart-dies-two-months-after-transplant-11646842067?mod=hp_lead_pos13
+  * University of Maryland Medical Center in Baltimore
+  * xenotransplantation - the transplantation of an organ between two species
+  * Roughly 106,000 people are on the wait list for organ transplants
+  * U.S. Department of Health and Human Services’ Organ Procurement and Transplantation Network
+  * Human heart valves are regularly replaced with ones from pigs.
+  * Pig's organs are similar in size to humans’ and also have large litters
+
+Notes from https://www.bloomberg.com/news/articles/2022-03-08/oil-pushes-higher-after-u-s-escalates-russia-sanctions-with-ban?srnd=premium
+  * Iraqi Oil Minister Ihsan Abdul Jabbar Ismaael
+  * The International Energy Agency recently said that it will release 63 million barrels of crude and products
+  * OPEC+ produces 400,000 barrel-a-day
+  * U.S. distillates inventories
+
+Notes from https://www.bloomberg.com/news/articles/2022-03-03/blackrock-suspends-purchases-of-russian-securities-across-funds
+  * BlackRock
+    * is pressing index providers to remove Russian securities from broad-based benchmarks
+    * AUM at the end of 2021 is more than $10 trillion
+  * Russian securities account for less than 0.01% of client assets, mostly in index portfolios
+  * Rich Kushel, head of the portfolio management group
+  * Salim Ramji, global head of iShares and index investments
+  * Polymetal International Plc
+    * precious-metals miner
+    * based in St. Petersburg, Russia
+    * plunged 86% this year
+    * will be removed from the FTSE 100 index as of March 21
+    * 
+
+Notes from https://www.bloomberg.com/news/articles/2022-03-09/blackrock-hedge-fund-raised-its-russia-bet-suffered-record-loss?srnd=premium
+  * BlackRock’s Emerging Frontiers Fund
+    * AUM at the end Jan 2022 is $960 million
+    * down 7% ytd
+    * Sam Vecht is the head of the team that manages the fund
+      * He is the head of the emerging Europe and frontiers team
+      * That team is within the fundamental active equity division
+      * That division is part of BlackRock’s Active Equities Group
+    * It currently has zero exposure to Russia
+    * The Emerging Frontiers fund has never lost money in a full year since launching in Sept. 2011
+  * BlackRock halted purchases of Russian securities across its actively managed and index funds effective Monday, Feb 28th.
+
+==== 2022-03-03 ====
+Notes from https://www.bloomberg.com/news/features/2022-02-28/which-u-s-european-companies-are-pulling-out-of-russia-after-ukraine-invasion?srnd=premium
+  * Russia’s largest foreign investor, BP Plc
+  * state-controlled Rosneft
+  * BP announced on Sunday that it would exit its 20% stake in Rosneft. This result in a $25 billion write-off and cut its global oil and gas production by a third.
+  * Shell owns 50% of the Salym Petroleum Development, which last year earned the company $700 million of adjusted earnings.
+  * state-controlled Gazprom
+  * Sakhalin-II liquefied natural gas facility
+  * Nord Stream 2 pipeline project
+  * Kwasi Kwarteng, the U.K. business secretary
+  * Shell Chief Executive Officer Ben van Beurden
+  * Equinor ASA is Norway’s biggest energy company and majority owned by the state
+  * France’s TotalEnergies SE is involved in major liquefied natural gas projects in Russia
+  * Norway’s sovereign wealth fund is the largest in the world
+
+==== 2022-03-02 ====
+Notes from https://www.bloomberg.com/news/articles/2022-03-02/biggest-crypto-exchange-says-blocking-all-russians-unethical?srnd=premium
+  * Binance - world’s largest cryptocurrency exchange
+  * other large cryptocurrency exchanges - Kraken, Coinbase
+
 ==== 2022-03-01 ====
   * https://www.bloomberg.com/news/articles/2022-03-01/bitconnect-s-indicted-founder-kumbhani-has-disappeared-sec-says - BitConnect founder Satish Kumbhani, charged criminally in the U.S. last week with a $2.4 billion Ponzi scheme, has vanished from his native India, SEC officials said.
   * https://en.wikipedia.org/wiki/Bitconnect

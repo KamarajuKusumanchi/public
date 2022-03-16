@@ -1,0 +1,3 @@
+==== bookmarks ====
+  * https://docs.gitlab.com/ee/public_access/public_access.html - Project and group visibility
+    * Talks about the public, internal, and private repos in gitlab.

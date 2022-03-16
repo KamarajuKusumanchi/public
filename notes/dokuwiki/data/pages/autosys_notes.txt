@@ -1,0 +1,5 @@
+===== Q1 =====
+Let's say we have a parent autosys box (say B1) and a child autosys box under it (say B2). If B2 is put on HOLD, does B1 continue and become S/U when everything else completes for that day?
+
+==== A1 ====
+No, B1 will pause until B2 is off held. If you put B2 on ice it will do as you describe.

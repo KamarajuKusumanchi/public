@@ -1,6 +1,8 @@
 ===== dummy =====
 
 ==== useful links ====
+  * [[https://www.programiz.com/python-programming/online-compiler/ | Online python compiler]] (programiz.com)
+    * can be useful while doing live coding interviews.
   * [[https://nedbatchelder.com/text/names.html | Facts and myths about Python names and values]] (nedbatchelder.com) - well explained.
 
 ==== validate inputs ====

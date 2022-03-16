@@ -22,6 +22,7 @@
   * [[okular notes]]
 
 ==== dummy ====
+  * [[ragbag]]
   * [[ibonds_notes]]
   * [[spservicing]]
   * [[cancer notes]]
@@ -142,6 +143,7 @@
   * [[personal finance]]
   * [[bookmarks]]
   * [[python jobs in nj]]
+  * [[companies near Morganville]]
   * [[quotes]]
   * [[jcpl]]
   * [[came across]]
@@ -149,6 +151,8 @@
   * [[toothpaste]]
   * [[wordus]]
   * [[ublock origin]]
+  * [[gitlab notes]]
+  * [[autosys notes]]
 
 ==== by date ====
   * [[reading journal 2022]]

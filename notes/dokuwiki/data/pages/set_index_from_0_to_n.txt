@@ -1,0 +1,8 @@
+==== reindex from 0 to N ====
+Task:- The idea here is to reset index such that they are all integers from 0 to N
+
+https://github.com/KamarajuKusumanchi/notebooks/blob/master/pandas/reindex%20from%200%20to%20N.ipynb
+
+tags | range, uses np.arange, set index from 0 to N
+
+See also | https://stackoverflow.com/questions/32249960/in-python-pandas-start-row-index-from-1-instead-of-zero-without-creating-additi
