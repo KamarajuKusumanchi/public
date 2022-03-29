@@ -2,5 +2,25 @@
 ==== configure prompts ====
 * [[Configure ipython terminal prompts]]
 ===== dummy =====
+==== command history ====
+IPython stores the history in a SQLite database located at ~/.ipython/profile_default/history.sqlite .
+This can be exported into a file by running
+<code>
+%history -g -f filename
+</code>
+When using Windows 10 Enterprise + git bash 2.22.0 + ipython 7.16.1
+<WRAP indent>
+Examples of valid filenames
+  * ipython_history_asof_20220318_1753.txt
+  * x/ipython_history_asof_20220318_1755.txt
+  * c:/Users/raju/x/ipython_history_asof_20220318_1756.txt
+
+Examples of invalid filenames
+  * ~/x/ipython_history_asof_20220318_1755.txt
+  * /c/Users/raju/x/ipython_history_asof_20220318_1756.txt
+</WRAP>
+Ref:-
+  * https://stackoverflow.com/questions/30629390/where-is-the-history-file-for-ipython
+  * ~/.ipython/profile_default/history.sqlite - 
 ==== how is the default ipython prompt created? ====
 See https://github.com/ipython/ipython/blob/master/IPython/terminal/prompts.py -> Prompts class -> in_prompt_tokens(), continuation_prompt_tokens(), rewrite_prompt_tokens(), out_prompt_tokens()

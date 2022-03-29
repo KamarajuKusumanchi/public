@@ -1,0 +1,177 @@
+===== Convert a dictionary of dataframes to a big dataframe =====
+==== Task ====
+Given a dictionary strings to dataframes, create an expanded dataframe by putting the keys into their own column. For example, given
+<code>
+{'COST':    fiscal_quarter_end  reported_date
+ 0              202102       20210304
+ 1              202105       20210527
+ 2              202108       20210923
+ 3              202111       20211209,
+ 'CPRT':    fiscal_quarter_end  reported_date
+ 0              202104       20210519
+ 1              202107       20210908
+ 2              202110       20211117
+ 3              202201       20220216}
+</code>
+We want
+<code>
+  ticker  fiscal_quarter_end  reported_date
+0   COST              202102       20210304
+1   COST              202105       20210527
+2   COST              202108       20210923
+3   COST              202111       20211209
+4   CPRT              202104       20210519
+5   CPRT              202107       20210908
+6   CPRT              202110       20211117
+7   CPRT              202201       20220216
+</code>
+
+==== Solution ====
+<code>
+def dict_df_to_df(dict_df, key_col_name):
+    df = (
+        pd.concat(dict_df, axis=0)\
+        .reset_index()\
+        .drop('level_1', axis=1)\
+        .rename({'level_0':key_col_name}, axis=1)
+    )
+    return df
+</code>
+Using the example above
+<code>
+$ ipython
+
+In [1]:
+import pandas as pd
+costco_earnings = pd.DataFrame({
+  'fiscal_quarter_end': [202102, 202105, 202108, 202111],
+  'reported_date': [20210304, 20210527, 20210923, 20211209]
+})
+costco_earnings
+Out[1]:
+   fiscal_quarter_end  reported_date
+0              202102       20210304
+1              202105       20210527
+2              202108       20210923
+3              202111       20211209
+
+In [2]:
+copart_earnings = pd.DataFrame({
+  'fiscal_quarter_end': [202104, 202107, 202110, 202201],
+  'reported_date': [20210519, 20210908, 20211117, 20220216]
+})
+copart_earnings
+Out[2]:
+   fiscal_quarter_end  reported_date
+0              202104       20210519
+1              202107       20210908
+2              202110       20211117
+3              202201       20220216
+
+In [3]:
+dict_df = {'COST': costco_earnings, 'CPRT': copart_earnings}
+dict_df
+Out[3]:
+{'COST':    fiscal_quarter_end  reported_date
+ 0              202102       20210304
+ 1              202105       20210527
+ 2              202108       20210923
+ 3              202111       20211209,
+ 'CPRT':    fiscal_quarter_end  reported_date
+ 0              202104       20210519
+ 1              202107       20210908
+ 2              202110       20211117
+ 3              202201       20220216}
+</code>
+
+<code>
+In [4]:
+def dict_df_to_df(dict_df, key_col_name):
+    df = (
+        pd.concat(dict_df, axis=0)\
+        .reset_index()\
+        .drop('level_1', axis=1)\
+        .rename({'level_0':key_col_name}, axis=1)
+    )
+    return df
+</code>
+
+<code>
+In [5]:
+expanded_df = dict_df_to_df(dict_df, 'ticker')
+expanded_df
+Out[5]:
+  ticker  fiscal_quarter_end  reported_date
+0   COST              202102       20210304
+1   COST              202105       20210527
+2   COST              202108       20210923
+3   COST              202111       20211209
+4   CPRT              202104       20210519
+5   CPRT              202107       20210908
+6   CPRT              202110       20211117
+7   CPRT              202201       20220216
+</code>
+
+To see how it works
+<code>
+In [6]:
+pd.concat(dict_df, axis=0)
+Out[6]:
+        fiscal_quarter_end  reported_date
+COST 0              202102       20210304
+     1              202105       20210527
+     2              202108       20210923
+     3              202111       20211209
+CPRT 0              202104       20210519
+     1              202107       20210908
+     2              202110       20211117
+     3              202201       20220216
+
+In [7]:
+pd.concat(dict_df, axis=0)\
+.reset_index()
+Out[7]:
+  level_0  level_1  fiscal_quarter_end  reported_date
+0    COST        0              202102       20210304
+1    COST        1              202105       20210527
+2    COST        2              202108       20210923
+3    COST        3              202111       20211209
+4    CPRT        0              202104       20210519
+5    CPRT        1              202107       20210908
+6    CPRT        2              202110       20211117
+7    CPRT        3              202201       20220216
+
+In [8]:
+pd.concat(dict_df, axis=0)\
+.reset_index()\
+.drop('level_1', axis=1)
+Out[8]:
+  level_0  fiscal_quarter_end  reported_date
+0    COST              202102       20210304
+1    COST              202105       20210527
+2    COST              202108       20210923
+3    COST              202111       20211209
+4    CPRT              202104       20210519
+5    CPRT              202107       20210908
+6    CPRT              202110       20211117
+7    CPRT              202201       20220216
+
+In [9]:
+pd.concat(dict_df, axis=0)\
+.reset_index()\
+.drop('level_1', axis=1)\
+.rename({'level_0':'ticker'}, axis=1)
+Out[9]:
+  ticker  fiscal_quarter_end  reported_date
+0   COST              202102       20210304
+1   COST              202105       20210527
+2   COST              202108       20210923
+3   COST              202111       20211209
+4   CPRT              202104       20210519
+5   CPRT              202107       20210908
+6   CPRT              202110       20211117
+7   CPRT              202201       20220216
+</code>
+
+==== Ref ====
+  * https://stackoverflow.com/questions/56638413/how-to-create-a-pandas-dataframe-from-dictionary-of-dataframes - where I first came across this solution. I just put the solution in a function, used a better example and showed some intermediate steps on how the solution works.

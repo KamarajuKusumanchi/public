@@ -1,3 +1,10 @@
+==== how to end stdin ====
+Use ctrl+z.
+
+In general, ctrl+z is used to send EOF in Windows and ctrl+d in Linux.
+
+Ref:- https://stackoverflow.com/questions/15673120/how-can-i-signal-eof-to-close-stdin-under-the-git-bash-terminal-on-windows-ctrl
+
 ==== minimum recommended version ====
   * github recommends >= 2.29 for caching github credentials (https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git). It is the first version offering OAuth support for GitHub.
 

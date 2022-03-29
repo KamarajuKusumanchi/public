@@ -1,8 +1,38 @@
-==== reindex from 0 to N ====
-Task:- The idea here is to reset index such that they are all integers from 0 to N
+===== Task =====
+The idea here is to reset index such that they are all integers from 0 to N.
 
-https://github.com/KamarajuKusumanchi/notebooks/blob/master/pandas/reindex%20from%200%20to%20N.ipynb
+===== Solution =====
+Two possible approaches:
 
-tags | range, uses np.arange, set index from 0 to N
+==== Use reset_index() ====
 
-See also | https://stackoverflow.com/questions/32249960/in-python-pandas-start-row-index-from-1-instead-of-zero-without-creating-additi
+To not modify the original df but assign the result to a new variable
+<code>
+df_new = df.reset_index(drop=True)
+</code>
+
+To do it in place
+<code>
+df.reset_index(drop=True, inplace=True)
+</code>
+
+Sample code: https://github.com/KamarajuKusumanchi/notebooks/blob/master/pandas/set%20index%20from%200%20to%20N%20using%20reset_index.ipynb
+
+==== use reindex to directly change the index ====
+
+<code>
+df.index = np.arange(len(df))
+</code>
+
+Sample code: https://github.com/KamarajuKusumanchi/notebooks/blob/master/pandas/reindex%20from%200%20to%20N.ipynb
+
+tags | reindex from 0 to N, range, uses np.arange
+
+
+==== tags ====
+set index from 0 to N
+
+==== See also ====
+  * https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.reset_index.html
+  * https://stackoverflow.com/questions/20490274/how-to-reset-index-in-a-pandas-dataframe
+  * https://stackoverflow.com/questions/32249960/in-python-pandas-start-row-index-from-1-instead-of-zero-without-creating-additi

@@ -1,0 +1,9 @@
+===== Beyond the Basic Stuff with Python by Al Sweigart =====
+This book can be accessed for free at https://inventwithpython.com/beyond/
+
+Resources mentioned in the "Introduction" chapter (https://inventwithpython.com/beyond/chapter0.html) 
+  * Automate the Boring Stuff with Python (No Starch Press, 2019)
+  * Python Crash Course (No Starch Press, 2019) by Eric Matthes
+  * “Learn Python in Y Minutes” article at https://learnxinyminutes.com/docs/python/
+    * high information density.
+  * Eric Matthes’s “Python Crash Course—Cheat Sheet” page at https://ehmatthes.github.io/pcc/cheatsheets/README.html

@@ -1,4 +1,17 @@
 
+==== indented paragraph ====
+If you only need one tab, install the "WRAP" Plugin (See http://dokuwiki.org/plugin:wrap), and then use the following syntax: <code><WRAP indent>your text</WRAP></code>
+
+Example:
+<WRAP indent>
+foo 1
+  * bar 1
+  * bar 2
+foo 2
+  * bar 3
+  * bar 4
+</WRAP>
+
 ==== double dashes in monospaced text ====
 Use ''<nowiki>''%%--%%''</nowiki>'' to render ''%%--%%''.
 
@@ -38,6 +51,11 @@ http://www.kamaraju.xyz/dk/start?do=sitemap
 https://www.dokuwiki.org/tips:book mentions two plugins that are useful for creating books.
   * https://www.dokuwiki.org/plugin:bookcreator
   * https://www.dokuwiki.org/plugin:dw2pdf
+
+  * https://www.dokuwiki.org/plugin:iframe
+  * https://www.dokuwiki.org/plugin:gh
+  * https://www.dokuwiki.org/plugin:pycode
+
 ==== conflicting plugins ====
   * https://www.dokuwiki.org/plugin:edittable - seems nice. But it is conflicting with https://www.dokuwiki.org/plugin:wrap . For example, if I have a cell with a list of items, and if I install the edittable plugin and then try to edit that table, the cell contents are not longer rendered as a list.
     * Todo:- Try to come up with a small test case and report it upstream.

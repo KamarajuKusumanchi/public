@@ -6,6 +6,7 @@
   * [[Get the first non null value in each column]]
   * [[print all the rows and columns]]
   * [[set index from 0 to N]]
+  * [[Convert a dictionary of dataframes to a big dataframe]]
 
 ===== dummy =====
 

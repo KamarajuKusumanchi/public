@@ -1,0 +1,7 @@
+==== useful links ====
+  * https://www.stlouisfed.org/open-vault/2019/may/how-read-fomc-statement - talks about how to read an FOMC statement. Good information density.
+
+==== To be verified ====
+1) In https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm , I see "FOMC Statement" and "FOMC Minutes". What is the difference between the two?
+
+A) The FOMC releases the "FOMC statement" after each FOMC meeting. The "FOMC Minutes" are released sometime later?

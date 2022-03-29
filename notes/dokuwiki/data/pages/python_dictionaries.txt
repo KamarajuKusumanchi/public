@@ -1,5 +1,6 @@
 ==== tasks ====
   * [[convert dict of dicts to list of dicts]]
+  * [[Convert a dictionary of dataframes to a big dataframe]]
 
 ==== initialize a dictionary ====
 <code>
