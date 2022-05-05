@@ -1,5 +1,35 @@
-===== 2022-02 =====
-==== 2022-02-xx ====
+===== 2022-04 =====
+==== 2022-04-21 ====
+Notes from https://ourworldindata.org/ukraine-russia-food
+
+<code>
+Country         Ukraine                 Russia
+                % of global exports     % of global exports
+Sunflower oil   42.21%                  21.40%
+Wheat            8.91%                  14.20%
+Barley           9.74%                   9.50%
+Maize (corn)    16.43%                   1.60%
+
+Country         Ukraine                 Russia
+                % of global production  % of global production
+Sunflower oil   29.53%                  26.96%
+Barley           5.61%                  12.89%
+Wheat            3.70%                   9.72%
+Maize (corn)     3.12%                   1.24%
+</code>
+
+
+==== 2022-04-18 ====
+Notes from https://abc7ny.com/colonia-high-school-brain-cancer-new-jersey-nj-woodbridge-township/11756571/
+  * The environmental engineering firm T+M Associates
+  * an inoperable brain tumor called Anaplastic Astrocytoma
+  * Glioblastoma Multiforme or GBM
+
+Notes from https://www.foxnews.com/us/colonia-high-school-rare-cancer-link
+  * Acoustic Neuroma (AN)
+  * Radiation exposure is a well documented cause of brain tumors
+  * The Middlesex Sampling Plant, which has since closed, is located on 9.6 acres, about a 30-minute driving from Colonia.
+
 ===== 2022-01 =====
 ==== 2022-01-31 ====
   * https://www.bloomberg.com/opinion/articles/2022-01-31/quant-strategies-have-proved-their-worth

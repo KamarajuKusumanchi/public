@@ -1,0 +1,25 @@
+==== list files within a specific range ====
+In bash, we can use a ''sequence expression'' to list files within a specific range. For example
+<code>
+$ echo file{18..21}.txt
+file18.txt file19.txt file20.txt file21.txt
+</code>
+
+The sequence expression takes the form ''{x..y[..incr]}'', where x and y are either integers or single characters, and incr, an optional increment, is an integer. It is part of Bash's brace expansion feature.
+
+Ref:
+  * https://www.gnu.org/software/bash/manual/html_node/Brace-Expansion.html - documentation on Bash's brace expansion feature.
+  * https://superuser.com/questions/236484/list-files-numbered-in-a-specific-range - where I came across the above snippet. Dennis Williamson's reply is pretty comprehensive; provides alternatives solutions; addresses corner cases; high information density. It is worth reading it end to end.
+
+Possible use cases:
+
+  * To list files <code>
+ls file{18..21}.txt
+</code>
+
+  * Use a for loop to run a command on each of them <code>
+for file in file{18..21}.txt
+...
+</code>
+
+tags | list file names with a range

@@ -4,4 +4,9 @@
 ==== To be verified ====
 1) In https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm , I see "FOMC Statement" and "FOMC Minutes". What is the difference between the two?
 
-A) The FOMC releases the "FOMC statement" after each FOMC meeting. The "FOMC Minutes" are released sometime later?
+A) The FOMC releases the "FOMC statement" after each FOMC meeting.
+The "FOMC Minutes" are released sometime later.
+For example, the Fed announced new rates on Wed 2022-05-04 at 2 pm.
+On 2022-05-05, I see the "statement" on the website but not the "minutes".
+
+tags | fed minutes

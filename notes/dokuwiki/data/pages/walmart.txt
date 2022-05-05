@@ -1,5 +1,5 @@
-==== aisle map ====
-Scope | old bridge Walmart
+==== Aisle map ====
+scope | Walmart in Old bridge.
 
   * Hot chocolate - aisle A8 - A9
   * Ketchup - aisle A8 - A9

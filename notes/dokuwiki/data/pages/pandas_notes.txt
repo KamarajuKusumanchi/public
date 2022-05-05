@@ -5,3 +5,33 @@
 
 ==== links I came across ====
   * https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html - good reference to learn about iloc, slicing ranges
+
+
+==== EmptyDataError ====
+Instead of
+  pandas.io.common.EmptyDataError
+use
+  pandas.errors.EmptyDataError
+
+data point | as of pandas 1.1.2, pandas.io.common.EmptyDataError does not work.
+
+Ref:-
+  * https://pandas.pydata.org/docs/whatsnew/v0.20.0.html#pandas-errors
+  * <WRAP indent>
+> We are adding a standard public module for all pandas exceptions & warnings pandas.errors. (GH14800). Previously these exceptions & warnings could be imported from pandas.core.common or pandas.io.common. These exceptions and warnings will be removed from the *.common locations in a future release. (GH15541)
+</WRAP>
+  * https://pandas.pydata.org/docs/reference/api/pandas.errors.EmptyDataError.html - documentation from latest stable version
+  * https://pandas.pydata.org/pandas-docs/version/1.4/reference/api/pandas.errors.EmptyDataError.html - documentation from version 1.4
+  * https://pandas.pydata.org/pandas-docs/version/0.20/generated/pandas.errors.EmptyDataError.html - documentation from version 0.20
+
+==== assert_frame_equal ====
+Instead of
+  from pandas.util.testing import assert_frame_equal
+use
+  from pandas.testing import assert_frame_equal
+
+data point:
+
+Using ''from pandas.util.testing import assert_frame_equal'' in pandas 1.1.2, I get
+
+  FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.

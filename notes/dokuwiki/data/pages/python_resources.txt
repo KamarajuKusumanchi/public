@@ -7,3 +7,15 @@ Resources mentioned in the "Introduction" chapter (https://inventwithpython.com/
   * “Learn Python in Y Minutes” article at https://learnxinyminutes.com/docs/python/
     * high information density.
   * Eric Matthes’s “Python Crash Course—Cheat Sheet” page at https://ehmatthes.github.io/pcc/cheatsheets/README.html
+
+Books to read after finishing this book (or even while reading this book)
+
+  * Python Crash Course (No Starch Press, 2019) by Eric Matthes is a book for beginners, but its project-based approach gives even experienced programmers a taste of Python’s Pygame, matplotlib, and Django libraries.
+  * Impractical Python Projects (No Starch Press, 2018) by Lee Vaughan provides a project-based approach to expand your Python skills. The programs you’ll create by following the instructions in this book are fun and great programming practice.
+  * Serious Python (No Starch Press, 2018) by Julien Danjou describes the steps you need to take to progress from a garage project hobbyist to a knowledgeable software developer who follows industry best practices and writes code that can scale.
+
+To take a deeper dive into the advanced features of Python’s syntax and standard library:
+
+  * Effective Python (Addison-Wesley Professional, 2019) by Brett Slatkin is an impressive collection of Pythonic best practices and language features.
+  * Python Cookbook (O’Reilly Media, 2013) by David Beazley and Brian K. Jones offers an extensive list of code snippets to upgrade any Python novice’s repertoire.
+  * Fluent Python (O’Reilly Media, 2021) by Luciano Ramalho is a masterwork for exploring the intricacies of the Python language, and although its near-800-page size might be intimidating, it’s well worth the effort.
