@@ -1,5 +1,236 @@
 
 
+==== 2022-05-05 ====
+Notes from https://www.federalreserve.gov/newsevents/pressreleases/monetary20220504a.htm
+  * Fed raised the target range for the federal funds rate to 3/4 to 1 percent 
+  * Fed will reduce its holdings of Treasury securities and agency debt and agency MBS on June 1
+
+Notes from https://www.federalreserve.gov/newsevents/pressreleases/monetary20220504b.htm
+  * System Open Market Account (SOMA)
+  * For Treasury securities, the cap will initially be set at \$30 billion per month and after three months will increase to \$60 billion per month.
+  * For agency debt and agency MBS, the cap will initially be set at \$17.5 billion per month and after three months will increase to \$35 billion per month.
+
+Notes from https://www.wsj.com/articles/fed-approves-half-point-interest-rate-rise-ratcheting-up-its-inflation-fight-11651687201
+  * Fed will shrink its balance sheet by allowing bonds to mature without reinvesting the proceeds into new securities rather than by selling them in the open market.
+  * Fed will allow up to \$30 billion in Treasurys and \$17.5 billion in mortgage bonds to roll off every month in June, July and August.
+  * After that, they will allow \$60 billion in Treasurys and \$35 billion in mortgage securities to run off every month.
+
+==== 2022-05-02 ====
+Notes from https://investors.publicstorage.com/news-events/press-releases/news-details/2022/Public-Storage-Provides-Update-in-Relation-to-Agreed-Acquisition-of-PS-Business-Parks-by-Affiliates-of-Blackstone-Real-Estate/default.aspx
+  * Public Storage (PSA)
+    * holds 41% common equity interest in PS Business Parks (PSB)
+      * 7.2 million common shares
+      * 7.3 million limited partnership units
+      * it will receive $2.7 billion of cash (= (7.2 + 7.3) * 1e6 * \$187.50 = \$2.7 billion)
+
+Notes from https://www.wsj.com/market-data/quotes/PSB
+  * PS Business Parks (PSB)
+    * shares outstanding = 27.61 M
+
+Notes from https://www.wsj.com/articles/blackstone-to-buy-ps-business-parks-in-7-6-billion-deal-11650894308
+  * Blackstone (BX) to buy PS Business Parks (PSB)
+    * for $7.6 billion
+    * includes debt
+    * BX will pay $187.50 cash for each PSB share
+    * premium = 15% over the vwap of PSD's stock over the last 60 days
+    * expected to close in Q3 2022
+  * PS Business Parks (PSB)
+    * a real-estate investment trust
+    * owns and operates industrial and low-rise suburban offices and business parks, mostly in California, Miami, Texas and Northern Virginia
+    * As of 2022-03-30, it owned
+      * 96 properties with 4,900 tenants
+      * 800 residential units
+    * Public Storage (PSA) owns 26% of PSB's common stock (= 7.2 / 27.61)
+  * Last week, Blackstone (BX) bought American Campus Communities for $12.8 billion
+
+==== 2022-04-28 ====
+Notes from https://www.bloomberg.com/news/articles/2022-04-28/fidelity-to-create-12-000-jobs-building-on-its-hiring-spree?srnd=premium
+  * Fidelity
+    * Boston-based fund manager
+    * Founded in 1946
+    * Closely-held
+    * Controlled by the Johnson family
+    * In last year: revenue = \$24 billion, operating income = \$8.1 billion
+    * Worth $74.8 billion
+    * 33.5 million brokerage accounts by Q1 end
+    * Currently has 57,000 staff and will add 12,000 by Q3 end
+    * discretionary assets of $4.2 trillion
+    * Kirsten Kuykendoll, head of talent acquisition at Fidelity
+    * Fidelity Diversifying Solutions is focused on liquid alternatives -- products that offer regular investors access to hedge-fund like strategies
+  * Charles Schwab Corp.
+    * has 34,000 staff
+
+Notes from https://www.bloomberg.com/news/articles/2022-04-28/lilly-says-obesity-drug-helps-patients-lose-about-20-of-weight?srnd=premium
+  * Tirzepatide
+    * Eli Lilly & Co.’s obesity drug
+    * an average loss of about 15% of body weight, or 35 pounds, on a low dose of the drug
+    * an average loss of about 21% of body weight, or 50 pounds, on the highest dose of the drug
+    * Injected once a week
+    * Works by mimicking the effects of two gut hormones called GLP-1 and GIP, suppressing appetite and potentially increasing energy expenditure
+    * side effects included nausea, diarrhea and vomiting
+    * 72-week research trial enrolled 2,539 participants who are either overweight or obese accompanied by another medical condition
+  * Wegovy
+    * a similar drug from Novo Nordisk A/S
+    * average weight loss of about 15%
+    * can bring in about $3.5 billion by 2025
+  * Nearly three-quarters of U.S. adults have measurements of body mass in the obese or overweight range
+
+Notes from https://www.bloomberg.com/news/articles/2022-04-28/after-twitter-elon-musk-jokes-about-buying-coca-cola-to-put-the-cocaine-back?srnd=premium
+  * Musk’s net worth $253 billion
+  * Jeff Bezos net worth $162 billion.
+
+==== 2022-04-27 ====
+Notes from https://www.wsj.com/articles/what-are-i-bonds-everything-you-need-to-know-to-earn-nearly-10-interest-11650543039
+  * Americans snatched up nearly \$11 billion in Ibonds over the past six months, compared with around \$1.2 billion during the same period in 2020 and 2021, according to Treasury Department records.
+
+Notes from https://www.bloomberg.com/news/features/2021-04-08/how-bill-hwang-of-archegos-capital-lost-20-billion-in-two-days?srnd=premium
+  * Losses from Archegos implosion
+    * Credit Suisse Group AG lost $4.7 billion
+    * Nomura Holdings Inc. lost $2 billion.
+    * Mitsubishi UFJ Financial Group Inc. lost $300 million
+    * Goldman, Deutsche Bank AG, Morgan Stanley, and Wells Fargo - no losses.
+  * penthouse overlooking Manhattan’s Central Park
+  * hillside chalet at the Yellowstone Club
+  * private jets
+  * a “Tiger cub,” an alumnus of Tiger Management, the hedge fund powerhouse that Julian Robertson founded
+  * ViacomCBS, GSX Techedu, and Shopify
+  * Media conglomerates ViacomCBS and Discovery
+  * four Chinese stocks: GSX Techedu, Baidu, Iqiyi, and Vipshop
+  * arbitrage on collateralized bundles of obscure financial contracts
+  * popular themes such as cord cutting, virtual education, and online shopping
+  * family, business, and charity - the Grace & Mercy Foundation
+  * Sung Kook Hwang immigrated to the U.S. from South Korea in 1982 and took the English name Bill.
+  * Tiger Management, run by Julian Robertson, became one of the first widely famous hedge funds. Many former Tiger employees went on to open their own shops. Hwang’s onetime colleagues at Tiger Management include: Andreas Halvorsen, Viking Global Management; Philippe Laffont, Coatue Management; and Chase Coleman, Tiger Global Management
+  * a key lesson: to live with losses
+  * Tiger closed in 2001
+  * investing only in Korean, Japanese, and Chinese companies that generated all of their revenue domestically
+  * a group called Liberty in North Korea, or Link, that has helped about 1,300 North Koreans escaping the regime.
+  * the Financial Services Ministry, a group affiliated with New York’s Redeemer Presbyterian Church that connects Christians in finance
+  * Paul Gojkovich, a former director at Merrill Lynch
+  * U.S. rules prevent individual investors from buying securities with more than 50% of the money borrowed on margin. No such limits apply to hedge funds and family offices.
+  * 2x leverage = $1 million borrowed for every $1 million of capital
+  * In a typical swap agreement, a bank gives its client exposure to an underlying asset, such as a stock. While the client gains—or loses—from any changes in price, the bank shows up in filings as the registered holder of the shares.
+  * Cursing was not tolerated in Archego's offices. It is a policy borrowed from Robertson’s Tiger.
+  * Uniqlo, the fast-fashion brand, because it’s cheap and comfortable
+  * hedge fund running a similar strategy would lever up two to two-and-a-half times
+  * a portfolio short, a broad bet against the stock market, often made through an options or futures contract on the S&P 500.
+
+==== 2022-04-26 ====
+Notes from https://www.bloomberg.com/news/articles/2022-04-25/musk-s-21-billion-mystery-where-will-he-get-cash-for-twitter?srnd=premium
+  * total
+    * $21 billion equity portion
+      * personally guaranteed by Musk
+    * $13 billion in bank financing
+      * secured by Twitter
+    * $12.5 billion margin loan
+      * backed by a pledge of some of Elon Musk's $170 billion Tesla Inc. stake
+  * $54.20 per share of Twitter
+  * Musk
+    * net worth $257 billion
+    * $3 billion in cash
+  * Private U.S. companies are generally limited to fewer than 2,000 shareholders
+  * Dorsey’s stake in Twitter is worth almost $1 billion
+
+Notes from https://www.bloomberg.com/news/articles/2022-04-26/bezos-asks-will-musk-s-twitter-deal-disrupt-tesla-in-china?srnd=premium
+  * About half of Tesla's cars sold globally last year were produced at its plant in Shanghai
+  * Jeff Bezos owns the Washington Post
+  * Twitter is banned in China
+  * Tesla has boomed in China due to tax breaks, cheap loans and the green light to wholly own its domestic operations.
+  * Alibaba Group Holding Ltd. and JD.com Inc. - Amazon's competitors in China
+
+==== 2022-04-21 ====
+Notes from https://www.bloomberg.com/news/articles/2022-04-21/musk-is-said-to-vet-potential-equity-partners-for-twitter-bid?srnd=premium
+  * Apollo Global Management Inc., Blackstone Inc., Brookfield Asset Management Inc., and Vista Equity Partners
+
+==== 2022-04-19 ====
+Notes from https://www.wsj.com/articles/blackstone-bets-on-campus-housing-with-13-billion-acquisition-11650366000?mod=hp_lead_pos2
+  * American Campus Communities Inc.
+    * the largest publicly traded owner and developer of student housing in the U.S.
+    * also known as ACC
+    * Austin, Texas-based
+    * owns 166 buildings in cities and college towns across the U.S.
+    * About a quarter of its properties are on campus
+    * 
+  * There is relatively little new student-housing construction
+  * Big investors such as Blackstone and Brookfield Asset Management Inc.
+  * Nadeem Meghji, Blackstone’s head of real estate for the Americas
+
+Notes from https://www.bloomberg.com/news/articles/2022-04-19/russia-touts-swift-alternative-but-will-keep-its-members-secret?srnd=premium
+  * Bank of Russia Governor Elvira Nabiullina
+  * the central bank will no longer publish quarterly data on the schedule for repayments of foreign debt
+
+Notes from https://www.bloomberg.com/news/articles/2022-04-19/putin-calls-time-on-foreign-listings-in-fresh-blow-to-tycoons?srnd=premium
+  * Russia’s richest man, Vladimir Potanin
+  * steel billionaires Vladimir Lisin and Alexey Mordashov
+  * MMC Norilsk Nickel PJSC and Lukoil PJSC, registering depository receipt programs in New York, London and Frankfurt.
+  * Lukoil Chairman Vagit Alekperov
+  * Since the invasion of Ukraine on Feb. 24, trading in depository receipts of Russian companies has been frozen by foreign bourses.
+
+==== 2022-04-18 ====
+  * https://www.wsj.com/articles/the-safe-investment-that-will-soon-yield-almost-10-11649769505 - an article on I bonds in WSJ
+
+==== 2022-04-06 ====
+Notes from https://www.bloomberg.com/news/articles/2022-04-06/how-a-russian-oligarch-s-17-billion-fortune-reached-an-off-campus-lsu-dorm?srnd=premium
+  * Viktor Vekselberg
+    * $16.6 billion
+    * invested in Arlington Cottages, an off-campus apartment complex for Louisiana State University (LSU)
+      * 732-bed complex
+      * built in 2016
+      * was appraised at $63.6 million
+      * financed with a $44.1 million loan
+      * KeyBank NA, the loan’s servicer
+      * features a large pool surrounded by palm trees and cabanas
+      * facilitated by the investment firm Bracken Capital
+    * has a 8-meter (256-foot) superyacht, called Tango valued at $100 million
+    * Cyalume Technologies, a Florida-based maker of chemical lighting solutions
+    * Odyssey Online, a publishing platform popular with college students
+  * Coastal Ridge Real Estate Partners, an investment firm overseeing $3.5 billion of apartments and student housing
+
+Notes from https://www.bloomberg.com/news/articles/2022-04-06/jetblue-bid-for-spirit-is-driven-by-hunger-for-stealth-asset?srnd=premium
+  * JetBlue, Chief Executive Officer Robin Hayes
+  * the four biggest U.S. carriers control about 80% of the domestic market
+  * Airbus customers face a wait of two to three years for A320 delivery slots
+
+==== 2022-04-05 ====
+Notes from https://www.bloomberg.com/news/articles/2022-04-05/treasury-cuts-off-russian-reserves-in-the-u-s-as-war-drags-on?srnd=premium
+  * Energy exports are set to hand President Vladimir Putin a $321 billion windfall this year if the commodities continue flowing.
+  * Russia had foreign-currency and gold reserves of about $604 billion as of March 25.
+
+==== 2022-04-04 ====
+Notes from https://www.bloomberg.com/news/articles/2022-04-04/elon-musk-s-passive-stake-in-twitter-belies-his-big-influence?srnd=premium
+  * Shareholders who intend to remain “passive” -- those who don’t seek to influence or change control of a company -- file a shorter form with the U.S. Securities and Exchange Commission, called a 13G.
+  * Those angling for board seats or seismic shakeups typically file a longer and more in-depth form, a 13D, within 10 days of buying their stake.
+  * A 13D requires more disclosure -- shareholders have to say what their plans are, and how they’re financing the purchase of the stock.
+  * The rule applies to anyone acquiring 5% or more of a public company’s stock.
+  * Musk announced his 9.2% stake in Twitter by filing the 13G
+  * Elon Musk and Jack Dorsey are friends
+  * Musk has 80 million followers on Twitter
+  * Unlike Alphabet Inc., Meta Platforms Inc., Amazon.com Inc. and Snap Inc., Twitter’s founders don’t have special voting control over its future
+  * Jared Birchall, the head of Elon Musk's family office
+
+==== 2022-04-01 ====
+Notes from https://www.bloomberg.com/news/articles/2022-04-01/russian-bond-arbitrage-is-minting-near-guaranteed-profits?srnd=premium
+  * relative-value trade
+  * A negative-basis trade involves buying beaten down government or corporate bonds along with corresponding credit-default swaps, which insure the debtholder in the event of non-payment.
+  * pay out at par quoted recently at 80 cents on the dollar
+  * Rob Citrone’s $2.6 billion Discovery Capital Management
+    * bought long-dated Russian government bonds at about 20 cents on the dollar, while also hedging with one-year CDS at a price of around 60 cents
+    * position accounts for a couple percentage points of Discovery’s portfolio
+  * Aurelius Capital Management, GoldenTree Asset Management and Silver Point Capital
+    * have been piling into Russian markets by snapping up corporate bonds
+  * H2O Asset Management has been adding to its Russian debt holdings
+  * distressed-debt veterans - a group known for its combative personalities and aggressive tactics
+  * Volumes in Russian corporate bonds soared to their highest levels in two years last month
+  * trading of Russian credit-default swaps has surged, dwarfing other single-name contracts
+  * Bond and CDS packages were being offered by sales desks for as much as 95 cents on the dollar
+  * Marathon Asset Management’s Bruce Richards
+  * half of Russia’s foreign-exchange reserves are frozen
+  * Clearstream, one of the biggest clearinghouses in the world
+  * Jay Newman, the hedge fund veteran behind Elliott Management’s 15-year battle with Argentina following that nation’s default
+  * Specialist investors, crossover investors
+  * hedge-fund consultant Macro Intelligence 2 Partners
+  * setting up offshore structures in order to buy Russian assets
+
 ==== 2022-03-27 ====
 Notes from \\
 https://www.berkshirehathaway.com/letters/2021ltr.pdf \\
