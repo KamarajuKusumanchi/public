@@ -1,0 +1,5 @@
+==== njtransit ====
+  * Buy two one way adult tickets between any origin and destination using the promo code TRYSPRING. It should be free
+  * Offer valid till 5/2.
+
+Ref:- https://www.njtransit.com/spring

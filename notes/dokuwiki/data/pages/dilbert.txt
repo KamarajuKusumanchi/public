@@ -1,0 +1,4 @@
+==== dummy ====
+  * https://dilbert.com/strip/2022-04-10
+    * "Do you prefer meeting on Monday or Tuesday"
+      * "Yes"
