@@ -1,0 +1,71 @@
+==== Task ====
+The goal here is to quickly search the command line history using glob pattern matching.
+
+==== Situation ====
+When reverse searching the command line history using ctrl-r, a lot of characters have to be typed before arriving at the correct command. For example, to go to "cd ~/work/gitlab/rutils", one approach is to
+
+<WRAP indent>
+<code>
+ctrl-r
+cd<space>
+</code>
+</WRAP>
+and keep hitting ctrl-r until arriving at
+<WRAP indent>
+<code>
+cd ~/work/gitlab/rutils
+</code>
+</WRAP>
+
+Another approach is to
+<WRAP indent>
+<code>
+ctrl-r
+cd ~/work/gitlab/r
+<enter>
+</code>
+</WRAP>
+
+Here almost the entire command had to be typed since the user did many "cd ~/work/gitlab/xxx" type of commands after doing "cd ~/work/gitlab/rutils".
+
+Ideally, we want to avoid all this typing and get to the final command by typing a few keywords - say cd, rutils.
+
+==== Solution ====
+Add the following lines to ~/.zshrc.
+<WRAP indent>
+<code>
+# Use glob patterns when using ctrl-r
+#   ctrl-r wordA*wordB
+# will match commands where wordA is followed by wordB with zero or more number
+# of characters in between. This functionality is not available in old zsh
+# versions (ex:- 4.2.6) so check for its availability.
+zle -al | grep -q history-incremental-pattern-search-backward
+if [ $? -eq 0 ]; then
+  bindkey "\C-r" history-incremental-pattern-search-backward
+fi
+</code>
+</WRAP>
+
+After this
+<WRAP indent>
+<code>
+ctrl-r
+cd*rutils
+</code>
+</WRAP>
+will match commands where cd is followed by rutils.
+
+==== System Information ====
+Tested this tip using zsh 5.0.7 on a machine running Debian Jessie.
+
+<WRAP indent>
+<code>
+% dpkg -l zsh | grep ^ii
+ii  zsh            5.0.7-5      amd64        shell with lots of features
+</code>
+</WRAP>
+
+tags | reverse search using partial matches shell, reverse search using multiple words shell, use glob patterns in ctrl-r
+
+==== Related links ====
+* My zshrc file - https://gitlab.com/d3k2mk7/dotfiles/blob/master/zsh/zshrc

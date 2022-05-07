@@ -1,4 +1,4 @@
-
+==== 2021-05 ====
 ^ Date ^ market ^ possibly because ^
 | 2021-05-18 | down | in anticipation of FOMC minutes on 2021-05-19. |
 | 2021-05-20 | up | initial claims data released at 8:30 am.\\ The data is for 5/15, expected = 460k, actual = 444k, prior = 478k. |
@@ -12,6 +12,7 @@ bps = day-over-day relative change of closing prices in bps. That is (P2/P1 * 10
 | 2021-06-04 | up |  88 | |
 | 2021-06-16 | down |  -54 | FOMC Rate Decision at 2 PM. \\ Actual = 0.125%, expected = 0.125%, prior = 0.125%|
 
+==== 2021-07 ====
 ^ Date ^ Day ^ market ^ notes ^
 | 2021-07-08 | Thu | previous close: 4358.13 \\ today open: 4321.07 \\ today close: 4320.82 \\ close to close ret: -86 bps | Market went down a lot between 2021-07-07 close and 2021-07-08 open.\\ It then recovered during regular trading hours on 2021-07-08.\\ US 30 year treasury rate dipped below 1.90. |
 | 2021-07-19 | Mon | previous close: 4,327.16 \\ today open: 4,296.40 \\ today close: 4,258.49 \\ close to close ret: <fill this; should be in bps>| Possibly because <WRAP>
@@ -22,3 +23,8 @@ bps = day-over-day relative change of closing prices in bps. That is (P2/P1 * 10
     * US said China is responsible for the Microsoft Exchange hack
 </WRAP> |
 | 2021-07-20 | Tue | previous close: 4,258.49 \\ today open: 4,265.11 \\ today close: 4,323.06 \\ close to close ret: <fill this; should be in bps>| |
+
+==== 2022-05 ====
+asof | 2022-05-05 12:04 pm
+  * S&P 500 dropped 4.1%
+  * 10-year Treasury yield rose from 2.914% to 3.084%.

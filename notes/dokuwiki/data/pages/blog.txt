@@ -29,3 +29,7 @@ Note:- My old blog is in http://raju.shoutwiki.com/wiki/Blog . I plan to migrate
   * 2020-07-05 [[Continue running already back grounded jobs]]
 
 ==== 2019 ====
+==== 2018 ====
+==== 2017 ====
+==== 2016 ====
+  * 2016-03-25 [[Search command line history using glob pattern matching]]
