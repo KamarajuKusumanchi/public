@@ -1,4 +1,217 @@
+==== 2022-06-03 ====
+Notes from https://www.wsj.com/articles/the-stock-markets-drop-is-hitting-many-401-k-s-harder-this-time-11653256655
+  * The target-date funds hold about 40% of total assets in 401(k)-style plans Vanguard Group administers. They attract 60% of new contributions to 401(k) plans.
+  * Vanguard is the largest target-date-fund provider, with about $1 trillion in such funds.
 
+Notes from https://www.wsj.com/articles/china-taiwan-relations-tensions-explained-11653322751
+  * Chiayi Air Force Base in Taiwan
+  * Taiwan
+    * a self-ruled island of 24 million people
+    * roughly 100 miles off China’s southeastern coast
+    * democracy
+    * was controlled by Japan for half a century until the end of World War II
+    * After World War II, it became a part of the Republic of China
+  * China’s military, the People’s Liberation Army
+  * Mandarin is the dominant language in both China and Taiwan
+  * fighter jets, bombers and spy planes
+  * portable antitank and antiaircraft missiles
+  * conscription
+  * Since 1979, U.S. policy toward the defense of Taiwan has been governed by a law known as the Taiwan Relations Act, which holds that any attempt to determine Taiwan’s political future through anything other than peaceful means constitutes a threat to American interests.
+
+Notes from https://www.bbc.com/news/world-asia-china-59900139
+  * The split between China and Taiwan came about after World War Two, when there was fighting in mainland China between nationalist government forces and the Chinese Communist Party.
+  * The communists won in 1949, and their leader, Mao Zedong, took control in Beijing.
+  * Meanwhile, the nationalist party - known as the Kuomintang - fled to nearby Taiwan.
+  * Currently, only 13 countries (plus the Vatican) recognise Taiwan as a sovereign country.
+  * Taiwan
+    * Dominates the global production of computer chips
+    * the Taiwan Semiconductor Manufacturing Company or TSMC - has over half of the world's chip market
+  * Global foundry market share:
+    * Taiwan - 65%, South Korea - 18%, China - 5%, Other - 12%
+  * Taiwan - TSMC, UMC, PSMC, VIS
+  * South Korea - Samsung
+  * China - SMIC, HHGrace
+  * Other - Global Foundries, TowerJazz
+  * A "foundry" is a company which makes chips designed by consumer and military customers. It is a vast industry, worth almost $100bn in 2021.
+
+==== 2022-06-01 ====
+Notes from https://www.wsj.com/articles/russian-oil-producers-stay-one-step-ahead-of-sanctions-11654076614?mod=hp_lead_pos2
+  * blended refined products such as gasoline, diesel and chemicals
+
+Notes from https://www.bloomberg.com/news/articles/2022-06-01/fed-starts-experiment-of-letting-8-9-trillion-portfolio-shrink?srnd=premium
+  * The Fed is capping monthly runoff at \$47.5 billion = \$30 billion for Treasuries and \$17.5 billion for mortgage-backed securities -- until September. Those thresholds will then double to a combined \$95 billion.
+  * Fed's balance sheet
+    * now it is $8.9 trillion
+    * was $4.5 trillion at the end of 2014
+    * was $3.8 trillion by September 2019
+
+==== 2022-05-31 ====
+Notes from https://www.wsj.com/articles/eu-leaders-spar-over-russian-oil-ban-11653921289?mod=article_inline
+  * Sberbank - the largest bank in Russia.
+  * Germany, the EU’s biggest economy, depends heavily on imports of Russian natural gas, which flows through pipelines.
+  * OFAC = The U.S. Office of Foreign Assets Control
+  * Russia’s oil exports rose by 620,000 barrels to 8.1 million barrels a day
+  * Urals - popular grade of Russian crude
+  * India's Jamnagar and Sikka ports
+  * Indian energy giant Reliance Industries Ltd.
+  * Lauren II, a giant crude carrier that can hold about 2 million barrels of oil
+
+==== 2022-05-21 ====
+Notes from https://www.wsj.com/articles/one-bad-choice-and-a-baby-formula-crisis-factory-shutdown-shortage-infant-cronobacter-fda-11653080306?mod=latest_headlines
+  * Cronobacter sakazakii infection in infants
+  * “one product-population problem”
+  * Cronobacter typically causes disease only in the elderly and immunocompromised.
+  * deadly complications like sepsis and meningitis
+  * “swabs and sponges”
+  * CDC urges mixing powdered formula with water heated to 158 degrees Fahrenheit before serving the cooled solution to an infant.
+  * Only one state, Minnesota, tracks Crononbacter infections.
+
+==== 2022-05-20 ====
+Notes from https://www.npr.org/2022/05/19/1099748064/baby-infant-formula-shortages
+  * infant formula industry
+    * multi-billion dollar business
+    * four companies control about 90% of the US market
+  * The Abbott manufacturing facility in Sturgis, Michigan
+    * Abbott Nutrition is the firm behind it
+    * manufactured baby formula
+    * supplied as much as one-fifth of all the infant formula in the USA.
+    * The formula produced by this plant was suspected to be contaminated which led to a recall
+    * They shuttered it
+    * It s a critical supplier of specialized formula for infants with allergies and other health conditions that require a particular diet.
+  * JBS
+    * is a giant meatpacking company
+    * was hit by a ransomware attack last year
+  * FDA Commissioner Robert Califf
+  * Formula makers are regulated by the federal government
+  * The federal government is the biggest customer of formula makers.
+  * About half of all formula sold in the U.S. is paid for by the Department of Agriculture, through its Special Supplemental Nutrition Program for Women, Infants and Children (WIC).
+  * WIC contract
+  * Abbott has the WIC monopoly in about two-thirds of all states
+  * There are 17.5% tariffs on imported infant formula
+  * it will take about two weeks to restart production at Abbott's Sturgis plant and another six to eight weeks to bring that plant to full capacity
+  * market research firm IRI
+
+Notes from https://www.reuters.com/business/sustainable-business/tesla-removed-sp-500-esg-index-autopilot-discrimination-concerns-2022-05-18/
+  * S&P 500 ESG Index
+    * weights
+      * Apple 9.657%
+      * Exxon 1.443%
+    * SPDR S&P 500 ESG ETF is based on it
+  * oil refiner Phillips 66 (PSX)
+  * Tesla pioneered EVs and expanded into battery storage for electric grids and solar-power systems
+  * Margaret Dorn, S&P Dow Jones Indices' head of ESG indices for North America
+  * S&P Dow Jones Indices is majority-owned by S&P Global Inc. (SPGI)
+  * Other big ESG ratings agencies
+    * MSCI Inc
+    * Morningstar Inc
+  * Sustainalytics unit of Morningstar Inc
+
+Notes from https://www.indexologyblog.com/2022/05/17/the-rebalancing-act-of-the-sp-500-esg-index/
+
+
+==== 2022-05-16 ====
+Notes from https://www.wsj.com/articles/warren-buffett-spends-big-as-stock-market-sells-off-11652589031?mod=hp_lead_pos6
+  * Berkshire Hathaway bought 901,768 shares of Occidental Petroleum Corp (OXY)
+  * The SEC requires all institutional investors that manage more than $100 million to file the form 13F within 45 days of the end of each quarter.
+  * Cash is dry powder
+  * YTD energy stocks are the best-performing group in the S&P 500
+  * Chevron (CVX) is up 43% YTD
+  * OccidentalPetroleum (OXY) is up 121% YTD
+  * S&P 500 is down 16% YTD
+  * Energy stocks are likely to be an inflation hedge
+
+==== 2022-05-15 ====
+Notes from https://www.indiatoday.in/world/story/sri-lanka-financial-economic-crisis-1930721-2022-03-29
+  * low-return projects such as construction of ports, airport and coal power plants
+
+Notes from https://www.wsj.com/articles/why-its-so-hard-to-keep-russian-diamonds-and-gold-out-of-the-u-s-despite-sanctions-11652526180?mod=hp_lista_pos2
+  * U.S. and European sanctions have outlawed the sale of gold and diamonds from Russia.
+  * Rep. Elissa Slotkin (D., Mich.) - proposed legislation further restricting Russian gold imports
+  * processed diamonds and finished jewelry are often imported from countries such as China, India and Turkey
+  * Russia contributes roughly a tenth of the global gold supply and 30% of the diamond supply
+  * Russia has a gold stockpile of $140 billion worth
+  * the World Gold Council
+  * U.S. sanctioned polished Russian diamonds
+  * EU has sanctioned Russian gold and jewelry
+  * In April, U.S. sanctioned Alrosa
+  * Alrosa is the giant Russian diamond producer responsible for 90% of the country’s total supply
+  * Alrosa is a Russian miner (mining company)
+  * “Stop Russian Gold Act,”
+  * The gold industry mainly comprises of small businesses and a vast network of middlemen
+  * Global Gold Transparency Initiative - GGTI
+  * Big Western companies typically rely on U.K.-based "Responsible Jewellery Council" to certify gems and precious metals as ethical.
+  * world’s leading jewelers - Gucci owner Kering SA, Pandora A/S and Cartier owner Compagnie Financière Richemont SA
+  * Alrosa is one-third owned by the Russian state
+  * Tiffany & Co. owner LVMH Moët Hennessy Louis Vuitton SE
+  * U.S. jewelry store operator Signet Jewelers Ltd.
+  * fully traceable gold typically costs 20% more
+
+Notes from https://www.wsj.com/articles/behind-fake-account-issue-that-elon-musk-cited-in-pausing-twitter-deal-11652612403?mod=hp_lead_pos9
+  * As of March 31, Twitter has 229 million daily active users.
+
+Notes from https://www.bloomberg.com/news/articles/2022-05-15/-11-trillion-and-counting-global-stock-slump-may-not-be-over
+  * the S&P 500 is down more than 13% from its high on March 29
+  * Fewer than 30% of the benchmark’s members have hit a one-year low
+  * the 14-day relative strength index
+  * Defensive stocks are now in demand
+  * slowing growth hammers economically sensitive cyclical sectors
+  * Stoxx 600 Defensives Index
+  * cyclical-versus-defensive relative performance
+  * Nasdaq 100 now trades at about 20-times forward earnings
+==== 2022-05-13 ====
+Notes from https://www.wsj.com/articles/warnings-from-the-crypto-currency-crash-stablecoin-liquidity-terrausd-11652390321?mod=hp_opin_pos_1
+
+article published date | 2022-05-12
+  * $200 billion in crypto assets have blown up in 24 hours
+  * stablecoin TerraUSD collapsed
+  * Stablecoins are supposed to hold a fixed peg and let investors seamlessly trade crypto assets
+  * TerraUSD is linked to another crypto currency - the token Luna
+  * Examples of stablecoins - TerraUSD, Tether
+  * Coinbase, the crypto exchange
+  * Coinbase customers would be unsecured creditors in the event of a bankruptcy
+  * Crypto market is $2.9 trillion in Nov 2021. It was $500 billion in Nov 2020.
+  * junk bond prices are falling as concerns mount that some companies may struggle to roll over their debt
+  * European Central Bank recently warned banks to hold extra capital against leveraged loans, which are sensitive to interest rates, to cover potential losses.
+  * About $800 billion in leveraged loans in the U.S. were issued last year
+  * Debt covenants and market discipline were already deteriorating before the pandemic
+  * the oracles of the Eccles building
+
+Notes from https://www.wsj.com/articles/crash-of-terrausd-shakes-crypto-there-was-a-run-on-the-bank-11652371839?mod=hp_lead_pos7
+  * TerrsUSD swelled to $18 billion.
+  * TerraUSD's sister cryptocurrency, Luna
+  * TerraUSD, which is known by the ticker UST
+  * Jim Greco, a partner at crypto quantitative investment firm F9 Research, was celebrating his birthday at Manhattan’s Le Bernardin
+  * Anchor Protocol is a crypto bank created by developers at Terraform Labs
+    *  allows digital-currency investors to earn interest on their coins by lending them out
+    * Anchor offered 20% returns on deposits of TerraUSD
+  * Investors had deposited $14 billion of TerraUSD in Anchor as of late last week.
+  * Terraform Labs - Mr. Kwon's firm
+  * Luna lost nearly $20 billion in value
+  * a central bank in an emerging-markets country might spend dollar reserves to protect its currency
+  * Mr. Kwon, a Stanford University graduate who worked at Apple Inc. and Microsoft Corp.
+  * “My dearest creation named after my greatest invention.”
+  * Examples of stablecoins - TerraUSD, tether, and USD Coin
+
+==== 2022-05-12 ====
+Notes from https://www.bloomberg.com/news/articles/2022-05-11/terra-stablecoin-rescue-efforts-struggle-to-win-investor-support?srnd=premium-asia
+  * Jump Crypto is an affiliate of Jump Trading LLC.
+
+Notes from https://www.bloomberg.com/news/articles/2022-05-11/crypto-billionaires-vast-wealth-destroyed-in-weeks-amid-turmoil?srnd=premium-asia
+  * Coinbase Global Inc. founder Brian Armstrong
+  * Coinbase, the largest US cryptocurrency exchange
+  * Changpeng Zhao, the CEO of Binance
+  * Binance, closely held
+  * Tyler and Cameron Winklevoss, co-founders of crypto exchange Gemini
+  * Sam Bankman-Fried, CEO of crypto exchange FTX
+  * Armstrong owns 16% of Coinbase and controls 59.5% of its voting shares
+  * Ehrsam has a 4.5% stake in Coinbase and controls 26% of its voting stock
+
+Notes from https://www.bloomberg.com/news/articles/2022-05-11/coinbase-gives-256-billion-reminder-about-agonies-of-bankruptcy?srnd=premium-asia
+  * Coinbase Global Inc. is the biggest US crypto exchange
+  * Coinbase was custodian for $256 billion of customer money on March 31
+  * Adam Levitin, a Georgetown University law professor
+  * automatic stay imposed on creditors
+  * General unsecured creditors are the last to recover money. Ahead of them would be senior debtholders
 
 ==== 2022-05-05 ====
 Notes from https://www.federalreserve.gov/newsevents/pressreleases/monetary20220504a.htm

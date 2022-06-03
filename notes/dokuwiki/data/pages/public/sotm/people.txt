@@ -7,12 +7,12 @@
   * Federal Reserve Chair - Jerome Powell
 
 ==== dummy ====
+  * Treasury Secretary - Janet Yellen
+
   * Gil Holmes - global head of non-linear rates at JPM
 
   * SEC Chairman - Gary Gensler
     * Is SEC chief \(\equiv\) SEC chair \(\equiv\) SEC Chairman?
-
-  * Treasury Secretary - Janet Yellen
 
   * Tony Rodriguez - head of fixed income strategy at Nuveen
   * Dan Krieter - BMO strategist

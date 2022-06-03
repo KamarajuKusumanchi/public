@@ -1,2 +1,3 @@
 ==== funny xkcd cartoons I came across ====
   * https://xkcd.com/605/ - extrapolating
+  *  https://xkcd.com/1172/ - spacebar heating

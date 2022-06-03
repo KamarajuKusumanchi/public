@@ -1,0 +1,4 @@
+==== dummy ====
+context | US -> Delhi -> some other airport within India
+
+  * If you pick up anything from duty free in the US and if it is liquids, it will have to be checked in at Delhi. They don’t allow liquids in the carry-on.

@@ -106,7 +106,6 @@
   * [[dokuwiki notes]]
   * [[foobar]]
   * [[Hanuman chalisa]]
-  * [[websites]]
   * [[vegetables]]
   * [[Robertsville PTO]]
   * [[Idioms]]
@@ -156,6 +155,8 @@
   * [[autosys notes]]
   * [[fed related]]
   * [[deals]]
+  * [[air travel notes]]
+  * [[world maps]]
 
 ==== by date ====
   * [[reading journal 2022]]

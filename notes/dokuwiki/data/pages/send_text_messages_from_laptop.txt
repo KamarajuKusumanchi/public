@@ -1,0 +1,5 @@
+You can use https://messages.google.com to send text messages from a PC or laptop (instead of phone).
+
+Alternate websites:
+  * https://messages.google.com/web
+  * https://messages.google.com/web/conversations
