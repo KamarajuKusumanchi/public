@@ -1,4 +1,10 @@
 ===== 2022 =====
+==== 2022-06-17 ====
+  * [[https://biz.libretexts.org/Bookshelves/Accounting/Book%3A_Accounting_in_the_Finance_World | Book: Accounting in the Finance World]] (libretexts.org)
+
+==== 2022-06-10 ====
+  * [[https://blog.plover.com/2022/06/02/#mac-lock-button | Disabling the awful Macbook screen lock key]] (plover.com)
+
 ==== 2022-05-20 ====
   * https://www.npr.org/2022/05/19/1099748064/baby-infant-formula-shortages - High information density. Explains the reasons behind the shortage of baby formula
 

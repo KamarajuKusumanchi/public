@@ -184,3 +184,6 @@ To revert
 <code>
 $ conda config --remove-key pinned_packages
 </code>
+
+==== What is the difference between conda, pip, and virtualenv? ====
+  * https://docs.conda.io/projects/conda/en/latest/commands.html#conda-vs-pip-vs-virtualenv-commands -> scroll down to see a table that shows how to accomplish different tasks by using either conda or a combination pip and virtualenv.

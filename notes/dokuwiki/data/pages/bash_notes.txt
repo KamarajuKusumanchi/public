@@ -4,7 +4,13 @@
 
 ===== dummy =====
 ==== useful links ====
-  * https://mywiki.wooledge.org/ArithmeticExpression - Arithmetic Expansion 
+  * https://explainshell.com/ - useful for understanding complex shell commands
+  * https://mywiki.wooledge.org/ArithmeticExpression - Arithmetic Expansion
+  * https://misc.flogisoft.com/bash/tip_colors_and_formatting - escape characters, color prompts, echo colored strings
+  * http://ezprompt.net/ - Easy bash prompt generator
+
+==== documentation links ====
+  * ignoredups, erasedups - https://www.gnu.org/software/bash/manual/html_node/Bash-Variables.html search for ignoredups .
 ===== getopts =====
 ==== useful articles ====
   * https://sookocheff.com/post/bash/parsing-bash-script-arguments-with-shopts/ - Parsing bash script options with getopts

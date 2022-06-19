@@ -1,0 +1,26 @@
+Policy:
+  * Once you finish reading the book, move the entry to goodreads.
+
+Why:
+  * Goodreads assumes that you read from beginning to end. But I tend to read couple of pages here and there. This is my naive way to keep track of the progress.
+
+==== algorithmic trading with tnteractive brokers python ====
+Amazon: https://www.amazon.com/Algorithmic-Trading-Interactive-Brokers-Python/dp/0997303735/
+Goodreads: https://www.goodreads.com/en/book/show/49690728-algorithmic-trading-with-interactive-brokers
+
+Total positions in the ebook = 658; Using Calibre to store highlights.
+
+^ date ^ pages ^ overall progress ^ notes ^
+| 2022-06-13 | [1.0-5.0] | [1.0-5.0] | |
+| 2022-06-14 08:00 AM | [5.1-14.6] | [1.0-14.6] | Have to start from "1.2 Trader Workstation and the TWS API" section onwards |
+| 2022-06-14 11:48 PM | [14.7-15.6] | [1.0-15.6] | Have to install TWS from https://www.interactivebrokers.com/en/index.php?f=16042 \\ and then read "1.2.1 Introducing Trader Workstation" |
+
+==== Financial Accounting - LibreTexts - 20220616 ====
+url: https://biz.libretexts.org/Bookshelves/Accounting/Book%3A_Accounting_in_the_Finance_World
+
+pages in pdf: 373
+
+front matter: page 1- page 12; content: page 13 - page 363; back matter: page 364 - 373
+
+^ date ^ pages ^ overall progress ^ notes ^
+| 2022-06-17 | [13-16] | [13-16] | Easy to understand. Seems like a book worth reading from end to end. |

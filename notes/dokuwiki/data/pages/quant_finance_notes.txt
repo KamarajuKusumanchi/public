@@ -1,0 +1,2 @@
+==== useful links ====
+  * https://www.risk.net/definition/value-at-risk-var - gives definition and interpretation of VaR.

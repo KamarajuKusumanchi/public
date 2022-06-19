@@ -1,3 +1,128 @@
+==== 2022-06-15 ====
+Notes from https://www.bloomberg.com/news/articles/2022-06-15/us-retail-sales-growth-falls-constrained-by-plunge-in-autos?srnd=premium
+  * 13 retail categories
+  * Real spending data for May will be released later this month
+  * Restaurant sales, the report’s only services component
+  * control group sales -- which are used to calculate gross domestic product and exclude food services, auto dealers, building materials stores and gasoline stations
+
+Notes from https://www.wsj.com/articles/hong-kong-sells-more-u-s-dollars-to-defend-currency-peg-11655289211?mod=rss_markets_main
+  * Hong Kong’s currency has been tied to the U.S. dollar since 1983
+  * It trades within a permitted range of 7.75 to 7.85 Hong Kong dollars per U.S. dollar
+  * The city’s de facto central bank sells U.S. dollars if the local currency gets too weak or buys them if the Hong Kong dollar gets too strong.
+
+==== 2022-06-14 ====
+Notes from https://www.wsj.com/articles/fedex-adds-board-members-in-deal-with-activist-d-e-shaw-11655212122?mod=hp_lista_pos1
+  * Fedex
+    * under pressure from activist investor D.E. Shaw Group
+    * slated to report its latest results next week
+    * raising its quarterly dividend to \$1.15 per share vs. current \$0.75.
+    * Raj Subramaniam - new CEO
+    * Fred Smith - old CEO
+      * lead the company for decades
+      * stepped down on June 1st
+      * will remain as executive chairman
+      * he is one of  FedEx’s largest individual shareholders
+    * new board of directors - Amy Lane and Jim Vena
+    * Jim Vena
+      * was operating chief at Union Pacific Corp (UNP)
+  * Michael O’Mary, managing director at D.E. Shaw
+  * As of 2022-03-31, D.E. Shaw held ~$200 million stake in FedEx
+  * FedEx finance chief Michael Lenz
+  * YTD S&P 500 declined 21%; Fedex declined 22%
+
+==== 2022-06-13 ====
+Notes from https://www.wsj.com/articles/prologis-to-buy-duke-realty-in-26-billion-deal-including-debt-11655123510?mod=hp_lead_pos2
+  * Prologis Inc. (PLD) is buying Duke Realty Corp. (DRE)
+    * deal valued at $26 billion
+    * both are real-estate companies
+    * all-stock deal and includes debt
+    * expected to close later this year.
+    * PLD = 1 billion square feet of space; DRE = 160 million square feet
+    * 1 DRE share = 0.475 PLD share
+    * PLD plans to hold 94% of DRE's assets and exit one market.
+  * PLD
+    * world’s largest warehouse operator
+    * one-billion-square-foot network of industrial facilities around the globe that help store, process and ship online orders
+    * Customers include Amazon, Fedex
+  * Amazon
+    * looking to sublet at least 10 million square feet of warehouse space
+
+Notes from https://www.wsj.com/articles/big-crypto-lender-celsius-freezes-all-account-withdrawals-11655096584
+  * Celsius Network
+    * One of the largest crypto lenders
+    * lends out customer deposits to other users to earn a return
+    * managed $11.8 billion in assets as of May 17
+    * offers users annual percentage yields of up to 18.63% on cryptocurrency deposits
+    * it has 1.7 million users
+
+==== 2022-06-12 ====
+Notes from https://www.wsj.com/articles/enfamil-and-smaller-baby-formula-brands-test-dominance-of-abbotts-similac-11655026203?mod=hp_lead_pos4
+  * The market share for Abbott Laboratories' Similac, the country’s largest formula brand by sales, has been cut in half to around 20% as of last month.
+  * The biggest rivals of Abbott Laboratories' Similac are  Reckitt Benckiser Group PLC’s Enfamil and Nestlé SA’s Gerber
+  * Similac and Enfamil have been the dominant formula brands for more than half a century, with both products accounting for nearly 80% of the $4 billion-a-year market
+  * Both brands hold a larger chunk of the market for a single product than Coke and Pepsi have for soda, or Pampers and Huggies have for diapers
+  * WIC
+    * the country’s largest single buyer of formula
+    * It is a federally funded program
+    * known as the Special Supplemental Nutrition Program for Women, Infants, and Children
+    * Families supported by WIC receive vouchers to get that specific formula at no cost.
+  * Abbott's CEO Robert Ford
+  * food giant Danone
+  * Opening a factory cost ByHeart some $40 million
+
+==== 2022-06-08 ====
+Notes from https://www.bloomberg.com/news/articles/2022-06-08/sec-chief-takes-aim-at-payment-for-order-flow-in-sweeping-plans?srnd=markets-vp
+  * $45 trillion US equities market
+  * biggest overhaul for the US stock market in more than 15 years
+  * different parts of the market: wholesalers, dark pools, and lit exchanges
+  * Piper Sandler
+  * order-by-order auction mechanism
+  * encourage trading directly on exchanges, rather than through market makers
+  * Payment-for-order flow has been around since at least the 1980s
+  * Citadel Securities and Virtu are among market makers that dominate the business of paying brokers for orders and executing transactions.
+  * Robinhood’s Chief Legal Officer Dan Gallagher
+  * If a majority of the commissioners vote to propose the plans, they would be released for public comment and the agency would then hold another vote months later to finalize the regulations after taking into account the feedback.
+
+Notes from https://nj1015.com/buy-gas-from-costco-in-nj-theyre-about-to-make-a-major-change/
+  * Seventeen of Costco's New Jersey 20 locations have gas stations.
+  * gas price website Gas Buddy
+
+Notes from https://www.wsj.com/articles/secs-trading-shake-up-expected-to-face-heavy-opposition-11654631947?mod=article_inline
+  * brokerage firm Themis Trading LLC.
+  * Virtu Chief Executive Douglas Cifu
+  * trading-technology firm BestEx Research
+
+==== 2022-06-06 ====
+Notes from https://www.wsj.com/articles/tiger-global-giant-tech-bet-11654523735?mod=hp_lead_pos5
+  * Tiger global managed $23 billion at the end of 2021, was down 52% this year.
+  * One of its long-only funds that managed $11 billion at the end of 2021 has lost 61.7%.
+  * money manager LCH Investments
+  * Tiger’s venture funds were valued at $64 billion at year-end
+  * Tiger is led by 46-year-old founder Charles “Chase” Coleman
+  * research firm PitchBook Data Inc.
+  * Tiger’s hedge fund rose to \$25 billion in size by late 2021, from \$9 billion two years earlier.
+  * Bahnsen Group, a wealth-management firm based in Newport Beach, Calif.
+  * Tiger cut its management fee by 0.5% and is allowing investors to withdraw more of their money this year than before.
+  * Tiger's venture-capital arm, run by Scott Shleifer, 44
+  * JD.com Inc., now a Chinese e-commerce giant
+  * used-car website Carvana Co.
+  * Peloton Interactive Inc. and shoe maker Allbirds Inc.
+  * private-equity firm Apollo Global Management
+  * cloud software company Snowflake Inc.
+  * Historically, software firms have been valued closer to five times revenue.
+  * nicotine-vaping company Juul Labs Inc.
+  * investor Union Grove Venture Partners
+  * Tiger outsources much of its background research to consultant Bain & Co., where analysts interview customers and create dossiers on prospective companies.
+  * Tiger is one of Bain’s largest clients and pays it more than $100 million a year
+  * Series B funding—an early round of funding
+  * term sheet
+  * Moonpay, a Miami-based startup that backers call the PayPal of cryptocurrency
+  * The average early-stage startup funding round is less than $20 million
+  * The market capitalization of cryptocurrencies has fallen by over $1.5 trillion since November, roughly halving the value
+  * a venture fund’s performance often lags behind drops in public markets
+  * Private companies are harder to value, and managers often rely on a company’s valuation at a prior fundraising round.
+  * Sequoia China, the China business of venture-capital firm Sequoia Capital
+
 ==== 2022-06-03 ====
 Notes from https://www.wsj.com/articles/the-stock-markets-drop-is-hitting-many-401-k-s-harder-this-time-11653256655
   * The target-date funds hold about 40% of total assets in 401(k)-style plans Vanguard Group administers. They attract 60% of new contributions to 401(k) plans.

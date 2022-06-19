@@ -1,4 +1,7 @@
 ===== 2022-05 =====
+==== 2022-06-10 ====
+  * https://www.payflex.com/en/footer/news-events/Millennium-Trust-Company-Completes-Acquisition-of-PayFlex.html - Millennium Trust Company has completed its acquisition of PayFlex
+
 ==== 2022-05-31 ====
   * https://www.hyrumslaw.com/ <code>
 With a sufficient number of users of an API,

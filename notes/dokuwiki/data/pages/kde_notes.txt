@@ -1,0 +1,2 @@
+==== keyboard shortcuts ====
+  * Open Terminal - Ctrl+Alt+T

@@ -1,5 +1,5 @@
 ==== nutrition ====
 <code>
-item	quantity	calories	protein (g)	fat (g)	carbohydrates (g)	fiber	glycemic index	glycemic load
-coconut water	330 ml	60	0	0	15	0	54	3
+item             quantity    calories    protein (g)    fat (g)    carbohydrates (g)    fiber    glycemic index    glycemic load
+coconut water    330 ml      60          0              0          15                   0        54                3
 </code>

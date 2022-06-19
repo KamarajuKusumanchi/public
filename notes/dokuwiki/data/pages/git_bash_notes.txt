@@ -1,3 +1,31 @@
+===== Install additional software in git bash =====
+==== Install rsync 3.1.3-1 into a non standard directory ====
+This installs rsync 3.1.3-1 into /opt/software/rsync .
+
+Download the software
+<code>
+mkdir -p ~/x/software
+cd ~/x/software
+curl https://mirrors.huaweicloud.com/repository/msys2/msys/x86_64/rsync-3.1.3-1-x86_64.pkg.tar.xz --output rsync-3.1.3-1-x86_64.pkg.tar.xz
+</code>
+
+Install the software
+<code>
+mkdir -p /opt/software/rsync
+tar xJvf rsync-3.1.3-1-x86_64.pkg.tar.xz -C /opt/software/rsync
+</code>
+
+Update the PATH
+
+Add the following lines to ~/.bashrc
+<code>
+# For rsync
+export PATH=/opt/software/rsync/usr/bin:$PATH
+</code>
+
+Ref:-
+  * http://repo.msys2.org/msys/x86_64/rsync-3.1.3-1-x86_64.pkg.tar.xz - old link; does not work anymore.
+===== dummy =====
 ==== how to end stdin ====
 Use ctrl+z.
 
@@ -20,6 +48,19 @@ uname -s | cut -f 1 -d '-'
 ^ terminal ^ output ^
 | git bash | MINGW64_NT |
 | cygwin | CYGWIN_NT |
+
+Sample shell script snippet:
+<code>
+terminal_type=`uname -s | cut -f 1 -d '-'`
+
+if [ "$terminal_type" = "CYGWIN_NT" ]; then
+  echo "Using cygwin terminal"
+elif [ "$terminal_type" = "MINGW64_NT" ]; then
+  echo "Using git bash terminal"
+else
+  echo "Using unknown terminal"
+fi
+</code>
 
 See also:
   * https://github.com/KamarajuKusumanchi/sampleusage/blob/master/bash/compare_strings.sh - shell script snippet to branch off code based on terminal type.

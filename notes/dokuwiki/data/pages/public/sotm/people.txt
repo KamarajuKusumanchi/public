@@ -12,7 +12,8 @@
   * Gil Holmes - global head of non-linear rates at JPM
 
   * SEC Chairman - Gary Gensler
-    * Is SEC chief \(\equiv\) SEC chair \(\equiv\) SEC Chairman?
+    * This position is also referred to as SEC Chair, Wall Street’s top regulator
+    * Is SEC chief \(\equiv\) SEC Chairman?
 
   * Tony Rodriguez - head of fixed income strategy at Nuveen
   * Dan Krieter - BMO strategist
@@ -26,6 +27,7 @@
   * Bill Dudley - former New York Federal Reserve President
 
   * Yudhveer Chaudhry - Global Head of FX Trading, Blackrock
+  * Joe Mecane - heads execution services for Citadel Securities
 
 ==== Aaron Brown ====
 Aaron Brown  was Chief Risk Manager at AQR Capital Management. He was one of the original developers of value at risk and one of its strongest proponents.

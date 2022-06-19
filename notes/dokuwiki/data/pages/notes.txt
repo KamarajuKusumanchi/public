@@ -22,6 +22,8 @@
   * [[okular notes]]
 
 ==== dummy ====
+  * [[quant finance notes]]
+  * [[acroread notes]]
   * [[ragbag]]
   * [[ibonds_notes]]
   * [[spservicing]]
@@ -157,6 +159,7 @@
   * [[deals]]
   * [[air travel notes]]
   * [[world maps]]
+  * [[kde notes]]
 
 ==== by date ====
   * [[reading journal 2022]]

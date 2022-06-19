@@ -1,0 +1,6 @@
+==== dummy ====
+^ country / city ^ time ^
+| New York (EST) | GMT - 5 |
+| New York (EDT) | GMT -4 |
+| India | GMT + 5:30 |
+| UAE | GMT + 4 |

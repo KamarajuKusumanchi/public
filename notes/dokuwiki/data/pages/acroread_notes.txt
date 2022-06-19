@@ -1,0 +1,15 @@
+===== favorite configuration =====
+==== change background to black ====
+<code>
+View -> Display Theme -> Dark Gray
+</code>
+
+===== tips =====
+==== Go to page ====
+Ctrl+Shift+N
+
+Ref:- https://helpx.adobe.com/acrobat/using/keyboard-shortcuts.html -> Keys for navigating a PDF
+
+===== dummy =====
+==== useful links ====
+  *  keyboard shortcuts - https://helpx.adobe.com/acrobat/using/keyboard-shortcuts.html

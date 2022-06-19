@@ -1,4 +1,43 @@
 ===== dummy =====
+==== Set environment variables ====
+
+Using the run prompt (windows key + r)
+<code>
+rundll32 sysdm.cpl,EditEnvironmentVariables
+</code>
+
+Using the cmd prompt
+<code>
+C:\Windows\System32\rundll32.exe sysdm.cpl,EditEnvironmentVariables
+</code>
+
+==== unset environment variable ====
+To temporarily unset an environment variable
+<code>
+set FOOBAR=
+</code>
+
+This will remove the variable from the current environment (not permanently).
+
+Ref:- https://stackoverflow.com/questions/13222724/command-line-to-remove-an-environment-variable-from-the-os-level-configuration
+
+==== dump environment variables ====
+user environment variables
+<code>
+reg query HKEY_CURRENT_USER\Environment > user_env_vars.txt
+</code>
+
+system environment variables
+<code>
+reg query "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Environment" > system_env_vars.txt
+</code>
+
+tested on | windows 7
+
+script - [[https://github.com/KamarajuKusumanchi/rutils/blob/master/bin/windows/dump_env_vars.bat | dump_env_vars.bat]] (github.com/KamarajuKusumanchi)
+
+Ref - https://stackoverflow.com/questions/573817/where-are-environment-variables-stored-in-registry
+
 ==== list of installed packages ====
 ''Control Panel -> Programs and Features'' shows the list of installed packages.
 

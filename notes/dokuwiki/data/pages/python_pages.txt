@@ -21,3 +21,4 @@
   * [[python:packages:requests]]
   * [[Manipulating dates in python]]
   * [[python resources]]
+  * [[python packages]]

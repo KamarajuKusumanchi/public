@@ -46,3 +46,11 @@ _($* #,##0_);_($* (#,##0);_($* "-"??_);_(@_)
 </code>
 
 tags | dollar sign left justified
+
+===== tips =====
+==== format numbers ====
+You can bring up the "Format Cells" dialog by clicking on the small arrow button in the bottom right hand corner of the “Number” section.
+
+{{:format_numbers_in_excel.png|}}
+
+

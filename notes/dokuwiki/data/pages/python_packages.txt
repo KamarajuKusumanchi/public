@@ -1,0 +1,15 @@
+==== pydeps ====
+Pydeps is a powerful tool to quickly see the interconnections of import statements in a large python application.
+
+Ref:-
+  * https://github.com/thebjorn/pydeps - source code
+  * http://www.graphviz.org/download/ - graphviz binaries
+
+==== finvizfinance ====
+You can use finvizfinance package (https://finvizfinance.readthedocs.io/en/latest/index.html) to download data shown in the finviz.com website.
+
+links I came across:-
+  * https://finvizfinance.readthedocs.io/en/latest/index.html
+  * https://github.com/lit26/finvizfinance/blob/master/example/example.ipynb
+  * https://github.com/lit26/finvizfinance
+  * https://github.com/lit26

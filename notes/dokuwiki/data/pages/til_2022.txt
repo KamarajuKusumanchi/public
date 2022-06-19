@@ -1,3 +1,5 @@
+==== 2022-06-03 ====
+  * You can't have ':' in filename under windows. The list of such forbidden characters changes from OS to OS. For a full list of forbidden characters, see https://stackoverflow.com/questions/1976007/what-characters-are-forbidden-in-windows-and-linux-directory-names .
 ==== 2022-04-22 ====
   * String representations in the unicode standard are not unique. We need to normalize them before checking for their equality. \\ Ref:- https://lemire.me/blog/2022/04/05/string-representations-are-not-unique-learn-to-normalize/
 

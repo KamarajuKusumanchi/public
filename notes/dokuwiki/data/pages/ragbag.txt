@@ -1,10 +1,12 @@
 ==== dummies ====
+  * [[book reading tracker]]
   * [[dilbert]]
   * [[list of all pages]]
   * [[wikipedia links I came across]]
   * [[mailing list archives]]
   * [[websites to avoid]]
   * [[websites]]
+  * [[time in different countries]]
 
 ==== About ====
 
