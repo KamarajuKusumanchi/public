@@ -82,4 +82,6 @@ Ref:- https://en.wikipedia.org/wiki/Paracetamol#Naming
 
 ==== dummy 009 ====
   * https://www.hazlettwp.org/ - Hazlet town website
+  * https://www.hazlettwp.org/calendar.aspx - calendar
   * https://www.hazlettwp.org/CivicAlerts.aspx?AID=702 - fireworks show will be on 2021-07-05
+  * https://www.hazlettwp.org/Calendar.aspx?EID=1496&month=7&year=2022&day=2&calType=0 - fireworks show will be on 2022-07-02

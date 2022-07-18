@@ -102,6 +102,21 @@ conda clean --all
 
 
 Ref:- https://stackoverflow.com/questions/48706548/how-to-free-disk-space-taken-up-by-anaconda
+
+==== sample environment file ====
+<code>
+name: sample_py36
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6.8
+  - pandas=0.24.1
+  - pip:
+    - pywinauto
+    - fastavro==0.21.18
+</code>
+
 ==== where is the package cache ====
 <code>
 conda info

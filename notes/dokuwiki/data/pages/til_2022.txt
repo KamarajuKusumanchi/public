@@ -1,3 +1,6 @@
+==== 2022-07-11 ====
+  * Texas is nicknamed the "Lone Star State" for its former status as an independent republic, and as a reminder of the state's struggle for independence from Mexico. The "Lone Star" can be found on the Texas state flag and on the Texas state seal. \\ Ref:- https://en.wikipedia.org/wiki/Texas
+
 ==== 2022-06-03 ====
   * You can't have ':' in filename under windows. The list of such forbidden characters changes from OS to OS. For a full list of forbidden characters, see https://stackoverflow.com/questions/1976007/what-characters-are-forbidden-in-windows-and-linux-directory-names .
 ==== 2022-04-22 ====

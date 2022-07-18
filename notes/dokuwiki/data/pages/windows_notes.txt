@@ -1,4 +1,9 @@
 ===== dummy =====
+==== Check windows version ====
+<code>
+winver
+</code>
+
 ==== Set environment variables ====
 
 Using the run prompt (windows key + r)

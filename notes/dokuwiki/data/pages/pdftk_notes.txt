@@ -1,3 +1,10 @@
+==== rotate pages by 180 degrees ====
+<code>
+pdftk in.pdf cat 1-endsouth output out.pdf
+</code>
+
+Ref:- https://people.uleth.ca/~daniel.odonnell/blog/rotating-one-or-more-pages-in-a-pdf-in-linux - where I found the above solution.
+
 ==== store a pdf without password ====
 tags | remove password pdf
 

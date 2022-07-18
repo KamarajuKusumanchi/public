@@ -1,0 +1,8 @@
+
+==== dummy ====
+  * 
+
+==== Policy ====
+  * Use this for quick notedowns.
+  * Curated stuff is in https://github.com/KamarajuKusumanchi/company_description/tree/master/tidbits
+  * Goal is to move everything from this page to the github repo.

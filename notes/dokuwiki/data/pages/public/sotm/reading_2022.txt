@@ -1,3 +1,78 @@
+==== 2022-07-18 ====
+Notes from https://www.bloomberg.com/opinion/articles/2022-07-18/did-buffett-and-munger-see-byd-s-one-problem-lithium-supplies?srnd=premium
+  * BYD is connected with Youngy Co, one of China’s first spodumene, or raw lithium compound, miners.
+  * participated in a private placement
+  * the Sichuan region
+  * lithium iron phosphate batteries
+  * BYD won a a contract for lithium extraction in Chile
+
+==== 2022-07-11 ====
+Notes from https://en.wikipedia.org/wiki/Three_Arrows_Capital
+  * Three Arrows Capital (also known as 3AC or TAC) was a Singapore-based cryptocurrency hedge fund which was ordered to liquidate on 27 June 2022 by a court in the British Virgin Islands.
+  * It was founded in 2012 by Kyle Davies and Su Zhu.
+  * In its last public statement, the fund claimed a net asset value of $18 billion.
+  * Blockchain analytics firm Nansen estimated in March 2022 that Three Arrows managed about $10 billion in cryptocurrency assets, although there is speculation that most of their visible assets were sourced by uncollateralized borrowing from various lending platforms.
+
+Notes from https://www.bloomberg.com/news/articles/2022-07-11/bitcoin-miners-shut-off-rigs-as-texas-power-grid-nears-brink?srnd=premium
+  * Miners such as Riot Blockchain Inc., Argo Blockchain Plc and Core Scientific Inc.,
+  * Bitcoin miners flocked to Texas due to its low energy costs and liberal regulations on crypto mining.
+  * Texas is one of the largest crypto-mining hubs by computing power in the world.
+
+Notes from https://www.bloomberg.com/news/articles/2022-07-11/blackrock-says-don-t-buy-the-dips-as-high-volatility-era-sets-in?srnd=premium
+  * strategists including Wei Li, Vivek Paul and Scott Thiel wrote in a mid-year report by BlackRock Investment Institute
+  * BlackRock Investment Institute, BlackRock's research arm
+
+==== 2022-07-10 ====
+Notes from https://www.institutionalinvestor.com/article/b1r249yny49whg/At-BlackRock-New-Accusations-of-Discrimination-and-Harassment-Are-Met-With-Contrition
+  * date published | 2021-03-22
+  * credit product strategy group
+  * BlackRock became the world’s largest asset manager in 2009 when it acquired BGI
+  * BGI created iShares
+  * BlackRock acquired BGI for $15.2 billion
+  * Mark Wiedman is now the head of international and of corporate strategy at BlackRock
+  * Mark Wiseman was let go in December 2019 by BlackRock. He was global head of active equities and chairman of the alternatives business.
+  * Jeff Smith was let go in July 2019 by BlackRock. He was the global head of human resources.
+  * San Francisco’s gritty Tenderloin neighborhood
+  * OrbiMed, a health care–focused hedge fund
+  * assalamu alaikum, a standard Muslim greeting.
+  * financial markets advisory analyst
+
+==== 2022-07-05 ====
+Notes from https://www.bloomberg.com/news/articles/2022-07-05/crypto-crash-weighs-on-states-plans-for-tax-payment-by-bitcoin?srnd=premium#xj4y7vzkg
+  * Revenue departments in Colorado and Utah are implementing programs to enable businesses and individuals to pay their tax bills with virtual currencies such as Bitcoin, Ethereum, and Dogecoin
+  * Colorado, Utah - two Western states
+  * global cryptocurrency market is now below \$1 trillion from a \$3 trillion peak last November
+
+==== 2022-06-29 ====
+Notes from https://www.wsj.com/articles/behind-the-celsius-sales-pitch-was-a-crypto-firm-built-on-risk-11656498142?mod=hp_lead_pos7
+  * The median assets-to-equity ratio for all the North American banks in the S&P 1500 Composite index was about 9:1
+  * Regulators look at this ration as an indicator of risk.
+  * Celsius is a crypto lender. BlockFi is one of its competitor.
+  * digital-asset manager Galaxy Digital
+  * institutional crypto-lending firm Genesis
+  * Celsius used some of that collateral to borrow more money itself, a process known as rehypothecation
+  * “staking” cryptocurrencies, which is akin to a certificate of deposit account at a bank
+
+==== 2022-06-23 ====
+Notes from https://www.wsj.com/articles/powell-says-fed-needs-compelling-evidence-of-inflation-slowdown-to-alter-rate-rise-path-11655904616?mod=hp_lead_pos1
+  * Fed's benchmark federal-funds rate is now between 1.5% and 1.75%
+
+==== 2022-06-22 ====
+Notes from https://www.wsj.com/articles/indias-fintech-reckoning-arrives-11655906616?mod=rss_markets_main
+  * unbridled growth
+  * prepaid payment instruments (PPIs) — essentially prepaid purchasing cards
+  * Slice and Uni Cards—which are funded by Tiger Global, Accel, General Catalyst and Insight Partners
+  * Tracxn Technologies - source for data such as "Capital raised in the Indian fintech sector over the past 18 months"
+  * PPI licenses
+  * brokerage Macquarie
+  * top global venture-capital firms - Sequoia Capital, Y Combinator, AngelList, Accel and LetsVenture
+  * digital-lending ecosystem
+  * India’s top fintech company Paytm
+
+Notes from https://www.reuters.com/world/us/us-fda-order-juul-e-cigarettes-off-market-wsj-2022-06-22/
+  * tobacco giant Altria Group (MO) owns a 35% stake in the vaping products maker Juul Labs Inc.
+  * Juul rival British American Tobacco Plc
+
 ==== 2022-06-15 ====
 Notes from https://www.bloomberg.com/news/articles/2022-06-15/us-retail-sales-growth-falls-constrained-by-plunge-in-autos?srnd=premium
   * 13 retail categories

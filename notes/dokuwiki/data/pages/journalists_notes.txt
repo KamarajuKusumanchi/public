@@ -1,6 +1,19 @@
+Todo:- Migrate the contents from http://raju.shoutwiki.com/wiki/Journalists_notes to here. Delete that page once the migration is done.
+
+==== authors I like ====
+  * James Somers - He writes very well. See https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge for an example of his work. It profiles Jeff Dean and Sanjay Ghemawat, two google engineers who together changed the course of Google - and the Internet.
+
+http://jsomers.net/ - contains all of his work.
+
+
 ==== submarine ====
   * Silla Brush writes submarine articles for Blackrock. \\ See for example: <nowiki>https://www.bloomberg.com/news/articles/2022-01-14/blackrock-s-sustainable-investment-funds-surge-to-509-billion?srnd=markets-vp</nowiki> . \\ Ignore articles written by him/her.
 
+==== sensational headlines ====
+  * Orla McCaffrey writes articles with sensational headlines. \\ See for example: <nowiki>https://www.wsj.com/articles/mortgage-rates-drop-after-three-weeks-of-increases-11656597927?mod=hp_lead_pos3</nowiki> . \\ Here the mortgage rates dropped from 5.81% (on 2022-06-23) to 5.7% (on 2022-06-30). A year ago, they were 2.98% (on 2021-07-01). So the 0.11% is not much... but the title of the article is "Mortgage Rates Drop After Three Weeks of Increases". Also, see the graphic in the article to see what a hyped up article this is.
+
+==== speculative headlines ====
+  * Anjani Trivedi wrote articles with speculative headlines. \\ See for example: <nowiki>https://www.bloomberg.com/opinion/articles/2022-07-18/did-buffett-and-munger-see-byd-s-one-problem-lithium-supplies Did Buffett and Munger See BYD’s One Problem?</nowiki> . \\ Here she speculated that a big sell order in Hong Kong's clearing system was probably due to selling by Berkshire Hathaway and then went on to describe BYD's current problems. The article  is more about BYD's current problems than about Buffett and Munger. Ignore articles written by her.
 ==== incomplete ====
   * John Liu, Claire Che, Dong Cao, and Coco Liu \\ See for example: <nowiki>https://www.bloomberg.com/news/articles/2021-11-26/china-is-said-to-ask-didi-to-delist-from-u-s-on-security-fears?srnd=technology-vp</nowiki> . The article says "regulators want Chinese ride-hailing giant Didi to delist from the New York Stock Exchange because of concerns about leakage of sensitive data." But it does not tell how does listing a company on NYSE result in "leakage of sensitive data"? Ignore articles written by these people.
 
@@ -9,6 +22,8 @@
 ==== space filling journalism ====
   * Claire Ballentine at <nowiki>https://www.bloomberg.com/authors/ATR8P7ZTClE/claire-ballentine</nowiki> \\ See for example: <nowiki>https://www.bloomberg.com/news/articles/2022-02-15/will-interest-rates-on-savings-accounts-go-up-marcus-ally-bank-keep-levels-low</nowiki> . Very low information density.
   * Tasos Vossos at <nowiki>https://www.bloomberg.com/authors/ATluWOJkzQs/tasos-vossos</nowiki> \\ See for example: <nowiki>https://www.bloomberg.com/news/articles/2021-10-07/blackrock-alumni-want-to-shake-up-world-of-junk-debt-investing?srnd=markets-vp</nowiki> . The title mentions BlackRock Alumni but there were no names in the first 6 paragraphs of the article. Probably writes submarine articles. Ignore articles written by him.
-  * Katherine Greifeld at <nowiki>https://www.bloomberg.com/authors/AS35L0tDv_U/katherine-greifeld</nowiki> \\ See for example: <nowiki>https://www.bloomberg.com/news/articles/2022-01-19/blackrock-alumni-have-a-new-gameplan-to-disrupt-junk-debt-etfs?srnd=markets-vp</nowiki> . The title mentions BlackRock, State Street Alums but there were no names listed anywhere in the article. Probably write submarine articles. Ignore articles from this author.
+  * Katherine Greifeld at <nowiki>https://www.bloomberg.com/authors/AS35L0tDv_U/katherine-greifeld</nowiki>
+    * See for example: <nowiki>https://www.bloomberg.com/news/articles/2022-01-19/blackrock-alumni-have-a-new-gameplan-to-disrupt-junk-debt-etfs?srnd=markets-vp</nowiki> . The title mentions BlackRock, State Street Alums but there were no names listed anywhere in the article. Probably write submarine articles. Ignore articles from this author.
+    * Here is one more example: <nowiki>https://www.bloomberg.com/news/articles/2022-06-30/sec-rejects-grayscale-bid-to-turn-biggest-bitcoin-fund-into-etf</nowiki>. The article is probably a submarine article for Grayscale Investments.
   * Josh Robinson at <nowiki>http://www.bloomberg.com/authors/APYZa-30CgQ/josh-robinson</nowiki> \\ Here is an example <nowiki>http://www.bloomberg.com/news/articles/2015-06-30/economists-say-greece-will-cling-to-euro</nowiki> . The article talks about the results from a survey but fails to mention how the survey is conducted, how the participants were paid (if any), number of people who took the survey etc., I find this type of articles incomplete, misleading and utterly useless.
   * Jonathan D. Rockoff and Michael Rothfeld at <nowiki>http://www.wsj.com/articles/biggest-valeant-holder-plumbed-philidor-ties-1447202547</nowiki> \\ Basically they wrote 1000+ article which can be summed up in one sentence - "Ruane, Cunniff & Goldfarb Inc., manager of Sequoia Fund Inc., and the biggest shareholder of Valeant is inquiring abut Ties between Valeant and Philidor". I find reading this type of articles a waste of time.
