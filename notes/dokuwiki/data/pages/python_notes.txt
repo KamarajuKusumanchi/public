@@ -170,5 +170,8 @@ tags | passing function, function as value in dictionary, dispatch
 
   * https://softwareengineering.stackexchange.com/questions/182093/why-store-a-function-inside-a-python-dictionary/182095
 
+==== __all__ ====
+  * https://stackoverflow.com/questions/44834/what-does-all-mean-in-python - good explanation by Alec Thomas
+  * https://docs.python.org/3/tutorial/modules.html#importing-from-a-package - link to documentation; referenced in the above stackoverflow link.
 ==== dummy ====
   * https://superuser.com/questions/1633073/why-are-tar-xz-files-15x-smaller-when-using-pythons-tar-library-compared-to-mac - Why are tar.xz files 15x smaller when using Python's tar library compared to macOS tar?

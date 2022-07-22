@@ -54,3 +54,33 @@ For example
 % ls -l --time-style='+%Y%m%d' ~/.vimrc 
 -rwx------ 1 rajulocal rajulocal 1112 20201017 /home/rajulocal/.vimrc*
 </code>
+
+==== indicators ====
+"ls -F" appends indicators <nowiki>*/=>@|</nowiki> to filenames.
+  * * means executable.
+  * / means directory.
+  * = means socket.
+  * > means door.
+  * @ means symbolic link (or that the file has extended attributes).
+  * | means named pipe.
+
+Ref:- https://unix.stackexchange.com/questions/82357/what-do-the-symbols-displayed-by-ls-f-mean
+
+==== only show filename and modification time ====
+<code>
+ls -al | cut -d ' ' -f 6- 
+</code>
+
+Another way (using find):
+<code>
+find -maxdepth 1 -type f -printf "%TY %Tb %Td %TH:%TM\t%p\n"
+</code>
+
+To sort the files based on timestamp (reverse chronological order)
+<code>
+find -maxdepth 1 -type f -printf "%T+#%TY %Tb %Td %TH:%TM\t%p\n" | sort -rn| cut -d# -f2-
+</code>
+
+The %T+ is used to sort the output properly and gets removed by cut afterwards.
+
+Ref:- https://askubuntu.com/a/1044206/574082

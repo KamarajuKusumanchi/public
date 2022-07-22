@@ -46,6 +46,9 @@ Mon-Fri 8 am - 4:30 pm, Sat 8 am - 3 pm
 ==== gym ====
   * [[crunch_fitness]]
 
+==== recycling ====
+  * Occasionally, a road closure will prevent a scheduled recycling collection.  Should this occur, please email publicworks@marlboro-nj.gov   with your address and they will confirm a makeup date.
+
 ==== recycling calendar ====
   * 2021 - https://marlboro-nj.gov/images/public-works/2021/2021-Recycling-Calendar.pdf
   * 2022 - https://www.marlboro-nj.gov/images/public-works/2022/2022-Recycling-Calendar.pdf
@@ -97,7 +100,7 @@ Additional notes:
   * https://www.marlboro-nj.gov/e-mail-directory - email directory
   * https://www.marlboro-nj.gov/documents/forms-permits-licenses - forms, licenses, and permits
   * https://marlboro-nj.gov/register-e-bulletin - use this to register for the Marlboro Township e-Bulletin
-  * https://www.marlboro-nj.gov/online-pothole-reporting - to report potholes
+  * https://www.marlboro-nj.gov/online-pothole-reporting - to report potholes \\ tags | pothole portal
   * https://www.marlboro-nj.gov/storm-updates - storm updates
   * https://marlboro-nj.gov/public-utilities - contains phone numbers of utility companies.
   * https://marlboro-nj.gov/images/notices/2020/COVID-Testing-Sites-Poster.pdf - It has locations and timings during which you can get tested for Covid 19 for free. No appointment necessary and you do not have to be symptomatic. It is only for Monmouth county residents.\\ I got this link from https://www.marlboro-nj.gov/weekend-update-october-30
@@ -124,6 +127,8 @@ Additional notes:
     * 2020 - https://www.marlboro-nj.gov/images/public-works/2020-Recycling-Calendar.pdf#page=14
   * Power outages
     * To report power outages, call JCP&L 1-888-lightss (1-888-544-4877)
+  * Downed wires
+    * Assume all downed wires are live and dangerous and report to Marlboro Police at 732-536-0100.
 
 ==== day trips ====
   * Avon by the sea

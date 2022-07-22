@@ -1,3 +1,15 @@
+==== no matching host key type found ====
+error
+<code>
+$ ssh hostname -l username
+Unable to negotiate with <IP address> port 22: no matching host key type found. Their offer: ssh-rsa,ssh-dss
+</code>
+
+workaround
+<code>
+ssh -oHostKeyAlgorithms=+ssh-dss hostname -l username
+</code>
+
 ==== copying keys ====
 When setting up password less authentication via ssh, use ssh-copy-id to copy the public key to the remote machine.
 

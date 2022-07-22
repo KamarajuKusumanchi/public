@@ -25,9 +25,24 @@ Note:- If possible switch to using qpdf instead of pdftk. There were couple of i
 
 Ref:- https://www.cyberciti.biz/faq/removing-password-from-pdf-on-linux/ - Mentions qpdf; gives more alternatives.
 
+==== encrypt a pdf with password ====
+<code>
+pdftk in.pdf output out.pdf user_pw foo
+</code>
+
+Ref:- http://askubuntu.com/questions/258848/is-there-a-tool-that-can-add-a-password-to-a-pdf-file
+
+Note:- I was unable to encrypt a pdf file using Adobe Reader X1 Version 11.0.13 . I could not find the "Tools pane" described in <nowiki>http://www.adobe.com/content/dam/Adobe/en/products/acrobat/pdfs/adobe-acrobat-xi-protect-pdf-file-with-permissions-tutorial-ue.pdf</nowiki>. I also tried File -> Properties -> Security after opening the file. However all the options in that window are greyed out. So I can't add a password from there as well. I was told that Adobe Standard can do this but it costs money whereas pdftk is free. In the end, using pdftk was a no brainer.
+
 ==== make two copies of the same document ====
 <code>
 pdftk in.pdf cat 1-end 1-end output out.pdf
 </code>
 
 See also: https://superuser.com/questions/600877/how-do-i-duplicate-pages-within-pdf-files-automatically - has a script to duplicate it by page (as in 1,1,2,2,...)
+
+==== debian package ====
+  * pdftk-java
+
+==== external links ====
+  * Enricon Zini talks about using pdfk and inkscape to add signatures to pdf documents - http://www.enricozini.org/blog/2016/pdftk-inkscape/

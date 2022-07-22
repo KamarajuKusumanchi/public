@@ -22,3 +22,77 @@ In [4]:
 Out[4]: 
 [2021, 8, 14]
 </code>
+
+==== iterate over a range of dates ====
+To iterate on all days including weekends
+<code>
+for dt in pd.date_range('20160226', '20160303'):
+  print(dt.strftime('%Y%m%d'))
+
+20160226
+20160227
+20160228
+20160229
+20160301
+20160302
+20160303
+</code>
+
+To iterate only on weekdays
+<code>
+for dt in pd.date_range('20160226', '20160303'):
+  if (dt.weekday() < 5):
+    print(dt.strftime('%Y%m%d'))
+
+20160226
+20160229
+20160301
+20160302
+20160303
+</code>
+
+To iterate in reverse chronological order
+<code>
+for dt in pd.date_range('20160226', '20160303')[::-1]:
+  if (dt.weekday() < 5):
+    print(dt.strftime('%Y%m%d'))
+
+20160303
+20160302
+20160301
+20160229
+20160226
+</code>
+
+To experiment with just one date element
+<code>
+>>> a = pd.date_range('20160226', '20160303')
+>>> a[0].strftime('%Y%m%d')
+'20160226'
+</code>
+
+To create a pandas.tslib.Timestamp variable
+<code>
+>>> from datetime import datetime
+>>> for dt in pd.date_range('20160929', '20160930')[::-1]:
+...     dt == pd.Timestamp(datetime(2016, 9, 29))
+...
+False
+True
+
+>>> type(pd.Timestamp(datetime(2016, 9, 29)))
+<class 'pandas.tslib.Timestamp'>
+
+>>> for dt in pd.date_range('20160929', '20160930')[::-1]:
+...     type(dt)
+...
+<class 'pandas.tslib.Timestamp'>
+<class 'pandas.tslib.Timestamp'>
+</code>
+
+tags | convert output from pandas data_range function to YYYYMMDD, date_range reverse order
+
+Ref:-
+  * http://pandas.pydata.org/pandas-docs/stable/timeseries.html#generating-ranges-of-timestamps
+  * http://pandas.pydata.org/pandas-docs/stable/generated/pandas.date_range.html
+
