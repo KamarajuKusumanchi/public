@@ -24,3 +24,5 @@ front matter: page 1- page 12; content: page 13 - page 363; back matter: page 36
 
 ^ date ^ pages ^ overall progress ^ notes ^
 | 2022-06-17 | [13-16] | [13-16] | Easy to understand. Seems like a book worth reading from end to end. |
+| 2022-07-25 | [59] | [13-16], [59] | |
+| 2022-07-27 | [60],[17-20] | [13-20],[59-60] | The Socratic method of asking and answering questions is very helpful. |

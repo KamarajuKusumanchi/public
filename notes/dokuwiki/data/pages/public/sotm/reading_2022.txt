@@ -1,3 +1,111 @@
+==== 2022-08-11 ====
+Notes from https://www.stlouisfed.org/open-vault/2022/may/how-will-fed-reduce-balance-sheet
+  * The Fed is imposing redemption caps on the dollar amount of securities that will run off the its portfolio in any given month.
+  * The caps will be phased in to ensure a smooth transition to the runoffs.
+  * For June 2022 through Aug 2022, the monthly cap will peak at \$30 billion for US Treasuries and \$17.5 billion for MBS
+  * From Sep 2022 onwards, the monthly cap will peak at \$60 billion for US Treasuries and \$35 billion for MBS
+
+Notes from https://www.wsj.com/articles/billionaire-robert-brockman-accused-of-biggest-tax-fraud-in-u-s-history-dies-at-81-11660226505?mod=hp_lead_pos10
+  * Reynolds & Reynolds Co
+    * one of the largest U.S. providers of software for car dealerships
+    * had a rigorous sales-training program
+  * Vista Equity Partners
+    * founder Robert Smith
+    * a private-equity firm
+  * Robert Theron Brockman
+    * initial investor of Vista Equity Partners
+    * Controlled Reynolds & Reynolds Co
+    * was passionate about fly fishing
+    * organized dove-hunting trips for his employees across the border in Mexico
+    * forbade employees from smoking to save money on health insurance
+    * founded a Bermuda trust, Brockman Bermuda trust, in 1981
+      * the trust owned Reynolds & Reynolds and most of the rest of his offshore structure
+  * web of offshore structures
+    * calling himself “Permit,” and the IRS “The House.”
+
+==== 2022-08-10 ====
+Notes from https://dfr.vermont.gov/consumer-alert/voyager-digital-files-chapter-11-bankruptcy
+  * Voyager Digital Holdings, Inc. (Voyager) is a cryptocurrency company, that offers its customers interest-bearing crypto accounts.
+  * On 2022-07-01, Voyager suspended all trading, deposits, withdrawals and loyalty awards.
+  * On 2022-07-06, it filed for bankruptcy.
+
+
+Notes from https://www.wsj.com/articles/crypto-broker-voyager-digital-files-for-bankruptcy-protection-11657098630
+  * Voyager’s main banking partner, New York-based Metropolitan Commercial Bank
+  * Voyager
+    * assets = \$6 billion, shareholder equity = \$258 million
+    * ratio of assets/(shareholder equity) = 23.26:1
+  * median assets-to-equity ratio for all North American banks in the S&P 1500 Composite index is 9:1
+  * Celsius Network LLC
+    * the giant crypto lender
+    * assets to equity ratio = 19:1 as of spring 2021
+    * $12 billion in deposits as of summer 2021
+    * froze withdrawals June 12
+
+==== 2022-08-05 ====
+Notes from https://www.bloomberg.com/opinion/articles/2022-07-01/a-3-mortgage-leveraging-your-stocks-to-buy-a-home
+  * Borrowers can ask their brokerage firms or banks to set up either a margin loan or a securities-backed line of credit tied to their investment account.
+  * Raymond James requires that borrower's account size is >= $150,000.
+  * Retirement accounts like IRAs are prohibited from this.
+  * The mix of assets in a portfolio will determine the amount that can be borrowed
+  * Typically, it is set as a percentage of the account
+  * Borrowing against investments is cheaper (3% for margin loans vs. 5.8% for a 30-year mortgage)
+  * Since there is no underwriting, it is much faster and easier process than obtaining a mortgage
+  * Firms typically allow borrowers to tap up to 50% of the market value of their account, but sticking closer to 30% will give you more of a cushion to play it safe.
+  * Margin-loan holders should check the mortgage rates quarterly. That way if the mortgage rates become comparable to the margin loan rate, they could switch to mortgage.
+  * The interest you pay for a margin loan generally isn’t fully tax-deductible. You can only deduct that interest against any investment income you earn. With a traditional mortgage, you can deduct all the interest for loans up to $750,000 if you itemize your deductions.
+
+Notes from https://www.wsj.com/articles/coinbase-launches-derivatives-product-in-crowdedand-depressedmarket-11656763202
+  * the crypto selloff began in November 2021
+  * Coinbase
+    * Core business is spot-trading
+    * reported a loss of \$429.7 million in Q1 2022. This is equal to a loss of \$1.98 per share.
+    * Boris Ilyevsky, the head of Coinbase Derivatives Exchange
+    * rival crypto exchanges: Binance, Bybit, and OKX
+  * Decentralized exchanges, or DEXes, are a class of crypto exchanges that automate the functions of traditional exchanges and allow traders to invest without an intermediary.
+  * Coinbase and Binance are centralized exchanges
+  * Centralized exchanges are currently larger than decentralized exchanges.
+  * Centralized crypto exchanges are essentially brokering trades, matching orders, and executing and settling the orders. They are the central intermediary, and if something goes wrong, they are the party responsible.
+  * Decentralized exchanges aren’t actually brokering trades on behalf of their customers or facilitating the execution or settlement of the trades. All of those functions are handled through software automation. The liquidity to ensure trades get executed comes from the users, too, collected into large “liquidity pools.”
+  * dYdX is the second-largest derivatives exchange
+
+==== 2022-08-01 ====
+Notes from https://www.wsj.com/articles/amgen-fights-irs-over-10-7-billion-tax-bill-11659346202?mod=hp_lead_pos4
+  * Puerto Rico, a U.S. territory that is considered a foreign country for corporate income-tax purposes
+  * Amgen Inc.,
+    * based in Thousand Oaks, Calif.,
+    * helped pioneer the biotechnology industry
+    * is among the world’s biggest drugmakers by sales
+    * Its drugs include arthritis treatment Enbrel and Prolia for osteoporosis
+    * $26 billion in revenue last year
+  * AbbVie Inc. reduces its tax payments for U.S. sales of its blockbuster medicine Humira by keeping its patent rights under a Bermuda subsidiary, where it has no employees or significant operations, and manufacturing it in Puerto Rico.
+  * When determining the location of profits, tax law focuses on where value is created. It doesn’t require that profits match the location of sales, but they are often similar. Pharmaceutical companies, however, rely on easy-to-move patents, and have typically had larger divides between where they put profits and where they have economic activity.
+  * transfer pricing
+
+==== 2022-07-29 ====
+Notes from https://www.bloomberg.com/news/articles/2022-07-22/tesla-s-bitcoin-dump-leaves-accounting-mystery-in-its-wake?srnd=premium
+  * “depreciation, amortization, and impairment” charge
+  * Tesla's Chief Financial Officer Zachary Kirkhorn
+
+Notes from https://www.wsj.com/articles/the-dollar-emergency-is-worse-than-you-think-exchange-rate-money-euro-prices-inflation-bankers-yen-economy-11659023098?mod=hp_opin_pos_3#cxrecs_s
+  * emerging markets ought to barricade themselves against the dollar by borrowing in their own currencies
+  * Rapid dollar appreciation punishes global companies. But since it brings down dollar commodity prices, it might help domestic American companies by reducing their raw-material costs.
+  * Global companies hedge their foreign-exchange risk. IBM, for instance, hedges its exposure to 35 currencies.
+
+==== 2022-07-27 ====
+Notes from https://www.wsj.com/articles/nord-stream-inside-the-closure-of-europes-key-russian-natural-gas-pipeline-11658233177
+  * This is a primer on Nord Stream pipeline
+  * The Nord Stream pipeline
+    * is 760-mile-long.
+    * connects Russia’s prolific Siberian gas fields with Germany under the Baltic Sea.
+    * was opened in 2011.
+    * has a capacity of 55 billion cubic meters a year, which ~10% of the EU's annual consumption.
+    * Gazprom is the majority shareholder of this pipeline
+  * The Nord Stream 2 pipeline
+    * the German government froze this project in February 2022 over the war in Ukraine.
+  * Before Russia’s invasion of Ukraine, the EU imported about 40% of its gas from Russia.
+  * Gas from Norway, Algeria, the U.S. and Qatar, often comes in the form of liquefied natural gas transported by ship.
+
 ==== 2022-07-21 ====
 Notes from https://www.wsj.com/articles/amazon-to-buy-one-medical-for-3-9-billion-11658408934?mod=hp_lead_pos4
   * Amazon to buy One Medical Network

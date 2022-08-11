@@ -5,6 +5,10 @@ Todo:- Migrate the contents from http://raju.shoutwiki.com/wiki/Journalists_note
 
 http://jsomers.net/ - contains all of his work.
 
+==== good reporting ====
+  * John Carreyrou \\ He reported in 2015 that Theranos is a fraud - https://www.wsj.com/articles/theranos-has-struggled-with-blood-tests-1444881901 . It was mentioned in Matt Levine's https://www.bloomberg.com/view/articles/2018-03-14/theranos-misled-investors-and-consumers-who-used-its-blood-test
+
+  * Noah Cohen at <nowiki>http://connect.nj.com/staff/noahcohen/posts.html</nowiki> \\ positives: articles are succinct, provide full information, no hype, have relevant images. \\ How I came across it: <nowiki>http://www.nj.com/bergen/index.ssf/2016/03/3_treated_for_smoke_inhalation_after_apartment_fir.html</nowiki>
 
 ==== submarine ====
   * Silla Brush writes submarine articles for Blackrock. \\ See for example: <nowiki>https://www.bloomberg.com/news/articles/2022-01-14/blackrock-s-sustainable-investment-funds-surge-to-509-billion?srnd=markets-vp</nowiki> . \\ Ignore articles written by him/her.
@@ -27,3 +31,13 @@ http://jsomers.net/ - contains all of his work.
     * Here is one more example: <nowiki>https://www.bloomberg.com/news/articles/2022-06-30/sec-rejects-grayscale-bid-to-turn-biggest-bitcoin-fund-into-etf</nowiki>. The article is probably a submarine article for Grayscale Investments.
   * Josh Robinson at <nowiki>http://www.bloomberg.com/authors/APYZa-30CgQ/josh-robinson</nowiki> \\ Here is an example <nowiki>http://www.bloomberg.com/news/articles/2015-06-30/economists-say-greece-will-cling-to-euro</nowiki> . The article talks about the results from a survey but fails to mention how the survey is conducted, how the participants were paid (if any), number of people who took the survey etc., I find this type of articles incomplete, misleading and utterly useless.
   * Jonathan D. Rockoff and Michael Rothfeld at <nowiki>http://www.wsj.com/articles/biggest-valeant-holder-plumbed-philidor-ties-1447202547</nowiki> \\ Basically they wrote 1000+ article which can be summed up in one sentence - "Ruane, Cunniff & Goldfarb Inc., manager of Sequoia Fund Inc., and the biggest shareholder of Valeant is inquiring abut Ties between Valeant and Philidor". I find reading this type of articles a waste of time.
+
+==== same article posted on multiple websites ====
+This could be advantageous. For example, if you want to read an article and it is blocked by paywall on one website, you can try another one.
+
+  * Alexis Leondis's is a Bloomberg Opinion columnist. Her article titled "A 3% Mortgage? Leveraging Your Stocks to Buy a Home" was posted in the following places 
+      * <nowiki>https://www.bloomberg.com/opinion/articles/2022-07-01/a-3-mortgage-leveraging-your-stocks-to-buy-a-home</nowiki>
+      * <nowiki>https://www.fa-mag.com/news/a-3--mortgage--leveraging-your-stocks-to-buy-a-home-68572.html</nowiki>
+      * <nowiki>https://www.washingtonpost.com/business/a-3percent-mortgage-leveraging-your-stocks-to-buy-a-home/2022/07/01/b91dee24-f942-11ec-81db-ac07a394a86b_story.html</nowiki>
+      * <nowiki>https://the-news-page.com/a-3-mortgage-leveraging-your-stocks-to-buy-a-home/</nowiki>
+

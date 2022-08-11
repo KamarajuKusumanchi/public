@@ -12,6 +12,7 @@ foo 2
   * bar 4
 </WRAP>
 
+tags | insert tab
 ==== double dashes in monospaced text ====
 Use ''<nowiki>''%%--%%''</nowiki>'' to render ''%%--%%''.
 

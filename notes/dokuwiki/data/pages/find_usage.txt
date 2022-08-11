@@ -1,3 +1,36 @@
+==== list files in chronological order ====
+
+<code>
+<some find command> | xargs ls -ltr --time-style="+%Y%m%d_%H%M"
+</code>
+
+For example, the following command will list all yml files under the current directory in a chronological order
+
+<code>
+find . -iname '*.yml' | xargs ls -ltr --time-style="+%Y%m%d_%H%M"
+</code>
+
+Sample run
+<code>
+$ find . -iname '*.yml' | xargs ls -ltr --time-style="+%Y%m%d_%H%M"
+-rw-r--r-- 1 kkusuman 1049089  527 20191119_1013 ./envs/env_test_textract.yml
+-rw-r--r-- 1 kkusuman 1049089  492 20191126_1044 ./envs/env_py36.yml
+-rw-r--r-- 1 kkusuman 1049089  327 20200416_1807 ./envs/env_test_nbopen.yml
+-rw-r--r-- 1 kkusuman 1049089  365 20200529_1848 ./envs/env_test_cherrypy.yml
+-rw-r--r-- 1 kkusuman 1049089 1212 20210128_1851 ./envs/env_py38.yml
+-rw-r--r-- 1 kkusuman 1049089  342 20210816_1802 ./envs/env_test_pyarrow.yml
+-rw-r--r-- 1 kkusuman 1049089 2486 20211109_0907 ./envs/env_use_flask.yml
+-rw-r--r-- 1 kkusuman 1049089 3130 20211231_1209 ./envs/env_py39.yml
+-rw-r--r-- 1 kkusuman 1049089  645 20220607_0852 ./envs/env_play_ground.yml
+-rw-r--r-- 1 kkusuman 1049089  354 20220607_0852 ./envs/env_test_pandas.yml
+-rw-r--r-- 1 kkusuman 1049089 3153 20220609_1304 ./envs/env_py310.yml
+-rw-r--r-- 1 kkusuman 1049089  698 20220722_1800 ./envs/env_rutils.yml
+</code>
+
+Ref:- https://stackoverflow.com/questions/11392526/how-to-sort-the-output-of-grep-l-chronologically-by-newest-modification-date/53438441
+
+tags | find and sort, chronological
+
 ==== find number of words in all files under a directory ====
 <code>
 find . -type f -exec wc -w {} + | tail -n1

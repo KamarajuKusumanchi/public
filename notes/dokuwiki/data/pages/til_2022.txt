@@ -1,3 +1,10 @@
+
+==== 2022-08-05 ====
+  * nslookup can be run in an 'interactive mode'. I was more used to running it in the 'non-interactive mode.' More details in its man page - https://linux.die.net/man/1/nslookup .
+
+==== 2022-08-03 ====
+  * Notepad++ has three built-in “multiple file management” systems - Sessions, Folder as Workspace, Project Panels. More details in https://npp-user-manual.org/docs/session/ .
+
 ==== 2022-07-11 ====
   * Texas is nicknamed the "Lone Star State" for its former status as an independent republic, and as a reminder of the state's struggle for independence from Mexico. The "Lone Star" can be found on the Texas state flag and on the Texas state seal. \\ Ref:- https://en.wikipedia.org/wiki/Texas
 

@@ -130,7 +130,7 @@
   * [[air india notes]]
   * [[telugu diet]]
   * [[xkcd notes]]
-  * [[news sources]]
+  * [[news_websites]]
   * [[mtps notes]]
   * [[subaru notes]]
   * [[shoutwiki notes]]
@@ -160,6 +160,7 @@
   * [[air travel notes]]
   * [[world maps]]
   * [[kde notes]]
+  * [[lottery notes]]
 
 ==== by date ====
   * [[reading journal 2022]]

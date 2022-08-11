@@ -1,3 +1,15 @@
+==== Install okular on Windows ====
+Requirements:
+  * Admin privileges are not required
+
+Steps:
+  * https://okular.kde.org/download/ -> Download -> Windows -> Click the link "release nightly build"
+  * This will take you to https://binary-factory.kde.org/job/Okular_Release_win64/
+  * Download the .exe file (ex:- https://binary-factory.kde.org/job/Okular_Nightly_win64/lastSuccessfulBuild/artifact/okular-master-1209-windows-msvc2019_64-cl.exe -> https://build-artifacts.kde.org/binary-factory/Okular_Nightly_win64/lastSuccessfulBuild/okular-master-1209-windows-msvc2019_64-cl.exe -> okular-master-1209-windows-msvc2019_64-cl.exe )
+  * Double click on the exe file; Select the default values.
+
+Okular will be installed in C:\Users\<USERNAME>\AppData\Local\Okular\bin\okular.exe
+
 ==== Annotations ====
 tags | Draw a rectangle, highlight an area
 <code>

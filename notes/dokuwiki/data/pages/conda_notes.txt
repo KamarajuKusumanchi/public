@@ -135,6 +135,13 @@ conda clean --packages --dry-run
 $ conda info | grep "user config file"
        user config file : C:\Users\raju\.condarc
 </code>
+
+==== documentation links ====
+  * conda install - https://docs.conda.io/projects/conda/en/latest/commands/install.html
+  * conda update - https://docs.conda.io/projects/conda/en/latest/commands/update.html
+  * conda config - https://docs.conda.io/projects/conda/en/latest/commands/config.html
+  * pinning packages - https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-pkgs.html#preventing-packages-from-updating-pinning
+
 ===== activate conda environment =====
 tags | activate conda environment through shell script
 ==== source activate vs. conda activate ====
@@ -189,12 +196,6 @@ conda create -n <myenv> python ipython prompt_toolkit=2 jupyter pandas numpy sci
 
 conda create -n <myenv> python=3.9 pandas pandas-datareader
 </code>
-
-==== documentation links ====
-  * conda install - https://docs.conda.io/projects/conda/en/latest/commands/install.html
-  * conda update - https://docs.conda.io/projects/conda/en/latest/commands/update.html
-  * conda config - https://docs.conda.io/projects/conda/en/latest/commands/config.html
-  * pinning packages - https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-pkgs.html#preventing-packages-from-updating-pinning
 
 ==== commands I came across ====
 <code>

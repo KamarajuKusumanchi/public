@@ -1,5 +1,7 @@
 ==== useful links ====
   * https://www.stlouisfed.org/open-vault/2019/may/how-read-fomc-statement - talks about how to read an FOMC statement. Good information density.
+  * https://www.federalreserve.gov/monetarypolicy/bst_recenttrends.htm - shows the history of fed's assets.
+  * [[https://money.howstuffworks.com/fed.htm | How the Fed Works]] (howstuffworks.com) - reads well; high information density.
 
 ==== To be verified ====
 1) In https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm , I see "FOMC Statement" and "FOMC Minutes". What is the difference between the two?
