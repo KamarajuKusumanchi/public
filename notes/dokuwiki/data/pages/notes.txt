@@ -161,6 +161,12 @@
   * [[world maps]]
   * [[kde notes]]
   * [[lottery notes]]
+  * [[indexes notes]]
+  * [[restaurants notes]]
+  * [[Mahabharata]]
+  * [[airports]]
+  * [[jupyter notes]]
+  * [[jupytext notes]]
 
 ==== by date ====
   * [[reading journal 2022]]

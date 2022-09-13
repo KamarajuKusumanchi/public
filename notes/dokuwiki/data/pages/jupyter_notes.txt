@@ -1,0 +1,39 @@
+===== dummy =====
+==== Jupyter Notebook vs. Jupyterlab ====
+^ ^ Jupyter Notebook ^ Jupyterlab ^
+| | old | new |
+| to launch | jupyter notebook | jupyter-lab |
+| to install | pip install notebook | pip install jupyterlab |
+Ref:
+  * https://stackoverflow.com/questions/50982686/what-is-the-difference-between-jupyter-notebook-and-jupyterlab - answers "What is the difference between Jupyter Notebook and JupyterLab?"
+  * https://jupyter.org/install - contains the launch and install commands
+
+==== which package gives jupyter ====
+<code>jupyter_core</code>
+
+Justification:
+<code>
+ % which jupyter      
+/home/rajulocal/miniconda3/envs/py310/bin/jupyter
+</code>
+
+<code>
+ % cat `which jupyter`               
+#!/home/rajulocal/miniconda3/envs/py310/bin/python
+
+...
+from jupyter_core.command import main
+
+if __name__ == '__main__':
+    ....
+    sys.exit(main())
+</code>
+
+Tested on a machine running Debian 11 (bullseye).
+
+==== useful links ====
+  * https://docs.jupyter.org/en/latest/ - Jupyter project documentation
+  * https://github.com/jupyterlab/jupyterlab - source code of JupyterLab computational environment.
+
+==== related pages in this wiki ====
+  * [[Jupytext notes]]

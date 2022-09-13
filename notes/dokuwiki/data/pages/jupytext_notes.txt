@@ -1,0 +1,6 @@
+==== useful links ====
+  * https://www.youtube.com/watch?v=SDYdeVfMh48 - Marc Wouts, the author of Jupytext, gives a short introduction on Jupytext. Suitable for people who are new to Jupytext.
+  * https://github.com/mwouts/jupytext - source code of Jupytext
+
+==== related links ====
+  * https://marc-wouts.medium.com/ - Blog(?) of Marc Wouts, the author of Jupytext.
