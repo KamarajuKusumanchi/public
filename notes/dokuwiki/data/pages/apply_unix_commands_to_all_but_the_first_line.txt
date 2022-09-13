@@ -1,0 +1,155 @@
+===== Apply unix commands to all but the first line =====
+==== Situation ====
+Let's say we want to sort a series of numbers in ascending order but keep the header at the top. For example, given
+<code>
+% echo -e "value\n8\n2\n6\n3"
+value
+8
+2
+6
+3
+</code>
+we want to output
+<code>
+value
+2
+3
+6
+8
+</code>
+
+We can't directly use 'sort' since it will sort the header as well.
+<code>
+% echo -e "value\n8\n2\n6\n3" | sort
+2
+3
+6
+8
+value
+</code>
+
+==== Bare bones solution ====
+Create a script called 'body' with the following contents
+<code>
+#!/usr/bin/env bash
+#
+# body: apply expression to all but the first line.
+# Use multiple times in case the header spans more than one line.
+#
+# Example usage:
+# $ echo -e "value\n8\n2\n6\n3" | body sort
+#
+IFS= read -r header
+printf '%s\n' "$header"
+"$@"
+</code>
+
+Make it executable
+<code>
+% chmod +x body
+</code>
+
+place it somewhere in your PATH (say ~/bin)
+<code>
+% mv body ~/bin
+</code>
+
+This script will apply any unix command to all but the first line. For example, using it on our example
+
+<code>
+% echo -e "value\n8\n2\n6\n3" | body sort
+value
+2
+3
+6
+8
+</code>
+
+==== Practical solution ====
+I got the above script from https://github.com/jeroenjanssens/dsutils/blob/master/body . The underlying repository (https://github.com/jeroenjanssens/dsutils) contains many such useful scripts (ex:- header - to add, replace, and delete header lines).
+
+A more practical approach is to clone that entire repository and add it to the shell's PATH.
+
+I did it as follows.
+
+Remove the bare bones script added in the previous step
+<code>
+% rm ~/bin/body
+</code>
+
+Clone the repository
+<code>
+% mkdir -p ~/github/jeroenjanssens
+% cd ~/github/jeroenjanssens
+
+% git clone git@github.com:jeroenjanssens/dsutils.git
+Cloning into 'dsutils'...
+remote: Enumerating objects: 62, done.
+remote: Counting objects: 100% (62/62), done.
+remote: Compressing objects: 100% (52/52), done.
+remote: Total 62 (delta 20), reused 48 (delta 10), pack-reused 0
+Receiving objects: 100% (62/62), 18.59 KiB | 9.29 MiB/s, done.
+Resolving deltas: 100% (20/20), done.
+</code>
+
+Update the PATH in ~/.bashrc by adding the following lines
+<code>
+#------------------------------------------------------------------------------
+# Add data science utils such as body, header
+export PATH=~/github/jeroenjanssens/dsutils:$PATH
+#------------------------------------------------------------------------------
+</code>
+
+Open a new bash session and verify that the scripts are picked up from the correct location.
+<code>
+% which body
+/home/rajulocal/github/jeroenjanssens/dsutils/body
+
+% which header
+/home/rajulocal/github/jeroenjanssens/dsutils/header
+</code>
+
+Verify that the scripts are working as expected.
+<code>
+% echo -e "value\n8\n2\n6\n3" | body sort
+value
+2
+3
+6
+8
+</code>
+
+==== Works with any command ====
+The beauty of this approach is that you can use it with any unix command (and not just sort). For example, you can grep a value and it will show the header along with the value.
+<code>
+% echo -e "value\n8\n2\n6\n3" | body grep 8
+value
+8
+</code>
+
+==== How I came across it ====
+The 'body' and 'header' commands are discussed in the book "Data Science at the Command Line" (2nd Edition) by Jeroen Janssens (https://smile.amazon.com/Data-Science-Command-Line-Explore/dp/1492087912). It is available for free at https://datascienceatthecommandline.com/2e/ . See for example https://datascienceatthecommandline.com/2e/chapter-5-scrubbing-data.html#bodies-and-headers-and-columns-oh-my .
+
+==== Close but no cigar ====
+Here I will try to list some alternative approaches that are close but not perfect.
+
+Solution 1:
+<code>
+$ cat input.txt
+value
+8
+2
+6
+3
+
+$ (head -n 1 input.txt; tail -n +2 input.txt | sort)
+value
+2
+3
+6
+8
+</code>
+
+Disadvantages:
+  * Requires two passes on the input (once to extract the header and another to process the body)
+  * Does not work if the input is coming from stdin

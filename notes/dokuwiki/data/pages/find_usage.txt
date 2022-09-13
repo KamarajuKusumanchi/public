@@ -29,7 +29,7 @@ $ find . -iname '*.yml' | xargs ls -ltr --time-style="+%Y%m%d_%H%M"
 
 Ref:- https://stackoverflow.com/questions/11392526/how-to-sort-the-output-of-grep-l-chronologically-by-newest-modification-date/53438441
 
-tags | find and sort, chronological
+tags | find and sort, chronological, sort find results chronologically
 
 ==== find number of words in all files under a directory ====
 <code>

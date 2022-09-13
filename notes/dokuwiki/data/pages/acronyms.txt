@@ -10,3 +10,6 @@
     * Established by HHS
     * to improve coordination among CDC, NIH, FDA, BARDA, DoD
     * Ref:- https://www.cdc.gov/coronavirus/2019-ncov/variants/variant-info.html -> "Variant classifications"
+
+==== Status related ====
+  * AFK - away from keyboard

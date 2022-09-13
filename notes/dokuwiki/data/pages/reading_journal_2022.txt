@@ -1,7 +1,22 @@
-===== 2022-05 =====
+===== 2022-09 =====
+==== 2022-09-11 ====
+Notes from https://www.nbcnews.com/health/health-news/artificial-sweeteners-health-risks-heart-disease-blood-sugar-rcna46717
+  * aspartame - found in the tabletop sweeteners Equal and NutraSweet as well as cereals, yogurt, candy and diet soda.
+  * sucralose - found in Splenda as well as baked goods, ice cream, canned fruit, flavored yogurt and syrups
+  * acesulfame potassium - often used in "sugar-free" soda
+
+  * agave - has a very high fructose content
+  * tabletop sweeteners like Equal, Splenda, Sweet ‘N Low and Truvia
+  * aspartame has kind of gotten out of favor, so people aren’t consuming it as much.
+  * the body's ability to properly metabolize glucose can be a risk factor for diabetes and cardiovascular health issues
+  * artificial sweeteners — aspartame, saccharin, stevia and sucralose
+  * saccharin - found in Sweet ‘N Low
+
+===== 2022-06 =====
 ==== 2022-06-10 ====
   * https://www.payflex.com/en/footer/news-events/Millennium-Trust-Company-Completes-Acquisition-of-PayFlex.html - Millennium Trust Company has completed its acquisition of PayFlex
 
+===== 2022-05 =====
 ==== 2022-05-31 ====
   * https://www.hyrumslaw.com/ <code>
 With a sufficient number of users of an API,

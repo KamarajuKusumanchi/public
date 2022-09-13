@@ -1,0 +1,37 @@
+===== Impact of enabling SSL on google page indexing =====
+==== Summary ====
+On 2022-08-16, I enabled SSL on this website. This resulted in google indexing more pages.
+
+Below is a chart and data from google search console.
+
+{{:impact_of_enabling_ssl_on_20220816.png?direct|}}
+
+<code>
+% cat Chart.csv | csvsql -I --query 'select * from stdin where Date >= "2022-08-13"'
+Date,Affected pages
+2022-08-13,37
+2022-08-14,37
+2022-08-15,37
+2022-08-16,59
+2022-08-17,59
+2022-08-18,59
+2022-08-19,59
+2022-08-20,76
+2022-08-21,76
+2022-08-22,76
+2022-08-23,191
+2022-08-24,191
+2022-08-25,191
+2022-08-26,191
+2022-08-27,191
+2022-08-28,191
+2022-08-29,191
+</code>
+
+==== Additional notes ====
+  * https://search.google.com/search-console - Google search console URL
+  * The SSL certificate is from letsencrypt.
+  * From an end user point of view, adding an SSL certificate just means that the site has migrated from http to https (<nowiki>http://kamaraju.xyz/dk</nowiki> -> <nowiki>https://kamaraju.xyz/dk</nowiki> etc.,)
+
+==== tags ====
+http vs https

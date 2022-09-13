@@ -1,3 +1,4 @@
+===== dummy =====
 ==== links I came across ====
   * [[https://docs.github.com/en/get-started/signing-up-for-github/verifying-your-email-address | Verifying your email address]] (docs.github.com)
   * [[https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token | Creating a personal access token]] (docs.github.com)
@@ -10,3 +11,51 @@
 ==== code search ====
   * https://grep.app/
     * sample query: https://grep.app/search?q=binary%20gap%20&filter[lang][0]=Python
+
+===== searching code =====
+==== search in a particular file ====
+Use
+<code>
+filename:.travis.yml
+</code>
+for example
+<code>
+python unittest filename:.travis.yml
+</code>
+
+==== exclude a repository from search results ====
+Add
+<code>
+-repo:user_name/repo_name
+</code>
+to the search string.
+
+Ref:
+  * https://docs.github.com/en/search-github/getting-started-with-searching-on-github/understanding-the-search-syntax#exclude-certain-results - documents the '-' operator.
+===== search issues =====
+==== search issues filed by a user ====
+For your own issues
+<code>
+https://github.com/issues
+</code>
+
+For other users, there are two possible approaches.
+
+Solution 1:
+<code>
+https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3Ausername+archived%3Afalse+
+</code>
+
+For example
+<code>
+https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3AKamarajuKusumanchi+archived%3Afalse+
+</code>
+
+Solution 2:
+<code>
+is:issue is:open author:$author
+</code>
+for example
+<code>
+is:issue is:open author:kamarajukusumanchi
+</code>

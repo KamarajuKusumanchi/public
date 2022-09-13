@@ -1,3 +1,140 @@
+==== 2022-09-12 ====
+Notes from https://www.wsj.com/articles/new-starbucks-ceo-to-learn-role-alongside-howard-schultz-11662975000?mod=hp_lead_pos11
+  * Laxman Narasimhan
+    * Starbucks next chief executive
+    * He will join Starbucks in October 2022 as "incoming CEO"
+    * 55 years old
+    * current CEO of U.K.-based consumer-products company Reckitt Benckiser Group PLC (RBGLY)
+    * Will take the reins from Mr. Schultz in April 2023
+    * likes to drink a doppio espresso macchiato with milk on the side
+    * will take 30 hours of barista training and earn the company's green apron
+    * will become Starbucks’s fifth chief executive in its 35-year history, and the first one to come from outside the company
+    * Target Corp. Chief Executive Brian Cornell worked with him at PepsiCo Inc.
+    * Went to the Wharton School of the University of Pennsylvania
+    * was a McKinsey & Co. manager, ran PepsiCo’s Latin America, Europe and sub-Saharan Africa operations before becoming CEO at Lysol maker Reckitt
+  * Howard Schultz
+    * Starbucks interim CEO since April 2022
+    * bought a six-location coffee chain in 1987 
+    * 69-year-old
+    * wrote three books about lessons from his time at Starbucks
+    * Starbucks' fifth-largest shareholder
+    * left the CEO role twice before and held a seat on the board until 2018, when he explored a presidential run
+  * Mellody Hobson
+    * Starbucks chairwoman
+  * Messrs. Narasimhan and Schultz
+    * travel across Starbucks’s markets, visiting stores and roasting plants
+  * Previous CEOs of Starbucks - Jim Donald, Kevin Johnson
+  * Starbucks
+    * YTD share price return = -3% vs. YTD S&P 500 = -11%
+  * Bill George, an executive fellow at Harvard Business School and former CEO of Medtronic PLC
+
+
+==== 2022-09-06 ====
+Notes from https://www.wsj.com/livecoverage/stock-market-news-today-09-06-2022/card/credit-suisse-sheds-trust-businesses-TnBntzIPue2BIB4E6J5C
+  * N.T. Butterfield & Son will acquire Credit Suisse's trust businesses in Guernsey, Singapore and the Bahamas.
+  * Vaduz, Liechtenstein-based Gasser Partner Trust will take over Credit Suisse's trust business in Liechtenstein.
+  * Trusts are complex structures often held in offshore financial centers. Investors and companies use them for estate planning and to manage assets across borders.
+  * N.T. Butterfield acquired HSBC's Bermuda-based trust unit in 2016 and Deutsche Bank's global trust-solutions business in 2018.
+  * Credit Suisse, a 166-year-old Zurich-based lender.
+  * Sometime back Credit Suisse acquired First Boston Corp. and Donaldson, Lufkin & Jenrette.
+
+==== 2022-08-31 ====
+Notes from https://www.wsj.com/articles/jackson-mississippi-water-crisis-drags-into-third-day-11661953108?mod=hp_lead_pos10
+  * Jackson, Miss.
+    * The main water-treatment plant should normally handle around 50 million gallons of water a day.
+    * It pumped around 30 million gallons on Tuesday 2022-08-30.
+    * predominantly Black city
+    * longstanding tensions between the city’s Democratic-led government and the state’s mostly Republican leaders
+
+Notes from https://www.eatingwell.com/article/7985928/is-sun-cooked-tomato-sauce-safe/
+  * A solar oven or solar cooker
+    * can be used to cook using the sun's rays.
+    * may be available at your local camping supply store.
+    * they are typically made with aluminum or silver
+    * the reflective panels of the cooker are curved so the sunshine hits the top and is reflected downward onto the food
+  * sun-dried tomatoes, dried mushrooms, jerkies, rice paper, white pepper, vanilla pods and black tea
+
+Notes from https://neurosciencenews.com/bladness-protein-21115/
+  * apoptosis, the process of cell death
+  * follicles are a source of stem cells
+  * Most cells in the human body have a specific form and function determined during embryonic development that does not change. For example, a blood cell cannot turn into a nerve cell, or vice versa. Stem cells, however, are like the blank tiles in a game of Scrabble; they can turn into other types of cells. Their adaptability makes them useful for repairing damaged tissue or organs.
+  * The liver and stomach regenerate themselves in response to wounds.
+  * Hair follicles are the only organ in humans that regenerates automatically and periodically, even without injury
+  * a type of protein, TGF-beta
+  * If the cell produces a certain quantity of TGF-beta, it activates cell division. Too much of it causes apoptosis.
+  * Hair follicles (HFs) 
+  * Transforming growth factor beta (TGF-ββ)
+  * probabilistic Boolean network (pBN) model
+  * bone morphogenetic protein (BMP)
+  * tumor necrosis factor (TNF)
+
+Notes from https://www.wsj.com/livecoverage/stock-market-news-today-08-31-2022/card/date-set-for-swaps-auction-on-russia-default-protection-contracts-JF1POSrJdyXW17qEMzP3
+  * Russia's default triggered $2.2 billion notional of CDS
+
+==== 2022-08-29 ====
+  * https://www.federalreserve.gov/newsevents/speech/powell20220826a.htm - Powell's speech at Jackson Hole, Wyoming
+
+==== 2022-08-17 ====
+Notes from https://www.wsj.com/livecoverage/stock-market-news-today-08-17-2022/card/crypto-lender-genesis-cleans-house-after-hedge-fund-loan-went-bad-teiYpEjTIsLQLAFqbBxh
+  * Genesis gave a $2.4 billion loan to the hedge fund Three Arrows Capital.
+  * Since Three Arrows went bankrupt, they liquidated its collateral.
+  * Now Genesis is on the hook for $1.2 billion.
+  * Genesis' parent company is Digital Currency Group (DCG).
+
+Notes from https://www.federalreserve.gov/monetarypolicy/fomcminutes20220727.htm
+  * advanced foreign economies (AFEs)
+  * the exchange value of the dollar appreciated further, surpassing its March 2020 peak against advanced-economy currencies
+  * Desk operations
+  * The overnight reverse repurchase agreement (ON RRP) facility
+  * money market mutual funds (MMMFs)
+  * System Open Market Account (SOMA) redemptions
+  * SOMA net income would likely turn negative in coming months
+  * GDP had declined over the first half of the year
+  * Real goods, consumer goods, capital goods
+  * Total PCE price inflation was 6.3 percent over the 12 months ending in May
+    * Core PCE price inflation was 4.7 percent over the same period
+  * the 12‑month change in the consumer price index (CPI) was 9.1 percent
+    * while core CPI inflation was 5.9 percent over the same period
+  * forward-looking indicators of manufacturing activity weakened broadly
+  * Chinese economy is rebounding as the lockdowns were eased
+  * Over the intermeeting period
+    * nominal and real Treasury yields declined significantly
+    * Sovereign yields in AFEs declined
+    * Broad equity price indexes were higher, amid heightened volatility
+    * credit spreads widened
+    * the exchange value of the dollar continued to appreciate
+    * One-month option-implied volatility on the S&P 500 index—the VIX—decreased
+    * Yields on corporate bonds declined across the credit spectrum
+    * Spreads on municipal bonds widened slightly
+  * C&I loans
+  * Volumes of home-purchase mortgage originations declined in May
+  * mortgage refinance volumes continued to fall
+
+==== 2022-08-16 ====
+Notes from https://www.wsj.com/articles/u-s-approves-nearly-all-tech-exports-to-china-data-shows-11660596886?cx_testId=3&cx_testVariant=cx_2&cx_artPos=0&mod=WTRN#cxrecs_s
+  * Steve Coonen, the Pentagon’s former top China export-controls analyst
+  * <WRAP>
+^ year ^ Chinese imports of semiconductor \\ manufacturing equipment from the U.S. \\ in $ billions^
+| 2017 | 2.60 |
+| 2018 | 4.04 |
+| 2019 | 4.14 |
+| 2020 | 5.34 |
+| 2021 | 6.94 |
+</WRAP>
+
+==== 2022-08-15 ====
+Notes from https://www.bloomberg.com/news/articles/2022-08-14/wells-fargo-to-cut-back-mortgage-business-after-scandals-take-toll?srnd=premium
+  * <WRAP>
+^ Company ^ Origination in 2021 ^ Third-party \\ servicing ^ Home loans on \\ balance sheet ^
+| Wells Fargo  | \$205B | \$697B | \$222B|
+| JP Morgan | \$163B | \$576B | \$177B |
+</WRAP>
+  * correspondent mortgage lending
+
+Notes from https://www.wsj.com/livecoverage/stock-market-news-today-08-15-2022
+  * Michael Burry's firm, Scion Asset Management LLC
+  * private-prison operator GEO Group
+
 ==== 2022-08-11 ====
 Notes from https://www.stlouisfed.org/open-vault/2022/may/how-will-fed-reduce-balance-sheet
   * The Fed is imposing redemption caps on the dollar amount of securities that will run off the its portfolio in any given month.

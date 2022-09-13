@@ -1,0 +1,8 @@
+==== 13F ====
+  * The SEC requires all institutional investors that manage more than $100 million to file the form 13F within 45 days of the end of each quarter. [1]
+  * It lays out firms’ equity holdings as of the end of the most recent quarter, as well as the size and market value of their positions. [2]
+
+
+Ref:-
+  * [1] - https://www.wsj.com/articles/warren-buffett-spends-big-as-stock-market-sells-off-11652589031?mod=hp_lead_pos6
+  * [2] - https://www.wsj.com/articles/warren-buffetts-berkshire-hathaway-keeps-spending-spigot-on-through-volatile-markets-11660577978

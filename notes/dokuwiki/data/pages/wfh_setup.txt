@@ -1,8 +1,97 @@
 ==== WFH setup ====
 ^ item ^ details ^ review ^ recommendation ^
-| Mouse | Logitech precision pro from [[https://www.costco.com/logitech-precision-pro-wireless-mouse.product.100527136.html | Costco]]. \\ \$30 \\ Purchased: 2020-10-12 | Very good.\\ Smooth scrolling.\\ Better than [[https://smile.amazon.com/gp/product/B005EJH6Z4 | AmazonBasics]] mouse. | Yes |
-| Earbuds | Jabra Elite Active 75T True Wireless Earbuds \\ from [[https://www.costco.com/jabra-elite-active-75t-noise-cancelling-earbuds-with-wireless-charging-case.product.100655110.html | Costco]]. \\ \$213 (= \$200 + tax) \\ Purchased: 2020-07-08 | Wireless Charging Case \\ noise cancellation | Yes |
-| USB Flash drive | SanDisk 256 GB, 130 MB/s, Ultra USB 3.0 Flash Drive \\ from [[https://www.walmart.com/ip/SanDisk-256GB-Ultra-USB-3-0-Flash-Drive-130MB-s-SDCZ48-256G-AW46/259605765 | Walmart]] \\ SDCZ48-256G-AW46 \\ \$35 (= \$33 + tax) \\ Purchased: 2021-05-30 |
+| Monitor | <WRAP outdent>
+  * 23", 1920 x 1080
+  * Samsung PX 2370
+</WRAP> | | Yes, but better ones available |
+| Keyboard | <WRAP outdent>
+  * Das Keyboard 4 Professional Cherry MX Brown Mechanical Keyboard - Soft Tactile
+  * Purchased: 2014-11
+</WRAP> | <WRAP outdent>
+  * less stress on fingers
+  * can type really fast
+  * noisy
+</WRAP> | Yes |
+| Mouse | <WRAP outdent>
+  * Logitech precision pro from [[https://www.costco.com/logitech-precision-pro-wireless-mouse.product.100527136.html | Costco]]
+  * \$30
+  * Purchased: 2020-10-12
+</WRAP> | <WRAP outdent>
+  * Very good.
+  * Smooth scrolling
+  * Better than [[https://smile.amazon.com/gp/product/B005EJH6Z4 | AmazonBasics]] mouse.
+</WRAP> | Yes |
+| Earbuds | <WRAP outdent>
+  * Jabra Elite Active 75T True Wireless Earbuds from [[https://www.costco.com/jabra-elite-active-75t-noise-cancelling-earbuds-with-wireless-charging-case.product.100655110.html | Costco]]
+  * \$213 (= \$200 + tax)
+  * Purchased: 2020-07-08
+</WRAP> | <WRAP outdent>
+  * good sound quality
+  * stays firm in ears
+  * noise cancellation is good
+  * hands free
+  * wireless charging case
+</WRAP> | Yes |
+| Wireless Adapter | <WRAP outdent>
+  * Panda Ultra 150Mbps Wireless N USB Adapter
+  * Purchased: 2015-07
+</WRAP> | <WRAP outdent>
+  * Works well with Debian Linux
+  * Not enough speed by current standards
+</WRAP> | Yes, but better ones available |
+| ISP | <WRAP outdent>
+  * Optimum
+  * Speed: 200 Mbps / 35 Mbps
+</WRAP> | <WRAP outdent>
+  * It is reliable for me
+  * but not for others in my community
+  * Customer service is not good
+  * Keeps jacking up the monthly price
+</WRAP> | <WRAP outdent>
+  * Avoid if possible
+</WRAP> |
+| Primary router | <WRAP outdent>
+  * Linksys WRT54G
+  * Purchased: 2005-12
+</WRAP> | <WRAP outdent>
+  * Opensource firmware
+  * Old by current standards
+</WRAP> | Yes, but better ones available |
+| Secondary Router | <WRAP outdent>
+  * Two Google Wifi routers
+  * Purchased: 2019-09
+</WRAP> | <WRAP outdent>
+  * Awesome performance
+  * Two were enough for 2*800 levels x sq ft home
+</WRAP> | Yes |
+| Desk | <WRAP outdent>
+  * Tresanti adjustable height desk from Costco
+</WRAP> | <WRAP outdent>
+  * works both as normal and standing desk
+  * USB ports
+</WRAP> | Yes |
+| Chair | <WRAP outdent>
+  * True Innovations task chair from [[https://www.costco.com/task-chair.product.100672384.html | Costco]]
+  * Purchased: 2020-08
+  * \$70
+</WRAP> | <WRAP outdent>
+  * Comes with wheels for carpeted floors by default.
+  * Had to change to hard wood safe wheels.
+</WRAP> | Yes |
+| USB Flash drive | <WRAP outdent>
+  * SanDisk 256 GB, 130 MB/s, Ultra USB 3.0 Flash Drive from [[https://www.walmart.com/ip/SanDisk-256GB-Ultra-USB-3-0-Flash-Drive-130MB-s-SDCZ48-256G-AW46/259605765 | Walmart]]
+  * SDCZ48-256G-AW46
+  * \$35 (= \$33 + tax)
+  * Purchased: 2021-05-30
+</WRAP> | | Yes |
+| UPS | <WRAP outdent>
+  * CyberPower 1350 VA / 810 Watts from Costco
+  * Purchased: 2020-08
+  * \$100
+</WRAP> | | |
+|  | <WRAP outdent>
+</WRAP> | <WRAP outdent>
+</WRAP> | |
 
 ==== Things I tried but did not like ====
 ^ item ^ details ^ review ^ recommendation ^

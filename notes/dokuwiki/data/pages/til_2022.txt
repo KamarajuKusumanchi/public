@@ -1,4 +1,15 @@
 
+==== 2022-09-11 ====
+There are three categories of dictionaries
+  * "full-size" dictionaries (which extensively cover the language, and are targeted to native speakers)
+  * "collegiate" (which are smaller, and often contain other biographical or geographical information useful to college students)
+  * "learner's" (which are even smaller, targeted to English language learners, and which all use the International Phonetic Alphabet to indicate pronunciation)
+
+Ref:- https://en.wikipedia.org/wiki/Comparison_of_English_dictionaries
+
+==== 2022-08-29 ====
+  * To compare two files or directories in pycharm, select the two files and press Control+d
+
 ==== 2022-08-05 ====
   * nslookup can be run in an 'interactive mode'. I was more used to running it in the 'non-interactive mode.' More details in its man page - https://linux.die.net/man/1/nslookup .
 

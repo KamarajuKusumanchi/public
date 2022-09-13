@@ -1,0 +1,10 @@
+Policy:
+  * Week starts from Monday onwards
+
+==== Week of Mon Aug 15th 2022 ====
+  * Monday: Berkshire 13F after market close
+Upcoming earnings announcements
+  * Tuesday: Walmart, Home Depot
+  * Wednesday: Target, Lowe’s
+  * Thursday: Bath & Body Works, Applied Materials
+  * Friday: Deere & Co

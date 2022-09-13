@@ -1,3 +1,9 @@
+==== compress existing photos & videos ====
+https://photos.google.com/quotamanagement -> Recover storage -> Convert existing photos & videos to Storage saver
+-> Learn more
+-> I understand that compressing my existing photos & videos cannot be undone -> check
+-> Compress existing photos & videos
+
 ==== urls I came across ====
   * https://myaccount.google.com/recovery/email - verify the recovery email address
   * https://search.google.com/test/mobile-friendly - check if page is mobile friendly

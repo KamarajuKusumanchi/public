@@ -1,4 +1,13 @@
 ==== dummy ====
+  * Q: What did the fish say when he hit the wall
+    * Dam
+
+  * Q: What has to be broken before you use it?
+    * A: An egg
+
+  * Q: A girl fell off a 20-foot ladder. She wasn't hurt. How?
+    * A: She fell off the bottom step.
+
   * Q: Why does Python live on land?
     * A: Because it is above C level.
 

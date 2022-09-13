@@ -10,6 +10,10 @@
   * https://www.statnews.com/
   * https://www.eenews.net/
 
+==== food websites ====
+  * https://www.eatingwell.com/ - avoid. See for example
+    * https://www.eatingwell.com/article/7985928/is-sun-cooked-tomato-sauce-safe/ - very wordy, lot of links, low information density.
+
 ==== dummy ====
   * https://www.retaildive.com/ seems ok. See for example https://www.retaildive.com/news/bed-bath-beyond-ceo-out-sales-fall-q1/626302/
   * https://www.modernretail.co/ seems good. See for example https://www.modernretail.co/retailers/bed-bath-beyond-ceo-exits-as-sales-decline-25/

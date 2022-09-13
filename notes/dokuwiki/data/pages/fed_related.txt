@@ -1,4 +1,6 @@
 ==== useful links ====
+  * https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm - contains links to the FOMC minutes.
+    * Example: https://www.federalreserve.gov/monetarypolicy/fomcminutes20220727.htm shows the minutes of July 26-27th, 2022 FOMC meeting. The minutes were released on Wed August 17th, 2022 at 2 PM.
   * https://www.stlouisfed.org/open-vault/2019/may/how-read-fomc-statement - talks about how to read an FOMC statement. Good information density.
   * https://www.federalreserve.gov/monetarypolicy/bst_recenttrends.htm - shows the history of fed's assets.
   * [[https://money.howstuffworks.com/fed.htm | How the Fed Works]] (howstuffworks.com) - reads well; high information density.
