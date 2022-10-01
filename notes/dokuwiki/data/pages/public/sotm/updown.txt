@@ -28,3 +28,21 @@ bps = day-over-day relative change of closing prices in bps. That is (P2/P1 * 10
 asof | 2022-05-05 12:04 pm
   * S&P 500 dropped 4.1%
   * 10-year Treasury yield rose from 2.914% to 3.084%.
+
+==== 2022-09-13 ====
+On 2022-09-13
+  * S&P 500 dropped from 4,110.41 (closing price on 2022-09-12) to 3,932.69 (closing price on 2022-09-13)
+  * S&P 500 return = -4.32% (= round(((3932.69 / 4110.41) - 1)*100, 2)
+  * 10-year U.S. Treasury yield went up from 3.297% to 3.422%
+  * CPI annual return
+    * 2022-08, 8.3%
+    * 2022-07, 8.5%
+    * 2022-06, 9.1%
+  * core CPI annual return
+    * 2022-08, 6.3%
+    * 2022-07, 5.9%
+    * 2022-06, 5.9%
+
+Ref:-
+  * https://finance.yahoo.com/quote/%5EGSPC/history/
+  * https://www.wsj.com/articles/us-inflation-august-2022-consumer-price-index-11663017630

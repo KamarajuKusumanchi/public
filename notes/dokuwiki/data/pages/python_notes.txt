@@ -95,6 +95,18 @@ False
 </code>
 Using Python 3.9.5
 
+==== write an extra line to file ====
+
+<code>
+with open('filename.txt', 'w') as fh:
+  fh.write('\n')
+</code>
+
+Do not use os.linesep as a line terminator when writing files opened in text mode (the default); use a single '\n' instead, on all platforms.
+
+Ref:- https://docs.python.org/3/library/os.html#os.linesep
+
+See also:- https://stackoverflow.com/questions/4025760/python-file-write-creating-extra-carriage-return
 ===== Snippets =====
 ==== check for minimum python version ====
 <code>

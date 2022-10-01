@@ -1,4 +1,7 @@
 ===== 2022 =====
+==== 2022-09-30 ====
+  * [[https://www.bloomberg.com/opinion/articles/2022-09-29/uk-pensions-got-margin-calls | UK Pensions Got Margin Calls]](bloomberg.com) - Another gem of an article by Matt Levine. He explains how pension funds are generally underfunded (from an accounting point of view) and how UK pension fund managers tried to fix it by levering up.
+
 ==== 2022-09-05 ====
   * https://storylineonline.net/ - kids books read by celebrities. Everything is free. Very good.
 

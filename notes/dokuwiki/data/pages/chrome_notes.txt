@@ -1,3 +1,22 @@
+===== favorite configuration on desktop =====
+==== restore previous session ====
+
+  chrome://settings/onStartup -> check "Continue where you left off"
+
+or
+
+  Settings -> On startup -> check "Continue where you left off"
+
+or
+
+  Settings -> On startup -> Manage on startup pages -> Pages to open on startup -> check "Continue where you left off"
+
+or
+
+  chrome://settings/startupUrls -> Manage on startup pages -> Pages to open on startup -> check "Continue where you left off"
+
+
+===== dummy =====
 ==== extensions I use ====
   * autoscroll
     * Install this extension to scroll using the middle mouse button in chrome on Debian.

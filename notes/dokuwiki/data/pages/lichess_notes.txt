@@ -1,4 +1,7 @@
 
+==== follow someone via the app ====
+On the sidebar go to Community -> Players -> click the search button -> enter the userid -> Follow -> drag to right
+
 ==== game types ====
   * It has bullet (1-3 mins), blitz (5 mins), rapid (10 mins), classical (15 mins). You can also create a game with your own timings if you want.
   * My favorite is 10+0 Rapid style.

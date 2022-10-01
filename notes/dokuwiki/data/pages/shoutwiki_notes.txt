@@ -13,5 +13,8 @@ Why:
 | Site takes too long to respond | I was impacted by it on the following dates <WRAP>
   * 2021-11-24
 </WRAP> | N/A |
+| Site does not respond | I was impacted by it on the following dates <WRAP>
+  * 2022-09-19
+</WRAP> | N/A |
 
 tags | why not shoutwiki

@@ -1,3 +1,104 @@
+==== 2022-09-30 ====
+Notes from https://www.bloomberg.com/news/articles/2022-09-30/bofa-strategists-see-wall-street-rout-forcing-asset-liquidation?srnd=premium
+  * The NYSE Composite Index, which includes US stocks, depositary receipts and real estate investment trusts
+
+Notes from https://www.washingtonpost.com/business/how-liability-driven-pension-funds-triggered-uk-bond-panic/2022/09/29/37fe0e46-404b-11ed-8c6e-9386bd7cd826_story.html
+  * The entire UK government debt market is £2.3 trillion.
+
+Notes from https://www.bloomberg.com/opinion/articles/2022-09-30/hardly-a-surprise-pension-funds-stoked-the-uk-rout#xj4y7vzkg
+  * British pensions have £1.5 trillion ($1.65 trillion) in assets, and about 50% of British corporate defined-benefit assets are held in bonds. As of the first quarter this spring, pensions owned 28% of outstanding UK debt, with an especially heavy presence in the long end of the curve. Private-sector pensions hold just under £100 billion in gilts with maturities over 25 years.
+
+==== 2022-09-23 ====
+Notes from https://www.washingtonpost.com/business/the-cme-is-becoming-the-draftkings-of-exchanges/2022/09/23/b4ec2102-3b2f-11ed-b8af-0a04e5dc3db6_story.html
+  * binary option
+  * one-touch and barrier options are common in the currency world
+  * the average daily options volume across all exchanges this month is 42 million contracts
+    * 42 million options contracts control 4.2 billion shares (1 contract = 100 shares)
+  * the Options Clearing Corp
+  * the first US stock options were listed in the early 1980s
+  * leveraged exchange-traded funds in the late 2000s
+  * bookmakers - quants who build the market-making platforms, taking 50 cents out of every $100 bet
+
+Notes from https://www.wsj.com/livecoverage/stock-market-news-today-09-23-2022/card/oil-prices-hit-eight-month-lows-T1uCCSZ2SCxSvj2IYcCe
+  * Price of Brent crude-oil futures > Price of WTI crude-oil futures
+
+Notes from https://www.wsj.com/livecoverage/stock-market-news-today-09-23-2022/card/energy-stocks-plunge-xjsQJHEO0QH90QRTmRb2
+  * High-fliers like Hess, Halliburton, and Diamondback Energy
+  * natural-gas and coal producers have largely been insulated from recent sell-offs due to insatiable electricity demand
+==== 2022-09-19 ====
+Notes from https://www.wsj.com/articles/this-should-have-been-a-great-year-for-gold-heres-why-it-isnt-11663526294?mod=lead_feature_below_a_pos1
+  *  SPDR Gold Shares, the world’s largest exchange-traded fund backed by physical gold
+
+==== 2022-09-18 ====
+Notes from https://www.bloomberg.com/news/articles/2022-07-31/from-profits-to-pay-jpmorgan-s-gold-secrets-spill-out-in-court
+  * Michael Nowak
+    * ran precious metals trading at JPMorgan for over a decade
+    * Boss of Gregg Smith and Jeffrey Ruffo
+    * from 2008 to 2016
+      * was paid $23.7 million
+      * made the bank $186 million
+    * In 2016
+      * made the bank $44 million
+  * Jeffrey Ruffo
+    * JPMorgan's hedge fund salesman
+    * from 2008 to 2016
+      * was paid $10.5 million
+      * profit allocated to him was $70.3 million
+  * Gregg Smith
+    * JPMorgan's top gold trader
+    * from 2008 to 2016
+      * was paid $9.9 million
+      * generated $117 million profit
+  * JPMorgan's precious metals trading desk
+    * part of the broader commodities unit
+    * a consistent moneymaker
+    * annual profits between \$109 million and \$234 million a year between 2008 and 2018.
+    * trading in financial markets, physical business
+    * trading and transporting physical precious metals makes the bank about $30 million a year on average
+    * Hedge fund clients: Moore Capital, Tudor Investment Corp and George Soros’ eponymous firm
+    * At least ten central banks held their metal in vaults run by JPMorgan in 2010
+  * JPMorgan
+    * made $1 billion in precious metals in 2020
+    * holds tens of billions of dollars in gold in vaults in London, New York and Singapore
+    * one of four clearing members of the London market
+    * global gold prices are set in the London market by buying and selling metal held in a few London vaults
+    * the biggest player among a small group of “bullion banks” that dominate the precious metals markets
+    * cleared 40% of all transactions in the gold market in 2010
+
+Notes from https://www.reuters.com/markets/europe/futures-fall-us-china-tensions-grow-2022-08-02/
+  * US is the main supporter and arms supplier to Taiwan.
+
+Notes from https://www.reuters.com/technology/us-considers-crackdown-memory-chip-makers-china-2022-08-01/
+  * worldwide NAND flash memory chip production
+    * Western Digital Corp (WDC) 13%
+    * Micron Technology Inc (MU) 11%
+    * YMTC 5%
+  * U.S. officials would ban the export of tools to China used to make NAND chips with more than 128 layers
+  * LAM Research Corp and Applied Materials are the primary suppliers of such tools.
+  * YMTC
+    * founded in 2016
+    * a rising power in manufacturing NAND chips
+
+==== 2022-09-15 ====
+Notes from https://www.wsj.com/articles/u-s-supplier-inflation-remained-elevated-in-august-11663161329?mod=livecoverage_amp
+  * The producer-price index measures what suppliers are charging businesses and other customers
+  * The Fed uses the personal-consumption expenditures (PCE) price index, as its preferred inflation measure
+  * August PCE report won’t be released until Sept. 30
+
+==== 2022-09-14 ====
+Notes from https://www.wsj.com/articles/us-inflation-august-2022-consumer-price-index-11663017630
+  * OPIS, an energy-data and analytics provider owned by Dow Jones & Co., publisher of The Wall Street Journal.
+  * Housing costs account for nearly one-third of the overall CPI.
+  * Once housing costs start to rise, that momentum tends to persist.
+  * clinches the case
+  * Employers added 315,000 jobs in August
+  * Unemployment rate is 3.7%
+  * Supply-chain disruptions can be quantified by New York Fed’s index of supply-chain pressure
+
+Notes from https://www.wsj.com/amp/livecoverage/stock-market-news-today-09-13-2022?page=4
+  * Shelter is the largest single component of the consumer price index.
+  * Nasdaq was getting it in the teeth
+
 ==== 2022-09-12 ====
 Notes from https://www.wsj.com/articles/new-starbucks-ceo-to-learn-role-alongside-howard-schultz-11662975000?mod=hp_lead_pos11
   * Laxman Narasimhan

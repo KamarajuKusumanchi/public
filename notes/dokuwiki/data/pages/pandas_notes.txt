@@ -5,7 +5,9 @@
 
 ==== links I came across ====
   * https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html - good reference to learn about iloc, slicing ranges
-
+  * DuckDB can run SQL queries directly on Parquet files and automatically take advantage of the advanced features of the Parquet format.
+    * https://duckdb.org/2021/06/25/querying-parquet.html - gives more details
+    * tags | pandas, streaming
 
 ==== EmptyDataError ====
 Instead of

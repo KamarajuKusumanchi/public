@@ -167,6 +167,8 @@
   * [[airports]]
   * [[jupyter notes]]
   * [[jupytext notes]]
+  * [[programming notes]]
+  * [[gold notes]]
 
 ==== by date ====
   * [[reading journal 2022]]

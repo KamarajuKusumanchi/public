@@ -1,0 +1,5 @@
+==== cache related ====
+  * key methods when writing a cache class
+    * update_cache, retrieve_cache, lookup_cache, invalidate_cache
+  * invalidate_cache
+    * timeout
