@@ -8,7 +8,7 @@
   * [[set index from 0 to N]]
   * [[Convert a dictionary of dataframes to a big dataframe]]
 
-===== dummy =====
+===== convert stuff =====
 
 ==== convert all categorical columns to string columns ====
 <code>
@@ -18,6 +18,39 @@ df.loc[:, df.dtypes == "category"] = df.select_dtypes(
 </code>
 
 Ref:- https://stackoverflow.com/a/56944992
+
+==== convert all columns in a dataframe to string ====
+  df.astype(str)
+
+Example:
+<code>
+In [1]: import pandas as pd
+   ...: df = pd.DataFrame({'a': [648, 435], 'b': [175, 389]})
+   ...: print(df)
+     a    b
+0  648  175
+1  435  389
+
+In [2]: df.dtypes
+Out[2]:
+a    int64
+b    int64
+dtype: object
+
+In [3]: df2 = df.astype(str)
+   ...: df2.dtypes
+Out[3]:
+a    object
+b    object
+dtype: object
+
+In [4]: print(df2)
+     a    b
+0  648  175
+1  435  389
+</code>
+
+===== dummy =====
 
 ==== sum if columns exist ====
 tags | sum if column exists
@@ -304,36 +337,6 @@ In [4]: print(df.shape[1])
 ==== read everything as string ====
   pd.read_csv(file_path, dtype=str)
 Ref:- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html
-==== convert all columns in a dataframe to string ====
-  df.astype(str)
-
-Example:
-<code>
-In [1]: import pandas as pd
-   ...: df = pd.DataFrame({'a': [648, 435], 'b': [175, 389]})
-   ...: print(df)
-     a    b
-0  648  175
-1  435  389
-
-In [2]: df.dtypes
-Out[2]:
-a    int64
-b    int64
-dtype: object
-
-In [3]: df2 = df.astype(str)
-   ...: df2.dtypes
-Out[3]:
-a    object
-b    object
-dtype: object
-
-In [4]: print(df2)
-     a    b
-0  648  175
-1  435  389
-</code>
 
 ==== dollars two decimal places ====
 Use float_format="%.2f"
