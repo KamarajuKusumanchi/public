@@ -1,0 +1,11 @@
+==== list of lists without keys ====
+<code>
+- - lorem
+  - ipsum
+- - dolor
+  - sit
+  - amet
+</code>
+will give a list of two nested lists, one containing lorem and ipsum, the other containing dolor, sit and amet.
+
+Ref: https://stackoverflow.com/a/67062254/6305733

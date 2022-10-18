@@ -169,6 +169,8 @@
   * [[jupytext notes]]
   * [[programming notes]]
   * [[gold notes]]
+  * [[yaml notes]]
+  * [[dollars to words]]
 
 ==== by date ====
   * [[reading journal 2022]]

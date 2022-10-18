@@ -33,5 +33,13 @@ Settings -> About phone
     * See if you can find something that is functionally equivalent but better
 
 ==== apps with too many ads ====
+  * wordus by Ruby Game Studio
+    * Tried it around 2022-02
+    * Unpleasant experience.
+    * I used it to play the wordle game. It was showing ads after each win and for each hint etc.,. It became so annoying that I decided to uninstall it in the end.
 
-  * wordus by Ruby Game Studio \\ Unpleasant experience. \\ I used it to play the wordle game. It was showing ads after each win and for each hint etc.,. It became so annoying that I decided to uninstall it in the end. \\ today | 2022-02-27.
+  * Word Collect - Word Games Fun by Super Lucky Games LLC
+    * https://play.google.com/store/apps/details?id=com.platinumplayer.word.addict&hl=en_US&gl=US
+    * Tried it around 2022-09
+    * recommendation: no, avoid.
+    * reason: shows too many ads. They come up whenever you go up one level. All the Ads are repetitive, annoying, uninteresting, unskippable.

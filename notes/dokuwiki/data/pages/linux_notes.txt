@@ -26,3 +26,22 @@ date +%Y%m%d_%H%M%S -r $input_file
 Used it in | https://github.com/KamarajuKusumanchi/rutils/blob/master/python3/black_on_selected.sh
 
 Found it in | https://stackoverflow.com/questions/16391208/print-a-files-last-modified-date-in-bash
+
+==== tput: unknown terminal "xterm-256color" ====
+When I moved my miniconda3 installation from /home/rajulocal/miniconda3 to /opt/rajulocal/miniconda3, I started getting
+<code>
+tput: unknown terminal "xterm-256color"
+</code>
+
+To fix it, I did
+<code>
+conda install --force-reinstall ncurses
+</code>
+
+It turns out that the --fore-reinstall option was important since simply doing
+<code>
+conda install ncurses
+</code>
+was not installing ncurses as it was already uptodate.
+
+Ref:- https://stackoverflow.com/questions/32798940/tput-unknown-terminal-xterm-256color
