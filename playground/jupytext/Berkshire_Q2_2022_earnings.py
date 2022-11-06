@@ -30,13 +30,13 @@ def eps_by_class(a_shares, b_shares, operating_earnings, net_earnings):
 data = {'a_shares': 1472628, 'b_shares': 2208942539,
         'operating_earnings': 16323 * 1e6, 'net_earnings': -38295 * 1e6}
 eps_h1_2022 = eps_by_class(data['a_shares'], data['b_shares'], data['operating_earnings'], data['net_earnings'])
-print(result)
+print(eps_h1_2022)
 
 # for Q2 2022
 data = {'a_shares': 1470577, 'b_shares': 2205865262,
         'operating_earnings': 9283 * 1e6, 'net_earnings': -43755 * 1e6}
 eps_q2_2022 = eps_by_class(data['a_shares'], data['b_shares'], data['operating_earnings'], data['net_earnings'])
-print(result)
+print(eps_q2_2022)
 
 last_price = 267.80  # asof 2022-10-10
 pe = last_price / eps_q2_2022['operating_eps_class_B']
