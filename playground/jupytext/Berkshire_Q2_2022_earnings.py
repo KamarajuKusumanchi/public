@@ -13,9 +13,7 @@
 #     name: python3
 # ---
 
-# +
 # From https://www.berkshirehathaway.com/news/aug0622.pdf
-# -
 
 def eps_by_class(a_shares, b_shares, operating_earnings, net_earnings):
     result = {}
@@ -38,8 +36,10 @@ data = {'a_shares': 1470577, 'b_shares': 2205865262,
 eps_q2_2022 = eps_by_class(data['a_shares'], data['b_shares'], data['operating_earnings'], data['net_earnings'])
 print(eps_q2_2022)
 
-last_price = 267.80  # asof 2022-10-10
-pe = last_price / eps_q2_2022['operating_eps_class_B']
-print(pe)
+last_price = 292.07  # asof 2022-08-05
+pe_est1 = last_price / (4 * eps_q2_2022['operating_eps_class_B'])
+print(pe_est1)
+pe_est2 = last_price / (2 * eps_h1_2022['operating_eps_class_B'])
+print(pe_est2)
 
 
