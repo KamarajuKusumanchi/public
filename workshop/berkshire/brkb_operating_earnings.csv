@@ -1,0 +1,12 @@
+# berkshire hathaway operating earnings
+# operating earnings are in millions $
+quarter, year, operating_earnings
+Q3, 2020, 5478
+Q4, 2020, 5021
+Q1, 2021, 7018
+Q2, 2021, 6686
+Q3, 2021, 6466
+Q4, 2021, 7285
+Q1, 2022, 7040
+Q2, 2022, 9283
+Q3, 2022, 7761
