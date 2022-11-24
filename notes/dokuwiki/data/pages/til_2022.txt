@@ -1,11 +1,20 @@
 
-==== 2022-09-11 ====
-There are three categories of dictionaries
-  * "full-size" dictionaries (which extensively cover the language, and are targeted to native speakers)
-  * "collegiate" (which are smaller, and often contain other biographical or geographical information useful to college students)
-  * "learner's" (which are even smaller, targeted to English language learners, and which all use the International Phonetic Alphabet to indicate pronunciation)
+==== 2022-11-11 ====
+  * https://pandas.pydata.org/docs/reference/api/pandas.merge_asof.html - similar to a left-join except that we match on nearest key rather than equal keys. It is useful for "projecting" low frequency data onto high frequency. For example, a company might release earnings only 4 times a year. But using this function, you can get the "latest" earnings as of a given date.
 
-Ref:- https://en.wikipedia.org/wiki/Comparison_of_English_dictionaries
+search tags | python matching dataframes with different frequency
+
+==== 2022-10-20 ====
+??? Do we have to pay capital gains taxes on unrealized gains (or losses) on emini futures?
+!!! Yes. The emini futures is a "1256 contract". If a contract is a "1256 contract" then it is treated as sold for its fair market value on the last business day of the year for tax purposes. So you have to pay capital gains tax on the emini futures regardless of whether the gains (or losses) are realized or unrealized.
+
+Ref:-
+  * https://en.wikipedia.org/wiki/1256_Contract
+  * [[https://www.law.cornell.edu/uscode/text/26/1256 | "TITLE 26 > Subtitle A > CHAPTER 1 > Subchapter P > PART IV > § 1256"]]. U.S. Code. Cornell University Law School, Legal Information Institute.
+
+==== 2022-10-17 ====
+  * You can make appointments at "Costco Tire Center" using https://costcotireappointments.com/login
+
 
 ==== 2022-08-29 ====
   * To compare two files or directories in pycharm, select the two files and press Control+d

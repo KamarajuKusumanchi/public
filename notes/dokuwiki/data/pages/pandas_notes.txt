@@ -1,9 +1,26 @@
+==== common pandas data types ====
+
+^ data type ^ description ^ supports missing values ^
+| float | The NumPy float type | Yes |
+| int | The NumPy integer type | No |
+| 'Int64' | pandas nullable integer type | Yes |
+| object | The NumPy type for storing strings (and mixed types) | |
+| 'category' | pandas categorical type | Yes |
+| bool | The NumPy Boolean type | No. \\ None becomes False, np.nan becomes True. |
+| 'boolean' | pandas nullable Boolean type | Yes |
+| datetime64[ns] | The NumPy date type | Yes (NaT) |
+
+Ref:- (Pandas 1.x Cookbook, by Matt Harrison and Theodore Petrou, second edition, published in 2020) -> Chapter 1 -> page-7
+
+
 ==== What packages does pandas depend on? ====
   * Dependencies - https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html#dependencies
   * Recommended dependencies - https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html#recommended-dependencies
   * Optional dependencies - https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html#optional-dependencies
 
 ==== links I came across ====
+  * http://pandas.pydata.org/pandas-docs/stable/getting_started/install.html - pandas installation page. Contains instructions to install pandas in various ways.
+  * http://pandas.pydata.org/pandas-docs/stable/ - pandas official documentation
   * https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html - good reference to learn about iloc, slicing ranges
   * DuckDB can run SQL queries directly on Parquet files and automatically take advantage of the advanced features of the Parquet format.
     * https://duckdb.org/2021/06/25/querying-parquet.html - gives more details

@@ -1,6 +1,20 @@
 ==== lottery days ====
   * Tue, Fri - Megamillions
-  * Wed, Sat - Powerball
+  * Mon, Wed, Sat - Powerball
+
+==== powerball past winning numbers ====
+  * https://www.texaslottery.com/export/sites/lottery/Games/Powerball/Winning_Numbers/print.html_2013354932.html
+    * printer friendly format
+    * When I checked it on 2022-11-06
+      * data goes all the way back to 2010-02-03
+      * results for 2022-11-05 were not shown
+    * came across it from https://www.texaslottery.com/export/sites/lottery/Games/Powerball/Winning_Numbers/index.html_2013354932.html
+
+  * https://www.njlottery.com/en-us/drawgames/powerball.html#tab-winningNumbers
+    * contains winning numbers corresponding to normal and double play
+    * When I checked it on 2022-11-06
+      * data only goes back up to 2022-03-09
+      * results for 2022-11-05 were shown
 
 ==== links I came across ====
   * https://www.powerball.com/games/home#winning-numbers - powerball winning numbers

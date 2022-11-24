@@ -5,6 +5,6 @@
 
 ==== కొత్తిమీర ఆవకాయ ====
   * చింతపండు గుజ్జు - 4 spoons
-  * మెంతులు - $\frac{1}{2}$ spoon, ఆవాలు - 1 spoon
+  * మెంతులు - $ \frac{1}{2}$ spoon, ఆవాలు - 1 spoon
   * కారం - 4 spoons
   * salt - as needed

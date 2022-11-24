@@ -2,3 +2,7 @@
   * https://xkcd.com/605/ - extrapolating
   * https://xkcd.com/1172/ - spacebar heating
   * https://xkcd.com/149/ - sudo make me a sandwich
+
+==== xkcd cartoons from which I learned something new ====
+  * https://xkcd.com/2699/
+    * https://en.wikipedia.org/wiki/Cybiko

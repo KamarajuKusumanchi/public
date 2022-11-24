@@ -1,19 +1,61 @@
+==== Policy ====
 Policy:
   * Once you finish reading the book, move the entry to goodreads.
+  * sort order: Latest read book comes first.
 
 Why:
   * Goodreads assumes that you read from beginning to end. But I tend to read couple of pages here and there. This is my naive way to keep track of the progress.
 
-==== algorithmic trading with tnteractive brokers python ====
-Amazon: https://www.amazon.com/Algorithmic-Trading-Interactive-Brokers-Python/dp/0997303735/
-Goodreads: https://www.goodreads.com/en/book/show/49690728-algorithmic-trading-with-interactive-brokers
-
-Total positions in the ebook = 658; Using Calibre to store highlights.
+==== Pandas 1.x Cookbook ====
+Book details:
+  * Title: Pandas 1.x Cookbook
+  * Sub title: Practical recipes for scientific compuing, time series analysis, and exploratory data analysis using Python
+  * Authors: Matt Harrison, Theodore Petrou
+  * Edition: 2
+  * Publisher: Packt
+  * ISBN: 978-1-83921-310-6
+  * Year: 2020
+  * Pages: {total in pdf: 627, front matter: 1-21, content: 22-615, back matter: 616-627}
+  * Why I wanted to read it in the first place:
+    * I was looking for books that discuss the pandas merge_asof() function and came across the first edition of this book.
+    * The second edition does not talk about the merge_asof(). But the pandas discussion seemed pretty comprehensive and interesting. So I want to read it from end to end.
+  * Will be using the pages in the book (and not pdf) to track the progress.
 
 ^ date ^ pages ^ overall progress ^ notes ^
-| 2022-06-13 | [1.0-5.0] | [1.0-5.0] | |
-| 2022-06-14 08:00 AM | [5.1-14.6] | [1.0-14.6] | Have to start from "1.2 Trader Workstation and the TWS API" section onwards |
-| 2022-06-14 11:48 PM | [14.7-15.6] | [1.0-15.6] | Have to install TWS from https://www.interactivebrokers.com/en/index.php?f=16042 \\ and then read "1.2.1 Introducing Trader Workstation" |
+| 2022-11-12 | [1-1] | [1-1] | |
+| 2022-11-13 | [x-xii] | [x-xii][1-1] | |
+| 2022-11-14 | [xiii-xiv][2-6] | [x-xiv][1-6] | |
+
+====The human body ====
+Book details:
+  * Title: The human body
+  * sub title: An essential guide to how the body works
+  * Author: Dr. Peter Abrahams
+  * Publisher: Amber books
+  * This edition published in 2021. Reprinted in 2022.
+  * ISBN: 978-1-83886-096-7
+  * pages: 512
+Purchase details:
+  * {from: Costco, in: 2022-11, for: $13}
+
+^ date ^ pages ^ overall progress ^ notes ^
+| 2022-11-08 | [1-7] | [1-7] | |
+| 2022-11-09 | [8-8] | [1-8] | |
+| 2022-11-13 | [9-9] | [1-9] | |
+
+==== Python Automation Cookbook - Jaime Buelta - 2nd edition - 2020 ====
+  * Amazon: https://www.amazon.com/Python-Automation-Cookbook-automation-processing/dp/1800207085
+  * Goodreads: https://www.goodreads.com/book/show/54595738-python-automation-cookbook
+
+  * pages in pdf: 527
+  * front matter: page 1 - 17; content: page 18 - 514; back matter: page 515 - 527
+
+  * Why I wanted to read it in the first place:
+    * I was looking for books that discusss the argparse.FileType() function and came across this.
+    * The discussion on pytest in Chapter 12 seems to be interesting.
+
+^ date ^ pages ^ overall progress ^ notes ^
+| 2022-10-06 | [16-23] | [16-23] | Uses Python 3.8|
 
 ==== Financial Accounting - LibreTexts - 20220616 ====
 url: https://biz.libretexts.org/Bookshelves/Accounting/Book%3A_Accounting_in_the_Finance_World
@@ -25,4 +67,16 @@ front matter: page 1- page 12; content: page 13 - page 363; back matter: page 36
 ^ date ^ pages ^ overall progress ^ notes ^
 | 2022-06-17 | [13-16] | [13-16] | Easy to understand. Seems like a book worth reading from end to end. |
 | 2022-07-25 | [59] | [13-16], [59] | |
-| 2022-07-27 | [60],[17-20] | [13-20],[59-60] | The Socratic method of asking and answering questions is very helpful. |
+| 2022-07-27 | [60],[17-20] | [13-20], [59-60] | The Socratic method of asking and answering questions is very helpful. |
+| 2022-10-02 | [240-241] | [13-20], [59-60], [240-241] | Talks about "the equity method" of accounting for investments. \\ I came across the latter in [[https://www.reuters.com/business/berkshire-hathaway-boosts-occidental-petroleum-stake-above-20-2022-08-09/ | this]]  Reuter's article. |
+
+==== algorithmic trading with tnteractive brokers python ====
+  * Amazon: https://www.amazon.com/Algorithmic-Trading-Interactive-Brokers-Python/dp/0997303735/
+  * Goodreads: https://www.goodreads.com/en/book/show/49690728-algorithmic-trading-with-interactive-brokers
+
+Total positions in the ebook = 658; Using Calibre to store highlights.
+
+^ date ^ pages ^ overall progress ^ notes ^
+| 2022-06-13 | [1.0-5.0] | [1.0-5.0] | |
+| 2022-06-14 08:00 AM | [5.1-14.6] | [1.0-14.6] | Have to start from "1.2 Trader Workstation and the TWS API" section onwards |
+| 2022-06-14 11:48 PM | [14.7-15.6] | [1.0-15.6] | Have to install TWS from https://www.interactivebrokers.com/en/index.php?f=16042 \\ and then read "1.2.1 Introducing Trader Workstation" |

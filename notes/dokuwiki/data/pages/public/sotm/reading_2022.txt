@@ -1,3 +1,233 @@
+
+
+==== 2022-11-20 ====
+From https://www.wsj.com/articles/sam-bankman-fried-ftx-alameda-bankruptcy-collapse-11668824201
+  * Bughouse chess, a fast version of the game played by four players on two boards
+  * Coinbase Global Inc.’s direct listing gave the company a blockbuster $65 billion market capitalization after its first day of trading
+  * the red-ink phase common to startups
+  * Sequoia Capital, the firm that has backed some of the biggest companies in Silicon Valley
+  * the video game “League of Legends,”
+  * retired Boston Red Sox slugger David Ortiz
+  * CoinDesk published an article
+  * Changpeng Zhao, the billionaire head of Binance, the world’s largest crypto exchange
+  * rival crypto exchanges Coinbase and Kraken
+  * On Nov. 10, WSJ reported that FTX had used customer funds to prop up Alameda
+  * "Sam Bankman-Fried" -> “Scam Bankrun-Fraud”
+  * BlockFi halted withdrawals on Nov. 10 and is preparing to file for bankruptcy
+  * Crypto lender Genesis paused withdrawals on Nov. 16
+  * Mr. Bankman-Fried’s father, Stanford tax-law scholar Joseph Bankman
+
+From https://www.wsj.com/articles/crypto-bank-silvergate-battles-ftx-contagion-fears-11668910608
+  * crypto-trading platform FalconX is no longer using Silvergate
+  * S3 Partners
+  * The most shorted bank has a pending merger, and betting against it is part of an arbitrage strategy.
+  * KBW Regional Banking Index
+  * Customers Bancorp Inc
+  * Signature Bank
+  * Silvergate Capital Corp.
+    * helps institutional investors move dollars into and out of crypto-trading platforms through its Silvergate Exchange Network
+    * Silvergate Exchange Network links the bank accounts of investors and exchanges
+    * was a commercial real-estate lender a decade ago
+    * It only holds dollars. It doesn’t hold cryptocurrencies
+  * FTX held some deposits at Silvergate in an omnibus account
+  * keep a ledger tracking the underlying customer assets, a common setup for firms that aren’t banks themselves
+
+==== 2022-11-18 ====
+FTX and an old blog post
+  * http://brontecapital.blogspot.com/2022/11/ftx-and-old-blog-post.html
+
+==== 2022-11-17 ====
+New FTX CEO's Declaration to Bankruptcy Court
+  * https://s.wsj.net/public/resources/documents/FTXFILING.pdf
+tags | FTX Bankruptcy filing
+
+From https://www.wsj.com/articles/ftxs-unraveling-is-latest-blow-to-softening-ad-market-11668681001
+  * Dentsu Inc., handles some ad-buying and creative-development tasks for FTX. It had required payments from FTX in advance.
+  * 30 seconds of ad time during the Super Bowl costs $7 million.
+  * model Gisele Bündchen
+  * FTX’s two crypto exchanges—Bahamas-based FTX Trading Ltd. and U.S.-based FTX U.S.
+  * stadium-naming rights, league sponsorships
+  * sports-sponsorship business
+  * spending money hand over fist
+
+==== 2022-11-15 ====
+From https://www.bloomberg.com/news/articles/2022-11-15/buffett-bets-5-billion-on-chipmaking-with-new-stake-in-tsmc?leadSource=uverify%20wall
+  * Berkshire Hathaway acquired about 60 million ADRs in TSMC in the three months ended September
+  * TSMC
+    * Some of its clients are Nvidia, Qualcomm
+    * exclusive supplier of Apple's custom Silicon chips
+    * has taken over from Intel Corp. as the firm advancing the cutting edge of chipmaking
+    * Taiwan’s most valuable company
+    * can make the world’s most advanced chips
+
+From https://www.wsj.com/articles/mortgage-rates-are-high-because-nobody-is-buying-mortgages-11668460705
+  * Fed holds $2.7 trillion of Mortgages
+  * Bofa at the end of 2021
+    * \$979 billion bond portfolio of which \$622 billion is MBS
+    * Out of the \$622 billion MBS, it will hold \$554 to maturity and $68 billion is up for sale.
+  * banks are now opting to hold mortgages, instead of mortgage bonds, on their books
+
+==== 2022-11-10 ====
+From https://www.sfchronicle.com/bayarea/article/Here-s-how-many-Twitter-employees-were-laid-off-17560274.php
+  * Twitter laid off 784 workers in San Francisco, 106 employees in San Jose and 93 in Santa Monica
+
+==== 2022-11-09 ====
+From https://www.wsj.com/articles/redfin-shuts-home-flipping-business-lays-off-13-of-staff-in-slumping-housing-market-11668010665?mod=hp_lead_pos10
+  * Opendoor - the biggest home-flipping company
+  * Redfin, Opendoor
+  * tech-powered real-estate businesses known as iBuyers
+  * Redfin started testing iBuying five years ago
+  * The home-flipping business accounted for about 43% of Redfin’s total revenue in the second quarter.
+  * the company will likely lose at least $22 million on the home-flipping operation for the full year of 2022. 
+
+From https://www.bloomberg.com/news/articles/2022-11-09/tom-brady-tiger-global-among-investors-hurt-by-ftx-fiasco
+  * Investors in FTX.com - Tiger Global Management, Third Point and Altimeter Capital Management, Brevan Howard Asset Management’s Alan Howard, the family office of Paul Tudor Jones, Millennium Management, Gisele Bundchen,Tom Brady, the Ontario Teachers’ Pension Plan, Sequoia Capital, Lightspeed Venture Partners, Iconiq Capital, Insight Partners, Thoma Bravo, Masayoshi Son’s SoftBank Group Corp
+  * Bankman-Fried’s empire includes proprietary trading firm Alameda Research
+
+==== 2022-11-06 ====
+From https://www.bloomberg.com/opinion/articles/2022-11-06/central-banks-in-emerging-markets-are-biggest-gold-buyers
+  * Central banks bought 400 metric tons of gold in the September quarter
+  * Gold prices plummeted in the 1990s and 2000s when some of the European central banks sold in unison
+  * {Turkey: Lira,Egypt: Pound, Iraq: Dinar}
+  * When a country's currency falls, its central bank buys gold.
+  * Stacking up bullion in the central bank’s vault has long been a powerful signal to investors that a government is going to be a prudent and reliable borrower.
+  * Iraq’s dinar is fixed against the dollar
+  * Turkey and Egypt are key US allies
+
+==== 2022-11-02 ====
+Highlights from https://www.wsj.com/articles/ad-giants-advise-brands-to-pause-spending-on-elon-musks-twitter-11667333021
+  * Brands typically rely on agencies to help determine where to spend their ad dollars.
+  * Morning Brew, an email newsletter publisher
+  * Advertising accounted for 89% of Twitter’s $5.08 billion revenue in 2021.
+  * Sarah Personette, one of Twitter’s top ad executives, resigned from the company.
+
+==== 2022-10-24 ====
+Notes from https://www.wsj.com/articles/biden-aims-to-spur-drilling-with-plan-to-refill-oil-reserves-but-producers-are-skeptical-11666467900?mod=itp_wsj&ru=yahoo
+  * The Strategic Petroleum Reserve can hold about 714 million barrels of oil
+
+Notes from https://www.bloomberg.com/news/articles/2022-10-24/tesla-cuts-china-prices-partly-reversing-previous-increases?srnd=premium&sref=1kJVNqnU
+  * Tesla delivered a record 83,135 cars in China last month, including 5,522 for export.
+  * The Shanghai plant can now produce about 1 million cars a year.
+
+==== 2022-10-19 ====
+Notes from https://www.wsj.com/articles/tesla-tsla-q3-earnings-report-2022-11666139620?mod=hp_lead_pos1
+  * Tesla
+    * Q3 2022 = {profit: \$3.3 billion, revenue: \$21.5 billion}
+    * Q3 2021 = {revenue: \$13.8 billion}
+    * Q3 results
+      * are affected by strong dollar, higher raw materials and logistics costs, and inefficiencies associated with getting car plants in Texas and Germany up to speed
+    * Model Y compact SUV vehicle was rolled out in early 2020.
+  * Elon Musk
+    * Tesla's CEO and largest shareholder
+    * Sold $15 billion of Tesla stock this year
+  * Customers in China ordering a new Model 3 in September could expect to wait about four or five weeks to receive their car, down from around 18 weeks in July
+  * average car sale price in Q3 2022 = \$57,000, Q3 2021 = \$49,000
+  * average interest rate on a new-car loan in Q3 2022 = 5.7%, Q3 2021 = 4.3%
+
+
+==== 2022-10-18 ====
+Notes from https://www.wsj.com/articles/goldman-sachs-reports-43-profit-drop-confirms-reshuffling-11666094083
+  * GS is grouping its businesses into three
+    * investment banking and trading
+    * asset and wealth management
+    * Platform Solutions
+      * house Goldman’s financial-technology platforms
+      * specialty lender GreenSky
+      * ventures with Apple Inc. and General Motors Co.
+
+Notes from https://www.wsj.com/articles/what-are-i-bonds-everything-you-need-to-know-to-earn-nearly-10-interest-11650543039?mod=livecoverage_web
+  * $22.3 billion of I Bonds were purchased this year through September
+  * The I Bond interest rate is based on a calculation tied to the consumer-price index.
+  * Bonds bought from May through the end of October will earn 9.62% for six months
+  * For example, a \$10,000 I Bond bought in October 2022 would earn an annualized rate of 9.62% for 6 months. At that point, the interest earned of \$481 would be added to the original $10,000 and the new (expected) annualized rate of 6.47% would be earned on \$10,481, resulting in another \$339 in interest for a total of \$820 in interest earned over 12 months.
+  * I bonds aren’t available in tax-sheltered vehicles such as individual retirement accounts, Roth IRAs or 401(k)s.
+  * Brokers and financial advisers cannot purchase I bonds for you
+  * During the time that the I Bond is held, there are no federal taxes due. Even though you’re getting the benefit of compounding interest every six months, you don’t pay any federal taxes until you actually cash out the bonds.
+  * There are no state or local taxes on the interest earned
+  * Traditional bank certificate of deposits (CDs) are subject to both federal and state taxes as the interest is earned
+  * Interest is paid in a lump sum when the bond is cashed.
+  * An I Bond earns interest monthly from the first day of the month in the issue date, so if you purchase a bond on Oct. 20, you would get interest for the entire month of October.
+  * The interest is compounded twice a year, accrues for up to 30 years or until you cash the bond, whichever comes first.
+  * You can cash a minimum of \$25 at a time, and must leave at least \$25 in your TreasuryDirect account when doing partial redemptions. 
+  * The annual I Bond purchase limits are based on the recipient, not the giver. The child could receive up to $10,000 in electronic I bonds.
+  * You can add an additional $10,000 to the annual I Bond purchase limit with a properly registered trust
+  * When you register your account at TreasuryDirect, you have the option to create an entity account, including trusts and partnerships.
+  * Trusts require an account manager that can act alone on behalf of the trust
+
+==== 2022-10-17 ====
+Notes from https://www.wsj.com/articles/goldman-plans-sweeping-reorganization-combining-investment-banking-and-trading-11665973368?mod=hp_lead_pos3
+  * GS is grouping its businesses into three
+    * investment banking and trading
+    * asset and wealth management
+    * fintech platforms
+      * specialty lender GreenSky, ventures with Apple Inc. and General Motors Co.
+  * driver of the reorg: generate steady fees in any environment
+  * Goldman’s 2020 investor day presentation
+  * P/B values: {GS: 0.9, JPM: 1.3, MS: 1.4}
+  * Planning to bring in $10 billion in asset and wealth-management fees by 2024 
+
+==== 2022-10-11 ====
+Notes from https://www.wsj.com/articles/cameco-brookfield-renewable-partners-to-buy-westinghouse-electric-co-for-7-88-billion-11665524511?mod=hp_lead_pos5
+  * Cameco Corp. (CCJ) and Brookfield Renewable Partners (BEP) are Canada based companies.
+  * Brookfield Business Partners LP (BBU) is an entity that Brookfield Asset Management (BAM) uses to operate the business services and industrial operations of its private-equity group.
+  * Westinghouse services about half of the nuclear-power reactors in the world.
+  * Cameco is the world’s largest publicly traded uranium company, based in Saskatoon, Saskatchewan, Canada.
+  * BEP owns and operates renewable-power assets and is 60%-owned by BAM.
+  * Westinghouse
+    * Pittsburgh-based
+    * was founded in 1886 by George Westinghouse
+    * designed and built the world’s first commercial nuclear-power plant in the 1950s
+    * fell into bankruptcy in 2017
+    * BBU bought it in 2018 from Toshiba Corp.
+
+====2022-10-10 ====
+Notes from https://www.wsj.com/articles/boe-offers-to-buy-more-gilts-launches-new-repo-facility-for-ldi-funds-11665384218?mod=hp_lead_pos2
+  * BOE would increase the daily amount on offer to £10 billion starting Monday 10/10.
+  * BOE purchased £5 billion of gilts to date, out of an available £40 billion.
+  * BOE would launch a Temporary Expanded Collateral Repo Facility to provide cash in exchange for gilts to banks on behalf of clients managing Liability Driven Investment funds
+
+==== 2022-10-07 ====
+Notes from https://www.wsj.com/livecoverage/stock-market-news-today-2022-10-04/card/bank-of-england-s-bond-buying-tails-off-ap62VVgcSqgaNxSTbYQa
+  * So far Bank of England bought £3.657 billion
+
+==== 2022-10-06 ====
+Notes from https://www.bloomberg.com/news/articles/2022-10-05/blackrock-faces-more-esg-fallout-as-louisiana-pulls-794-million?srnd=markets-vp
+  * Louisiana is pulling $794 million from BlackRock Inc. funds
+  * the assets would be liquidated by year-end
+  * The article does not say where the money went to. It only says that it will be divested from BlackRock.
+  * BlackRock's AUM at midyear - $8.5 trillion
+
+Notes from https://www.wsj.com/articles/u-k-bond-markets-come-under-pressure-again-11665077057?mod=livecoverage_web
+  * Brighton Rock Group, an insurance company for pensions
+  * The Bank of England currently holds £837.9 billion of gilts and is aiming to reduce this by £80 billion over the next 12 months
+  * U.K. government will be selling £234 billion of bonds this financial year.
+
+==== 2022-10-05 ====
+Notes from https://www.wsj.com/livecoverage/stock-market-news-today-2022-10-05/card/u-k-bond-yields-rise-as-bank-of-england-halts-gilt-buying-j5qdACpxu2JQ0FVWwScY
+  * U.K. sovereign bonds are known as gilts
+
+==== 2022-10-04 ====
+Notes from https://www.wsj.com/livecoverage/stock-market-news-today-2022-10-04/card/legal-general-seeks-to-reassure-investors-over-ldis-SijGguyiPk9fZe7ccDZ2
+  * Legal & General Group PLC
+    * U.K. insure
+    * one of the largest providers of liability-driven investment, or LDI, strategies
+    * it acts as an agent between its clients who use LDI and market counterparties
+    * annuity portfolio
+
+==== 2022-10-02 ====
+Notes from https://www.cnbc.com/2022/08/05/-santanders-tim-wennes-a-shakeout-among-mortgage-lenders-is-coming.html
+  * Santander left the mortgage business in Feb 2022 as part of a strategic pivot to focus on higher-return services like its auto lending franchise.
+  * Santander
+    * a relatively small player in the mortgage market
+    * $154 billion in assets and 15,000 U.S. employees
+    * is part of a Madrid-based global bank with operations across Europe and Latin America.
+  * last year - \$4.4 trillion in loan volumes; \$2.7 trillion in refinance activity
+  * Black Knight - mortgage data and analytics provider
+  * the largest banks in home loans, JPMorgan Chase and Wells Fargo
+  * nonbank players like Rocket Mortgage
+  * Out of the top ten mortgage providers by loan volume, only three are traditional banks: Wells Fargo, JPMorgan and Bank of America.
+  * Rocker Mortgage, United Wholesale Mortgage, Freedom Mortgage
+
 ==== 2022-09-30 ====
 Notes from https://www.bloomberg.com/news/articles/2022-09-30/bofa-strategists-see-wall-street-rout-forcing-asset-liquidation?srnd=premium
   * The NYSE Composite Index, which includes US stocks, depositary receipts and real estate investment trusts

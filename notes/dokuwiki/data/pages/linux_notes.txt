@@ -2,6 +2,24 @@
   * [[add numbers on the command line]]
   * [[du on month end dates]]
 
+==== ls and mv ====
+Sample command
+<code>
+ls -rt *.txt | tail -n5 | tr '\n' '\0' | xargs -0 -i% mv % x1
+</code>
+
+Notes:
+  * Works even if there are spaces in the filenames. Compare this with <code>
+mv `ls -rt *.txt | tail -n5` x1
+</code> which will not work if there are spaces in the filenames.
+  * Does not work if the filenames contain newline characters.
+
+Ref:- https://stackoverflow.com/a/937965/6305733
+
+Related commands
+<code>
+ls -rt *.txt | tail -n5 | tr '\n' '\0' | xargs -0 -i% md5sum %
+</code>
 ==== remove large directories ====
 
 Use rsync to delete large directories.
