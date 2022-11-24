@@ -1,0 +1,39 @@
+==== Requirement ====
+Indent the code blocks in a way similar to https://www.gnu.org/software/bash/manual/html_node/Redirections.html?
+
+==== Solution ====
+Add
+<code>
+pre {
+    margin-left: 2em;
+}
+</code>
+to /etc/dokuwiki/userstyle.css
+
+==== Verify ===
+For example
+  Note that the order of redirections is significant. For example, the command
+  <code>
+  ls > dirlist 2>&1
+  </code>
+  directs both standard output (file descriptor 1) and standard error (file descriptor 2)
+  to the file dirlist, while the command
+  <code>
+  ls 2>&1 > dirlist
+  </code>
+  directs only the standard output to file dirlist, because the standard error was made a
+  copy of the standard output before the standard output was redirected to dirlist.
+
+will render as
+
+Note that the order of redirections is significant. For example, the command
+<code>
+ls > dirlist 2>&1
+</code>
+directs both standard output (file descriptor 1) and standard error (file descriptor 2)
+to the file dirlist, while the command
+<code>
+ls 2>&1 > dirlist
+</code>
+directs only the standard output to file dirlist, because the standard error was made a
+copy of the standard output before the standard output was redirected to dirlist.

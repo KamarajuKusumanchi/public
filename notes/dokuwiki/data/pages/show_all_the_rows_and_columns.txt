@@ -1,0 +1,27 @@
+==== show all the rows and columns ====
+tags | print all the rows and columns
+<code>
+pd.set_option('display.max_columns', None, 'display.max_rows', None)
+</code>
+
+==== show all the columns ====
+tags | print all columns
+<code>
+pd.set_option('display.max_columns', None)
+</code>
+
+Ref:- https://stackoverflow.com/a/51540918/6305733
+
+==== show all the rows ====
+tags | print all rows
+
+<code>
+pd.set_option('display.max_rows', None)
+</code>
+
+Sample usage:
+  * https://github.com/KamarajuKusumanchi/notebooks/blob/master/pandas/print%20all%20rows.ipynb
+
+See also:
+  * https://pandas.pydata.org/docs/reference/api/pandas.set_option.html - list of settable options
+  * https://stackoverflow.com/a/51540918/6305733

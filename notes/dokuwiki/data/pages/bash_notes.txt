@@ -11,6 +11,22 @@
 
 ==== documentation links ====
   * ignoredups, erasedups - https://www.gnu.org/software/bash/manual/html_node/Bash-Variables.html search for ignoredups .
+
+==== what is the difference between "ls > dirlist 2>&1" and "ls 2>&1 > dirlist"? ====
+The command
+<code>
+ls > dirlist 2>&1
+</code>
+directs both standard output (file descriptor 1) and standard error (file descriptor 2) to the file dirlist, while the command
+<code>
+ls 2>&1 > dirlist
+</code>
+directs only the standard output to file dirlist, because the standard error was made a copy of the standard output before the standard output was redirected to dirlist.
+
+To conclude, the order of redirections is significant.
+
+Ref:- https://www.gnu.org/software/bash/manual/html_node/Redirections.html -> 5th paragraph.
+
 ===== getopts =====
 ==== useful articles ====
   * https://sookocheff.com/post/bash/parsing-bash-script-arguments-with-shopts/ - Parsing bash script options with getopts

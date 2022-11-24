@@ -90,10 +90,12 @@ http://www.kamaraju.xyz/dk/start?do=sitemap
 https://www.dokuwiki.org/tips:book mentions two plugins that are useful for creating books.
   * https://www.dokuwiki.org/plugin:bookcreator
   * https://www.dokuwiki.org/plugin:dw2pdf
-
+\\
   * https://www.dokuwiki.org/plugin:iframe
   * https://www.dokuwiki.org/plugin:gh
   * https://www.dokuwiki.org/plugin:pycode
+\\
+  * https://www.dokuwiki.org/plugin:yalist
 
 ==== conflicting plugins ====
   * https://www.dokuwiki.org/plugin:edittable - seems nice. But it is conflicting with https://www.dokuwiki.org/plugin:wrap . For example, if I have a cell with a list of items, and if I install the edittable plugin and then try to edit that table, the cell contents are not longer rendered as a list.

@@ -2,10 +2,9 @@
   * Dallas Fed President - Robert Kaplan
   * New York Fed President - John Williams
   * St. Louis Fed President - James Bullard
-
   * Federal Reserve Governor - Lael Brainard
   * Federal Reserve Chair - Jerome Powell
-
+  * Fed governor - Lisa Cook
 ==== dummy ====
   * Treasury Secretary - Janet Yellen
 

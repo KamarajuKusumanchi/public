@@ -12,6 +12,7 @@ http://jsomers.net/ - contains all of his work.
 
 ==== submarine ====
   * Silla Brush writes submarine articles for Blackrock. \\ See for example: <nowiki>https://www.bloomberg.com/news/articles/2022-01-14/blackrock-s-sustainable-investment-funds-surge-to-509-billion?srnd=markets-vp</nowiki> . \\ Ignore articles written by him/her.
+  * Angel Au-Yeung writes submarine articles for Blackrock. \\ See for eaxmple: <nowiki>https://www.wsj.com/articles/this-powerful-blackrock-team-has-the-ear-of-governments-and-megabanks-11666235717?mod=hp_lead_pos10</nowiki> . \\ Ignore articles written by him/her.
 
 ==== sensational headlines ====
   * Orla McCaffrey writes articles with sensational headlines. \\ See for example: <nowiki>https://www.wsj.com/articles/mortgage-rates-drop-after-three-weeks-of-increases-11656597927?mod=hp_lead_pos3</nowiki> . \\ Here the mortgage rates dropped from 5.81% (on 2022-06-23) to 5.7% (on 2022-06-30). A year ago, they were 2.98% (on 2021-07-01). So the 0.11% is not much... but the title of the article is "Mortgage Rates Drop After Three Weeks of Increases". Also, see the graphic in the article to see what a hyped up article this is.

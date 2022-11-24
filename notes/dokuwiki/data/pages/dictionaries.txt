@@ -1,0 +1,40 @@
+There are three categories of dictionaries
+  * "full-size" dictionaries (which extensively cover the language, and are targeted to native speakers)
+  * "collegiate" (which are smaller, and often contain other biographical or geographical information useful to college students)
+  * "learner's" (which are even smaller, targeted to English language learners, and which all use the International Phonetic Alphabet to indicate pronunciation)
+
+Ref:- https://en.wikipedia.org/wiki/Comparison_of_English_dictionaries
+
+If you are looking learn new words, use Learner's dictionary.
+
+List of Learner's dictionaries
+<code>
+$ ipython
+Python 3.10.4 | packaged by conda-forge | (main, Mar 30 2022, 08:38:02) [MSC v.1916 64 bit (AMD64)]
+Type 'copyright', 'credits' or 'license' for more information
+IPython 8.4.0 -- An enhanced Interactive Python. Type '?' for help.
+
+In [1]:
+import pandas as pd
+dfs = pd.read_html('https://en.wikipedia.org/wiki/Comparison_of_English_dictionaries', match="Learner's", flavor='html5lib')
+df = dfs[0][['Title', 'Main dialect']]
+pd.set_option('display.max_columns', None, 'display.max_rows', None, 'display.max_colwidth', None)
+print(df)
+                                                     Title Main dialect
+0                  Cambridge Advanced Learner's Dictionary      British
+1                      Collins COBUILD Advanced Dictionary      British
+2               Longman Dictionary of Contemporary English      British
+3       Macmillan English Dictionary for Advanced Learners      British
+4  Merriam-Webster's Advanced Learner's English Dictionary     American
+5                     Oxford Advanced Learner's Dictionary      British
+
+In [2]:
+from datetime import date
+print(date.today())
+2022-11-17
+</code>
+
+I prefer "Cambridge Advanced Learner's Dictionary" to "Collins COBUILD Advanced Dictionary".
+
+Justification:
+  * Compare the results of https://dictionary.cambridge.org/us/dictionary/english/zinger vs. https://www.collinsdictionary.com/us/dictionary/english/zinger . The meaning in the Cambridge dictionary is short and to the point.

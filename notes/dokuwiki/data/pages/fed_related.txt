@@ -1,3 +1,9 @@
+==== tidbits ====
+  * Fed’s seven-person board
+
+==== Questions ====
+  * How many Fed governors does the president appoint?
+
 ==== useful links ====
   * https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm - contains links to the FOMC minutes.
     * Example: https://www.federalreserve.gov/monetarypolicy/fomcminutes20220727.htm shows the minutes of July 26-27th, 2022 FOMC meeting. The minutes were released on Wed August 17th, 2022 at 2 PM.

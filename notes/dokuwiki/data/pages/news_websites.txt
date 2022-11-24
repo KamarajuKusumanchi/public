@@ -15,6 +15,10 @@
   * https://www.eatingwell.com/ - avoid. See for example
     * https://www.eatingwell.com/article/7985928/is-sun-cooked-tomato-sauce-safe/ - very wordy, lot of links, low information density.
 
+==== websites to avoid ====
+  * https://www.pehalnews.in/
+    * I came across https://www.pehalnews.in/why-one-asset-manager-avoided-ftx-before-the-storm-bitwise-qa/2625365/ which is supposed to be same as https://www.bloomberg.com/news/articles/2022-11-19/why-one-asset-manager-avoided-ftx-before-the-storm-bitwise-q-a . But the former is a bit "garbled up" and not easy to follow. Avoid this website.
+
 ==== dummy ====
   * https://www.retaildive.com/ seems ok. See for example https://www.retaildive.com/news/bed-bath-beyond-ceo-out-sales-fall-q1/626302/
   * https://www.modernretail.co/ seems good. See for example https://www.modernretail.co/retailers/bed-bath-beyond-ceo-exits-as-sales-decline-25/

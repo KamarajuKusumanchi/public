@@ -2,10 +2,30 @@
 ==== show after market prices in charts ====
 open the chart -> settings button at the top right -> Outside RTH -> drag to the right
 
+==== excess funds sweep ====
+IBKR Mobile -> Settings button at the top left -> Account Mangement -> Trading Permissions -> Settings (at the top left) -> Excess Funds Sweep -> Scroll to the bottom -> Excess Funds Sweep Method -> Sweep to Securities Account
+
+Notes:
+  * There are three options available - "Do not Sweep", "Sweep to Securities Account", "Sweep to Commodities Account".
+  * The default is set to "Do not Sweep". But this is not optimal.
+    * For example, you could have (positive cash in the overall portfolio, positive cash in the Commodities Account, negative cash in the Securities Account). In such situations, you'll end up paying interest on the negative cash balance in the Securities Account even if the overall cash in the portfolio is positive.
+  * Advantages of "Sweep to Securities Account"
+    * Cash in the Securities Account is insured by SIPC and Lloyds. But cash in the Commodities Account is uninsured.
+    * Cash in the Securities Account pays interest. But cash in the Commodities Account does not pay any interest.
+    * If you have excess cash in the Securities Account but the Commodities Account requires some additional cash to satisfy margin requirements, then IBKR automatically transfers cash from the Securities to Commodities Account.
+  * Advantages of "Sweep to Commodities Account"
+    * None. I can't think of any situation where choosing this option would make sense.
+  * If you change the sweep method, it will take one business day to go into effect.
+
+tags | which sweep is better securities or commodities?
 
 ===== dummy =====
 ==== useful links ====
   * comparison of different trading platforms - https://www.interactivebrokers.com/en/index.php?f=13868
 
 ==== links I came across ====
+  * https://ibkr.info/article/1445 - Key Margin Definitions
+  * https://www.interactivebrokers.com/en/trading/margin-rates.php - Interest charged on "Margin Loans"
+  * https://www.interactivebrokers.com/en/accounts/fees/pricing-interest-rates.php - Interest rates
   * https://www.interactivebrokers.com/en/software/am3/am/reporting/deliveredstatements.htm
+  * https://www.elitetrader.com/et/forums/interactive-brokers.92/ - to discuss software and services from Interactive Brokers

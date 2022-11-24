@@ -1,6 +1,8 @@
 Note:- My old blog is in http://raju.shoutwiki.com/wiki/Blog . I plan to migrate the articles from there to here as time permits.
 
 ==== 2022 ====
+  * 2022-11-08 [[Indented code blocks in dokuwiki]]
+
   * 2022-09-01 [[Impact of enabling SSL on google page indexing]]
 
   * 2022-08-11 [[Apply unix commands to all but the first line]]

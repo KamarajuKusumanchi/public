@@ -1,5 +1,5 @@
 ===== Tasks =====
-  * [[print all the rows and columns]]
+  * [[show_all_the_rows_and_columns]]
   * [[Add dates]]
   * [[Add commas]]
   * [[Get first element of series if not empty]]
@@ -49,6 +49,31 @@ In [4]: print(df2)
 0  648  175
 1  435  389
 </code>
+
+==== convert two columns of dataframe into a dictionary ====
+<code>
+df.set_index('id')['value'].to_dict()
+</code>
+
+Example
+<code>
+In [1]:
+import pandas as pd
+df = pd.DataFrame({'id': [0, 1, 2], 'value': [1.7, 5.2, 4.4]})
+df
+Out[1]:
+   id  value
+0   0    1.7
+1   1    5.2
+2   2    4.4
+
+In [2]:
+df.set_index('id')['value'].to_dict()
+Out[2]:
+{0: 1.7, 1: 5.2, 2: 4.4}
+</code>
+
+Ref:- https://stackoverflow.com/questions/18695605/python-pandas-dataframe-to-dictionary
 
 ===== dummy =====
 
@@ -344,30 +369,6 @@ Use float_format="%.2f"
 df.to_csv(file_path, float_format="%.2f")
 </code>
 
-==== convert two columns of dataframe into a dictionary ====
-<code>
-df.set_index('id')['value'].to_dict()
-</code>
-
-Example
-<code>
-In [1]:
-import pandas as pd
-df = pd.DataFrame({'id': [0, 1, 2], 'value': [1.7, 5.2, 4.4]})
-df
-Out[1]:
-   id  value
-0   0    1.7
-1   1    5.2
-2   2    4.4
-
-In [2]:
-df.set_index('id')['value'].to_dict()
-Out[2]:
-{0: 1.7, 1: 5.2, 2: 4.4}
-</code>
-
-Ref:- https://stackoverflow.com/questions/18695605/python-pandas-dataframe-to-dictionary
 
 ==== number of days between two YYYYMMDD string columns ====
 tags | number of days between two dates, convert YYYYMMDD to date
