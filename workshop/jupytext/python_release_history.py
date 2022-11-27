@@ -20,18 +20,23 @@ import requests
 from bs4 import BeautifulSoup
 import re
 from datetime import datetime
+import pandas as pd
 
 response = requests.get(url)
 soup = BeautifulSoup(response.text, 'html.parser')
 # print(soup)
 
-# We want to parse lines such as
-# <li><a class="reference external" href="https://docs.python.org/release/3.11.0/">Python 3.11.0</a>, documentation released on 24 October 2022.</li>
-#
-# -
 
+# +
+# We want to parse lines such as
+# <div class="section" id="python-documentation-by-version">
+# ...
+# <li><a class="reference external" href="https://docs.python.org/release/3.11.0/">Python 3.11.0</a>, documentation released on 24 October 2022.</li>
+# ...
+# </div>
 div = soup.find('div', attrs={'id': "python-documentation-by-version"})
 # print(div)
+release_data = []
 for link in div.findAll('li'):
     # Sample output:
     # link = '<li><a class="reference external" href="https://docs.python.org/release/3.11.0/">Python 3.11.0</a>, documentation released on 24 October 2022.</li>'
@@ -52,10 +57,12 @@ for link in div.findAll('li'):
     matches = re.search(', documentation released on (\d* .* \d*)\.?$', y)
     s = matches.group(1)
     release_date = datetime.strptime(s, '%d %B %Y').date()
-    print(release_tag, release_date)
+    release_data.append((release_date, release_tag))
+    
+# print(release_data)
+# -
 
-
-s = '24 October 2022'
-datetime.strptime(s, '%d %B %Y').date()
+releases = pd.DataFrame(release_data, columns=['release_date', 'release_tag'])
+releases
 
 
