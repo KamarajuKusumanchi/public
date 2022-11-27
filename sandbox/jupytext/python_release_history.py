@@ -64,7 +64,5 @@ for link in div.findAll('li'):
 # print(release_data)
 # -
 
-releases = pd.DataFrame(release_data, columns=['release_date', 'release_tag'])
+releases = pd.DataFrame(release_data, columns=['date', 'tag'])
 releases
-
-
