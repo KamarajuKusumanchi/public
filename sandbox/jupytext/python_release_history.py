@@ -13,6 +13,8 @@
 #     name: python3
 # ---
 
+# Use this file for experimentation. For integrating it into an applicaiton, checkout rutils/python3/src/release_history.py -> python_release_history()
+
 url = 'https://www.python.org/doc/versions/'
 
 # +
