@@ -1,3 +1,6 @@
+==== bill pay setup ====
+  * [[bill pay setup]]
+
 ==== frequently used ====
   * [[mtps notes]]
   * [[Robertsville Elementary School]]

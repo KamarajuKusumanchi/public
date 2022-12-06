@@ -102,6 +102,27 @@ https://www.dokuwiki.org/tips:book mentions two plugins that are useful for crea
     * Todo:- Try to come up with a small test case and report it upstream.
 
 ==== buggy plugins ====
+  * https://www.dokuwiki.org/plugin:tag version 2022-10-02 is broken. I am getting<code>
+022/12/06 16:38:23 [error] 2076452#2076452: *82 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class 'dokuwiki\Extension\Event' not found in /var/lib/dokuwiki/lib/plugins/tag/helper.php:227
+Stack trace:
+#0 /var/lib/dokuwiki/lib/plugins/tag/helper.php(169): helper_plugin_tag->tagLink()
+#1 /var/lib/dokuwiki/lib/plugins/tag/syntax/tag.php(80): helper_plugin_tag->tagLinks()
+#2 /usr/share/dokuwiki/inc/parser/renderer.php(111): syntax_plugin_tag_tag->render()
+#3 /usr/share/dokuwiki/inc/parserutils.php(654): Doku_Renderer->plugin()
+#4 /usr/share/dokuwiki/inc/parserutils.php(130): p_render()
+#5 /usr/share/dokuwiki/inc/parser" while reading upstream, client: 68.198.191.3, server: www.kamaraju.xyz, request: "GET /dk/bill_pay_setup HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.4-fpm.sock:", host: "www.kamaraju.xyz", referrer: "https://www.kamaraju.xyz/dk/bill_pay_notes"
+2022/12/06 16:38:23 [error] 2076452#2076452: *82 FastCGI sent in stderr: "utils.php(83): p_cached_output()
+#6 /usr/share/dokuwiki/inc/html.php(293): p_wiki_xhtml()
+#7 /usr/share/dokuwiki/inc/Action/Show.php(33): html_show()
+#8 /usr/share/dokuwiki/inc/template.php(98): dokuwiki\Action\Show->tplContent()
+#9 /usr/share/dokuwiki/inc/events.php(111): tpl_content_core()
+#10 /usr/share/dokuwiki/inc/events.php(256): Doku_Event->trigger()
+#11 /usr/share/dokuwiki/inc/template.php(83): trigger_event()
+</code>
+where the bill_pay_setup page contains the following line<code>
+{{tag>tag1 tag2 tag3}}
+</code>
+
   * https://www.dokuwiki.org/plugin:keywords - add keywords to the wiki pages
     * The keywords are not rendered but you can search on them (expected behaviour).
     * issues:

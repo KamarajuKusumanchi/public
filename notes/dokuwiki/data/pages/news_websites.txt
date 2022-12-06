@@ -1,3 +1,7 @@
+==== Alternatives to WSJ ====
+  * https://www.livemint.com/
+    * The article "Investors Yank Money From Commercial-Property Funds, Pressuring Real-Estate Values" is available at WSJ (https://www.wsj.com/articles/investors-yank-money-from-commercial-property-funds-pressuring-real-estate-values-11670293325). It is also available at livemint (https://www.livemint.com/market/stock-market-news/investors-yank-money-from-commercial-property-funds-pressuring-real-estate-values-11670329761658.html).
+
 ==== WSJ links ====
   * https://www.wsj.com/amp/livecoverage/stock-market-news-today-08-02-2022
     * https://www.wsj.com/livecoverage/stock-market-news-today-08-02-2022 also works. But I like the amp version.

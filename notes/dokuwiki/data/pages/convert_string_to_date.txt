@@ -1,0 +1,83 @@
+===== Convert string to date =====
+==== single date string; without pandas; to datetime.date ====
+Use <code>
+from datetime import datetime
+datetime.strptime(date_str, date_fmt).date()
+</code>
+Example:
+<code>
+$ ipython
+Python 3.10.6 | packaged by conda-forge | (main, Oct 24 2022, 16:02:16) [MSC v.1916 64 bit (AMD64)]
+Type 'copyright', 'credits' or 'license' for more information
+IPython 8.4.0 -- An enhanced Interactive Python. Type '?' for help.
+
+In [1]:
+from datetime import datetime
+s = '24 October 2022'
+dt = datetime.strptime(s, '%d %B %Y').date()
+
+In [2]:
+print(dt)
+2022-10-24
+
+In [3]:
+type(dt)
+Out[3]:
+datetime.date
+</code>
+
+Ref:-
+  * https://stackoverflow.com/questions/9504356/convert-string-into-date-type-on-python - where I found the answer
+  * https://docs.python.org/3/library/datetime.html#strftime-and-strptime-format-codes - shows the list of all the format codes such as %B, %Y.
+
+==== series of date strings; using pandas ====
+use <code>
+df[col_name] = pd.to_datetime(df[col_name], format_str)
+</code>
+For example <code>
+$ ipython
+Python 3.10.6 | packaged by conda-forge | (main, Oct 24 2022, 16:02:16) [MSC v.1916 64 bit (AMD64)]
+Type 'copyright', 'credits' or 'license' for more information
+IPython 8.4.0 -- An enhanced Interactive Python. Type '?' for help.
+
+In [1]:
+import pandas as pd
+data = {'date': ["2022-10-24", "2022-10-08", "2022-09-06", "2022-08-08", "2022-06-06"],
+        'tag': ["3.11.0", "3.10.8", "3.10.7", "3.10.6", "3.10.5"]}
+df = pd.DataFrame(data)
+
+In [2]:
+print(df)
+         date     tag
+0  2022-10-24  3.11.0
+1  2022-10-08  3.10.8
+2  2022-09-06  3.10.7
+3  2022-08-08  3.10.6
+4  2022-06-06  3.10.5
+
+In [3]:
+print(df.dtypes)
+date    object
+tag     object
+dtype: object
+
+In [4]:
+df['date'] = pd.to_datetime(df['date'], format='%Y-%m-%d')
+
+In [5]:
+print(df)
+        date     tag
+0 2022-10-24  3.11.0
+1 2022-10-08  3.10.8
+2 2022-09-06  3.10.7
+3 2022-08-08  3.10.6
+4 2022-06-06  3.10.5
+
+In [6]:
+print(df.dtypes)
+date    datetime64[ns]
+tag             object
+dtype: object
+</code>
+
+See also: https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html

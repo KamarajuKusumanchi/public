@@ -1,5 +1,100 @@
 
 
+==== 2022-12-06 ====
+Notes from https://www.livemint.com/market/stock-market-news/investors-yank-money-from-commercial-property-funds-pressuring-real-estate-values-11670329761658.html
+  * The Blackstone and Starwood funds are the two largest nontraded real-estate investment trusts
+    * Blackstone's real-estate fund is known as Blackstone Real Estate Income Trust Inc., or BREIT.
+      * AUM = \$69 billion.
+      * quarterly redemption limit of 5% of the fund’s net assets
+    * Starwood Capital Group's fund is \$14.6 billion
+      * 
+  * BlackRock, M&G Group, Schroders PLC, CBRE Investment Management and Legal & General
+  * FTSE NAREIT All Equity REITs Index
+    * tracks publicly traded landlords
+  * Appraisals look backwards, and markets look forward
+  * Washington State Investment Board
+    * state pension fund
+
+==== 2022-12-05 ====
+Notes from https://www.bloomberg.com/news/articles/2022-12-04/dollar-edges-up-amid-focus-on-jobs-report-china-markets-wrap?srnd=premium
+  * Morgan Stanley’s Michael Wilson, one of the US stock market’s most-vocal skeptics
+
+==== 2022-12-02 ====
+Notes from https://www.wsj.com/articles/psychos-in-the-c-suite-personality-disorder-exploit-ftx-elizabeth-holmes-scam-guilt-empathy-deceit-prison-11669926950?mod=hp_opin_pos_3#cxrecs_s
+  * By Peggy Noonan
+  * Elizabeth Holmes was just sentenced to 11 years in federal prison
+  * Visionaries often leave the details to others!
+  * To the Democrats Sam Bankman-Fried was the biggest thing since George Soros.
+  * FTX’s new CEO, John Ray
+  * the crypto firm BlockFi filed for bankruptcy in New Jersey and Bermuda
+  * public weal
+  * Most interesting in psychopaths is the lack of remorse. They don’t like being caught—that upsets them—but they don’t mind causing others harm. It’s their superpower.
+
+Notes from https://www.bloomberg.com/news/features/2022-12-02/inside-sam-bankman-fried-s-bahamian-penthouse-after-ftx-s-collapse?srnd=premium
+  * Terra and Luna collapsed, wiping out $60 billion
+  * Terra and Luna were almost openly a Ponzi scheme
+  * only kibitzing on parts of the discussion
+  * laptop (an Acer Predator)
+  * skin-colored patch
+  * transdermal antidepressant, selegiline
+  * takes Adderall—“10 milligrams at a time, a few times a day”
+
+==== 2022-12-01 ====
+Notes from https://www.wsj.com/articles/blackstone-limits-redemptions-from-real-estate-vehicle-stock-sinks-11669920880
+  * BREIT
+    * nav = $69 billion
+    * designed to generate steady cash flows
+    * ytd: 9.3%, since inception: 13.1% per year, annualized distribution rate: 4.4%
+    * redemption limits = {monthly: 2%, quarterly: 5%}
+    * invested heavily in rental housing and logistics in the Sunbelt region of the U.S.
+    * $9.3 billion of immediate liquidity
+    * $9 billion of debt securities it could sell if needed
+    * selling its 49.9% stake in MGM Grand Las Vegas and the Mandalay Bay
+      * the deal values the properties at $5.5 billion
+      * will deliver a profit of more than $700 million to BX
+      * BX bought them less than three years ago
+      * will give BREIT $1.27 billion in cash
+  * BREIT redemptions
+    * bulk of the redemption requests are coming from Asia
+  * BX
+    * market cap ~ $100 billion
+
+Notes from https://www.wsj.com/articles/credit-score-washing-identity-theft-11669848797
+  * credit washing
+  * Most negative information, like missed payments, stay on a person’s credit reports for seven years
+  * Credit-repair companies
+    * Turbo Solutions Inc
+      * broke federal rules by collecting fees before providing services
+    * The Credit Game
+    * DoNotPay
+
+Notes from https://www.barrons.com/articles/costco-november-sales-51669916824?siteid=yhoof2
+  * the SPDR S&P Retail ETF (XRT)
+
+Notes from https://www.cnn.com/2022/02/05/business/costco-kirkland-signature/index.html
+  * Private brands of Walmart - Great Value household staples and George men’s clothing
+  * Private brands of Target - Cat & Jack kids’ clothing and Good & Gather food
+  * “If you get 99 things right and one thing wrong, people are going to remember the one thing. So you don’t get it wrong,” said Costco finance chief Richard Galanti.
+
+==== 2022-11-30 ====
+  * three of the largest nonprofit blood centers in the U.S. Vitalant, OneBlood and the American Red Cross
+From https://www.wsj.com/articles/early-alameda-staffers-quit-after-battling-sam-bankman-fried-over-risk-compliance-concerns-11669810723
+  * the firm's trading capital was commingled with operating cash (money dedicated to run the firm)
+  * Jane Street Capital LLC, a firm that has extensive risk controls
+  * risk, compliance and accounting
+From https://www.wsj.com/articles/u-s-government-to-backstop-mortgages-above-1-million-mark-for-first-time-11669740331
+  * The maximum size of home-mortgage loans eligible for backing by Fannie Mae and Freddie Mac will rise to \$1,089,300 next year in a few expensive markets, from \$970,800 this year
+  * FHFA = the Federal Housing Finance Agency
+  * FHFA oversees mortgage-finance giants
+  * For most parts of the country, loan limits will rise to \$726,200 from a 2022 maximum of \$647,200
+  * By law, loan limits are calculated annually using a formula that factors in average housing prices.
+  * about 100 counties and county equivalents, out of about 3,000 across the U.S. are designated as high-cost markets
+  * Mortgages within the limits are called conforming loans. Mortgages that exceed the limit are known as jumbo mortgages.
+  * Conforming loans have lower closing costs, require smaller down payments
+  * Fannie and Freddie don’t make loans. Instead, they buy mortgages from lenders and package them into securities that are sold to investors
+  * Fannie and Freddie backstop roughly half of the \$13 trillion mortgage market
+  * the Housing Policy Council, a housing-industry trade group that generally favors boosting the role of private capital in the mortgage market
+
 ==== 2022-11-20 ====
 From https://www.wsj.com/articles/sam-bankman-fried-ftx-alameda-bankruptcy-collapse-11668824201
   * Bughouse chess, a fast version of the game played by four players on two boards

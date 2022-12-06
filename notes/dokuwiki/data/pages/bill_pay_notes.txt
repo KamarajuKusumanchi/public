@@ -1,0 +1,17 @@
+==== bill pay setup ====
+  * For water bill <code>
+  To the order of:
+    Marlboro Township Town Hall
+    Water Utility Division
+    1979 Township Drive
+    Marlboro, NJ 07746-2247
+</code>
+
+  * For sewage <code>
+  To the order of:
+    Western Monmouth Utilities Aut
+    103 Pension Road
+    Manalapan, NJ 07726-8401
+</code>
+
+tags | wmua, water bill
