@@ -1,0 +1,16 @@
+==== after reboot ====
+<code>
+@reboot /path/to/start_file_server.sh
+</code>
+
+five minutes after reboot
+<code>
+@reboot sleep 300 && /path/to/start_file_server.sh
+</code>
+
+It works for normal users (does not have to be root).
+
+Ref:-
+  * Go to the man page ["man 5 crontab", https://manpages.debian.org/bullseye/cron/crontab.5.en.html ] -> search for reboot
+
+{{tag>["run a command as a user after machine starts"]}}

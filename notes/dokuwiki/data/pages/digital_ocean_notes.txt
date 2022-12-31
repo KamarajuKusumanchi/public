@@ -1,0 +1,6 @@
+==== do-agent ====
+  * https://docs.digitalocean.com/products/monitoring/how-to/install-agent/  - provides the instructions to install the DigitalOcean Metrics Agent
+  * This will install a package called do-agent.
+  * If you face any issues during the installation, file a issue at https://github.com/digitalocean/do-agent/issues
+  * One such issue I filed on 2022-12-12 - https://github.com/digitalocean/do-agent/issues/286
+

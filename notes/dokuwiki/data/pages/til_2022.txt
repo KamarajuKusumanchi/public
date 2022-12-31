@@ -1,4 +1,7 @@
 
+==== 2022-12-11 ====
+  * https://manpages.debian.org/ - you can access all manpages contained in Debian using this website. Sample link: https://manpages.debian.org/bullseye/cron/crontab.5.en.html
+
 ==== 2022-11-11 ====
   * https://pandas.pydata.org/docs/reference/api/pandas.merge_asof.html - similar to a left-join except that we match on nearest key rather than equal keys. It is useful for "projecting" low frequency data onto high frequency. For example, a company might release earnings only 4 times a year. But using this function, you can get the "latest" earnings as of a given date.
 

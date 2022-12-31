@@ -1,5 +1,65 @@
 
 
+==== 2022-12-27 ====
+Notes from https://www.bloomberg.com/news/articles/2022-12-27/alameda-lent-bankman-fried-546-million-for-robinhood-stake?srnd=premium
+  * 8% stake in Robinhood for $546 million; 56 million shares
+  * Antigua, New Jersey and Delaware
+  * Emergent Fidelity Technologies, the corporate entity that owns the Robinhood shares
+  * Bankman-Fried owns 90% of Emergent and Wang owns the rest
+
+==== 2022-12-20 ====
+In regards to https://www.wsj.com/articles/bank-of-japan-blinked-in-standoff-with-markets-11671542586
+  * Well written; easy to understand. Checkout the other articles from the author - James Mackintosh.
+
+==== 2022-12-14 ====
+Notes from https://finance.yahoo.com/news/interactive-brokers-ibkr-records-decline-154203535.html
+  * Daily Average Revenue Trades (DARTs)
+
+==== 2022-12-12 ====
+Notes from  https://www.bloomberg.com/news/articles/2022-12-12/morgan-stanley-goldman-say-earnings-are-biggest-risk-for-stocks
+  * Strategists
+    * Morgan Stanley’s Michael Wilson
+      * ranked No. 1 in the latest Institutional Investor survey
+    * Goldman Sachs's David Kostin
+
+==== 2022-12-07 ====
+Notes from https://www.bloomberg.com/news/articles/2022-12-07/lazard-ceo-sees-chance-to-hire-talented-bankers-goldman-update?srnd=premium
+  * Virtu Financial
+    * CEO is Douglas Cifu
+  * Brookfield Asset Management
+    * CEO Bruce Flatt
+    * Toronto-based alternative asset manager
+    * $125 billion of capital to deploy as of the end of September
+    * acquired control of Oaktree Capital in 2019
+  * MSCI US REIT Index
+  * BNY Mellon
+    * Roman Regelman, CEO of securities services and digital
+  * Blackstone
+    * CEO Steve Schwarzman
+  * Cboe Global Markets
+    * Chicago-based
+    * CEO Ed Tilly
+    * operates Cboe Digital
+    * the traditional model where customers are represented by their agents, and those brokers or agents are part of the exchange
+    * got into cryptocurrencies this year with the acquisition of Eris Digital Holdings LLC
+  * Citigroup
+    * CEO Jane Fraser
+    * October and November were good months in terms of trading activity
+  * U.S. Bancorp
+    * CEO Andy Cecere
+  * Allstate 
+    * CEO Tom Wilson
+    * target combined ratio
+  * Apollo Global Management
+    * CEO Marc Rowan
+    * credit-focused firm
+    * India and the Middle East are attractive
+    * AUM $523 billion asof 2022-09
+  * Lazard
+    * CEO Ken Jacobs
+    * boutique investment banks Moelis & Co. and Perella Weinberg Partners
+    * Ken Moelis, founder and CEO of Moelis
+
 ==== 2022-12-06 ====
 Notes from https://www.livemint.com/market/stock-market-news/investors-yank-money-from-commercial-property-funds-pressuring-real-estate-values-11670329761658.html
   * The Blackstone and Starwood funds are the two largest nontraded real-estate investment trusts

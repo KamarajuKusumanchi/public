@@ -24,6 +24,12 @@
     * I came across https://www.pehalnews.in/why-one-asset-manager-avoided-ftx-before-the-storm-bitwise-qa/2625365/ which is supposed to be same as https://www.bloomberg.com/news/articles/2022-11-19/why-one-asset-manager-avoided-ftx-before-the-storm-bitwise-q-a . But the former is a bit "garbled up" and not easy to follow. Avoid this website.
 
 ==== dummy ====
+  * https://www.afr.com/ - Australian Financial Review or abbreviated to AFR
+    * The AFR is an Australian business-focused, compact daily newspaper covering the current business and economic affairs of Australia and the world.
+    * Sample links:
+      * https://www.afr.com/world/north-america
+      * https://www.afr.com/companies/financial-services/ftx-s-inner-circle-had-a-secret-chat-group-called-wirefraud-20221213-p5c5sx
+
   * https://www.retaildive.com/ seems ok. See for example https://www.retaildive.com/news/bed-bath-beyond-ceo-out-sales-fall-q1/626302/
   * https://www.modernretail.co/ seems good. See for example https://www.modernretail.co/retailers/bed-bath-beyond-ceo-exits-as-sales-decline-25/
 

@@ -27,3 +27,37 @@ or
 
 ==== links I came across ====
   * https://support.google.com/chrome/answer/157179 - chrome keyboard shortcuts
+
+===== Extensions =====
+==== Install bypass paywalls ====
+Ref:- https://github.com/iamadamdev/bypass-paywalls-chrome
+
+<code>
+cd $software/zipped
+mkdir bypass_paywalls
+cd bypass_paywalls
+curl -L -O https://github.com/iamadamdev/bypass-paywalls-chrome/archive/master.zip
+</code>
+
+Create a backup of previously unzipped version.
+<code>
+cd ../unZipped
+make_bkup.py bypass-paywalls-chrome-master
+rm -rf bypass-paywalls-chrome-master
+</code>
+
+Unzip the latest version
+<code>
+unzip ../zipped/bypass_paywalls/master.zip
+</code>
+This will unzip everything into $software/unZipped/bypass-paywalls-chrome-master
+
+<code>
+chrome -> chrome://extensions/
+Enable Developer mode
+-> Load unpacked
+select $software/unZipped/bypass-paywalls-chrome-master
+</code>
+
+related:
+  * https://github.com/iamadamdev/bypass-paywalls-chrome/archive/v1.7.5.zip - link to download a specific version.

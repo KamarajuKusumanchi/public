@@ -1,0 +1,13 @@
+==== hdmi cable from laptop to external monitor ====
+Issue: I was not getting any sound when the HDMI cable is connected from the laptop (LG Gram 15) to an external monitor (Samsung Syncmaster PX2370).
+
+Additional info: The monitor is not connected to any external speakers.
+
+Fix:
+<code>
+Control panel -> View by: Small icons -> Sound -> Playback
+-> Select a playback device below to modify its settings:
+-> select "Speakers; Conexant HD Audio" -> Set Default -> OK.
+</code>
+
+Before I changed it to the above setting, it was set to "SyncMaster; Intel(R) Display Audio" which was not working.

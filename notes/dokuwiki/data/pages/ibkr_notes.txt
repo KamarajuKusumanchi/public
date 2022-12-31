@@ -38,6 +38,7 @@ print(interest)
 
 ===== dummy =====
 ==== useful links ====
+  * https://ibkr.info/article/1851 - Cash Sweeps
   * comparison of different trading platforms - https://www.interactivebrokers.com/en/index.php?f=13868
 
 ==== interest rates ====

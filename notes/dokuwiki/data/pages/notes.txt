@@ -3,6 +3,7 @@
 {{page>python_pages&nofooter}}
 
 ==== linux cli ====
+  * [[cron notes]]
   * [[grep usage]]
   * [[linux_notes]]
   * [[ls usage]]
@@ -102,6 +103,7 @@
   * [[2020 presidential election]]
   * [[about]]
   * [[WFH setup]]
+  * [[hdmi notes]]
   * [[admin log]]
   * [[youtube notes]]
   * [[sed notes]]
@@ -141,6 +143,7 @@
   * [[drug finder]]
   * [[nist notes]]
   * [[ibkr notes]]
+  * [[treasuries notes]]
   * [[insurance]]
   * [[personal finance]]
   * [[bookmarks]]
@@ -174,6 +177,10 @@
   * [[links I came across]]
   * [[flu vaccine]]
   * [[dictionaries]]
+  * [[digital ocean notes]]
+  * [[sp500 notes]]
+  * [[coupons]]
+  * [[SSMS notes]]
 
 ==== by date ====
   * [[reading journal 2022]]

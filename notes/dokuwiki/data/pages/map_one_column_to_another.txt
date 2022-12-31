@@ -1,0 +1,139 @@
+==== map one series to another in a case insensitive manner ====
+
+Given two dataframes
+<code>
+df1
+        Item    Team
+0    jetties  Team_1
+1      Jetty  Team_2
+2  Joint use  Team_1
+
+df2
+        Item
+0      Jetty
+1    Jetties
+2  Joint use
+</code>
+
+map df2['Item'] to the corresponding Team using df1 as the lookup table.
+
+Expected output (if case is included):
+<code>
+        Item Team_include_case
+0      Jetty            Team_2
+1    Jetties               NaN
+2  Joint use            Team_1
+</code>
+
+Expected output (if case is ignored):
+<code>
+        Item Team_ignore_case
+0      Jetty           Team_2
+1    Jetties           Team_1
+2  Joint use           Team_1
+</code>
+
+Solution:
+<code>
+ % cat 72994107_v4.py 
+import pandas as pd
+
+df1 = pd.DataFrame({
+    "Item": ["jetties", "Jetty", "Joint use"],
+    "Team": ["Team_1", "Team_2", "Team_1"]
+})
+print("df1")
+print(df1)
+
+df2 = pd.DataFrame({"Item": ["Jetty", "Jetties", "Joint use"]})
+print("df2")
+print(df2)
+
+
+def map_series(s, df, key_col, value_col, ignore_case):
+    if ignore_case:
+        result = s.str.lower().map(
+            df.assign(**{key_col: df[key_col].str.lower()})
+              .set_index(key_col)[value_col]
+        )
+    else:
+        result = s.map(df.set_index(key_col)[value_col])
+    return result
+
+
+df2["Team_include_case"] = map_series(
+    df2["Item"], df1, "Item", "Team", ignore_case=False
+)
+df2["Team_ignore_case"] = map_series(
+    df2["Item"], df1, "Item", "Team", ignore_case=True
+)
+print("after mapping")
+print(df2)
+</code>
+
+Sample run:
+<code>
+ % python 72994107_v4.py
+df1
+        Item    Team
+0    jetties  Team_1
+1      Jetty  Team_2
+2  Joint use  Team_1
+df2
+        Item
+0      Jetty
+1    Jetties
+2  Joint use
+after mapping
+        Item Team_include_case Team_ignore_case
+0      Jetty            Team_2           Team_2
+1    Jetties               NaN           Team_1
+2  Joint use            Team_1           Team_1
+</code>
+
+Ref:
+  * https://stackoverflow.com/questions/72994107/pandas-using-map-and-ignore-case-sensitivity - I posted the above answer there.
+  * https://stackoverflow.com/questions/39767718/pandas-assign-with-new-column-name-as-string - shows how to pass a string variable to the dataframe assign function
+
+{{tag>["pandas dataframe assign string as variable"]}}
+==== map one column to another ====
+<code>
+% ipython
+Python 3.8.5 (default, Sep  4 2020, 07:30:14) 
+Type 'copyright', 'credits' or 'license' for more information
+IPython 7.18.1 -- An enhanced Interactive Python. Type '?' for help.
+
+In [1]: import pandas as pd
+   ...: mapping = pd.DataFrame({'day': ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'], 'daynum': range(1, 8)})
+   ...: print(mapping)
+   day  daynum
+0  Sun       1
+1  Mon       2
+2  Tue       3
+3  Wed       4
+4  Thu       5
+5  Fri       6
+6  Sat       7
+
+In [2]: df = pd.DataFrame({'x': [5, 2, 7, 0, 1, 8], 'y': [59, 63, 66, 61, 46, 66]})
+   ...: print(df)
+   x   y
+0  5  59
+1  2  63
+2  7  66
+3  0  61
+4  1  46
+5  8  66
+
+In [3]: df['z'] = df['x'].map(mapping.set_index('daynum')['day'])
+   ...: print(df)
+   x   y    z
+0  5  59  Thu
+1  2  63  Mon
+2  7  66  Sat
+3  0  61  NaN
+4  1  46  Sun
+5  8  66  NaN
+</code>
+
+See also: https://stackoverflow.com/questions/46049658/mapping-columns-from-one-dataframe-to-another-to-create-a-new-column - shows other possible solutions

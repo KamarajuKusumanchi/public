@@ -1,0 +1,9 @@
+==== links I came across ====
+  * https://ycharts.com/indicators/sp_500_monthly_return
+  * https://ycharts.com/indicators/sp_500_monthly_total_return
+  * https://ycharts.com/indicators/sp_500_pe_ratio
+  * https://ycharts.com/indicators/sp_500_price_to_book_ratio
+  * https://ycharts.com/indicators/sp_500_market_cap
+  * https://ycharts.com/indicators/sp_500_1_year_return
+  * https://ycharts.com/indicators/sp_500_eps
+  * https://ycharts.com/indicators/sp_500_earnings_per_share_forward_estimate

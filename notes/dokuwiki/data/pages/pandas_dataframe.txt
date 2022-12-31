@@ -1,5 +1,6 @@
 ===== Tasks =====
-  * [[show_all_the_rows_and_columns]]
+  * [[map one column to another]]
+  * [[show all the rows and columns]]
   * [[Add dates]]
   * [[Add commas]]
   * [[Get first element of series if not empty]]
@@ -8,7 +9,6 @@
   * [[set index from 0 to N]]
   * [[Convert a dictionary of dataframes to a big dataframe]]
   * [[Convert string to date]]
-
 
 ===== convert stuff =====
 
@@ -283,47 +283,6 @@ orignal df
 ==== how to do XYZ ====
   * https://stackoverflow.com/questions/51705595/pandas-map-values-from-one-column-to-another-column - shows how to link the previous position of a vehicle with its current position. Solution uses groupby + shift + (bfill or fillna)
 
-==== map one column to another ====
-<code>
-% ipython
-Python 3.8.5 (default, Sep  4 2020, 07:30:14) 
-Type 'copyright', 'credits' or 'license' for more information
-IPython 7.18.1 -- An enhanced Interactive Python. Type '?' for help.
-
-In [1]: import pandas as pd
-   ...: mapping = pd.DataFrame({'day': ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'], 'daynum': range(1, 8)})
-   ...: print(mapping)
-   day  daynum
-0  Sun       1
-1  Mon       2
-2  Tue       3
-3  Wed       4
-4  Thu       5
-5  Fri       6
-6  Sat       7
-
-In [2]: df = pd.DataFrame({'x': [5, 2, 7, 0, 1, 8], 'y': [59, 63, 66, 61, 46, 66]})
-   ...: print(df)
-   x   y
-0  5  59
-1  2  63
-2  7  66
-3  0  61
-4  1  46
-5  8  66
-
-In [3]: df['z'] = df['x'].map(mapping.set_index('daynum')['day'])
-   ...: print(df)
-   x   y    z
-0  5  59  Thu
-1  2  63  Mon
-2  7  66  Sat
-3  0  61  NaN
-4  1  46  Sun
-5  8  66  NaN
-</code>
-
-See also: https://stackoverflow.com/questions/46049658/mapping-columns-from-one-dataframe-to-another-to-create-a-new-column - shows other possible solutions
 
 ==== start column numbers from 1 ====
 By default, column numbers start from 0.

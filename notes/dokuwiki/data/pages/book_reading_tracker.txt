@@ -6,6 +6,18 @@ Policy:
 Why:
   * Goodreads assumes that you read from beginning to end. But I tend to read couple of pages here and there. This is my naive way to keep track of the progress.
 
+==== Test-Driven Development with Python ====
+Book details:
+  * Test-Driven Development with Python - Harry J. W. Percival - 2017 - 2nd edition
+  * Pages: {total in pdf: 614, front matter: 1-38, content: 39-602, back matter: 603-614}
+  * Why I wanted to read it:
+    * I was looking for a book that discusses "authentication"
+  * Will be using the pages in the book (and not pdf) to track the progress.
+
+^ date ^ pages ^ overall progress ^ notes ^
+| 2022-12-12 | [xv-xxv] | [xv-xxv] | pg-xxvi asks to install Geckodriver. Do that before continuing. |
+| 2022-12-13 | [xxvi-xxvi] | [xv-xxvi] | Installing geckodriver was easy. \\ The .tar.gz contains a single file called geckodriver! |
+
 ==== The Vest Pocket CPA ====
 Book details:
   * The Vest Pocket CPA - Joel G. Siegel, Nick A. Dauber, Jae K. Shim - edition 4 - 2008
