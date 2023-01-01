@@ -1,3 +1,6 @@
+==== reference urls ====
+  * source code - https://github.com/splitbrain/dokuwiki
+
 ==== check dokuwiki version running ====
   * Login as admin and go to https://www.kamaraju.xyz/dk/doku.php?do=check
     * Note:- If you do not login as admin, the version number is not displayed.

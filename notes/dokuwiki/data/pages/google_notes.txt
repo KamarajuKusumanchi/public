@@ -1,3 +1,20 @@
+==== Alternatives to google search ====
+  * https://gigablast.com/
+    * https://gigablast.com/about.html
+  * https://neeva.com/ - fremium model
+  * https://millionshort.com/ - shows more results on a single screen. Can filter out top 10^n websites.
+  * https://quickref.dev/
+  * seeres.com
+  * qwant.com
+  * jivesearch.com - open source, Code - https://github.com/jivesearch/jivesearch
+  * yandex.ru
+  * duckduckgo.com
+  * startpage.com
+  * searx - asciimoo.github.io/searx, https://searx.me/,  https://github.com/asciimoo/searx
+  * bing.com
+  * ecosia.org
+  * mojeek.com
+
 ==== compress existing photos & videos ====
 https://photos.google.com/quotamanagement -> Recover storage -> Convert existing photos & videos to Storage saver
 -> Learn more

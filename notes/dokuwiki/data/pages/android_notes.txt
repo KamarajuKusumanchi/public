@@ -1,3 +1,9 @@
+===== tasks =====
+==== stop syncing photos to google photos ====
+
+Launch google photos -> profile picture -> photos settings -> Backup -> Back up photos & videos from this device to your Google Account -> slide to left.
+
+
 ===== dummy =====
 ==== what is my phone number ====
 Settings -> About phone
