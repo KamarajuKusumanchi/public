@@ -1,6 +1,6 @@
 ===== Convert a dictionary of dataframes to a big dataframe =====
 ==== Task ====
-Given a dictionary strings to dataframes, create an expanded dataframe by putting the keys into their own column. For example, given
+Given a dictionary of strings to dataframes, create an expanded dataframe by putting the keys into their own column. For example, given
 <code>
 {'COST':    fiscal_quarter_end  reported_date
  0              202102       20210304

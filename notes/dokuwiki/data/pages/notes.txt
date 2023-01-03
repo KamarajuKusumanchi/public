@@ -46,6 +46,7 @@
   * [[git bash notes]]
   * [[bash notes]]
   * [[shell scripting notes]]
+  * [[zsh notes]]
   * [[github notes]]
   * [[DigitalOcean notes]]
   * [[feedly notes]]
@@ -182,6 +183,7 @@
   * [[coupons]]
   * [[SSMS notes]]
   * [[gigablast notes]]
+  * [[dfc notes]]
 
 ==== by date ====
   * [[reading journal 2022]]

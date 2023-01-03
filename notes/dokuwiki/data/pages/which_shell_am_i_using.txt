@@ -1,0 +1,26 @@
+==== Which shell am I using? ====
+Q. Which shell am I using?
+
+A. There are two ways
+
+<code>
+% echo $0
+/usr/bin/zsh
+
+% ps -p $$
+  PID TTY          TIME CMD
+29189 pts/1    00:00:00 zsh
+</code>
+
+If necessary, the last command can be parsed as follows.
+<code>
+% ps -hp $$|awk '{print $5}'
+/usr/bin/zsh
+</code>
+
+{{tag>["What shell am I using?"]}}
+
+==== related pages ====
+  * [[Change the default shell]]
+  * [[Difference between SHELL and 0 | What is the difference between \$SHELL and \$0?]]
+  

@@ -1,6 +1,9 @@
 ==== tasks ====
   * [[add numbers on the command line]]
   * [[du on month end dates]]
+  * [[change the default shell]]
+  * [[Which shell am I using | Which shell am I using?]]
+  * [[Difference between SHELL and 0 | What is the difference between \$SHELL and \$0?]]
 
 ==== last reboot times ====
 <code>

@@ -1,0 +1,30 @@
+==== change the default shell ====
+Method 1:
+
+Use ~/.profile .
+
+For example, to change the default shell to bash, add the following lines to ~/.profile
+<code>
+# Change the default shell to bash
+eval /bin/bash
+</code>
+
+Method 2:
+
+use chsh.
+For example, to set the default shell to zsh.
+<code>
+rajulocal@hogwarts ~ % chsh -s /usr/bin/zsh 
+Password:
+</code>
+
+{{tag> ["login shell" bash zsh]}}
+
+==== check the default shell ====
+<code>
+echo $SHELL
+</code>
+
+==== related pages ====
+  * [[Which shell am I using | Which shell am I using?]]
+  * [[Difference between SHELL and 0 | What is the difference between \$SHELL and \$0?]]

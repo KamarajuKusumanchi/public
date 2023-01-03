@@ -1,4 +1,6 @@
 ==== tasks ====
+Policy: group | related items, sort by | descending order of (nontriviality, interestingness, and usefulness etc.,)
+
   * [[convert dict of dicts to list of dicts]]
   * [[Convert a dictionary of dataframes to a big dataframe]]
 
@@ -12,3 +14,48 @@ d
 Out[1]:
 {'sun': 1, 'mon': 2, 'tue': 3}
 </code>
+
+==== merge python dictionaries ====
+
+To merge two python dictionaries
+<code>
+def merge_two_dicts(x, y):
+    '''
+    Given two dicts, merge them into a new dict as a shallow copy.
+    For common keys, the values in y take precedence over values in x.
+    '''
+    z = x.copy()
+    z.update(y)
+    return z
+</code>
+
+Sample usage:
+<code>
+>>> x = {'a': 1, 'b': 2}
+>>> y = {'b': 3, 'c': 4}
+>>> z = merge_two_dicts(x, y)
+>>> z
+{'a': 1, 'c': 4, 'b': 3}
+</code>
+
+
+To merge an undefined number of dicts
+<code>
+def merge_dicts(*dict_args):
+    '''
+    Given any number of dicts, shallow copy and merge into a new dict,
+    precedence goes to key value pairs in latter dicts.
+    '''
+    result = {}
+    for dictionary in dict_args:
+        result.update(dictionary)
+    return result
+</code>
+
+Given dicts a to g
+<code>
+z = merge_dicts(a, b, c, d, e, f, g) 
+</code>
+will give a new dict z with all the key-value pairs. If same key exists in multiple dictionaries, the right most one will take precedence.
+
+Ref:- http://stackoverflow.com/questions/38987/how-to-merge-two-python-dictionaries-in-a-single-expression

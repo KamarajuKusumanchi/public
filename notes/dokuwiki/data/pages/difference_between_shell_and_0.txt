@@ -1,0 +1,53 @@
+==== Difference between \$SHELL and \$0 ====
+Q. What is the difference between \$SHELL and \$0?
+
+A.
+  * \$SHELL is just an environment variable that gives the absolute path to the user's default login shell.
+  * \$0 gives the absolute path of the current shell.
+
+For example, if you launch a new shell from the current shell, \$SHELL will not
+change but \$0 will.
+
+<code>
+% echo "\$0 is $0; \$SHELL is $SHELL"
+$0 is /usr/bin/zsh; $SHELL is /usr/bin/zsh
+
+% dash
+$ echo "\$0 is $0; \$SHELL is $SHELL"
+$0 is dash; $SHELL is /usr/bin/zsh
+
+$ bash
+$ echo "\$0 is $0; \$SHELL is $SHELL"
+$0 is bash; $SHELL is /usr/bin/zsh
+
+$ sh
+$ echo "\$0 is $0; \$SHELL is $SHELL"
+$0 is sh; $SHELL is /usr/bin/zsh
+</code>
+
+A running shell does not control \$SHELL. It is set by the 'login' process and
+is exported to the child processes. The 'login' process uses /etc/passwd file
+to set the \$SHELL variable.
+
+See also: 'man 1 login'
+
+Tested this with
+
+<code>
+ % dpkg -l zsh dash bash sh | cut -c 1-72
+dpkg-query: no packages found matching sh
+Desired=Unknown/Install/Remove/Purge/Hold
+| Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Tri
+|/ Err?=(none)/Reinst-required (Status,Err: uppercase=bad)
+||/ Name           Version      Architecture Description
++++-==============-============-============-===========================
+ii  bash           4.3-11+b1    amd64        GNU Bourne Again SHell
+ii  dash           0.5.7-4+b1   amd64        POSIX-compliant shell
+ii  zsh            5.0.7-5      amd64        shell with lots of features
+</code>
+
+{{tag>["distinguish between"]}}
+
+==== related pages ====
+  * [[Change the default shell]]
+  * [[Which shell am I using | Which shell am I using?]]
