@@ -28,7 +28,7 @@ tags | module path
 
 one way:
 <code>
-import importlib
+import importlib.util
 importlib.util.find_spec("foo")
 </code>
 

@@ -22,9 +22,11 @@ today | 2021-11-23
 ??? When are the rates on ibonds changed?
 !!! https://www.treasurydirect.gov/indiv/research/indepth/ibonds/res_ibonds_iratesandterms.htm#change
 
+??? Where can I see the history of ibonds?
+!!! https://www.treasurydirect.gov/files/savings-bonds/i-bond-rate-chart.pdf - Shows the history of interest rates for I-bonds. It has a table with the historical fixed and variable components.
+
 ==== links I came across ====
   * https://www.investopedia.com/terms/s/seriesibond.asp - comprehensive, easy to understand.
-  * https://www.treasurydirect.gov/files/savings-bonds/i-bond-rate-chart.pdf - Shows the history of interest rates for I-bonds. It has a table with the historical fixed and variable components.
 
   * https://www.treasurydirect.gov/indiv/products/prod_ibonds_glance.htm - info on I-bonds
   * https://www.treasurydirect.gov/indiv/research/indepth/ibonds/res_ibonds_ifaq.htm - FAQ on I-bonds
@@ -43,3 +45,5 @@ today | 2021-11-23
     * Answers the question "What is the current interest rate of Series EE savings bonds"?
   * https://www.treasurydirect.gov/indiv/research/indepth/ebonds/res_e_bonds_eeratesandterms.htm - interest rates for EE-bonds
   * https://www.treasurydirect.gov/indiv/research/indepth/ebonds/res_e_bonds.htm - info on EE bonds
+
+  * https://www.bogleheads.org/wiki/I_savings_bonds#How_interest_is_calculated

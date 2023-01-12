@@ -17,13 +17,6 @@ or
 
 
 ===== dummy =====
-==== extensions I use ====
-  * autoscroll
-    * Install this extension to scroll using the middle mouse button in chrome on Debian.
-    * It supports two ways of scrolling:
-      - Press (or hold) the middle mouse button and then move the mouse
-      - Hold Ctrl and press the left mouse button
-    * https://chrome.google.com/webstore/detail/autoscroll/occjjkgifpmdgodlplnacmkejpdionan?hl=en
 
 ==== links I came across ====
   * https://support.google.com/chrome/answer/157179 - chrome keyboard shortcuts
@@ -34,14 +27,23 @@ Ref:- https://github.com/iamadamdev/bypass-paywalls-chrome
 
 <code>
 cd $software/zipped
-mkdir bypass_paywalls
+mkdir -p bypass_paywalls
 cd bypass_paywalls
+</code>
+
+Create a backup of the existing zip file
+<code>
+make_bkup.py master.zip
+</code>
+
+Download the zip file
+<code>
 curl -L -O https://github.com/iamadamdev/bypass-paywalls-chrome/archive/master.zip
 </code>
 
 Create a backup of previously unzipped version.
 <code>
-cd ../unZipped
+cd ../../unZipped
 make_bkup.py bypass-paywalls-chrome-master
 rm -rf bypass-paywalls-chrome-master
 </code>
@@ -61,3 +63,12 @@ select $software/unZipped/bypass-paywalls-chrome-master
 
 related:
   * https://github.com/iamadamdev/bypass-paywalls-chrome/archive/v1.7.5.zip - link to download a specific version.
+  * https://github.com/KamarajuKusumanchi/rutils/blob/master/python3/make_bkup.py - script to backup a directory or a file.
+
+==== extensions I use ====
+  * autoscroll
+    * Install this extension to scroll using the middle mouse button in chrome on Debian.
+    * It supports two ways of scrolling:
+      - Press (or hold) the middle mouse button and then move the mouse
+      - Hold Ctrl and press the left mouse button
+    * https://chrome.google.com/webstore/detail/autoscroll/occjjkgifpmdgodlplnacmkejpdionan?hl=en

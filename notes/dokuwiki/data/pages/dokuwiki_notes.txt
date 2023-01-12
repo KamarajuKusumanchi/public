@@ -44,6 +44,44 @@ fixed the issue
 
   * This plugin requires the pagelist plugin (https://www.dokuwiki.org/plugin:pagelist). But it is not pulled in automatically as part of the installation. So, install it manually.
 
+==== table with minimum column width ====
+Use
+<code>
+<WRAP group><WRAP column>
+^ Heading ^ Heading ^
+| cell data | cell data |
+</WRAP></WRAP>
+</code>
+
+For example
+<code>
+<WRAP group><WRAP column>
+^ Heading ^ Heading ^
+| cell data | cell data |
+</WRAP></WRAP>
+</code>
+
+will render as
+<WRAP group><WRAP column>
+^ Heading ^ Heading ^
+| cell data | cell data |
+</WRAP></WRAP>
+
+while
+<code>
+^ Heading ^ Heading ^
+| cell data | cell data |
+</code>
+
+will render as
+
+^ Heading ^ Heading ^
+| cell data | cell data |
+
+Ref:- https://forum.dokuwiki.org/d/15099-creating-variable-width-shrink-to-fit-columns -> wizgeek's answer
+
+tags | reduce column width
+
 ==== table as a list item ====
 tags | table inside a list
 

@@ -1,0 +1,14 @@
+==== links I came across ====
+  * https://tires.costco.com/
+    * You can get the make and model of a car by entering license plate information in here.
+    * Also, shows which tires are suitable for a given model of the car.
+    * Related: https://opendata.stackexchange.com/questions/16000/from-where-does-costco-get-data-correlating-license-plate-numbers-and-vehicle-ma
+
+==== qna ====
+~~QNA~~
+
+??? how many warehouses does costco have?
+!!! 847 as of 2023-01-05
+
+Ref:- From https://investor.costco.com/news/default.aspx -> [[https://investor.costco.com/news/news-details/2023/Costco-Wholesale-Corporation-Reports-December-Sales-Results/default.aspx | 2023-01-05 Costco Wholesale Corporation Reports December Sales Results]]
+> Costco currently operates 847 warehouses, including 583 in the United States and Puerto Rico, 107 in Canada, 40 in Mexico, 31 in Japan, 29 in the United Kingdom, 18 in Korea, 14 in Taiwan, 14 in Australia, four in Spain, two each in France and China, and one each in Iceland, New Zealand and Sweden. Costco also operates e-commerce sites in the U.S., Canada, the United Kingdom, Mexico, Korea, Taiwan, Japan and Australia.

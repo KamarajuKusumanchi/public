@@ -1,0 +1,5 @@
+==== 2023-01-09 ====
+  * The keyboard shortcut ''Ctrl-Alt-t'' will open a terminal window on Debian.
+
+Ref:- http://automatetheboringstuff.com/2e/appendixb/ -> "Running Programs from the Terminal Window" section -> second paragrah -> last line. The page mentions that it works on Ubuntu Linux. But when I tried it on Debian Linux (11.4; bullseye), it worked and opened a konsole.
+

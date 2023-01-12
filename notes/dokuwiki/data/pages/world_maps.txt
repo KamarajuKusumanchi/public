@@ -1,2 +1,27 @@
 ==== dummy ====
   * china taiwan - https://geology.com/world/china-satellite-image.shtml
+
+==== Census regions of the United States ====
+  * https://www.burningcompass.com/countries/united-states/regions/us-regions-map.html - shows a map with a breakdown of regions, divisions.
+    * The names of the state are written in full.
+
+<WRAP group><WRAP column>
+^ Region ^  number of states ^
+| Northeast |  9 |
+| Midwest |  12 |
+| South |  17 |
+| West |  13 |
+</WRAP></WRAP>
+
+<WRAP group><WRAP column>
+^ Region ^ Division ^ number of states ^
+| Northeast | New England | 6 |
+| Northeast | Mid-Atlantic | 3 |
+| Midwest | East North Central | 5 |
+| Midwest | West North Central | 7 |
+| South | South Atlantic | 9 |
+| South | East South Central | 4 |
+| South | West South Central | 4 |
+| West | Mountain | 8 |
+| West | Pacific | 5 |
+</WRAP></WRAP>

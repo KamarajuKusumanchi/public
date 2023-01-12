@@ -1,0 +1,31 @@
+==== 2023-01-11 ====
+Notes from https://www.wsj.com/articles/inside-sam-bankman-frieds-1-billion-bet-on-a-bitcoin-miner-on-the-kazakh-steppe-11673453716?mod=hp_lead_pos3
+  * Anthony Scaramucci’s SkyBridge Capital
+  * venture firms like Sequoia Capital
+  * an investor who buys claims from creditors in bankruptcies
+  * Genesis Digital
+    * one of the world’s largest bitcoin miners
+    * two German co-founders
+      * Marco Streng and Marco Krohn
+    * three Kazakh entrepreneurs
+  * commodities giant Trafigura Group
+
+==== 2023-01-03 ====
+from https://www.wsj.com/articles/what-is-cardiac-arrest-what-to-know-about-why-damar-hamlin-collapsed-11672767432
+  * Cardiac arrest is when the heart abruptly stops beating.
+  * It occurs when the heart’s electrical system malfunctions.
+  * Abnormal heart rhythms or arrhythmias can be triggered by congenital defects, heart damage and certain medications
+  * arrhythmias can lead to cardiac arrest
+  * ventricular fibrillation, a serious type of arrhythmia
+  * commotio cordis
+  * Both heart attack and heart failure can lead to cardiac arrest. But they are separate conditions.
+  * A heart attack occurs when blood flow, which carries oxygen, to the heart muscle is reduced or stopped. It is usually caused by blockages in the coronary arteries.
+  * Symptoms of a heart attack can include chest pain, shortness of breath and pain in the arms and back
+  * Heart failure is a chronic and progressive condition in which the heart can’t effectively pump blood around the body. Possible contributors include build-up in the coronary arteries, previous heart attacks, high blood pressure, obesity, congenital defects, lung disease and diabetes.
+  * Cardiac arrest is sudden and characterized by abrupt collapse and loss of consciousness. A person in cardiac arrest will have no pulse and won’t be breathing.
+  * Defibrillator is a device that delivers an electric shock to the heart and can restore a normal heartbeat in cardiac arrest patients
+  * While waiting for a defibrillator to arrive, CPR should be administered.
+  * Chest compressions can help to manually circulate blood, which can be life-saving to a person whose heart is not beating properly. 
+  * Everyone should learn how to administer CPR and use an AED (automated external defibrillator).
+  * Cardiac arrest is usually fatal. Fewer than 12% of people who have a cardiac arrest outside of a hospital survive. CPR significantly increases the odds of survival.
+

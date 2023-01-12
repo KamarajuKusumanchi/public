@@ -1,0 +1,27 @@
+==== bypass paywalls clean on android phone ====
+  * Install 'Firefox Nightly For Developers' from the playstore
+  * Create a firefox account (accounts.firefox.com) and signin into it
+  * Go to https://addons.mozilla.org/en-US/firefox/addon/bypass-paywalls-clean/
+    * sigin into the firefox account if necessary
+    * Scroll down to "Add to collection"
+      * If this is the first time -> "Create new collection", say raju_addons.
+      * When you are creating your collection, you will see a number in the Custom URL field. This number is your user ID. This is needed when linking the collection to your User ID.
+      * Add the extension to that collection.
+  * Link the collection to your account
+    * Firefox -> 3 dots at the bottom right -> Settings -> About Firefox Nightly -> Tap on the logo 5 times
+    * Go back to Settings
+    * Custom Add-on collection
+      * Give the User ID, collection name
+    * Application will close
+  * Restart the app -> 3 dots at the bottom right -> Add-ons -> click on the + sign next to "BypassPaywalls Clean" -> Allow in private browsing -> Check
+
+tested on | Google pixel 6
+
+Ref:
+  * https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean
+  * https://addons.mozilla.org/en-US/firefox/addon/bypass-paywalls-clean/
+  * https://news.ycombinator.com/item?id=31647995 - where I discovered the idea
+  * https://support.mozilla.org/en-US/kb/extended-add-support - contains instructions on how to link firefox nightly to addons collection
+
+==== bypass paywalls on desktop ====
+  * [[https://www.kamaraju.xyz/dk/chrome_notes#install_bypass_paywalls | Install bypass paywalls on chrome running on a desktop]]
