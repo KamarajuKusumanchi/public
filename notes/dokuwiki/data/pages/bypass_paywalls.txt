@@ -23,5 +23,12 @@ Ref:
   * https://news.ycombinator.com/item?id=31647995 - where I discovered the idea
   * https://support.mozilla.org/en-US/kb/extended-add-support - contains instructions on how to link firefox nightly to addons collection
 
+Troublueshooting:
+  * Per https://github.com/mozilla-mobile/fenix/issues/15529#issuecomment-701478178 , the ID and collection name must match their respective values in the Collection URL, not the display name.
+<code>
+https://addons.mozilla.org/en-US/firefox/collections/<USER ID>/<COLLECTION NAME>/
+</code>
+<WRAP indent>So, for example, given a collection named "Abc Def", you must enter "Abc-Def" (note the dash) as the "Collection name" in the "Add-ons" screen.</WRAP>
+
 ==== bypass paywalls on desktop ====
   * [[https://www.kamaraju.xyz/dk/chrome_notes#install_bypass_paywalls | Install bypass paywalls on chrome running on a desktop]]

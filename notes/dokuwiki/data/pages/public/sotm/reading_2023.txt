@@ -1,3 +1,23 @@
+==== 2023-01-20 ====
+Notes from https://www.reuters.com/business/softbanks-66-bln-sale-arm-nvidia-collapses-ft-2022-02-08/
+  * Arm
+    * would go public before March 2023
+    * SoftBank acquired Arm in 2016 for $32 billion
+
+==== 2023-01-17 ====
+Notes from https://www.bloomberg.com/news/articles/2023-01-17/investors-seek-to-pull-20-billion-from-core-real-estate-funds?srnd=premium
+  * IDR Investment Management - tracks an index of the open-end diversified core equity funds
+  * John Murray, head of global private commercial real estate at PIMCO
+
+
+==== 2023-01-12 ====
+Notes from https://www.bloomberg.com/news/articles/2023-01-11/subway-eyes-sale-of-more-than-10-billion-wsj-reports?srnd=premium
+  * Subway
+    * based in Milford, Connecticut
+    * 37,000 locations in more than 100 countries
+    * first shop opened in 1965
+    * 20,000 US locations
+
 ==== 2023-01-11 ====
 Notes from https://www.wsj.com/articles/inside-sam-bankman-frieds-1-billion-bet-on-a-bitcoin-miner-on-the-kazakh-steppe-11673453716?mod=hp_lead_pos3
   * Anthony Scaramucci’s SkyBridge Capital

@@ -1,5 +1,22 @@
 ==== gold reserves by country ====
   * https://tradingeconomics.com/country-list/gold-reserves - shows latest gold reserves of each country in Tonnes.
-
+  * 
 ==== dummy ====
   * 1 oz = 1 troy ounce = 31.1034768 grams
+
+==== qna ====
+??? How much gold does GLD hold?
+!!! <WRAP group><WRAP column>
+^ asof ^ tonnes of gold ^
+| 2022-12-01 |  907 |
+| 2022-01-01 |  918 |
+</WRAP></WRAP>
+
+Ref:- 
+  * https://www.spdrgoldshares.com/usa/financial-information/ -> Trust Information -> Tonnes
+    * shows the number of tonnes for the latest date
+  * https://www.spdrgoldshares.com/usa/historical-data/ -> https://www.spdrgoldshares.com/assets/dynamic/GLD/GLD_US_archive_EN.csv
+    * shows the historical data
+    * Here Column A has the date. Column K has "Total Net Asset Value Tonnes in the Trust as at 4.15 p.m. NYT"
+
+tags | GLD history of tonnes of gold

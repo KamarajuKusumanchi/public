@@ -4,6 +4,56 @@ Edit -> Preferences -> Editing -> Automatically turn "CamelCase" words into link
 Edit -> Preferences -> Editing -> Automatically turn filepaths into links
 </code>
 
+==== navigate to a page ====
+  * <Ctrl><Space> <Ctrl>f 
+
+How it works:
+  * <Ctrl><Space> - switch to the side pane
+  * <Ctrl>f - Search in the page list
+
+Prerequisites:
+  * <Control><Space> shortcut has to be enabled the very first time.
+
+<code>
+Edit -> Preferences
+-> Use <Control><Space> to switch to the side pane -> Check
+</code>
+
+==== why zim ====
+I use Zim because:
+  * Zim : (vim, notepad++) :: book : page :: "collection of documents" : "single document" :: directory : file
+    * For example, you can have links in one page that point to another page. But all the pages belong to a single notebook.
+  * Files are stored in plain text
+    * can be stored in git
+    * easy to backup
+  * Open source
+  * Written in python
+  * Works in both Linux and Windows.
+
+==== Starting zim in windows ====
+For | 0.68
+
+Create a batch file, zim.bat
+
+<code>
+$ cat ~/Desktop/zim.bat
+"C:\Users\kkusuman\Desktop\Zim Desktop Wiki Portable\zim.exe"
+</code>
+
+Then double click the zim.bat icon on the desktop.
+
+
+Old instructions:
+
+<Todo:- Add the version number if this is still relevant or delete this entry>
+
+Create a batch file, zim.bat
+<code>
+start \Path\to\Zim\ZimDesktopWikiPortable.exe --standalone
+</code>
+Now open windows explorer and type the path of the batch script in the address bar. This will launch zim.
+
+
 ==== Link to files ====
 tags | link to a file
 
@@ -13,19 +63,12 @@ file:///C:/path/to/the/file
 </code>
 
 Ref:- https://zim-wiki.org/manual/Help/Links.html -> "File Links" section
-==== why zim ====
-Reasons on why I use Zim:
-  * Zim : (vim, notepad++) :: book : page :: "collection of documents" : "single document" :: directory : file .\\ For example, you can have links in one page that point to another page. But all the pages belong to a single notebook.
-  * Files are stored in plain text
-  * Open source
-  * Written in python
-  * Works in both Linux and Windows.
 
 ==== links I came across ====
-  * http://zim-wiki.org/manual/Help/Key_Bindings.html - key board shortcuts in zim
-
   * Releases - https://github.com/zim-desktop-wiki/zim-desktop-wiki/releases
   * zim wiki code repository - https://github.com/jaap-karssenberg/zim-desktop-wiki/
+
+  * http://zim-wiki.org/manual/Help/Key_Bindings.html - key board shortcuts in zim
 
   * https://zim-wiki.org/manual/Help/Auto_Formatting.html
   * https://zim-wiki.org/manual/Help/Config_Files.html
@@ -37,5 +80,14 @@ Reasons on why I use Zim:
 
   * To find out What is new in the latest zim version - https://github.com/jaap-karssenberg/zim-desktop-wiki/blob/master/CHANGELOG.txt
 
+==== scroll bar ====
+I found that the scroll bar stops working intermittently. To work around this, try scrolling right on the scroll bar. Once this is done, the scroll bar works both on the scroll bar and on the window.
+
 ==== check later ====
   * http://www.vim.org/scripts/script.php?script_id=3703 - Syntax highlighting in vim for zim wiki pages
+
+==== table of contents plugin ====
+My favorite configuration
+  * Position in the window: Left Side Pane
+  * uncheck - Show Toc as floating widget instead of in sidepane
+  * check - Show the page title heading in the ToC

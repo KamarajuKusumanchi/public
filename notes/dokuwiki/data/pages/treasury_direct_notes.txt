@@ -1,0 +1,72 @@
+===== methodology related =====
+==== high rate vs. investment rate ====
+??? What is the difference between "high rate" and "investment rate" in https://www.treasurydirect.gov/auctions/announcements-data-results/?
+
+!!! For bills not more than one half-year to maturity
+<code>
+high_rate = ((100-P) / 100) * (360 / r)
+investment_rate = ((100-P) / P) * (y / r)
+</code>
+Where P is the price, r is days to maturity, y is days in year (365 in normal year, 366 in leap year)
+
+Ref:-
+  * https://www.treasurydirect.gov/instit/annceresult/press/preanre/2004/ofcalc6decbill.pdf
+  * https://www.bogleheads.org/forum/viewtopic.php?t=252066
+
+For example, on 2023-01-19, https://www.treasurydirect.gov/auctions/announcements-data-results/ showed
+
+^ Security Term ^ CUSIP ^ Issue Date ^ Maturity Date ^ High Rate ^ Investment Rate ^
+| 4-week | [[https://www.treasurydirect.gov/auctions/auction-query/?cusip=912796Y60 | 912796Y60]] | 01/24/2023 | 02/21/2023 | 4.480% | 4.558% |
+
+Clicking on the CUSIP showed
+
+^ CUSIP ^ Security Type ^ Security Term ^ Auction Date ^ Issue Date ^ Maturity Date ^ Price per $100 ^
+| 912796Y60 | Bill | 4-Week | 01/19/2023 | 01/24/2023 | 02/21/2023 | 99.651556 |
+
+<code>
+$ ipython
+Python 3.10.8 | packaged by conda-forge | (main, Nov 24 2022, 14:07:00) [MSC v.1916 64 bit (AMD64)]
+IPython 8.7.0 -- An enhanced Interactive Python. Type '?' for help.
+
+In [1]:
+P = 99.651556; r = 28; y = 365
+
+In [2]:
+high_rate = ((100-P) / 100) * (360 / r)
+
+In [3]:
+high_rate
+Out[3]:
+0.04479994285714294
+
+In [4]:
+round(high_rate * 100, 3)
+Out[4]:
+4.48
+
+In [5]:
+investment_rate = ((100-P) / P) * (y / r)
+
+In [6]:
+investment_rate
+Out[6]:
+0.04558098850530179
+
+In [7]:
+round(investment_rate * 100, 3)
+Out[7]:
+4.558
+</code>
+
+===== dummy =====
+==== Highlights from https://www.treasurydirect.gov/forms/sec009.pdf ====
+  *  bill, note, bond, FRN, and TIPS
+  * FRNs = Floating rate notes
+  * TIPS = Treasury inflation-protected securities
+  * 4-week, 8-week, 13-week, 26-week, and 52week bills
+  * For more about entity accounts, see "User Guide 292" - https://www.treasurydirect.gov/indiv/help/treasurydirect-help/user-guide/291-300/#id-user-guide-292-263212
+
+
+==== links I came across ====
+  * https://www.treasurydirect.gov/forms/sec009.pdf - Investing Directly With the U.S. Treasury (FS Publication 009) is an introductory publication.
+  * https://www.treasurydirect.gov/indiv/help/treasurydirect-help/user-guide/291-300/ - User guide sections 291 through 300

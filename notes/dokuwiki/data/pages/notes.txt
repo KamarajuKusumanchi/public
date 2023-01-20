@@ -27,6 +27,7 @@
   * [[acroread notes]]
   * [[ragbag]]
   * [[ibonds_notes]]
+  * [[treasury direct notes]]
   * [[spservicing]]
   * [[cancer notes]]
   * [[anki notes]]
@@ -186,6 +187,7 @@
   * [[dfc notes]]
   * [[costco notes]]
   * [[bypass paywalls]]
+  * [[njparcels notes]]
 
 ==== by date ====
   * [[reading journal 2022]]
