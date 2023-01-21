@@ -4,6 +4,16 @@ Notes from https://www.reuters.com/business/softbanks-66-bln-sale-arm-nvidia-col
     * would go public before March 2023
     * SoftBank acquired Arm in 2016 for $32 billion
 
+Notes from https://www.bloomberg.com/news/articles/2023-01-20/google-s-treasured-ai-unit-gets-swept-up-in-12-000-job-cuts?srnd=premium
+  * Jeff Dean leads Google’s artificial intelligence and research efforts
+  * data platform for care teams, called Google for Clinicians
+  * The robotics unit
+  * will cut 12,000 jobs (6% of its global workforce)
+  * AI is a “key investment area”
+  * Google spokesperson Jason Freidenfelds
+  * ChatGPT from the research lab OpenAI
+  * ChatGPT prompted Google’s management to declare a “code red” within the company
+
 ==== 2023-01-17 ====
 Notes from https://www.bloomberg.com/news/articles/2023-01-17/investors-seek-to-pull-20-billion-from-core-real-estate-funds?srnd=premium
   * IDR Investment Management - tracks an index of the open-end diversified core equity funds

@@ -1,4 +1,7 @@
 ===== 2023 =====
+==== 2023-01-20 ====
+  * Tech Layoff Tracker - https://www.trueup.io/layoffs
+
 ==== 2023-01-04 ====
   * [[https://thefinancebuff.com/i-bonds-beneficiary-vs-second-owner-treasury-direct.html | I Bonds Beneficiary vs Second Owner in TreasuryDirect]] (thefinancebuff.com)
   * [[https://thefinancebuff.com/grant-transact-right-second-owner-treasurydirect.html | How To Grant Transact or View Right on Your I Bonds]] (thefinancebuff.com)
