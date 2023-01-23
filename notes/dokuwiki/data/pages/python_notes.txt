@@ -108,6 +108,26 @@ Ref:- https://docs.python.org/3/library/os.html#os.linesep
 
 See also:- https://stackoverflow.com/questions/4025760/python-file-write-creating-extra-carriage-return
 ===== Snippets =====
+=== import from another project ====
+Say we have two projects cloned into two directories - github/project1 and github/project2. To import stuff from project1 into a file in project2
+
+<code>
+import os
+import sys
+
+# Note: os.path.dirname(__file__) can give an empty string,
+# use os.path.dirname(os.path.abspath(__file__)) instead.
+# Ref:- See Dmitry Trofimov's comment in https://stackoverflow.com/a/918178/6305733
+dirname = os.path.dirname(os.path.abspath(__file__))
+
+# Change the relative path as per your needs
+newdir = os.path.abspath(os.path.join(dirname, '../project1'))
+
+if newdir not in sys.path:
+    sys.path.insert(0, newdir)
+</code>
+
+tags | import from many levels up, import from another directory, relative directory name, path relative to current file
 ==== check for minimum python version ====
 <code>
 import sys
