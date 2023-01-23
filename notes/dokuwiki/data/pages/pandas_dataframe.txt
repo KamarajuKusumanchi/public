@@ -1,4 +1,16 @@
+===== selection related =====
+==== split columns ====
+
+  * [[https://nbviewer.jupyter.org/github/KamarajuKusumanchi/notebooks/blob/master/pandas/Separate%20positive%20and%20negative%20values.ipynb | Separate positive and negative values (nbviewer.jupyter.org/github/KamarajuKusumanchi)]]
+description | split a column into two columns based on whether the values are positive or negative, default value, longs and shorts
+
+  * [[https://nbviewer.jupyter.org/github/KamarajuKusumanchi/notebooks/blob/master/pandas/dataframe%20split%20column%20string%20into%20multiple%20columns.ipynb | Split string column into multiple columns (nbviewer.jupyter.org/github/KamarajuKusumanchi)]]
+
+tags | uses [http://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.str.split.html pandas.Series.str.split]
+
+
 ===== Tasks =====
+  * [[extract last field from each row of a column]]
   * [[map one column to another]]
   * [[show all the rows and columns]]
   * [[Add dates]]

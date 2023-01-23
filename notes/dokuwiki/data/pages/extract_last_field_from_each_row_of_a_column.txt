@@ -1,0 +1,45 @@
+==== extract last field from each row of a column ====
+tags | pandas series str split apply if condition, string split
+
+Given the input
+<code>
+ 'Location': {
+  0: 'San Francisco, CA, United States',
+  1: 'Shanghai, China',
+  2: 'Singapore'}
+</code>
+get something like
+<code>
+ 'Country': {
+  0: 'United States',
+  1: 'China',
+  2: 'Singapore'}
+</code>
+
+Solution:
+<code>
+In [1]: d = {'Location': {
+   ...:   0: 'San Francisco, CA, United States',
+   ...:   1: 'Shanghai, China',
+   ...:   2: 'Singapore'}}
+
+In [2]: import pandas as pd
+   ...: df = pd.DataFrame.from_dict(d)
+   ...: df
+Out[2]:
+                           Location
+0  San Francisco, CA, United States
+1                   Shanghai, China
+2                         Singapore
+
+In [3]: df['Country'] = df['Location'].str.split(',').apply(lambda x: x[-1])
+   ...: df
+Out[3]:
+                           Location         Country
+0  San Francisco, CA, United States   United States
+1                   Shanghai, China           China
+2                         Singapore       Singapore
+
+In [4]: df['Country'].to_dict()
+Out[4]: {0: ' United States', 1: ' China', 2: 'Singapore'}
+</code>
