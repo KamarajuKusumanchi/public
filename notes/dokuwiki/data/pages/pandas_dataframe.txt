@@ -1,3 +1,119 @@
+===== Creating a dataframe =====
+==== Create a dataframe from list of lists ====
+<code>
+>>> import pandas as pd
+>>> data = [[0, 1, 0, 1], [1, 0, 1, 1], [0, 1, 1, 1]]
+>>> df = pd.DataFrame(data)
+>>> df
+   0  1  2  3
+0  0  1  0  1
+1  1  0  1  1
+2  0  1  1  1
+</code>
+
+You can also specify a list of columns for the dataframe.
+<code>
+>>> columns = ['a', 'b', 'c', 'd']
+>>> df = pd.DataFrame(data, columns=columns)
+>>> df
+   a  b  c  d
+0  0  1  0  1
+1  1  0  1  1
+2  0  1  1  1
+</code>
+
+To specify the index
+<code>
+>>> df = pd.DataFrame([[1,2,3,4,15,6],['1','2','3','4','F']], index=['CT','NY'])
+>>> df
+    0  1  2  3   4    5
+CT  1  2  3  4  15  6.0
+NY  1  2  3  4   F  NaN
+</code>
+
+To make each list into a column, use zip
+<code>
+% ipython
+Python 3.10.6 (main, Oct 24 2022, 16:07:47) [GCC 11.2.0]
+IPython 8.6.0 -- An enhanced Interactive Python. Type '?' for help.
+
+In [1]: 
+import pandas as pd
+# create lists
+l1 =["Amar", "Barsha", "Carlos", "Tanmay", "Misbah"]
+l2 =["Alpha", "Bravo", "Charlie", "Tango", "Mike"]
+l3 =[23, 25, 22, 27, 29]
+l4 =[69, 54, 73, 70, 74]
+# create the dataframe
+team = pd.DataFrame(list(zip(l1, l2, l3, l4)), columns=['Name', 'Code', 'Age', 'Weight'])
+print(team)
+     Name     Code  Age  Weight
+0    Amar    Alpha   23      69
+1  Barsha    Bravo   25      54
+2  Carlos  Charlie   22      73
+3  Tanmay    Tango   27      70
+4  Misbah     Mike   29      74
+</code>
+
+Ref:-
+  * https://www.geeksforgeeks.org/add-column-names-to-dataframe-in-pandas/ - got the idea on zip from here.
+
+==== Create a dataframe by splitting strings ====
+Given a list of strings, the idea here is to create a data frame by splitting them into multiple columns.
+
+Load the data into a pandas series
+<code>
+% ipython
+Python 3.10.6 (main, Oct 24 2022, 16:07:47) [GCC 11.2.0]
+IPython 8.6.0 -- An enhanced Interactive Python. Type '?' for help.
+
+In [1]: 
+import pandas as pd
+strings = ['Netflix 100' , 'Costco 200' , 'Walmart 500', 'Costco 500' ]
+s = pd.Series(strings)
+print(s)
+0    Netflix 100
+1     Costco 200
+2    Walmart 500
+3     Costco 500
+dtype: object
+</code>
+
+Create a dataframe by splitting the strings into multiple columns
+<code>
+In [2]: 
+df = s.str.split(expand=True)
+print(df)
+         0    1
+0  Netflix  100
+1   Costco  200
+2  Walmart  500
+3   Costco  500
+</code>
+
+Name the columns.
+
+str.split gives everything as strings. Change them to numbers as needed.
+
+<code>
+In [3]: 
+df.columns = ['company', 'value']
+df['value'] = df['value'].astype('float')
+print(df)
+   company  value
+0  Netflix  100.0
+1   Costco  200.0
+2  Walmart  500.0
+3   Costco  500.0
+</code>
+
+See also:
+  * I used this trick to answer a question on stackoverflow - https://stackoverflow.com/a/75212176/6305733
+  * https://pandas.pydata.org/docs/reference/api/pandas.Series.str.split.html
+  * https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.astype.html
+
+also demonstrates | assign column names to a dataframe
+
 ===== selection related =====
 ==== split columns ====
 
