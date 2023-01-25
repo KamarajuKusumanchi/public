@@ -2,3 +2,6 @@
   * https://finviz.com/futures_charts.ashx?t=ES&p=m5 - Eminis chart 5 minute
   * https://finviz.com/news.ashx?v=2 - news grouped by source
   * https://finviz.com/calendar.ashx - economic calendar
+
+==== links I came across ====
+  * https://finviz.com/map.ashx

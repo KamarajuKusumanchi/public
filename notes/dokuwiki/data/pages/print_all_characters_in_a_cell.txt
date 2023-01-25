@@ -1,0 +1,40 @@
+===== print all characters in a cell =====
+Issue: pandas does not print lengthy strings. Instead, it abbreviates them with '...'
+
+Solution:
+<code>
+pd.set_option('max_colwidth', None)
+</code>
+
+Example:
+
+Default behavior:
+<code>
+$ ipython
+Python 3.10.8 | packaged by conda-forge | (main, Nov 24 2022, 14:07:00) [MSC v.1916 64 bit (AMD64)]
+IPython 8.7.0 -- An enhanced Interactive Python. Type '?' for help.
+
+In [1]:
+import pandas as pd
+df = pd.DataFrame(['one', 'two', 'This is very long string very long string very long string veryvery long string'])
+print(df)
+                                                   0
+0                                                one
+1                                                two
+2  This is very long string very long string very...
+</code>
+
+When max_colwidth option is set to None
+<code>
+In [2]:
+pd.set_option('max_colwidth', None)
+print(df)
+                                                                                 0
+0                                                                              one
+1                                                                              two
+2  This is very long string very long string very long string veryvery long string
+</code>
+
+Ref:-
+  * https://stackoverflow.com/questions/29902714/print-very-long-string-completely-in-pandas-dataframe
+  * https://pandas.pydata.org/docs/user_guide/options.html#available-options -> search for max_colwidth

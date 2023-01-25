@@ -129,6 +129,9 @@ tags | uses [http://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series
   * [[extract last field from each row of a column]]
   * [[map one column to another]]
   * [[show all the rows and columns]]
+    * tags | max_rows, max_columns, set_option
+  * [[print all characters in a cell]]
+    * tags | max_colwidth, set_option
   * [[Add dates]]
   * [[Add commas]]
   * [[Get first element of series if not empty]]
@@ -206,6 +209,25 @@ Out[2]:
 Ref:- https://stackoverflow.com/questions/18695605/python-pandas-dataframe-to-dictionary
 
 ===== dummy =====
+
+==== json to dataframe ====
+
+<WRAP group><WRAP column>
+^  From  ^  to  ^  Use  ^
+| JSON | DataFrame | pandas.read_json() |
+| DataFrame | JSON | <WRAP>
+  * df.to_json() or
+  * df.to_json(orient='records')
+</WRAP>|
+| JSON | Python object | json.loads() |
+| Python object | JSON | json.dumps() |
+</WRAP></WRAP>
+
+Sample code [[https://nbviewer.jupyter.org/github/KamarajuKusumanchi/notebooks/blob/master/pandas/json%20to%20dataframe.ipynb | nbviewer/github/KamarajuKusumanchi]]
+
+Ref:-
+  * https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_json.html
+  * https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.json_normalize.html
 
 ==== sum if columns exist ====
 tags | sum if column exists
