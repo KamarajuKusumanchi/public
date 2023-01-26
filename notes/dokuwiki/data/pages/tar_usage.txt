@@ -1,3 +1,36 @@
+==== count number of lines in a txz file ====
+<code>
+xz -cd foo.txz | wc -l
+</code>
+
+<code>
+for i in *.txz; do echo $i; xz -cd $i | wc; done
+</code>
+
+==== file extensions ====
+  * tar gzip compressed - .tgz
+  * tar bzip2 compressed - .tar.bz2, .tar.bz, .tbz
+  * tar xz compressed - .txz
+
+==== sample commands ====
+<code>
+tar cJvf foo.txz foo
+</code>
+
+==== convert tgz to txz ====
+<code>
+cat foo.tgz | gzip -cd | xz > foo.txz
+</code>
+
+To do the other way around
+<code>
+cat foo.txz | xz -cd | gzip > foo.tgz
+</code>
+
+Ref:- http://lowfatdaemon.blogspot.com/2012/01/how-to-repackage-txz-to-tgz-slackware.html
+
+tags | change compression algorithm of a tar archive
+
 ==== internal links ====
   * [[Relative file names in a tar archive]]
 

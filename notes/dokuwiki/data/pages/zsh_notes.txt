@@ -1,1 +1,27 @@
+===== Sample scripts =====
+
+==== backup a directory ====
+The idea here is to cd into a given directory and then backup a directory in it. The path names are hard coded to make things simple.
+<code>
+#! /usr/bin/env zsh
+set -e
+topdir=/home/rajulocal/notes
+bdir=projects
+
+cd ${topdir}
+
+asof=`date +'%Y%m%d_%H%M%S'`
+ofile=${bdir}_${asof}.txz
+tar cJf ${ofile} ${bdir}
+if [ $? -eq 0 ]; then
+    printf "backup stored in: ${topdir}/$ofile\n";
+fi
+</code>
+
+Sample run:
+<code>
+% ~/bin/bkup_notes.sh
+backup stored in: /home/rajulocal/notes/projects_20160103_224746.txz
+</code>
+
 ===== To be sorted =====
