@@ -1,3 +1,25 @@
+==== 2023-02-01 ====
+Notes from https://www.barrons.com/articles/gold-prices-gaining-how-to-invest-51675211440?mod=hp_LEADSUPP_2
+  * Inflation usually helps gold, but a strong U.S. dollar and rising interest rates can hurt it.
+  * State Street Global Advisors, or SSGA
+    * manages the $57 billion SPDR Gold Shares (GLD)
+
+==== 2023-01-31 ====
+Notes from https://www.bloomberg.com/news/articles/2023-01-31/adani-turns-to-bane-from-boon-for-india-s-swelling-stock-market?srnd=premium
+  * The total valuation of India’s stocks has dropped to $3.2 trillion, or 3.1% of the global share market capitalization.
+    * So global share market cap is $103.23 (= 3.2 * 100 / 3.1) trillion?
+  * Foreigners have been net sellers of India for most of January
+  * Global funds pulled a net $784 million from Indian shares on Jan. 25 and Jan. 27
+  * Life Insurance Corp. of India, the country’s biggest insurer
+  * Anchor investor
+
+Notes from https://www.wsj.com/articles/whole-foods-asks-suppliers-to-lower-prices-as-costs-ebb-11675115155
+  * Whole Foods Market
+    * Rival grocers - Kroger Co. and Albertsons Cos.
+    * discounters - Aldi Inc. and Trader Joe’s
+    * Operates more than 500 stores in the U.S., Canada and the U.K.
+  * merchandising teams that oversee categories of products
+
 ==== 2023-01-20 ====
 Notes from https://www.reuters.com/business/softbanks-66-bln-sale-arm-nvidia-collapses-ft-2022-02-08/
   * Arm

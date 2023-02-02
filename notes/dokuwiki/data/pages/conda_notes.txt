@@ -100,8 +100,9 @@ conda clean --dry-run --all
 conda clean --all
 </cli>
 
-
-Ref:- https://stackoverflow.com/questions/48706548/how-to-free-disk-space-taken-up-by-anaconda
+Ref:-
+  * https://stackoverflow.com/questions/48706548/how-to-free-disk-space-taken-up-by-anaconda
+  * https://github.com/conda/conda/issues/8630 - recommends ''conda clean --all'' to fix ''conda json.decoder.JSONDecodeError: Unterminated string starting at: line xxxxxx column xx (char xxxxxxxx)''
 
 ==== sample environment file ====
 <code>

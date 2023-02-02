@@ -15,6 +15,63 @@ Out[1]:
 {'sun': 1, 'mon': 2, 'tue': 3}
 </code>
 
+==== dump dictionary to file ====
+You can use pprint (stands for pretty print)
+
+<code>
+$ ipython
+Python 3.10.9 | packaged by conda-forge | (main, Jan 11 2023, 15:15:40) [MSC v.1916 64 bit (AMD64)]
+IPython 8.8.0 -- An enhanced Interactive Python. Type '?' for help.
+
+In [1]:
+import pprint
+cats = [{'name': 'Zophie', 'desc': 'chubby'}, {'name': 'Pooka', 'desc': 'fluffy'}]
+pprint.pformat(cats)
+Out[1]:
+"[{'desc': 'chubby', 'name': 'Zophie'}, {'desc': 'fluffy', 'name': 'Pooka'}]"
+
+In [2]:
+fileObj = open('myCats.py', 'w')
+fileObj.write('cats = ' + pprint.pformat(cats) + '\n')
+fileObj.close()
+
+In [3]:
+exit()
+</code>
+
+<code>
+$ cat myCats.py
+cats = [{'desc': 'chubby', 'name': 'Zophie'}, {'desc': 'fluffy', 'name': 'Pooka'}]
+</code>
+
+<code>
+$ ipython
+Python 3.10.9 | packaged by conda-forge | (main, Jan 11 2023, 15:15:40) [MSC v.1916 64 bit (AMD64)]
+IPython 8.8.0 -- An enhanced Interactive Python. Type '?' for help.
+
+In [1]:
+import myCats
+myCats.cats
+Out[1]:
+[{'desc': 'chubby', 'name': 'Zophie'}, {'desc': 'fluffy', 'name': 'Pooka'}]
+
+In [2]:
+myCats.cats[0]
+Out[2]:
+{'desc': 'chubby', 'name': 'Zophie'}
+
+In [3]:
+myCats.cats[0]['name']
+Out[3]:
+'Zophie'
+
+In [4]:
+exit()
+</code>
+
+Ref:-
+  * pprint is discussed in https://automatetheboringstuff.com/2e/chapter9/ -> Saving Variables with the pprint.pformat() Function
+
 ==== merge python dictionaries ====
 
 To merge two python dictionaries
