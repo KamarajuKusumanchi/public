@@ -1,4 +1,15 @@
 ===== dummy =====
+==== mark import as used ====
+On the unused import line press Alt+Enter -> "Optimize imports" -> Disable inspection
+
+Ref:- https://intellij-support.jetbrains.com/hc/en-us/community/posts/206592765-Marking-an-import-to-prevent-deleting-it-with-optimize-imports-
+
+To revert back to the normal behaviour
+
+Ctrl+Alt+s -> Inspections -> search for "unresolved references" -> select the one in Python -> check
+
+Ref:- https://intellij-support.jetbrains.com/hc/en-us/community/posts/206585365-Unused-imports-not-highlighted
+
 ==== copy function name with the class name ====
   * ctrl+alt+shift+c
 

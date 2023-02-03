@@ -1,4 +1,9 @@
 ===== 2023 =====
+==== 2023-02-02 ====
+  * From https://www.justice.gov/usao-edny/pr/three-brooklyn-residents-charged-money-laundering-scheme-stealing-over-30-million dated 2021-04-20
+<WRAP indent>
+> The co-conspirators entered the safe deposit box rooms of the targeted banks and used sophisticated camera equipment, including borescopes that are typically used in medical procedures, to photograph the insides of locks of safe deposit boxes belonging to other individuals.
+</WRAP>
 ==== 2023-01-20 ====
   * Tech Layoff Tracker - https://www.trueup.io/layoffs
 

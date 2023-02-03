@@ -1,0 +1,52 @@
+==== print dataframe without index ====
+Create a function
+<code>
+import pandas as pd
+
+def print_without_index(df: pd.DataFrame):
+    blank_index = [""] * len(df)
+    original_index = df.index
+    df.index = blank_index
+    print(df)
+    df.index = original_index
+</code>
+Use it as follows:
+<code>
+In [2]:
+row1 = (123, "2014-07-08 00:09:00", 1411)
+row2 = (123, "2014-07-08 00:49:00", 1041)
+row3 = (123, "2014-07-08 00:09:00", 1411)
+data = [row1, row2, row3]
+df = pd.DataFrame(data, columns=("User ID", "Enter Time", "Activity Number"))
+df
+Out[2]:
+   User ID           Enter Time  Activity Number
+0      123  2014-07-08 00:09:00             1411
+1      123  2014-07-08 00:49:00             1041
+2      123  2014-07-08 00:09:00             1411
+
+In [3]:
+print_without_index(df)
+  User ID           Enter Time  Activity Number
+      123  2014-07-08 00:09:00             1411
+      123  2014-07-08 00:49:00             1041
+      123  2014-07-08 00:09:00             1411
+</code>
+Verify that the original index remains unchanged
+<code>
+In [5]:
+df
+Out[5]:
+   User ID           Enter Time  Activity Number
+0      123  2014-07-08 00:09:00             1411
+1      123  2014-07-08 00:49:00             1041
+2      123  2014-07-08 00:09:00             1411
+</code>
+
+Tested with python 3.10.9, ipython 8.8.0, pandas 1.5.2
+
+Ref:
+  * Original idea is from - https://stackoverflow.com/questions/24644656/how-to-print-pandas-dataframe-without-index
+  * To see it in action
+    * https://github.com/KamarajuKusumanchi/rutils/blob/master/python3/lib/DataFrameUtils.py -> print_without_index()
+    * https://github.com/KamarajuKusumanchi/rutils/blob/master/python3/tests/lib/test_DataFrameUtils.py -> test_print_without_index()

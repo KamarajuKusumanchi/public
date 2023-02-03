@@ -1,0 +1,41 @@
+==== astype vs. to_numeric ====
+Example 1:
+Say we are trying to convert a column of strings to floats
+<code>
+In [1]:
+import pandas as pd
+df = pd.DataFrame({'foo': ['1', '1.52', '', '1.6']})
+df
+
+Out[1]:
+    foo
+0     1
+1  1.52
+2
+3   1.6
+</code>
+astype('float') gives a ValueError.
+<code>
+In [2]:
+df['foo'].astype('float')
+...
+ValueError: could not convert string to float: ''
+</code>
+But to_numeric() with errors='coerce' works.
+<code>
+In [3]:
+pd.to_numeric(df['foo'], errors='coerce')
+Out[3]:
+0    1.00
+1    1.52
+2     NaN
+3    1.60
+Name: foo, dtype: float64
+</code>
+
+tags | astype float but set empty string to NaN
+
+Ref:
+  * https://stackoverflow.com/questions/35465741/pandas-convert-column-with-empty-strings-to-float
+  * https://pandas.pydata.org/docs/reference/api/pandas.to_numeric.html
+
