@@ -25,3 +25,6 @@ Sample usage:
 See also:
   * https://pandas.pydata.org/docs/reference/api/pandas.set_option.html - list of settable options
   * https://stackoverflow.com/a/51540918/6305733
+
+==== defaults ====
+  * By default, pandas shows 60 rows and 20 columns.

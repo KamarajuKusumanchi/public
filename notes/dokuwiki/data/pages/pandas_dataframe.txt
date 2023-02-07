@@ -125,6 +125,21 @@ description | split a column into two columns based on whether the values are po
 tags | uses [http://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.str.split.html pandas.Series.str.split]
 
 
+===== Series related =====
+==== view the index, type, length and name of the series ====
+<code>
+s.index
+s.dtype
+s.size
+s.name
+</code>
+
+==== unique types found in a object series ====
+First, use the ''.apply'' method with the ''type'' function to get back a Series that has the type of every member. Then, //chain// the ''.unique'' method onto the result.
+<code>
+s.apply(type).unique()
+</code>
+
 ===== Tasks =====
   * [[extract last field from each row of a column]]
   * [[map one column to another]]

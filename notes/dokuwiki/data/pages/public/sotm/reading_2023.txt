@@ -1,3 +1,14 @@
+==== 2023-02-07 ====
+Notes from https://www.wsj.com/articles/blackstones-hefty-concession-is-a-warning-to-investors-11672840068 dated 2023-01-04
+  * University of California’s endowment, known as UC Investments
+    * put $4 billion into BREIT fund, locked up for five years with a two-year limited withdrawal period afterward, for an average of six years
+  * BREIT fund
+    * fees for small private investors - 1.25% a year and 12.5% of profits
+    * chose to focus on Sunbelt housing, warehouses and data centers
+    * In December 2022, investors asked for 5.44% of the fund back, but only 0.23% was available because of withdrawals in the two prior months.
+  * Blackstone will use up to $1 billion to pay UC Investments if it fails to earn 11.25% a year after fees.
+  * During the height of the 2008 financial crisis, Warren Buffet put $5 billion into Goldman Sachs for 10% annual dividend and option to buy discounted shares
+
 ==== 2023-02-01 ====
 Notes from https://www.barrons.com/articles/gold-prices-gaining-how-to-invest-51675211440?mod=hp_LEADSUPP_2
   * Inflation usually helps gold, but a strong U.S. dollar and rising interest rates can hurt it.

@@ -190,6 +190,9 @@ import os
 home = os.path.expanduser("~")
 path = os.path.join(home, "x", "data.txt")
 </code>
+
+==== round function ====
+The expression ''round(n, r)'' rounds floating-point expression $n$ to the $10^{-r}$ decimal digit; for example, ''round(n, -2)'' rounds floating-point value $n$ to the hundreds place $(10^2)$. Similarly, ''round(n, 3)'' rounds floating-point value n to the thousandths place $(10^{-3})$.
 ===== format related =====
 ==== assert variable in a list ====
 <code>

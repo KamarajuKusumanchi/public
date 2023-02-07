@@ -39,3 +39,12 @@ Ref:
   * https://stackoverflow.com/questions/35465741/pandas-convert-column-with-empty-strings-to-float
   * https://pandas.pydata.org/docs/reference/api/pandas.to_numeric.html
 
+==== code snippets ====
+Strip '%' character at the end and convert it to a number. Empty strings will be converted to NaNs.
+<code>
+df["pctchange"] = (
+        df["pctchange"].str.rstrip("%").apply(pd.to_numeric, errors="coerce")
+    )
+</code>
+
+Ref: http://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.apply.html

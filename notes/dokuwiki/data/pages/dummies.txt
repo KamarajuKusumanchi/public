@@ -88,3 +88,6 @@ Ref:- https://en.wikipedia.org/wiki/Paracetamol#Naming
 
 ==== dummy 010 ====
 Americans like toast, eggs, and cereal. In China people eat congee, a thick rice. People in Japan often have a soup called miso. Pancakes made from lentil beans are favored in India. Bread and coffee with milk are the most popular breakfast foods in France. Breakfast around the world is a matter of different tastes.
+
+==== dummy 011 ====
+The name //floating-point numbers// implies that during mathematical calculations the decimal point can move or “float” to various positions within the number to maintain the proper number of significant digits.
