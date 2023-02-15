@@ -78,9 +78,6 @@ if os.stat(input_file).st_size == 0:
 ==== python release cycle ====
   * https://python-release-cycle.glitch.me/ - useful to check when a Python version was released and when it would be EOL.
 
-==== tasks ====
-  * [[get urls in a url]]
-
 ==== isinstance experiments ====
 <code>
 In [1]: 
@@ -107,6 +104,27 @@ Do not use os.linesep as a line terminator when writing files opened in text mod
 Ref:- https://docs.python.org/3/library/os.html#os.linesep
 
 See also:- https://stackoverflow.com/questions/4025760/python-file-write-creating-extra-carriage-return
+
+==== type annotations ====
+
+<WRAP group><WRAP column>
+^ ^ ^ ^
+| json | <code>
+from typing import Dict, Any
+
+Dict[str, Any]
+</code> | <WRAP>
+  * Many other ways are possible.
+  * See https://stackoverflow.com/questions/51291722/define-a-jsonable-type-using-mypy-pep-526 for full details.
+</WRAP> |
+</WRAP></WRAP>
+
+===== tasks =====
+  * [[get urls in a url]]
+
+===== difference between =====
+
+
 ===== Snippets =====
 === import from another project ====
 Say we have two projects cloned into two directories - github/project1 and github/project2. To import stuff from project1 into a file in project2
@@ -224,3 +242,8 @@ tags | passing function, function as value in dictionary, dispatch
   * https://docs.python.org/3/tutorial/modules.html#importing-from-a-package - link to documentation; referenced in the above stackoverflow link.
 ==== dummy ====
   * https://superuser.com/questions/1633073/why-are-tar-xz-files-15x-smaller-when-using-pythons-tar-library-compared-to-mac - Why are tar.xz files 15x smaller when using Python's tar library compared to macOS tar?
+
+===== came across =====
+==== dummy ====
+  * os.path.splitext(path) - Get the extension of a path
+    * https://docs.python.org/3/library/os.path.html#os.path.splitext

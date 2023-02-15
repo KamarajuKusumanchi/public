@@ -1,0 +1,219 @@
+===== print hundredths =====
+Let's define hundredths as numbers with two decimal digits. This can be money amounts in dollars and cents.
+
+tags | pennies, dollar-cent amounts, print two digits after decimal
+
+==== write single numbers ====
+There are two possible ways - round, format expression. I prefer the format expression as it always gives the same number of digits after the decimal.
+
+^ ^ round ^ format ^
+| output type | float | string |
+| ::: | <code>
+In [1]:
+a = 10.30467
+
+In [2]:
+type(round(a,2))
+Out[2]:
+float
+
+In [3]:
+type('{:.2f}'.format(a))
+Out[3]:
+str
+</code> ||
+| number of digits after the decimal point | varies | always two |
+| ::: | <code>
+In [4]:
+a = 10.30467
+
+In [5]:
+round(a,2)
+Out[5]:
+10.3
+
+In [6]:
+'{:.2f}'.format(a)
+Out[6]:
+'10.30'
+</code> ||
+
+Tested with | Python 3.10.9, ipython 8.8.0
+
+tags | round vs. format
+
+==== write dataframe to csv files ====
+
+If you round and dump the data into a csv file, it does not align around the decimal point. The result is also difficult to align using command line tools.
+
+On the other hand, if the data is formatted using the format expression, it will still not align but can be aligned using command line tools.
+
+For example, consider
+<code>
+$ ipython
+Python 3.10.9 | packaged by conda-forge | (main, Jan 11 2023, 15:15:40) [MSC v.1916 64 bit (AMD64)]
+Type 'copyright', 'credits' or 'license' for more information
+IPython 8.8.0 -- An enhanced Interactive Python. Type '?' for help.
+
+In [1]:
+import pandas as pd
+df = pd.DataFrame({
+  'symbol': ['A', 'B', 'C', 'D'],
+  'price': [8.222, 7.007, 3.971, 9.801],
+  'change': [6.601, 7.241, -9.341, 48.001]})
+df
+Out[1]:
+  symbol  price  change
+0      A  8.222   6.601
+1      B  7.007   7.241
+2      C  3.971  -9.341
+3      D  9.801  48.001
+</code>
+
+If it is rounded and dumped into a csv file
+<code>
+In [2]:
+df.round({'price':2, 'change': 2}).to_csv('x/foo1.csv', index=False, lineterminator='\n')
+</code>
+The result does not align
+<code>
+$ cat ~/x/foo1.csv
+symbol,price,change
+A,8.22,6.6
+B,7.01,7.24
+C,3.97,-9.34
+D,9.8,48.0
+</code>
+and can't easily be aligned using other command line tools
+<code>
+$ cat ~/x/foo1.csv | column -t -s, -R 2,3
+symbol  price  change
+A        8.22     6.6
+B        7.01    7.24
+C        3.97   -9.34
+D         9.8    48.0
+</code>
+
+However, if format expression is used
+<code>
+In [3]:
+formats = {'price': '{:.2f}', 'change': '{:.2f}'}
+df2 = df.copy()
+for col, f in formats.items():
+    df2[col] = df2[col].apply(lambda x: f.format(x))
+df2.to_csv('x/foo2.csv', index=False, lineterminator='\n')
+</code>
+the result still does not align
+<code>
+$ cat ~/x/foo2.csv
+symbol,price,change
+A,8.22,6.60
+B,7.01,7.24
+C,3.97,-9.34
+D,9.80,48.00
+</code>
+but can be using command line tools
+<code>
+$ cat ~/x/foo2.csv | column -t -s, -R 2,3
+symbol  price  change
+A        8.22    6.60
+B        7.01    7.24
+C        3.97   -9.34
+D        9.80   48.00
+</code>
+
+Ref:- https://stackoverflow.com/questions/20003290/output-different-precision-by-column-with-pandas-dataframe-to-csv - shows how to format different columns with different precision.
+
+tags | round vs. format, float_format by column
+
+==== align hundredths column with spaces ====
+Use
+<code>
+import pandas as pd
+from tabulate import tabulate
+
+def to_fwf(df, fname):
+    content = tabulate(df.values.tolist(), list(df.columns), tablefmt="plain")
+    with open(fname, "w") as FileObj:
+        FileObj.write(content)
+
+pd.DataFrame.to_fwf = to_fwf
+</code>
+
+For example, consider
+<code>
+$ ipython
+Python 3.10.9 | packaged by conda-forge | (main, Jan 11 2023, 15:15:40) [MSC v.1916 64 bit (AMD64)]
+Type 'copyright', 'credits' or 'license' for more information
+IPython 8.8.0 -- An enhanced Interactive Python. Type '?' for help.
+
+In [1]:
+import pandas as pd
+df = pd.DataFrame({
+  'symbol': ['A', 'B', 'C', 'D'],
+  'price': [8.222, 7.007, 3.971, 9.801],
+  'change': [6.601, 7.241, -9.341, 48.001]})
+df
+Out[1]:
+  symbol  price  change
+0      A  8.222   6.601
+1      B  7.007   7.241
+2      C  3.971  -9.341
+3      D  9.801  48.001
+
+In [2]:
+import pandas as pd
+from tabulate import tabulate
+
+def to_fwf(df, fname):
+    content = tabulate(df.values.tolist(), list(df.columns), tablefmt="plain")
+    with open(fname, "w") as FileObj:
+        FileObj.write(content)
+
+pd.DataFrame.to_fwf = to_fwf
+</code>
+
+round the data and dump it
+<code>
+In [3]:
+df.round({'price':2, 'change': 2}).to_fwf('x/foo3.txt')
+</code>
+
+the result is aligned and space separated
+<code>
+$ cat ~/x/foo3.txt
+symbol      price    change
+A            8.22      6.6
+B            7.01      7.24
+C            3.97     -9.34
+D            9.8      48
+</code>
+
+You can also do it using format expression
+<code>
+In [4]:
+formats = {'price': '{:.2f}', 'change': '{:.2f}'}
+df2 = df.copy()
+for col, f in formats.items():
+    df2[col] = df2[col].apply(lambda x: f.format(x))
+df2.to_fwf('x/foo4.txt')
+</code>
+which gives the same result
+<code>
+$ cat ~/x/foo4.txt
+symbol      price    change
+A            8.22      6.6
+B            7.01      7.24
+C            3.97     -9.34
+D            9.8      48
+</code>
+
+
+See also:-
+  * https://stackoverflow.com/a/35974742 - initial version of the function is from here.
+  * To see it in action
+    * https://github.com/KamarajuKusumanchi/market_data_processor/blob/master/src/utils/DataFrameUtils.py - I generalized the original version to print index if needed.
+    * https://github.com/KamarajuKusumanchi/market_data_processor/blob/master/tests/src/utils/test_DataFrameUtils.py - test cases
+  * https://pypi.org/project/tabulate/
+
+Sample code demonstrates | add a new method to pandas dataframe

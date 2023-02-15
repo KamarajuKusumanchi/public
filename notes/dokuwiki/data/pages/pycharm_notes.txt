@@ -1,4 +1,13 @@
 ===== dummy =====
+==== configure pycharm with pytest ====
+<code>
+File -> Settings -> Tools -> Python Integrated Tools -> Testing -> Default test runner -> select pytest from the dropdown -> OK
+</code>
+
+Tested with pycharm 2022.1
+
+Ref: https://stackoverflow.com/questions/6397063/how-do-i-configure-pycharm-to-run-py-test-tests
+
 ==== mark import as used ====
 On the unused import line press Alt+Enter -> "Optimize imports" -> Disable inspection
 

@@ -10,6 +10,11 @@
 
 Ref:-
   * https://docs.microsoft.com/en-us/office/troubleshoot/excel/files-open-automatically - low information density.
+
+===== useful links =====
+==== dummy ====
+  * sort values in a pivot table - https://support.microsoft.com/en-us/office/sort-data-in-a-pivottable-or-pivotchart-e41f7107-b92d-44ef-861f-24430830450a
+
 ==== sum values based on another column ====
 <code>
 =sumifs(D2:D21,F2:F21,"N",E2:E21,"Y")

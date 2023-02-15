@@ -157,6 +157,7 @@ s.apply(type).unique()
   * [[Get the first non null value in each column]]
   * [[Convert a dictionary of dataframes to a big dataframe]]
   * [[Convert string to date]]
+  * [[print hundredths]]
 
 ====== difference between =====
   * [[astype vs. to_numeric]]
