@@ -1,0 +1,19 @@
+==== disable autocorrect ====
+<code>
+Settings -> Language & input -> Spell checker -> off
+</code>
+
+<code>
+Settings -> Language & input -> Android Keyboard (AOSP)-> Preferences
+ -> Auto-capitalization -> off
+ -> Double-space period -> on
+ -> Vibrate on keypress -> off
+ -> Sound on keypress -> off
+ -> Popup on keypress -> on
+ -> Voice input key -> on
+</code>
+
+<code>
+Settings -> Language & input -> Android Keyboard (AOSP)-> Text correction
+ -> Auto-correction -> Off
+</code>

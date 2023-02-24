@@ -191,6 +191,7 @@
   * [[njparcels notes]]
   * [[ownership]]
   * [[chatgpt notes]]
+  * [[oneplus notes]]
 
 ==== by date ====
   * [[reading journal 2022]]
