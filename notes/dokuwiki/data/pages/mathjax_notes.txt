@@ -1,2 +1,17 @@
+===== troubleshooting =====
+==== string inside dollar signs is not rendered ====
+Issue:
+
+<code>$\neq$</code> renders as $\neq$
+
+Solution:
+
+Add a space on both sides of the string.
+
+<code>$ \neq $</code> will render as $ \neq $
+
+Tested with: [MathJax plugin 2021-11-20, DokuWiki version: Release 2022-07-31a "Igor"]
+
+===== dummy =====
 ==== useful links ====
   * https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference - MathJax basic tutorial and quick reference. The comments are also very useful.

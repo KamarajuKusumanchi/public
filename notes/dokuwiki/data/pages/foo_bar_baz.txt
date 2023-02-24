@@ -1,0 +1,4 @@
+==== dummy ====
+  * Metasyntactic variables used commonly across all programming languages include foobar, foo, bar, baz, qux, quux, corge, grault, garply, waldo, fred, plugh, xyzzy, and thud; several of these words are references to the game Colossal Cave Adventure.
+
+Ref: https://en.wikipedia.org/wiki/Metasyntactic_variable#General_usage

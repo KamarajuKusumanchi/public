@@ -1,3 +1,12 @@
+==== 2023-02-16 ====
+Notes from https://www.barrons.com/livecoverage/stock-market-today-021623?mod=article_inline
+  * The producer price index measures wholesale inflation
+
+Notes from https://www.barrons.com/articles/treasury-yields-bonds-inflation-995b9911
+  * The two-year Treasury note TMUBMUSD02Y
+
+https://quickbooks.intuit.com/r/cash-flow/critical-difference-profit-cash-flow/ - explains the difference between cash flow vs. profit. Easy to understand.
+
 ==== 2023-02-07 ====
 Notes from https://www.wsj.com/articles/blackstones-hefty-concession-is-a-warning-to-investors-11672840068 dated 2023-01-04
   * University of California’s endowment, known as UC Investments

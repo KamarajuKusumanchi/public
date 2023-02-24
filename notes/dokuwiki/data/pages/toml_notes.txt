@@ -1,0 +1,3 @@
+==== links I came across ====
+  * full spec - https://toml.io/en/v1.0.0
+  * https://docs.python.org/3.11/library/tomllib.html - The tomllib module provides an interface for parsing TOML (Tom’s Obvious Minimal Language, https://toml.io). It does not support writing TOML.

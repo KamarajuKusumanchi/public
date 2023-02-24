@@ -300,3 +300,11 @@ Ref:-
 
 ==== Questions to look into ====
   * Is it possible to persist the breadcrumbs across user sessions? For example, the breadcrumbs are lost if I close the chrome browser and reopen it. Is it possible to preserve them even in such cases?
+
+==== list of installed plugins ====
+syntaxplugins
+~~INFO:syntaxplugins~~
+adminplugins
+~~INFO:adminplugins~~
+
+Ref:- https://www.dokuwiki.org/plugin:info

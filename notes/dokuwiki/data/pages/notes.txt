@@ -175,6 +175,7 @@
   * [[programming notes]]
   * [[gold notes]]
   * [[yaml notes]]
+  * [[toml notes]]
   * [[dollars to words]]
   * [[links I came across]]
   * [[flu vaccine]]
@@ -189,6 +190,7 @@
   * [[bypass paywalls]]
   * [[njparcels notes]]
   * [[ownership]]
+  * [[chatgpt notes]]
 
 ==== by date ====
   * [[reading journal 2022]]

@@ -1,2 +1,28 @@
+===== KDE configuration 2023-02-18 =====
+The KDE version is obtained by running kinfocenter -> "Copy to Clipboard"
+
+<code>
+Operating System: Debian GNU/Linux 11
+KDE Plasma Version: 5.20.5
+KDE Frameworks Version: 5.78.0
+Qt Version: 5.15.2
+Kernel Version: 5.10.0-17-amd64
+OS Type: 64-bit
+Processors: 2 × Intel® Xeon® CPU W3503 @ 2.40GHz
+Memory: 3.8 GiB of RAM
+Graphics Processor: NV98
+</code>
+
+==== move windows using win+left and win+right ====
+
+  * K Menu -> System Settings -> Workspace -> Shortcuts -> System Services -> KWin -> search for "Quick Tile Window to the Left" -> Assign it to Meta+Left
+  * K Menu -> System Settings -> Workspace -> Shortcuts -> System Services -> KWin -> search for "Quick Tile Window to the Right" -> Assign it to Meta+Right
+  * Apply
+
+==== maximize windows on double click ====
+
+  * K Menu -> System Settings -> Workspace -> Window Management -> Window Behavior -> Titlebar Actions -> Double-click -> Vertically maximize
+
+===== dummy =====
 ==== keyboard shortcuts ====
   * Open Terminal - Ctrl+Alt+T

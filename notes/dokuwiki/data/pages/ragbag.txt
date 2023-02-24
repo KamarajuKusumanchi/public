@@ -1,4 +1,5 @@
 ==== dummies ====
+  * [[foo bar baz]]
   * [[book reading tracker]]
   * [[dilbert]]
   * [[list of all pages]]

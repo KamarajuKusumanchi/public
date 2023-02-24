@@ -105,19 +105,6 @@ Ref:- https://docs.python.org/3/library/os.html#os.linesep
 
 See also:- https://stackoverflow.com/questions/4025760/python-file-write-creating-extra-carriage-return
 
-==== type annotations ====
-
-<WRAP group><WRAP column>
-^ ^ ^ ^
-| json | <code>
-from typing import Dict, Any
-
-Dict[str, Any]
-</code> | <WRAP>
-  * Many other ways are possible.
-  * See https://stackoverflow.com/questions/51291722/define-a-jsonable-type-using-mypy-pep-526 for full details.
-</WRAP> |
-</WRAP></WRAP>
 
 ===== tasks =====
   * [[get urls in a url]]

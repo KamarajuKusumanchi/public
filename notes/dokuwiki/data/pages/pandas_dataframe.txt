@@ -159,6 +159,39 @@ s.apply(type).unique()
   * [[Convert string to date]]
   * [[print hundredths]]
 
+===== data transformation related =====
+==== matches to coplays ====
+Consider the dataframe
+<code>
+   match_id player_id
+0         0         a
+1         0         b
+2         0         c
+3         1         a
+4         1         b
+5         2         c
+</code>
+which shows the players played in a given match. For example, it shows that [a, b, c] played in match 0, [a, b] played in match 1, and c alone played in match 2.
+
+We want to get a coplay count
+<code>
+  player_id1 player_id2  size
+0          a          a     2
+1          a          b     2
+2          a          c     1
+3          b          a     2
+4          b          b     2
+5          b          c     1
+6          c          a     1
+7          c          b     1
+8          c          c     2
+</code>
+which shows
+  * the number of games each player played with another player when player_id1 $ \neq $ player_id2 (ex:- a and b played in 2 games, a and c played in 1 game)
+  * the number of games a player played if player_id1 $ == $ player_id2
+
+[[ matches to coplays | Solution ]]
+
 ====== difference between =====
   * [[astype vs. to_numeric]]
 

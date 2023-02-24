@@ -46,6 +46,7 @@ print(interest)
   * https://www.interactivebrokers.com/en/pricing/reference-benchmark-rates-int.php - reference benchmark rates
 
 ==== links I came across ====
+  * https://www.interactivebrokers.com/en/general/calendar/calendar.php - international trading calendar
   * https://ibkr.info/article/1445 - Key Margin Definitions
   * https://www.interactivebrokers.com/en/trading/margin-rates.php - Interest charged on "Margin Loans"
   * https://www.interactivebrokers.com/en/software/am3/am/reporting/deliveredstatements.htm

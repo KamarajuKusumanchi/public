@@ -1,0 +1,149 @@
+===== Matches to Coplays =====
+==== Problem description ====
+Consider the dataframe
+<code>
+   match_id player_id
+0         0         a
+1         0         b
+2         0         c
+3         1         a
+4         1         b
+5         2         c
+</code>
+which shows the players played in a given match. For example, it shows that [a, b, c] played in match 0, [a, b] played in match 1, and c alone played in match 2.
+
+We want to get a coplay count
+<code>
+  player_id1 player_id2  size
+0          a          a     2
+1          a          b     2
+2          a          c     1
+3          b          a     2
+4          b          b     2
+5          b          c     1
+6          c          a     1
+7          c          b     1
+8          c          c     2
+</code>
+which shows
+  * the number of games each player played with another player when player_id1 $ \neq $ player_id2 (ex:- a and b played in 2 games, a and c played in 1 game)
+  * the number of games a player played if player_id1 $ == $ player_id2
+
+==== Solution ====
+Inner merge the initial ''df'' with itself on ''match_id''. Then group by on ''player_1'' and ''player_2''. Aggregate using size() to get the weighted-edges dataframe.
+
+<code>
+$ ipython
+Python 3.10.9 | packaged by conda-forge | (main, Jan 11 2023, 15:15:40) [MSC v.1916 64 bit (AMD64)]
+IPython 8.8.0 -- An enhanced Interactive Python. Type '?' for help.
+
+In [1]:
+import pandas as pd
+
+a, b, c = 'a', 'b', 'c'
+
+df = pd.DataFrame(
+{
+    'match_id':  [0, 0, 0, 1, 1, 2],
+    'player_id': [a, b, c, a, b, c],
+})
+print(df)
+   match_id player_id
+0         0         a
+1         0         b
+2         0         c
+3         1         a
+4         1         b
+5         2         c
+</code>
+
+Do an inner merge on itself
+<code>
+In [2]:
+df.merge(df, on='match_id', how='inner')
+Out[2]:
+    match_id player_id_x player_id_y
+0          0           a           a
+1          0           a           b
+2          0           a           c
+3          0           b           a
+4          0           b           b
+5          0           b           c
+6          0           c           a
+7          0           c           b
+8          0           c           c
+9          1           a           a
+10         1           a           b
+11         1           b           a
+12         1           b           b
+13         2           c           c
+</code>
+
+We want the columns to be player_id1, player_id2 instead of player_id_x, player_id_y
+<code>
+In [3]:
+df.merge(df, on='match_id', how='inner', suffixes=('1', '2'))
+Out[3]:
+    match_id player_id1 player_id2
+0          0          a          a
+1          0          a          b
+2          0          a          c
+3          0          b          a
+4          0          b          b
+5          0          b          c
+6          0          c          a
+7          0          c          b
+8          0          c          c
+9          1          a          a
+10         1          a          b
+11         1          b          a
+12         1          b          b
+13         2          c          c
+</code>
+
+Groupby on player_id1, player_id2 and get the size of each group
+<code>
+In [9]:
+df.merge(df, on='match_id', how='inner', suffixes=('1', '2'))\
+.groupby(['player_id1', 'player_id2'])\
+.size()
+Out[9]:
+player_id1  player_id2
+a           a             2
+            b             2
+            c             1
+b           a             2
+            b             2
+            c             1
+c           a             1
+            b             1
+            c             2
+dtype: int64
+</code>
+
+We want player_id1 and player_id2 as columns instead of as index.
+<code>
+In [11]:
+df.merge(df, on='match_id', how='inner', suffixes=('1', '2'))\
+.groupby(['player_id1', 'player_id2'], as_index=False)\
+.size()
+Out[11]:
+  player_id1 player_id2  size
+0          a          a     2
+1          a          b     2
+2          a          c     1
+3          b          a     2
+4          b          b     2
+5          b          c     1
+6          c          a     1
+7          c          b     1
+8          c          c     2
+</code>
+
+See also:
+  * https://stackoverflow.com/questions/75537816/transform-a-dataframe-for-network-analysis-using-pandas
+    * It is worth going through this page in its entirety.
+    * I got the answer from here. I just added some intermediate steps to understand what is going on behind the scenes.
+    * It shows some alternative solutions which are worth exploring.
+    * It shows how to get the adjacency matrix
+    * It also shows how to visualize the result with some cool graphs produced by the networkx package.

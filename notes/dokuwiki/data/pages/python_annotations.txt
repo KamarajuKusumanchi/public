@@ -1,0 +1,18 @@
+==== random code snippets ====
+<code>
+def diff_yyyymmdd(dt1: str, dt2: str) -> int:
+</code>
+
+==== type annotations ====
+
+<WRAP group><WRAP column>
+^ ^ ^ ^
+| json | <code>
+from typing import Dict, Any
+
+Dict[str, Any]
+</code> | <WRAP>
+  * Many other ways are possible.
+  * See https://stackoverflow.com/questions/51291722/define-a-jsonable-type-using-mypy-pep-526 for full details.
+</WRAP> |
+</WRAP></WRAP>
