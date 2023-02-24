@@ -1,3 +1,28 @@
+==== test a function that writes output to a file ====
+
+<code>
+$ cat write_file.py
+def write_to_file(fname):
+    with open(fname, 'w') as FileObj:
+        FileObj.write('Hello\n')
+
+def test_write_to_file(tmpdir):
+    file = tmpdir.join('output.txt')
+    write_to_file(file)
+    contents_got = file.read()
+    contents_expected = 'Hello\n'
+    assert contents_got == contents_expected
+</code>
+
+<code>
+$ python -m pytest write_file.py
+</code>
+Ref:
+  * https://docs.pytest.org/en/7.1.x/how-to/tmp_path.html
+  * https://docs.pytest.org/en/6.2.x/tmpdir.html
+  * https://stackoverflow.com/questions/20531072/writing-a-pytest-function-to-check-outputting-to-a-file-in-python
+
+
 ==== test a script that prints to stdout ====
 tags | python test case for print
 
