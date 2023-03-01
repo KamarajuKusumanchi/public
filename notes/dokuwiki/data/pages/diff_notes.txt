@@ -1,0 +1,27 @@
+==== diff word by word ====
+<code>
+git diff --word-diff --no-index -- foo bar
+</code>
+or
+<code>
+git diff -U0 --word-diff --no-index -- foo bar
+</code>
+
+You can run this command even if the files are not part of a git repository.
+
+Ref:- https://unix.stackexchange.com/a/330807/198064
+
+Related commands:
+  * ''<nowiki>git diff --no-index --color-words -- foo bar</nowiki>'' - to diff word by word
+  * ''<nowiki>git diff --no-index --color-words=. -- foo bar</nowiki>'' - to diff character by character
+
+==== head and diff ====
+To diff headers of two files without creating any temporary files
+<code>
+% diff <(head -n 1 foo.20170102) <(head -n 1 foo.20170104)
+</code>
+
+==== ignore newline endings ====
+<code>
+diff --strip-trailing-cr file1 file2
+</code>

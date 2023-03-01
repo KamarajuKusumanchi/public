@@ -1,3 +1,5 @@
 ==== tasks ====
   * [[get unique items in a list]]
+  * [[convert a string to a list]]
+
 

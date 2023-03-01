@@ -1,0 +1,59 @@
+===== Convert a string to a dictionary =====
+
+==== ast.literaleval ====
+You can use ast.literaleval from the ast (Abstract Syntax Trees) module.
+
+<code>
+$ ipython
+Python 3.10.6 | packaged by conda-forge | (main, Oct 24 2022, 16:02:16) [MSC v.1916 64 bit (AMD64)]
+IPython 8.4.0 -- An enhanced Interactive Python. Type '?' for help.
+
+In [1]:
+s = "{'muffin' : 'lolz', 'foo' : 'kitty'}"
+
+In [2]:
+import ast
+ast.literal_eval(s)
+Out[2]:
+{'muffin': 'lolz', 'foo': 'kitty'}
+
+In [3]:
+type(ast.literal_eval(s))
+Out[3]:
+dict
+</code>
+
+This is safer than using ''eval()''. From the documentation https://docs.python.org/3/library/ast.html#ast.literal_eval 
+
+> This function had been documented as “safe” in the past without defining what that meant. That was misleading. This is specifically designed not to execute Python code, unlike the more general eval(). There is no namespace, no name lookups, or ability to call out. But it is not free from attack: A relatively small input can lead to memory exhaustion or to C stack exhaustion, crashing the process. There is also the possibility for excessive CPU consumption denial of service on some inputs. Calling it on untrusted data is thus not recommended. 
+
+See also:
+  * https://stackoverflow.com/questions/988228/convert-a-string-representation-of-a-dictionary-to-a-dictionary - where I got the answer from
+
+==== json.loads ====
+Another approach is to use json.loads . But its decoder wants double quotes around strings.
+<code>
+In [1]:
+s = "{'muffin' : 'lolz', 'foo' : 'kitty'}"
+
+
+In [2]:
+import json
+json.loads(s)
+...
+JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+</code>
+
+One workaround is to replace single quotes with double quotes
+<code>
+In [3]:
+s2 = s.replace("'", "\"")
+json.loads(s2)
+Out[3]:
+{'muffin': 'lolz', 'foo': 'kitty'}
+
+In [4]:
+type(json.loads(s2))
+Out[4]:
+dict
+</code>

@@ -192,6 +192,7 @@
   * [[ownership]]
   * [[chatgpt notes]]
   * [[oneplus notes]]
+  * [[diff notes]]
 
 ==== by date ====
   * [[reading journal 2022]]
@@ -204,6 +205,7 @@
   * [[share 2022]]
   * [[share 2021]]
   * [[share 2020]]
+  * [[journal entries year 2020]]
 
 Policy:- sort by (type, year descending)
 

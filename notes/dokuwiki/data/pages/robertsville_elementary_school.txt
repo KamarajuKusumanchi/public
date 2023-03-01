@@ -3,6 +3,8 @@
     * Ref: https://res.mtps.org/apps/pages/index.jsp?uREC_ID=808735&type=d&pREC_ID=1196051
 
 ==== School calendar ====
+tags | holiday calendar
+
   * Direct link: https://res.mtps.org/apps/events/?id=0
   * To go from MTPS website: https://www.mtps.org/ -> Schools -> Robertsville Elementary School -> School Calendar (at the top)
 

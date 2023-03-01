@@ -23,6 +23,10 @@ Graphics Processor: NV98
 
   * K Menu -> System Settings -> Workspace -> Window Management -> Window Behavior -> Titlebar Actions -> Double-click -> Vertically maximize
 
+==== Do not group windows in taskbar ====
+
+  * Right click on taskbar -> Configure Task Manager -> Behavior -> Group -> In the dropdown, choose "Do not group" -> Apply -> OK
+
 ===== dummy =====
 ==== keyboard shortcuts ====
   * Open Terminal - Ctrl+Alt+T

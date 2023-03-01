@@ -51,3 +51,6 @@ print(interest)
   * https://www.interactivebrokers.com/en/trading/margin-rates.php - Interest charged on "Margin Loans"
   * https://www.interactivebrokers.com/en/software/am3/am/reporting/deliveredstatements.htm
   * https://www.elitetrader.com/et/forums/interactive-brokers.92/ - to discuss software and services from Interactive Brokers
+
+==== fundamental data ====
+IBKR gets the fundamental data from GFIS (Global Financial Information Services)

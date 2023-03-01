@@ -1,0 +1,10 @@
+==== 2020-08-12 ====
+The ''<nowiki>..</nowiki>'' and ''<nowiki>...</nowiki>'' have different meanings in the context of ''git diff'' and ''git log''.
+
+For example, ''<nowiki>git log A..B</nowiki>'' means something different compared to ''<nowiki>git log A...B</nowiki>''
+
+Also, the double and triple dots have to be reversed between ''<nowiki>git log</nowiki>''  and ''<nowiki>git diff</nowiki>'' to get the same effect.
+
+i.e. ''<nowiki>git diff A..B</nowiki>'' would correspond to ''<nowiki>git log A...B</nowiki>'' and vice versa.
+
+https://stackoverflow.com/questions/7251477/what-are-the-differences-between-double-dot-and-triple-dot-in-git-dif/46345364#46345364
