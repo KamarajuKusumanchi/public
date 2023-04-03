@@ -1,0 +1,16 @@
+==== VUSXX ====
+  * Vanguard Treasury Money Market Fund
+  * invests exclusively in Treasuries
+  * interest from this fund is exempt from state and local taxes
+  * expense ratio = 9 bps
+
+Ref:
+  * https://thefinancebuff.com/money-market-fund-high-yield-savings-account-guide.html#htoc-vanguard
+  * https://investor.vanguard.com/investment-products/mutual-funds/profile/vusxx
+
+==== etfs I came across ====
+  * the SPDR S&P Regional Banking etf
+    * ticker: KRE
+
+==== see also ====
+  * https://github.com/KamarajuKusumanchi/market_data/blob/master/funds/expense_ratio.csv

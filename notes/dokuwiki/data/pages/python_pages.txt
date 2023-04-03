@@ -1,9 +1,9 @@
 ==== python ====
-  * [[python notes]]
   * [[pandas dataframe]]
   * [[pandas series]]
   * [[pandas groupby]]
   * [[pandas notes]]
+  * [[python notes]]
   * [[ipython notes]]
   * [[numpy notes]]
   * [[numpy exercises]]

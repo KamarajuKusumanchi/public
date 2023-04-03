@@ -192,11 +192,122 @@ which shows
 
 [[ matches to coplays | Solution ]]
 
-====== difference between =====
+===== difference between =====
   * [[astype vs. to_numeric]]
 
 
 ===== convert stuff =====
+
+==== convert column names to lower case and replace space with underscore ====
+<code>
+df.columns = df.columns.str.lower().str.replace(' ', '_')
+</code>
+
+Example:
+<code>
+$ ipython
+Python 3.10.9 | packaged by conda-forge | (main, Jan 11 2023, 15:15:40) [MSC v.1916 64 bit (AMD64)]
+Type 'copyright', 'credits' or 'license' for more information
+IPython 8.8.0 -- An enhanced Interactive Python. Type '?' for help.
+
+In [1]:
+import pandas as pd
+df = pd.DataFrame(
+    [['2023-03-02', '2023-02-28', 3.20, 3.30],
+     ['2022-12-08', '2022-11-30', 3.14, 3.10]],
+    columns = ["Announcement Date", "Fiscal Quarter End", "Estimated EPS", "Actual EPS"])
+df
+Out[1]:
+  Announcement Date Fiscal Quarter End  Estimated EPS  Actual EPS
+0        2023-03-02         2023-02-28           3.20         3.3
+1        2022-12-08         2022-11-30           3.14         3.1
+
+In [2]:
+df.columns = df.columns.str.lower().str.replace(' ', '_')
+
+In [3]:
+df
+Out[3]:
+  announcement_date fiscal_quarter_end  estimated_eps  actual_eps
+0        2023-03-02         2023-02-28           3.20         3.3
+1        2022-12-08         2022-11-30           3.14         3.1
+</code>
+
+==== convert column names to lower case ====
+Approach 1:
+<code>
+df.columns = df.columns.str.lower()
+</code>
+
+Approach 2:
+<code>
+df.rename(columns=lambda x: x.lower(), inplace=True)
+</code>
+
+Notes:
+  * I prefer approach1 - simple syntax, easy to remember.
+
+Use case: While merging data from two data frames using DataFrame.merge(), I ended up with two columns with same name but differing in case (ex: foo from df1, FOO from df2). This caused problems when I tried to upload data into a hadoop cluster since hive is not case sensitive. As a work around, I converted the column names in df2 to lower case and then merged using pd.merge(df1, df2, ..., suffixes = ('_df1', '_df2')). The resulting data frame will now have foo_df1, foo_df2 columns.
+
+Example (using approach 1):
+<code>
+$ ipython
+Python 3.10.9 | packaged by conda-forge | (main, Jan 11 2023, 15:15:40) [MSC v.1916 64 bit (AMD64)]
+Type 'copyright', 'credits' or 'license' for more information
+IPython 8.8.0 -- An enhanced Interactive Python. Type '?' for help.
+
+In [1]:
+import pandas as pd
+df = pd.DataFrame(
+    [['2023-03-02', '2023-02-28', 3.20, 3.30],
+     ['2022-12-08', '2022-11-30', 3.14, 3.10]],
+    columns = ["Announcement Date", "Fiscal Quarter End", "Estimated EPS", "Actual EPS"])
+df
+Out[1]:
+  Announcement Date Fiscal Quarter End  Estimated EPS  Actual EPS
+0        2023-03-02         2023-02-28           3.20         3.3
+1        2022-12-08         2022-11-30           3.14         3.1
+
+In [2]:
+df.columns = df.columns.str.lower()
+
+In [3]:
+df
+Out[3]:
+  announcement date fiscal quarter end  estimated eps  actual eps
+0        2023-03-02         2023-02-28           3.20         3.3
+1        2022-12-08         2022-11-30           3.14         3.1
+</code>
+
+Example (using approach 2):
+<code>
+$ ipython
+Python 3.10.9 | packaged by conda-forge | (main, Jan 11 2023, 15:15:40) [MSC v.1916 64 bit (AMD64)]
+IPython 8.8.0 -- An enhanced Interactive Python. Type '?' for help.
+
+In [1]:
+import pandas as pd
+df = pd.DataFrame(
+    [['2023-03-02', '2023-02-28', 3.20, 3.30],
+     ['2022-12-08', '2022-11-30', 3.14, 3.10]],
+    columns = ["Announcement Date", "Fiscal Quarter End", "Estimated EPS", "Actual EPS"])
+df
+Out[1]:
+  Announcement Date Fiscal Quarter End  Estimated EPS  Actual EPS
+0        2023-03-02         2023-02-28           3.20         3.3
+1        2022-12-08         2022-11-30           3.14         3.1
+
+In [2]:
+df.rename(columns=lambda x: x.lower(), inplace=True)
+
+In [3]:
+df
+Out[3]:
+  announcement date fiscal quarter end  estimated eps  actual eps
+0        2023-03-02         2023-02-28           3.20         3.3
+1        2022-12-08         2022-11-30           3.14         3.1
+</code>
+
 
 ==== convert all categorical columns to string columns ====
 <code>

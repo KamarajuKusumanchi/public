@@ -1,3 +1,146 @@
+
+==== 2023-04-03 ====
+Notes from https://www.reuters.com/markets/deals/extra-space-storage-combine-with-life-storage-127-bln-deal-wsj-2023-04-03/
+  * Extra Space Storage (ticker: EXR)
+  * Life Storage (ticker: LSI)
+    * operates more than 1,150 storage facilities in 37 states and the District of Columbia
+
+  * Public Storage (ticker: PSA)
+  * EXR is acquiring LSI
+    * for $12.4 billion
+    * combined company will be the largest U.S. self-storage space operator by store count
+    * all-stock deal
+    * EXR's lead financial adviser was Citigroup Global Markets
+    * LSI's financial advisers were Wells Fargo Securities and BofA Securities
+
+==== 2023-03-29 ====
+Notes from https://thefinancebuff.com/brokerage-account-safe-no-fdic.html
+  * Charles Schwab has a banking arm — Schwab Bank
+  * Vanguard, Fidelity, and Charles Schwab all have a money market fund that invests only in Treasuries and government bonds.
+  * The federal government guarantees to pay the principal and interest on Treasuries.
+  * The big-3 brokers Charles Schwab, Vanguard, and Fidelity
+  * You can buy Treasuries either as new issues or “pre-owned.”
+  * Customers were eventually made whole after MF Global went bankrupt but it took five years.
+  * Brokerage accounts are insured by SIPC up to $500,000 but the insurance doesn’t cover the payback from your investments. It only covers missing assets if the broker goes down. If customer assets aren’t missing, the SIPC insurance isn’t needed.
+  * from comments
+    * Schwab Value Advantage Money Fund Investor Shares (SWVXX)
+    * Schwab U.S. Treasury Money Fund Investor Shares (SNSXX) invests primarily in Treasuries
+    * All money market fund yields are quoted after fees are already deducted
+
+==== 2023-03-27 ====
+Notes from https://www.bloomberg.com/news/articles/2023-03-27/schwab-s-7-trillion-empire-built-on-low-rates-is-showing-cracks?srnd=premium
+  * overexposed to crypto like Silvergate Capital and Signature Bank
+  * overexposed to venture capital like Silicon Valley Bank
+  * Charles Schwab Corp
+    * Fewer than 20% of Schwab’s depositors exceed the FDIC’s $250,000 insurance cap
+    * 34 million accounts
+    * $7 trillion of assets across all of its businesses
+    * based in Westlake, Texas
+    * Chief Executive Officer Walt Bettinger
+    * operates one of the largest US banks
+    * grafted on to the biggest publicly traded brokerage
+
+==== 2023-03-24 ====
+Notes from https://www.ft.com/content/6319e205-d688-4521-b048-8d69a2c40847?emailId=d5f8bad4-a72a-466b-a592-c64a67ac84e4&segmentId=3d08be62-315f-7330-5bbd-af33dc531acb
+  * BlackRock's AUM - $8.6 trillion
+  * Larry Fink used to work at First Boston, Credit Suisse’s investment banking business
+  * senior bankers at Perella Weinberg
+  * BlackRock has long been one of Credit Suisse’s biggest investment banking clients, particularly its fixed-income trading desk
+  * The Swiss National Bank (SNB)
+
+Notes from https://www.ft.com/content/fbd9e3d4-2df5-4a65-adbd-01e5de2c5053
+  * BlackRock’s consulting arm
+  * SVB hired BlackRock’s Financial Markets Advisory Group in October 2020 to analyse the potential impact of various risks on its securities portfolio, examine the risk systems, processes and people in its treasury department
+
+==== 2023-03-23 ====
+Notes from https://www.barrons.com/articles/block-stock-hindenburg-short-seller-report-legal-action-a7198e?mod=hp_LEAD_5
+  * Nostr, the decentralized alternative to Twitter
+  * Jack Dorsey
+    * co-founder of Block (ticker: SQ)
+  * Block (ticker: SQ)
+    * facilitates payment through its widely popular Cash App platform
+
+Notes from https://www.wsj.com/articles/accenture-to-cut-19-000-jobs-2-5-of-workforce-84c1ecdd?mod=hp_lead_pos11
+  * Accenture PLC
+    * 19,000 jobs or 2.5% of its workforce, over the next 18 months
+    * employs about 738,000 people globally
+    * Chief Executive Julie Sweet
+  * IT positions being cut or automated are those in data-center operations and telecommunications
+  * large skills gap remains in areas like cybersecurity and software development
+  * Capital One Financial Corp
+    * laid off 1100 employees in the “agile” group within its technology department
+
+==== 2023-03-22 ====
+Notes from https://www.federalreserve.gov/newsevents/pressreleases/monetary20230322a.htm
+  * the federal funds rate is raised to 4-3/4 to 5 percent.
+  * the Committee will continue reducing its holdings of Treasury securities and agency debt and agency mortgage-backed securities
+
+Notes from https://www.federalreserve.gov/newsevents/pressreleases/monetary20230322a1.htm
+  * Implementation Note
+
+==== 2023-03-20 ====
+Notes from https://www.wsj.com/articles/credit-suisse-bond-wipeout-threatens-250-billion-market-10be7d04
+  * AT1 bonds - also known as contingent convertible bonds, or CoCos - were introduced after the financial crisis as a way to transfer banking risk away from taxpayers and onto bondholders.
+
+==== 2023-03-11 ====
+Notes from https://www.bloomberg.com/news/articles/2023-03-11/thiel-s-founders-fund-withdrew-millions-from-silicon-valley-bank
+  * Founders Fund started a capital call.
+  * Capital call - a VC firm asks its investors, or limited partners, to send it money in order to make investments in startups.
+
+==== 2023-03-10 ====
+Notes from https://www.barrons.com/articles/svb-financial-stock-portfolio-outlook-loss-93287f3d?mod=hp_LEAD_1
+  * On Friday, the California Department of Financial Protection and Innovation closed down Silicon Valley Bank and appointed the FDIC as receiver.
+  * The FDIC created the Deposit Insurance National Bank of Santa Clara and immediately transferred all insured deposits of SVB to the DINB at the time of closing.
+  * FDIC’s standard insurance amount is $250,000 per depositor, per insured bank.
+  * SVB Financial Group (ticker: SIVB) is the parent company of Silicon Valley Bank
+  * Nasdaq will delist SVB’s stock
+
+Notes from https://www.xtb.com/int/market-analysis/news-and-research/svb-financial-bank-closed-by-fdic-decision
+  * SVB was the 18th largest bank in the U.S., with $212 billion in assets
+
+Notes from https://www.fdic.gov/news/press-releases/2023/pr23016.html
+  * As of December 31, 2022, Silicon Valley Bank had approximately \$209.0 billion in total assets and about \$175.4 billion in total deposits.
+
+Notes from https://www.semafor.com/article/03/09/2023/some-vc-firms-are-urging-founders-to-pull-money-from-troubled-silicon-valley-bank
+  * First Republic and Brex - to transfer money out of SVB
+  * SVB CEO Gregory Becker
+
+Notes from https://www.sec.gov/Archives/edgar/data/1428439/000142843923000010/wk-20230310.htm
+  * $487 million of Roku's cash is held at SVB. It is all uninsured.
+
+==== 2023-03-07 ====
+Notes from https://www.barrons.com/articles/china-us-taiwan-conflict-confrontation-a818d490?mod=hp_LEAD_3
+  * China’s foreign minister Qin Gang
+
+==== 2023-03-06 ====
+Notes from https://www.bloomberg.com/opinion/articles/2023-03-06/silvergate-and-the-problems-of-crypto-related-deposits
+  * Silvergate Capital Corp is based in California.
+  * money-transfer businesses - MoneyGram International, Western Union
+  * 82% of Silvergate's deposit base is crypto customers
+  * highly liquid - Deposits at the Federal Reserve or other banks, short-term Treasury bills
+  * Large banks must keep enough high-quality liquid assets to cover 30-days’ worth of deposit withdrawals under stressed conditions.
+    * JPMorgan Chase & Co., for example, held \$733 billion of such assets at the end of 2022 against \$2.3 trillion of diverse, traditional deposits.
+    * Three-quarters of those liquid assets were on deposit at the Fed and other banks, the rest was in a mix of Treasuries, and government-sponsored mortgage bonds.
+
+==== 2023-03-03 ====
+Notes from https://www.barrons.com/articles/crypto-silvergate-bank-bitcoin-ea6943b4?mod=hp_LEAD_1
+  * Silvergate Capital
+    * ticker = SI
+    * warned about its ability to “continue as a going concern.”
+    * based in La Jolla, Calif
+    * founded in the late 1980s
+    * had $14.3 billion in deposits at the end of 2021
+    * deposits dropped to $3.8 billion in Q4 2022
+    * created the “Silvergate Exchange Network” (SEN)
+      * to handle transfers of traditional currency between its customers
+      * In Q4 2021, it handled $219.2 billion in U.S. dollar transfers
+      * By 2021, it had 94 crypto exchanges and 894 institutional investors as customers
+      * Made U.S. dollar loans to customers who posted Bitcoin as collateral
+      * The SEN network allowed crypto companies to avoid ACH transfers
+  * slippage - the difference between the price at which a trade is expected to happen and where it actually executes
+  * Signature Bank (SBNY)
+    * Runs a network similar to SEN
+
 ==== 2023-02-28 ====
 Notes from https://www.bloomberg.com/news/articles/2023-02-28/cash-home-sales-in-us-at-highest-in-almost-a-decade?srnd=premium
   * Augusta, Georgia is known for hosting the US Masters golf tournament
