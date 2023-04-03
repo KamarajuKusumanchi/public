@@ -1,0 +1,11 @@
+
+======= Store notes in a wiki format =======
+
+Whenever I come across something new, I try to note it down in a text file so I can refer to it at a later point of time. Up until now, I was using flat text files and edit them using gvim. But this approach has some drawbacks:
+  * No rich formatting in the files (ex:- numbered lists, italic fonts, preformatted code, headings, sections, subsections etc.,). 
+  * Can not link one file to another
+  * Can not traverse across files by clicking on the links.
+
+All these shortcomings are solved by using [https://packages.debian.org/jessie/zim zim] editor. It allows to store notes in a wiki like format with links etc., but without the actual headache of setting up a wiki engine. The cool part is that the underlying text files consist of minimal markup and are easy to read in gvim should the need ever arise.
+
+Google searches I used while trying to find an editor like zim | store notes in mediawiki format, running a mediawiki locally linux, local wiki

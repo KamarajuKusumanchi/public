@@ -58,6 +58,9 @@ You can bring up the "Format Cells" dialog by clicking on the small arrow button
 
 {{:format_numbers_in_excel.png|}}
 
+==== shortcuts I came across ====
+
+| insert multiple lines in excel cell | Alt + Enter |
 ===== Articles =====
 ==== clickable links from csv file ====
 The idea here is to create a csv file that has clickable links when imported into excel. I prefer csv files as opposed to tab separated or space separated files since the excel importing wizard does not pop up if it is a .csv file but pops for other types such as .tsv and .txt.

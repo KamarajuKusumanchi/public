@@ -1,0 +1,3 @@
+===== why dokuwiki =====
+==== why not moinmoin? ====
+  * Does not have a Section Edit feature.

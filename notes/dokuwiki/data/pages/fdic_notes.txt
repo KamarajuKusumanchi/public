@@ -1,0 +1,8 @@
+==== qna ====
+??? What is an advance dividend?
+!!! From https://www.fdic.gov/bank/historical/reshandbook/glossary.pdf
+> A payment made to an uninsured depositor after a bank or thrift failure. The amount of the advance dividend represents the FDIC’s conservative estimate of the ultimate value of the receivership.  Cash dividends equivalent to the board-approved advance dividend percentage (of total outstanding deposit claims) are paid to uninsured depositors, thereby giving them an immediate return of a portion of their uninsured deposit. Sometimes when it is projected that all depositor claims will be paid in full an advance dividend will be provided to unsecured creditors.
+
+==== links I came across ====
+  * https://www.fdic.gov/bank/historical/bank/ - shows the number of bank failures by year. The same chart also shows the total assets involved.
+  * https://www.fdic.gov/resources/deposit-insurance/financial-products-insured/ - has detailed information on how joint accounts are handled.

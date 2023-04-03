@@ -1,0 +1,21 @@
+===== Morganville related =====
+==== fares to travel between PABT and Texas Road stop on US 9 N ====
+  * one way - $13.75
+  * 10 trip - $118.50 . This is 13.82% discount (= round( (1 - (118.50 / 137.50))*100, 2)).
+
+last checked - 2023-03-31
+
+==== bus stops of interest ====
+  * 23551 - U.S. 9 + Texas Road towards NYC
+  * 24855 - U.S. 9 + Texas Road towards Lakewood
+  * 24865 - U.S. 9 + Costco towards NYC
+
+In the MyBus system, 23551 stop is referred to as "U S RT 9 + TEXAS RD" and 24865 stop is referred to as "RT 9 + TEXAS RD"
+
+==== bus routes ====
+  * 139 - https://d2g63oyneaimm8.cloudfront.net/sites/default/files/bus_schedules/T0139.pdf
+    * https://www.njtransit.com/pdf/bus/T0139.pdf - old, does not work as of 2021-10-29
+3 bus routes to New York - "139 New York", "139 New York via Frhld Ctr", "139 New York via Frhld Mal"
+
+==== zone info ====
+  * Stop of interest: "U S RT 9 & TEXAS RD"

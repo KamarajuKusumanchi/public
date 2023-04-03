@@ -1,0 +1,8 @@
+===== note taking apps =====
+==== Well known ====
+  * zim - my favorite
+  * OneNote from Microsoft
+  * Orgmode in Emacs
+  * google keep
+  * SimpleNote
+  * vimwiki

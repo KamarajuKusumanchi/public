@@ -1,3 +1,4 @@
+===== dummy =====
 ==== when was a package installed ====
 To find out when I installed the dokuwiki package, I did
 <code>
@@ -91,3 +92,11 @@ buster
 </code>
 
 Ref:- I came across it in https://www.texmacs.org/tmweb/download/linux-repos.en.html#debian
+
+===== packages I came across =====
+==== python3-full ====
+  * python3-full package - https://packages.debian.org/stable/python3-full
+    * This will include python, venv and pip.
+    * If you just install the https://packages.debian.org/stable/python3 package, it will not have venv.
+
+Ref:- https://snarky.ca/how-virtual-environments-work/ -> "Introducing microvenv" section -> first paragraph

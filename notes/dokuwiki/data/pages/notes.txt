@@ -193,6 +193,11 @@
   * [[chatgpt notes]]
   * [[oneplus notes]]
   * [[diff notes]]
+  * [[why notes]]
+  * [[applications]]
+  * [[fdic notes]]
+  * [[moinmoin notes]]
+  * [[njtransit notes]]
 
 ==== by date ====
   * [[reading journal 2022]]
@@ -209,11 +214,9 @@
 
 Policy:- sort by (type, year descending)
 
-==== dummy ====
+==== have to sort ====
   * [[products]]
   * [[services]]
-
-==== have to sort ====
   * [[sort_001]]
   * [[dummies]]
-  * [[export_indian_wear]]
+

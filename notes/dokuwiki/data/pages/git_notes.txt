@@ -34,6 +34,18 @@ git push
 
 Note:- The "git merge development" command works even if you have local changes not committed to feature1.
 
+===== Tasks =====
+==== Initializing git for version control ====
+<code>
+git config --global user.name "Kamaraju S. Kusumanchi"
+git config --global user.email "kamaraju@gmail.com"
+git config --global push.default matching
+git config --global alias.co checkout
+git init
+</code>
+
+Ref:- https://codemy.com/git
+
 ===== dummy =====
 ==== git resources ====
   * https://learngitbranching.js.org/ - Very good resource to learn git branching.
@@ -62,6 +74,22 @@ See also:
 <code>
 git grep -i --all-match -e '\^.*\^' -e '|.*|'
 </code>
+
+===== Commits related =====
+==== amend last commit =====
+
+<code>
+export EDITOR=vim
+git commit --amend --author="Kamaraju S. Kusumanchi <kamaraju@gmail.com>"
+git config user.email "kamaraju@gmail.com"
+
+git config --get-all --show-scope user.email
+git config --get-all --show-origin user.email
+</code>
+
+===== Configuration related =====
+==== configuration files ====
+  * https://git-scm.com/docs/git-config#FILES - talks about which files 'git config' reads from. High information density. Easy to understand.
 
 ===== git commands usage =====
 ==== git cherry-pick ====
