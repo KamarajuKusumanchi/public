@@ -1,0 +1,8 @@
+Policy:
+  * new stuff goes in the end
+  * If you want to group entries, move older items to the place of newer items
+
+==== dummy ====
+  * yarder
+    * A yarder is piece of logging equipment that uses a system of cables to pull or fly logs from the stump to a collection point.
+    * More details at https://en.wikipedia.org/wiki/Yarder - has a picture of a modern yarder.

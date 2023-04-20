@@ -1,3 +1,14 @@
+===== qna =====
+==== treasury bills vs. notes vs. bonds ====
+??? What is the difference between Treasury bills, notes and bonds?
+!!!
+
+^ ^ Treasury Bills ^ Treasury Notes ^ Treasury Bonds ^
+| term | short-term | short or medium-term | long-term |
+| mature in | one year or less | 2, 3, 5, 7, or 10 years | 20 or 30 years |
+
+Ref:- https://www.treasurydirect.gov/marketable-securities/understanding-pricing/
+
 ===== methodology related =====
 ==== high rate vs. investment rate ====
 ??? What is the difference between "high rate" and "investment rate" in https://www.treasurydirect.gov/auctions/announcements-data-results/?
@@ -68,5 +79,6 @@ Out[7]:
 
 
 ==== links I came across ====
+  * https://www.treasurydirect.gov/auctions/how-auctions-work/ - How auctions work
   * https://www.treasurydirect.gov/forms/sec009.pdf - Investing Directly With the U.S. Treasury (FS Publication 009) is an introductory publication.
   * https://www.treasurydirect.gov/indiv/help/treasurydirect-help/user-guide/291-300/ - User guide sections 291 through 300

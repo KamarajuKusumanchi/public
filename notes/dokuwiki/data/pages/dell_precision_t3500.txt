@@ -1,0 +1,5 @@
+==== links I came across ====
+  * https://www.dell.com/support/kbdoc/en-us/000140099/precision-workstation-t3500-memory-specifications-and-configurations - Precision Workstation T3500 Memory Specifications and Configurations
+    * tells how much maximum ram you can have on dell precision T3500.
+    * tells what ram configurations are supported on dell precision T3500. For example, I learned that you can't have four 4 GB modules on this machine. But you could have three 4 GB modules or six 4 GB modules.
+  * https://i.dell.com/sites/doccontent/shared-content/data-sheets/en/Documents/Dell-Precision-T3500-Spec-Sheet.pdf - Dell Precision T3500 specification sheet.

@@ -1,14 +1,14 @@
 ==== WFH setup ====
-last updated | 2023-03-08
+last updated | 2023-04-17
 
-Todo 2023-03-08: Add details of laptop and desktop. Laptop entry should have model, screen size, memory size, memory type, hard disk size, hard disk type.
+Todo 2023-04-17: Add details of laptop and desktop. Laptop entry should have model, screen size, memory size, memory type, hard disk size, hard disk type.
 
 ^ item ^ details ^ review ^ recommendation ^
 | Desktop | <WRAP outdent>
   * Dell Precision T3500
   * 2 cores
-  * two 2GiB DIMM DDR3 1333 MHz chips = total of 4 GB RAM
-</WRAP> | | 4 GB RAM is not enough. Get more. |
+  * six 4GiB DIMM DDR3 1600 MHz chips = total of 24 GB RAM
+</WRAP> | | |
 | Monitor | <WRAP outdent>
   * 23", 1920 x 1080
   * Samsung PX 2370

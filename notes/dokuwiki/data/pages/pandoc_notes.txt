@@ -1,0 +1,11 @@
+==== convert mediawiki to dokuwiki ====
+Input: mw.txt in mediawiki format.
+\\
+Output: dk.txt in dokuwiki format.
+
+<code>
+pandoc -f mediawiki -t dokuwiki mw.txt -o dk.txt
+</code>
+
+See also:
+  * https://pandoc.org/MANUAL.html#general-options

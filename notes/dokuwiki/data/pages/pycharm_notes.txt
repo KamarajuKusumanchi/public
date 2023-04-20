@@ -39,6 +39,9 @@ Ref:- https://intellij-support.jetbrains.com/hc/en-us/community/posts/206585365-
 ==== release history ====
 <code>
 released, version
+2023-03-29, 2023.1
+2023-03-09, 2022.3.3
+2023-03-15, 2022.2.5
 2022-08-16, 2022.2.1
 2022-04-12, 2022.1
 2021-07-27, 2021.2

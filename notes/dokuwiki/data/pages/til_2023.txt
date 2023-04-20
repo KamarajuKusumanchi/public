@@ -1,3 +1,6 @@
+==== 2023-04-17 ====
+  * https://superuser.com/questions/10588/how-to-make-cut-copy-paste-in-gvim-on-ubuntu-work-with-ctrlx-ctrlc-ctrlv/189198#189198 - Use the "standard" hotkeys (Ctrl-c for copy, Ctrl-x for cut, and Ctrl-v for paste) in gvim on Debian.
+
 ==== 2023-01-09 ====
   * The keyboard shortcut ''Ctrl-Alt-t'' will open a terminal window on Debian.
 

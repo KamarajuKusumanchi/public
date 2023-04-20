@@ -18,9 +18,11 @@
 ==== apps ====
   * [[zim notes]]
   * [[chrome notes]]
+  * [[pandoc notes]]
   * [[conemu notes]]
   * [[whatsapp notes]]
   * [[okular notes]]
+
 
 ==== dummy ====
   * [[quant finance notes]]
@@ -154,6 +156,8 @@
   * [[quotes]]
   * [[jcpl]]
   * [[came across]]
+  * [[links I came across]]
+  * [[words I came across]]
   * [[google pixel 6]]
   * [[toothpaste]]
   * [[wordus]]
@@ -177,7 +181,6 @@
   * [[yaml notes]]
   * [[toml notes]]
   * [[dollars to words]]
-  * [[links I came across]]
   * [[flu vaccine]]
   * [[dictionaries]]
   * [[digital ocean notes]]
@@ -198,6 +201,9 @@
   * [[fdic notes]]
   * [[moinmoin notes]]
   * [[njtransit notes]]
+  * [[silent letters]]
+  * [[sipc notes]]
+  * [[air filters]]
 
 ==== by date ====
   * [[reading journal 2022]]

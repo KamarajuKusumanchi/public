@@ -1,4 +1,35 @@
 
+==== 2023-04-18 ====
+Notes from https://www.barrons.com/articles/earnings-stocks-gains-rally-outlook-fff4ad0c
+  * S&P 500 year-over-year earnings growth
+  * ISM Manufacturing Index, a measure of the level of activity in that part of the economy
+  * ISM dropped to about 46 for March from a post-Covid peak of just over 60.
+  * Such weak ISM results historically have correlated to fewer than 70% of S&P 500 companies beating quarterly profit projections
+  * the S&P 500’s price/earnings multiple is at a not-inexpensive 18.3 times analysts’ full-year forecast
+  * Full-year guidance often accompanies first-quarter reports.
+
+==== 2023-04-17 ====
+Notes from https://www.barrons.com/articles/berkshire-class-a-stock-premium-b-warren-buffett-c8ed2dd3
+  * Buffett holds virtually all his roughly 15% economic stake in Berkshire through the A shares
+  * The Class B stock was issued in 1996
+  * Class B stock is more liquid and widely owned than the A stock due to its lower share price and inclusion in the S&P 500 SPX index
+  * Class B share carry 1/10,000th of a vote
+  * Economically, Class B share is 1/1,500th of a Class A share
+  * Buffett maintains a 31% voting stake with just a 15% economic interest
+
+==== 2023-04-11 ====
+Notes from https://www.cnbc.com/2023/04/11/berkshire-japan.html
+  * Japan’s five largest trading companies — known as sogo shosha — are conglomerates that import everything from energy and metals to food and textiles into resource-scarce Japan.
+
+==== 2023-04-06 ====
+Notes from https://www.barrons.com/articles/constellation-earnings-stock-price-dividend-d8cb7af2
+  * The 20 largest companies in the S&P 500 have added nearly \$2 trillion in market cap this year, versus \$170 billion for the remaining 480 stocks
+
+Notes from https://www.barrons.com/articles/bird-flu-vaccine-egg-prices-chickens-65602fd9?mod=hp_LEADSUPP_2
+  * Cal-Maine Foods (ticker: CALM), the largest producer of eggs in the U.S.,
+  * The U.S. is one of the world’s largest poultry exporters; it exported $6 billion worth of poultry meat in 2022
+  * spring - a season when avian flu typically flares
+
 ==== 2023-04-03 ====
 Notes from https://www.reuters.com/markets/deals/extra-space-storage-combine-with-life-storage-127-bln-deal-wsj-2023-04-03/
   * Extra Space Storage (ticker: EXR)

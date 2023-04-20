@@ -1,0 +1,28 @@
+===== cost basis report in IBKR =====
+==== Task ====
+Generate a cost basis report in IBKR which tells when a particular security is bought and for how much.
+
+tags | ibkr how to find out when I bought a stock
+
+==== Solution ====
+Create a custom report called cost_basis
+<code>
+IBKR portal -> Performance & Reports -> Statements
+-> Custom statements -> click on the '+' sign
+-> Statement Details -> State Name = cost_basis
+-> Sections -> select "Account Information", "Cash Report", "Open Positions"
+-> Set "Hide Details for Positions, Trades and Client Fees Sections?" to NO
+-> Delivery Configuration -> Period = Daily
+-> Continue
+</code>
+and run it.
+<code>
+IBKR portal -> Performance & Reports -> Statements
+-> Custom statements -> Run the cost_basis report by clicking on the
+"right arrow" button -> set the Date to today if you want to see the
+cost basis for today's holdings, or set it to a date in the past to see
+the holdings as they were back then.
+</code>
+
+==== Ref ====
+  * https://www.reddit.com/r/interactivebrokers/comments/idaaes/where_can_i_see_when_i_bought_a_certain_stock/ -> Zr40's answer. This is where I found the hack in the first place. I just made the instructions a bit more explicit.

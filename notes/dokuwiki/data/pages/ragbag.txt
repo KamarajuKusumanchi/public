@@ -1,4 +1,5 @@
-==== dummies ====
+
+==== pages ====
   * [[foo bar baz]]
   * [[book reading tracker]]
   * [[dilbert]]
@@ -9,6 +10,13 @@
   * [[websites]]
   * [[time in different countries]]
   * [[company tidbits]]
+  * [[Dell Precision T3500]]
+
+==== lines ====
+  * A milliliter is about 20 drops from an eyedropper.
+  * A pail holds about 8 liters.
+  * A sandgrouse can soak up enough water in its fluffy feathers to fill a small perfume bottle (~20 mL). It can carry the water a long way to its chicks.
+  * A liter is slightly larger than a quart.
 
 ==== About ====
 

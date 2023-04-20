@@ -1,6 +1,7 @@
 Note:- My old blog is in http://raju.shoutwiki.com/wiki/Blog . I plan to migrate the articles from there to here as time permits.
 
 ==== 2023 ====
+  * 2023-04-17 [[cost basis report in IBKR]]
   * 2023-02-24 [[matches to coplays]]
 
 ==== 2022 ====

@@ -37,6 +37,9 @@ print(interest)
 </code>
 
 ===== dummy =====
+==== tasks ====
+  * [[cost basis report in IBKR]]
+
 ==== useful links ====
   * https://ibkr.info/article/1851 - Cash Sweeps
   * comparison of different trading platforms - https://www.interactivebrokers.com/en/index.php?f=13868

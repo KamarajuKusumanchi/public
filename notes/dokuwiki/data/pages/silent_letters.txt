@@ -1,0 +1,5 @@
+==== words with silent letters ====
+  * plumber, debt, doubt, subtle
+    * 'b' is silent
+    * https://www.merriam-webster.com/words-at-play/why-is-debt-spelled-like-that
+  * indict, island

@@ -46,3 +46,15 @@ On 2022-09-13
 Ref:-
   * https://finance.yahoo.com/quote/%5EGSPC/history/
   * https://www.wsj.com/articles/us-inflation-august-2022-consumer-price-index-11663017630
+
+==== 2023-04-20 why is costco up today? ====
+
+
+Observation:
+  * time = 2023-04-20 12:04 pm
+  * prices = {VOO: \$378.69, COST: \$508.36}
+  * returns = {VOO: 48 bps, COST: 249 bps} 
+
+Hypothesis:
+  * On 2023-04-19, Costco announced that they will be increasing the cash dividend from 90 cents to $1.02 per share. The dividend is payable May 19, 2023, to shareholders of record at the close of business on May 5, 2023.
+    * Ref:- https://investor.costco.com/news/news-details/2023/Costco-Wholesale-Corporation-Announces-an-Increase-in-Its-Quarterly-Cash-Dividend/default.aspx Costco is increasing .

@@ -1,9 +1,11 @@
 Todo:- Migrate the contents from http://raju.shoutwiki.com/wiki/Journalists_notes to here. Delete that page once the migration is done.
 
 ==== authors I like ====
-  * James Somers - He writes very well. See https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge for an example of his work. It profiles Jeff Dean and Sanjay Ghemawat, two google engineers who together changed the course of Google - and the Internet.
+  * Jacob SonenshineFollow and Nicholas JasinskiFollow - their articles have {good analysis; to the point; easy to read}. See https://www.barrons.com/articles/earnings-stocks-gains-rally-outlook-fff4ad0c for an example.
 
+  * James Somers - He writes very well. See https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge for an example of his work. It profiles Jeff Dean and Sanjay Ghemawat, two google engineers who together changed the course of Google - and the Internet. <WRAP>
 http://jsomers.net/ - contains all of his work.
+</WRAP>
 
 ==== good reporting ====
   * John Carreyrou \\ He reported in 2015 that Theranos is a fraud - https://www.wsj.com/articles/theranos-has-struggled-with-blood-tests-1444881901 . It was mentioned in Matt Levine's https://www.bloomberg.com/view/articles/2018-03-14/theranos-misled-investors-and-consumers-who-used-its-blood-test
@@ -42,3 +44,6 @@ This could be advantageous. For example, if you want to read an article and it i
       * <nowiki>https://www.washingtonpost.com/business/a-3percent-mortgage-leveraging-your-stocks-to-buy-a-home/2022/07/01/b91dee24-f942-11ec-81db-ac07a394a86b_story.html</nowiki>
       * <nowiki>https://the-news-page.com/a-3-mortgage-leveraging-your-stocks-to-buy-a-home/</nowiki>
 
+==== biased reporting ====
+
+  * Caroline Winter at Bloomberg Businessweek. Compare the [[https://www.bloomberg.com/news/features/2017-03-22/how-dilbert-s-scott-adams-got-hypnotized-by-trump|article]] she wrote on Scott Adams and the [[http://blog.dilbert.com/post/158709087061/some-fake-news-about-me-from-bloomberg|rebuttal]] by Scott Adams where he explains how the writer distorted the facts.

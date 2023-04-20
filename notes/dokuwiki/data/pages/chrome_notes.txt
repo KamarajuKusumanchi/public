@@ -15,13 +15,68 @@ or
 
   chrome://settings/startupUrls -> Manage on startup pages -> Pages to open on startup -> check "Continue where you left off"
 
+==== disable video auto play ====
 
+  * Disable automatic playing of videos on facebook.com using [[https://chrome.google.com/webstore/detail/disable-html5-autoplay/efdhoaajjjgckpbkoglidkeendpkolai?hl=en|this extension]]. Once the extension is installed, hide the icon in the toolbar by right clicking on it -> select "Hide in Chrome menu".
+
+===== Configuration =====
+==== set up custom search engines ====
+
+<code>
+Right click in the address bar -> Edit search engines
+or
+preferences button -> Settings -> Settings -> Search -> Manage search engines
+</code>
+
+\\
+
+^Add a new search engine^Keyword^URL with %s in place of query                                                                     ^
+|Wikipedia.org          |wiki   |<nowiki>https://www.wikipedia.org/search-redirect.php?family=wikipedia&language=en&search=%s&go=&go=Go</nowiki>|
+|raju.shoutwiki.com     |rwiki  |<nowiki>http://raju.shoutwiki.com/wiki/Special:Search?search=%s&go=Go</nowiki>|
+
+To access the search engines, enter the keyword in the address bar and press tab.
+
+Another easy way to add a custom search engine is to go to the website, right click on the search bar -> select "Add as search engine..." -> edit the fields if necessary -> ok
 ===== dummy =====
+
+==== fast select text in chrome ====
+  * Select the first word or letter or a part of the word where you want to start copying.
+  * Scroll down till the place you have to copy.
+  * Hold down the Shift key, and click on the ending of the text.
+
+Ref:- https://superuser.com/a/1309293/679081
 
 ==== links I came across ====
   * https://support.google.com/chrome/answer/157179 - chrome keyboard shortcuts
 
 ===== Extensions =====
+==== Install ublock origin ====
+Ref:- https://github.com/gorhill/uBlock/tree/master/dist#build-instructions-for-developers
+
+<code>
+cd $software/build
+mkdir ublock_origin_parent; cd ublock_origin_parent
+
+git clone https://github.com/gorhill/uBlock.git
+# 2022-09-20: Do we have to check out uAssets?
+git clone https://github.com/uBlockOrigin/uAssets.git
+cd uBlock
+git checkout master
+
+conda activate py310
+./tools/make-chromium.sh
+</code>
+The package is created in dist/build/uBlock0.chromium
+
+<code>
+chrome -> chrome://extensions/
+Enable Developer mode
+-> Load unpacked
+select /uBlock/dist/build/uBlock0.chromium/
+</code>
+
+Useful links:
+  * https://github.com/uBlockOrigin/uBlock-issues/issues - This is the issue tracker as per https://github.com/gorhill/uBlock/issues/3726
 ==== Install bypass paywalls ====
 Ref:- https://github.com/iamadamdev/bypass-paywalls-chrome
 
