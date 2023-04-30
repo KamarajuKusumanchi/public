@@ -5,5 +5,6 @@
   * https://codegolf.stackexchange.com/ - recreational programming competitions
   * https://softwareengineering.stackexchange.com/
   * https://codereview.stackexchange.com/
+  * https://worldbuilding.stackexchange.com/ - for writers/artists using science, geography and culture to construct imaginary worlds and settings
 
   * https://stackexchange.com/sites - all stackexchange sites

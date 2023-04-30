@@ -22,6 +22,7 @@
   * [[conemu notes]]
   * [[whatsapp notes]]
   * [[okular notes]]
+  * [[notepad_plus_plus | notepad++]]
 
 
 ==== dummy ====
@@ -131,7 +132,7 @@
   * [[dlbcl notes]]
   * [[vlc notes]]
   * [[nutrition notes]]
-  * [[stackexchange notes]]
+  * [[stack_exchange_notes]]
   * [[stackoverflow notes]]
   * [[air india notes]]
   * [[telugu diet]]
@@ -164,7 +165,7 @@
   * [[ublock origin]]
   * [[gitlab notes]]
   * [[autosys notes]]
-  * [[fed related]]
+  * [[fed_notes]]
   * [[deals]]
   * [[air travel notes]]
   * [[world maps]]
@@ -204,6 +205,9 @@
   * [[silent letters]]
   * [[sipc notes]]
   * [[air filters]]
+  * [[amazon notes]]
+  * [[berkshire notes]]
+  * [[barrons notes]]
 
 ==== by date ====
   * [[reading journal 2022]]

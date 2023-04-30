@@ -1,6 +1,9 @@
+==== gold dashboard ====
+  * https://www.marketwatch.com/investing/index/dxy - U.S. Dollar Index (DXY)
+
 ==== gold reserves by country ====
   * https://tradingeconomics.com/country-list/gold-reserves - shows latest gold reserves of each country in Tonnes.
-  * 
+
 ==== dummy ====
   * 1 oz = 1 troy ounce = 31.1034768 grams
 

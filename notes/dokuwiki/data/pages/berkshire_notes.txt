@@ -1,0 +1,22 @@
+===== How much cash does Berkshire hold at the end of year 2022? ====
+Go to the annual report https://www.berkshirehathaway.com/2022ar/2022ar.pdf . You can also go there via
+
+<code>
+https://www.berkshirehathaway.com/ -> Annual & Interim Reports
+-> Year link corresponding to (row, column) = (2022; Annual)
+-> click on "2022 Annual Report (PDF file)" .
+</code>
+
+In the annual report, go to pg-86 (K-70)
+
+<code>
+                  (dollars in millions)
+                                                   2022
+Insurance and Other:
+  Cash and cash equivalents                        $32,260
+  Short-term investments in U.S. Treasury Bills    $92,774
+Railroad, Utilities and Energy:
+  Cash and cash equivalents                        $ 3,551
+</code>
+
+Summing up all these numbers gives $128,585. So Berkshire has about $129 billion in cash.
