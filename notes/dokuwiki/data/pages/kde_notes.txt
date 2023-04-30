@@ -27,6 +27,9 @@ Graphics Processor: NV98
 
   * Right click on taskbar -> Configure Task Manager -> Behavior -> Group -> In the dropdown, choose "Do not group" -> Apply -> OK
 
+==== Take screenshots with win+shift+s ====
+  * [[take_screenshots_in_kde_with_win_shift_s| Take screenshots in KDE with win+shift+s]]
+
 ===== dummy =====
 ==== keyboard shortcuts ====
   * Open Terminal - Ctrl+Alt+T

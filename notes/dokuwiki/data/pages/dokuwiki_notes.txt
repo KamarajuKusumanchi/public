@@ -223,6 +223,7 @@ bar
 ==== links I came across ====
   * https://www.dokuwiki.org/irc
   * https://github.com/splitbrain/dokuwiki
+  * https://www.dokuwiki.org/devel:vim - setup vim for dokuwiki development.
 
 ==== Useful documentation ====
   * https://www.dokuwiki.org/wiki:syntax#tables

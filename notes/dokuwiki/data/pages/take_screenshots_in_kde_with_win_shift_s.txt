@@ -1,0 +1,69 @@
+===== Take screenshots in KDE with win+shift+s =====
+
+==== Spec ====
+Requirements:
+  * Take screenshots with win+shift+s.
+  * Screenshot should be copied to clipboard so it can be pasted into other applications.
+  * Screenshot should be saved into a file so it can be referred to later.
+
+Scope:
+  * KDE running on Debian stable
+
+tags | screen snip
+==== Solution ====
+<code>
+# Go to Custom Shortcuts
+K Menu -> System Settings -> Workspace -> Shortcuts -> Custom Shortcuts
+# Create a new custom group called Spectacle
+-> Edit -> New Group -> give it a name, say, "Spectacle"
+-> Click on the checkbox next to Spectacle
+# create new custom shortcut(s)
+-> Edit > New > Global Shortcut > Command/URL
+--> Give it a name, say, "PrintScreen Clipboard Rectangular"
+--> Comment: Copy the screenshot into clipboard and also save it to a file.
+--> Trigger: Meta+Shift+S
+# The output directory will be created if it does not already exist.
+--> Action: Command/URL: spectacle -bcr -o "$HOME/Pictures/Screenshots/Screenshot from $(date +'%Y-%m-%d %H:%M:%S').png"
+-> Apply
+</code>
+
+==== Testing results ====
+  * Can take screenshots using Win+Shift+s
+  * Screenshots can be pasted into other applications such as lowriter using ctrl+v
+  * Screenshots are stored in ~/Pictures/Screenshots <code>
+rajulocal@hogwarts ~ % ls -1 ~/Pictures/Screenshots
+'Screenshot from 2023-04-24 17:32:36.png'
+'Screenshot from 2023-04-24 18:14:57.png'
+</code>
+  * Tested on <code>
+% spectacle --version
+spectacle 20.12.3
+
+% cat /etc/os-release 
+PRETTY_NAME="Debian GNU/Linux 11 (bullseye)"
+NAME="Debian GNU/Linux"
+VERSION_ID="11"
+VERSION="11 (bullseye)"
+VERSION_CODENAME=bullseye
+ID=debian
+HOME_URL="https://www.debian.org/"
+SUPPORT_URL="https://www.debian.org/support"
+BUG_REPORT_URL="https://bugs.debian.org/"
+
+% uname -a
+Linux hogwarts 5.10.0-17-amd64 #1 SMP Debian 5.10.136-1 (2022-08-13) x86_64 GNU/Linux
+</code>
+
+==== See also ====
+  * https://forum.kde.org/viewtopic.php?t=140137 - I found the above solution here. I just aggregated it into a single post for easy reference. All the credit goes to the original authors.
+
+  * https://askubuntu.com/a/1465109/574082 - I posted the above solution to askubuntu.
+
+==== May be useful later ====
+After adding this, I have
+
+<code>
+rajulocal@hogwarts ~/.config % git grep -i --no-index "PrintScreen Clipboard Rectangular"
+kglobalshortcutsrc:{3d9c7702-3955-4696-a8d5-89bd46f488ac}=Meta+Shift+S,none,PrintScreen Clipboard Rectangular
+khotkeysrc:Name=PrintScreen Clipboard Rectangular
+</code>
