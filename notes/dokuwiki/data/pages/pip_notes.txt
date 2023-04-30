@@ -13,6 +13,13 @@ For example
 <code>
 pip install pandas==1.5.3
 </code>
+
+==== reinstall an existing package ====
+<code>
+pip install --upgrade --force-reinstall <package>
+</code>
+
+  * https://stackoverflow.com/questions/51913361/difference-between-pip-install-options-ignore-installed-and-force-reinstall - explains the difference between --force-reinstall and --ignore-installed
 ==== pip cache ====
 install a package without using the cache, just for this run.
   pip install --no-cache-dir <package>

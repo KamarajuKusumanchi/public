@@ -2,6 +2,9 @@
 
 
 
+==== 2023-04-17 ====
+  * https://blog.plover.com/math/se/calculus-exercise.html - I liked this simple calculus exercise
+
 ==== 2023-03-08 ====
   * The History 101 TV series available on Netflix is very good. The videos are short and to the point. High information density, easy to follow.
     * https://en.wikipedia.org/wiki/History_101_(TV_series)

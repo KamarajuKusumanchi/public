@@ -1,0 +1,12 @@
+==== 2023-04-28 ====
+  * Yield on 3 Month treasuries ~ 5.2%
+  * Chevron - CVX - https://www.barrons.com/market-data/stocks/cvx?mod=article_chiclet
+    * price = $166, P/E = 9.15, Dividend yield = 3.62%, beta = 1.04
+    * Raised dividend
+    * rose 53% in 2022
+    * -5% ytd
+  * Exxon - XOM - https://www.barrons.com/market-data/stocks/xom?mod=article_chiclet
+    * price = $118, P/E = 8.93, Dividend yield = 3.07%, beta = 0.91
+    * the biggest U.S. oil company
+    * rose 80% in 2022
+    * 8% ytd

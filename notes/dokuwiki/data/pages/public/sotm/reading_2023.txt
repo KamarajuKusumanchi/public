@@ -1,4 +1,33 @@
 
+==== 2023-04-27 ====
+Notes from https://www.barrons.com/articles/blackrock-baird-bonds-treasuries-investing-33b2dd48?refsec=bonds&mod=topics_bonds
+  * Commercial paper is a short-term fixed-income security that is typically sold to institutional investors like hedge funds, and multinational corporations, although indirect investments are possible for retail traders through exchange-traded funds.
+  * BlackRock Ultra Short-Term Bond exchange-traded fund (ticker: ICSH), had 26% of its investment in commercial paper.
+  * Retail investors can also access CLOs through ETFs like the Janus Henderson AAA CLO ETF (JAAA)
+
+Notes from https://www.barrons.com/articles/amazon-earnings-stock-price-d49657f8?refsec=technology&mod=topics_technology
+  * United Parcel Service (UPS) - ships packages
+  * Packaging Corp. of America (PKG) - makes the boxes things get shipped in
+
+==== 2023-04-25 ====
+Notes from https://www.bloomberg.com/news/articles/2023-04-25/engineers-from-mexico-on-assembly-lines-instead-of-us-south-car-industry?srnd=premium&leadSource=uverify%20wall
+  * KIA, an affiliate of South Korea-based Hyundai Motor Group
+  * Hyundai Mobis, the company’s parts supplier
+
+Notes from https://www.bloomberg.com/news/articles/2023-04-25/first-republic-said-to-weigh-up-to-100-billion-in-asset-sales?srnd=premium&leadSource=uverify%20wall
+  * First Republic had total assets of \$233 billion as of March 31, including \$173 billion of loans and \$35 billion of investment securities
+
+Notes from https://www.barrons.com/articles/amazon-microsoft-alphabet-meta-big-tech-earnings-fa13851
+  * Combined market cap of Amazon, Alphabet, Microsoft, and Meta = \$5.1 trillion which is ~15% of the SP500's aggregate market cap.
+  * SP500 is up 8% ytd.
+  * The Invesco S&P 500 Equal Weight Exchange-Traded Fund (RSP) is up 2.6% ytd.
+
+==== 2023-04-21 ====
+Notes from https://www.cnbc.com/2023/04/12/full-transcript-berkshire-hathaway-chairman-ceo-warren-buffett-speaks-with-cnbcs-becky-quick-on-squawk-box-today-.html
+  * the world needs 100 million barrels a day
+  * economic textbooks by Paul Samuelson
+  * Tulip Mania lasted three years. It went from 1634 to 1637.
+
 ==== 2023-04-18 ====
 Notes from https://www.barrons.com/articles/earnings-stocks-gains-rally-outlook-fff4ad0c
   * S&P 500 year-over-year earnings growth

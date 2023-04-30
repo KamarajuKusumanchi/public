@@ -11,12 +11,42 @@
   * [[time in different countries]]
   * [[company tidbits]]
   * [[Dell Precision T3500]]
+  * [[stocks to watch for next month]]
 
 ==== lines ====
   * A milliliter is about 20 drops from an eyedropper.
   * A pail holds about 8 liters.
   * A sandgrouse can soak up enough water in its fluffy feathers to fill a small perfume bottle (~20 mL). It can carry the water a long way to its chicks.
   * A liter is slightly larger than a quart.
+
+==== phrases ====
+  * "pig in a python"
+    * sharp statistical increase represented as a bulge in an otherwise level pattern
+    * ex:- "what comes next if this sort of pig in a python continues to work its way down"
+      * Ref:- https://www.cnbc.com/2023/04/12/full-transcript-berkshire-hathaway-chairman-ceo-warren-buffett-speaks-with-cnbcs-becky-quick-on-squawk-box-today-.html
+
+==== words ====
+Policy:
+  * new words go in the end unless you can group them with existing ones
+\\
+
+  * position papers
+    * Ref:- https://www.cnbc.com/2023/04/12/full-transcript-berkshire-hathaway-chairman-ceo-warren-buffett-speaks-with-cnbcs-becky-quick-on-squawk-box-today-.html
+  * poult
+    * a young chicken, turkey, or other bird that is kept for food
+    * Ref:- https://dictionary.cambridge.org/us/dictionary/english/poult
+  * cornea
+  * spironolactone
+    * A medication used to treat high blood pressure and heart failure.
+    * Ref:- https://www.webmd.com/drugs/2/drug-6288/spironolactone-oral/details
+  * blue jay
+    * The blue jay is a bird native to North America. It is adaptable, aggressive and omnivorous.
+    * Ref:- https://simple.wikipedia.org/wiki/Blue_jay
+  * Demodex
+    * Demodex mites are tiny eight-legged parasites that mostly live in hair follicles and oil glands on your face, neck, or chest.
+    * Two types of Demodex mites live on humans: Demodex folliculorum (D. folliculorum) and Demodex brevis (D. brevis).
+    * D. folliculorum mites are around 0.3-0.4 millimeters long, while D. brevis mites are slightly smaller at 0.15-0.2 mm.
+    * More details:- https://www.webmd.com/skin-problems-and-treatments/what-are-demodex-mites - well written; lot of information; high information density; has a picture of Demodex; worth reading end to end.
 
 ==== About ====
 

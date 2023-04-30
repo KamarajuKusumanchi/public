@@ -91,3 +91,11 @@ My favorite configuration
   * Position in the window: Left Side Pane
   * uncheck - Show Toc as floating widget instead of in sidepane
   * check - Show the page title heading in the ToC
+
+==== release history ====
+<code>
+release_date, version
+2022-10, 0.75.1
+</code>
+
+Ref:- https://zim-wiki.org/downloads.html

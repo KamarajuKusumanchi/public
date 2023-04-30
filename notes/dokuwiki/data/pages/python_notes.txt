@@ -105,6 +105,14 @@ Ref:- https://docs.python.org/3/library/os.html#os.linesep
 
 See also:- https://stackoverflow.com/questions/4025760/python-file-write-creating-extra-carriage-return
 
+==== find unused variables ====
+<code>
+pip install pylint
+
+pylint module_name.py
+
+find . -name "*.py" | xargs pylint
+</code>
 
 ===== tasks =====
   * [[get urls in a url]]
