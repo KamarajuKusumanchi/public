@@ -9,8 +9,16 @@ Ref:
   * https://investor.vanguard.com/investment-products/mutual-funds/profile/vusxx
 
 ==== etfs I came across ====
-  * the SPDR S&P Regional Banking etf
-    * ticker: KRE
+Policy:
+  * new entries go in the end, unless they can be grouped with an existing entry
+\\
+  * The SPDR S&P Regional Banking etf (KRE)
+  * The Health Care Select Sector SPDR etf (XLV)
+  * The Consumer Staples Select Sector SPDR etf (XLP)
+  * The Financial Select Sector SPDR etf (XLF)
+  * The Vanguard Industrials ETF (VIS)
+  * the Vanguard Information Technology ETF (VGT)
+  * The Vanguard Utilities ETF (VPU)
 
 ==== see also ====
   * https://github.com/KamarajuKusumanchi/market_data/blob/master/funds/expense_ratio.csv

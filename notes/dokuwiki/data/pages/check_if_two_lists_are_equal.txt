@@ -1,0 +1,46 @@
+==== check if two lists are equal ====
+{tags: compare lists, scope: python, using pytest}
+
+<code>
+$ cat compare_lists.py
+def test_compare_lists_fail():
+    list_got = [2, 3, 4]
+    list_expected = [1, 2, 3]
+    assert list_got == list_expected, "lists do not match"
+
+def test_compare_lists_success():
+    list_got = [1, 2, 3]
+    list_expected = [1, 2, 3]
+    assert list_got == list_expected, "lists do not match"
+</code>
+
+<code>
+$ python -m pytest compare_lists.py
+==================================================== test session starts ====================================================
+platform win32 -- Python 3.11.3, pytest-7.1.2, pluggy-1.0.0
+...
+plugins: anyio-3.5.0, hypothesis-6.29.3
+collected 2 items
+
+compare_lists.py F.                                                                                                    [100%]
+
+========================================================= FAILURES ==========================================================
+__________________________________________________ test_compare_lists_fail __________________________________________________
+
+    def test_compare_lists_fail():
+        list_got = [2, 3, 4]
+        list_expected = [1, 2, 3]
+>       assert list_got == list_expected, "lists do not match"
+E       AssertionError: lists do not match
+E       assert [2, 3, 4] == [1, 2, 3]
+E         At index 0 diff: 2 != 1
+E         Use -v to get more diff
+
+compare_lists.py:4: AssertionError
+================================================== short test summary info ==================================================
+FAILED compare_lists.py::test_compare_lists_fail - AssertionError: lists do not match
+================================================ 1 failed, 1 passed in 0.16s ================================================
+</code>
+
+Ref:
+  * https://stackoverflow.com/questions/46914222/how-can-i-assert-lists-equality-with-pytest

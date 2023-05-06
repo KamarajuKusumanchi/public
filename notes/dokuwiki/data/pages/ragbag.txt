@@ -11,7 +11,7 @@
   * [[time in different countries]]
   * [[company tidbits]]
   * [[Dell Precision T3500]]
-  * [[stocks to watch for next month]]
+  * [[stocks to research for next month]]
 
 ==== lines ====
   * A milliliter is about 20 drops from an eyedropper.
@@ -47,6 +47,18 @@ Policy:
     * Two types of Demodex mites live on humans: Demodex folliculorum (D. folliculorum) and Demodex brevis (D. brevis).
     * D. folliculorum mites are around 0.3-0.4 millimeters long, while D. brevis mites are slightly smaller at 0.15-0.2 mm.
     * More details:- https://www.webmd.com/skin-problems-and-treatments/what-are-demodex-mites - well written; lot of information; high information density; has a picture of Demodex; worth reading end to end.
+
+==== idioms ====
+Policy:
+  * new items go in the end unless you can group them with existing ones
+\\
+
+  * hold court
+    * to receive a lot of attention from other people who stand or sit around you to listen, especially on a social occasion.
+    * ex:- Patrick is holding court at the end table.
+    * Ref:- https://dictionary.cambridge.org/us/dictionary/english/hold-court
+    * ex:- "Charlie Munger held court from his wheelchair" in https://www.ft.com/content/da9f8230-2eb1-49c5-b63a-f1507936d01b
+
 
 ==== About ====
 

@@ -114,8 +114,10 @@ pylint module_name.py
 find . -name "*.py" | xargs pylint
 </code>
 
+
 ===== tasks =====
   * [[get urls in a url]]
+  * [[find depth]]
 
 ===== difference between =====
 

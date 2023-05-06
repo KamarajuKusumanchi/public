@@ -2,6 +2,14 @@
 
 
 
+==== 2023-05-03 ====
+  * https://docs.python.org/3/howto/sorting.html - "Sorting HOW TO - Python"
+    * high information density, good read to from top to bottom at least once.
+
+==== 2023-04-30 ====
+  * https://en.wikipedia.org/wiki/The_Founder - A movie on how McDonald's fast-food restaurant chain was created.
+    * available on netflix.
+
 ==== 2023-04-17 ====
   * https://blog.plover.com/math/se/calculus-exercise.html - I liked this simple calculus exercise
 

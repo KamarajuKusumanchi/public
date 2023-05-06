@@ -1,0 +1,72 @@
+===== find depth =====
+==== find depth of a file or directory ====
+<code>
+import os
+ 
+def get_depth(file_or_dir_path):
+    abs_path = os.path.abspath(os.path.expanduser(file_or_dir_path))
+    depth = os.path.normpath(abs_path).count(os.sep)
+    return depth
+</code>
+
+Examples:
+<code>
+In [2]: 
+os.path.abspath(os.path.expanduser('~'))
+Out[2]: 
+'/home/rajulocal'
+
+In [3]: 
+[get_depth('~'), get_depth('/home/rajulocal'), get_depth('/home/rajulocal/'),
+ get_depth('/home/rajulocal/foo'), get_depth('/'), get_depth('/home')]
+Out[3]: 
+[2, 2, 2, 3, 1, 1]
+</code>
+
+Using Python 3.10.6, Ipython 8.6.0
+
+tags | measure the depth of a file system path
+
+See also:
+  * https://stackoverflow.com/questions/31528199/how-to-measure-the-depth-of-a-file-system-path - shows how to do it with various command line tools.
+  * https://docs.python.org/3/library/os.path.html
+
+==== depth of a directory relative to a parent directory ====
+<code>
+import os
+ 
+def dir_depth_relative(child, parent):
+    child = os.path.abspath(os.path.expanduser(child))
+    parent = os.path.abspath(os.path.expanduser(parent))
+    assert child.startswith(parent), "child parent relation violated. parent = " + parent + ', child = ' + child
+    name_space = os.path.relpath(child, parent)
+    level = os.path.normpath(name_space).count(os.sep) + 1 if name_space != '.' else 0
+    return level
+</code>
+
+Examples:
+<code>
+In [2]: 
+[dir_depth_relative('~', '~'), dir_depth_relative('~', '~/'),
+ dir_depth_relative('~/work', '~'), dir_depth_relative('~/work.txt', '~'),
+ dir_depth_relative('/tmp/foo', '/tmp'), dir_depth_relative('/tmp', '/tmp'),
+ dir_depth_relative('/tmp/foo/bar', '/tmp')]
+Out[2]: 
+[0, 0, 1, 1, 1, 0, 2]
+
+In [3]: 
+dir_depth_relative('/tmp', '/tmp/foo')
+---------------------------------------------------------------------------
+AssertionError                            Traceback (most recent call last)
+Cell In [3], line 1
+----> 1 dir_depth_relative('/tmp', '/tmp/foo')
+
+Cell In [1], line 6, in dir_depth_relative(child, parent)
+      4 child = os.path.abspath(os.path.expanduser(child))
+      5 parent = os.path.abspath(os.path.expanduser(parent))
+----> 6 assert child.startswith(parent), "child parent relation violated. parent = " + parent + ', child = ' + child
+      7 name_space = os.path.relpath(child, parent)
+      8 level = os.path.normpath(name_space).count(os.sep) + 1 if name_space != '.' else 0
+
+AssertionError: child parent relation violated. parent = /tmp/foo, child = /tmp
+</code>

@@ -1,5 +1,13 @@
+===== dummy =====
 ==== tasks ====
+  * [[check if two lists are equal]]
   * [[get unique items in a list]]
   * [[convert a string to a list]]
 
+==== read file as list of strings ====
+<code>
+fname = "foo.txt"
+with open(fname, "r") as fh:
+  lines = [line.rstrip() for line in fh]
+</code>
 

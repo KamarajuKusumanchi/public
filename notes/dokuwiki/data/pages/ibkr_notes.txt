@@ -19,6 +19,9 @@ Notes:
 
 tags | which sweep is better securities or commodities?
 
+==== Opt out of internalization ====
+  * Login to the portal -> Navigate to User ("Head/Shoulders" icon) -> settings -> Trading -> click on the “Internalization” link -> Check "Internalization Opt-Out" -> Save
+
 ==== interest rate calculation ====
 For the daily interest, IBKR uses 360 days. For example, if the principal is \$53,073.35, rate is 3.33%, the interest would be \$4.91
 

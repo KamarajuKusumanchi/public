@@ -114,6 +114,95 @@ See also:
 
 also demonstrates | assign column names to a dataframe
 
+==== Create a dataframe from a series of lists ====
+tags | convert series with lists to dataframe
+<code>
+df = pd.DataFrame(s.to_list())
+</code>
+For example
+<code>
+In [1]:
+import pandas as pd
+s = pd.Series([[1, 2, 3], [4, 5, 6, 7], [8, 9]])
+s
+Out[1]:
+0       [1, 2, 3]
+1    [4, 5, 6, 7]
+2          [8, 9]
+dtype: object
+
+In [2]:
+df = pd.DataFrame(s.to_list())
+df
+Out[2]:
+   0  1    2    3
+0  1  2  3.0  NaN
+1  4  5  6.0  7.0
+2  8  9  NaN  NaN
+</code>
+
+If the number of elements in each list is same, np.vstack() can be used but otherwise it will not work. For example
+<code>
+In [5]:
+s
+Out[5]:
+0       [1, 2, 3]
+1    [4, 5, 6, 7]
+2          [8, 9]
+dtype: object
+
+In [6]:
+import numpy as np
+df = pd.DataFrame(np.vstack(s))
+---------------------------------------------------------------------------
+ValueError                                Traceback (most recent call last)
+Cell In[6], line 2
+      1 import numpy as np
+----> 2 df = pd.DataFrame(np.vstack(s))
+
+File <__array_function__ internals>:200, in vstack(*args, **kwargs)
+
+File ~\AppData\Local\conda\conda\envs\py311\Lib\site-packages\numpy\core\shape_base.py:296, in vstack(tup, dtype, casting)
+    294 if not isinstance(arrs, list):
+    295     arrs = [arrs]
+--> 296 return _nx.concatenate(arrs, 0, dtype=dtype, casting=casting)
+
+File <__array_function__ internals>:200, in concatenate(*args, **kwargs)
+
+ValueError: all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 3 and the array at index 1 has size 4
+</code>
+
+But with
+<code>
+In [10]:
+s = pd.Series([[1, 2, 3], [4, 5, 6]])
+s
+Out[10]:
+0    [1, 2, 3]
+1    [4, 5, 6]
+dtype: object
+
+In [11]:
+import numpy as np
+df = pd.DataFrame(np.vstack(s))
+df
+Out[11]:
+   0  1  2
+0  1  2  3
+1  4  5  6
+
+In [12]:
+df = pd.DataFrame(s.to_list())
+df
+Out[12]:
+   0  1  2
+0  1  2  3
+1  4  5  6
+</code>
+
+See also:
+  * https://stackoverflow.com/questions/45901018/convert-pandas-series-of-lists-to-dataframe
+
 ===== selection related =====
 ==== split columns ====
 

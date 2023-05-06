@@ -12,3 +12,6 @@
 
 Ref:- From https://investor.costco.com/news/default.aspx -> [[https://investor.costco.com/news/news-details/2023/Costco-Wholesale-Corporation-Reports-December-Sales-Results/default.aspx | 2023-01-05 Costco Wholesale Corporation Reports December Sales Results]]
 > Costco currently operates 847 warehouses, including 583 in the United States and Puerto Rico, 107 in Canada, 40 in Mexico, 31 in Japan, 29 in the United Kingdom, 18 in Korea, 14 in Taiwan, 14 in Australia, four in Spain, two each in France and China, and one each in Iceland, New Zealand and Sweden. Costco also operates e-commerce sites in the U.S., Canada, the United Kingdom, Mexico, Korea, Taiwan, Japan and Australia.
+
+==== When is the next ex-dividend date for costco dividends? ====
+https://investor.costco.com/stock-info/dividend-history/default.aspx -> "Dividend History"

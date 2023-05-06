@@ -1,3 +1,6 @@
+==== tasks ====
+  * [[check if two lists are equal]]
+
 ==== test a function that writes output to a file ====
 
 <code>
@@ -52,3 +55,16 @@ Ref:-
   * https://docs.pytest.org/en/stable/usage.html#calling-pytest-from-python-code
 
 tags | run pytest from main function, pytest run parameterized test
+
+==== useful links ====
+  * https://docs.pytest.org/en/latest/getting-started.html - Get started on pytest
+  * Source code - https://github.com/pytest-dev/pytest
+  * Official documentation - https://docs.pytest.org
+  * http://pythontesting.net - Brian Okken's website on pytest and code testing in general
+  * To get it from PyPI - https://pypi.python.org/pypi/pytest
+  * T. Ben Thompson's python testing set up - http://tbenthompson.com/post/how_i_test/
+
+Links related to parameterization:
+  * Parametrizing fixtures and test functions - https://docs.pytest.org/en/latest/parametrize.html#parametrize-basics
+  * Parametrizing tests - https://docs.pytest.org/en/latest/example/parametrize.html
+  * parametrizing tests where functions have default arguments - https://stackoverflow.com/questions/35844791/how-to-write-a-test-for-a-function-with-optional-arguments

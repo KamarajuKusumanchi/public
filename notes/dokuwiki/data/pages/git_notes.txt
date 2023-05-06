@@ -75,6 +75,17 @@ See also:
 git grep -i --all-match -e '\^.*\^' -e '|.*|'
 </code>
 
+==== Count number of lines in a file but exclude blank lines ====
+<code>
+git grep -e "^" --and --not -e "^$" <file_name>  | wc -l
+</code>
+
+For example:
+<code>
+$ git grep -e "^" --and --not -e "^$" dummy_1510.txt  | wc -l
+27
+</code>
+
 ===== Commits related =====
 ==== amend last commit =====
 

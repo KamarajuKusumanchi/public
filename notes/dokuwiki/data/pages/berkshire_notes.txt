@@ -19,4 +19,4 @@ Railroad, Utilities and Energy:
   Cash and cash equivalents                        $ 3,551
 </code>
 
-Summing up all these numbers gives $128,585. So Berkshire has about $129 billion in cash.
+Summing up all these numbers gives \$128,585. So Berkshire has about \$129 billion in cash.
