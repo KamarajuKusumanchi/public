@@ -1,10 +1,69 @@
+==== dummy 1 ====
+==== dummy 2 ====
+
+===== How much operating income did Berkshire have in Q1 of 2023? ====
+Go to the "2023 First Quarter Report" https://berkshirehathaway.com/qtrly/1stqtr23.pdf . You can also go there via
+
+<code>
+https://www.berkshirehathaway.com/ -> Annual & Interim Reports
+-> link corresponding to (row = Year 2023, column = 1st Quarter)
+-> Click on "2023 First Quarter Report (PDF file)"
+</code>
+
+In the quarter report, go to pg-28 (Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations) -> Results of Operations which has the below table
+
+<code>
+                                                                    First Quarter
+                                                                 2023        2022
+Insurance – underwriting                                        $    911    $   167
+Insurance – investment income                                      1,969      1,170
+BNSF                                                               1,247      1,371
+Berkshire Hathaway Energy (“BHE”)                                    416        775
+Pilot Travel Centers (“Pilot”)                                        83         -- 
+Manufacturing, service and retailing                               2,982      3,025
+Non-controlled businesses*                                           568        282 
+Investment and derivative contract gains (losses)                 27,439     (1,580)
+Other                                                               (111)       370 
+Net earnings attributable to Berkshire Hathaway shareholders    $ 35,504    $ 5,580
+------------
+*  Includes certain businesses in which Berkshire had between a 20% and 50% ownership interest. 
+</code>
+To get the operating earnings, subtract "Investment and derivative contract gains (losses)" from "Net earnings attributable to Berkshire Hathaway shareholders"
+
+So, the operating earnings in Q1 of 2023 are
+<code>
+>>> 35504 - 27439
+8065
+</code>
+and the operating earnings in Q1 of 2022 are
+<code>
+>>> 5580 + 1580
+7160
+</code>
+
+So, the operating earnings increased by 12.6%
+<code>
+>>> round( ((8065 / 7160) - 1)*100, 1)
+12.6
+</code>
+
+Notes:
+  * The 12.6% and $8,065 million match with the numbers mentioned in the last paragraph of https://www.barrons.com/livecoverage/berkshire-hathaway-warren-buffett-annual-shareholder-meeting <code>
+Berkshire’s first-quarter results were released earlier on Saturday morning,
+showing a 12.6% rise in operating profit, to $8.1 billion.
+</code>
+  * https://www.businesswire.com/news/home/20230506005003/en/ shows that the operating earnings are \$8,065 million and \$7,160 million in Q1 or 2023 and 2022 respectively. This matches with the above calculation.
+    * This press release is a bit easier to understand about operating earnings compared to my approach. But I do not know how to generalize it for other quarters (ex:- how to get the corresponding businesswire link?).
+    * I found businesswire link in https://www.barrons.com/articles/berkshire-hathaway-inc-first-quarter-2023-earnings-release-e6e998bf
+  * The operating income can get revised at a later point in time. For example, https://www.businesswire.com/news/home/20220430005003/en shows that the original operating income was \$7,040 million. But https://www.businesswire.com/news/home/20230506005003/en shows that it got revised to \$7,160 million.
+
 ===== How much cash does Berkshire hold at the end of year 2022? ====
 Go to the annual report https://www.berkshirehathaway.com/2022ar/2022ar.pdf . You can also go there via
 
 <code>
 https://www.berkshirehathaway.com/ -> Annual & Interim Reports
 -> Year link corresponding to (row, column) = (2022; Annual)
--> click on "2022 Annual Report (PDF file)" .
+-> Click on "2022 Annual Report (PDF file)" .
 </code>
 
 In the annual report, go to pg-86 (K-70)
@@ -20,3 +79,6 @@ Railroad, Utilities and Energy:
 </code>
 
 Summing up all these numbers gives \$128,585. So Berkshire has about \$129 billion in cash.
+
+See also:
+  * https://github.com/KamarajuKusumanchi/market_data/blob/master/berkshire/cash.txt - Berkshire's cash by quarter.

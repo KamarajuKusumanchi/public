@@ -43,6 +43,19 @@ script - [[https://github.com/KamarajuKusumanchi/rutils/blob/master/bin/windows/
 
 Ref - https://stackoverflow.com/questions/573817/where-are-environment-variables-stored-in-registry
 
+==== refresh environment variables ====
+tags | git bash reread environment variables
+
+If you update an environment variable and want to use the new value in an existing git bash session, 
+ download the refreshenv.sh script from https://github.com/badrelmers/RefrEnv and call it from bash with ''source /path/to/refrenv.sh''
+
+Tested it on:
+  * git bash is running inside conemu 191012 <code>$ git --version
+git version 2.34.1.windows.1
+$ bash --version
+GNU bash, version 4.4.23(1)-release (x86_64-pc-msys)
+</code>
+  * OS: Windows 10 Enterprise
 ==== list of installed packages ====
 ''Control Panel -> Programs and Features'' shows the list of installed packages.
 

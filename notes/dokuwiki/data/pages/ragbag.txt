@@ -47,6 +47,9 @@ Policy:
     * Two types of Demodex mites live on humans: Demodex folliculorum (D. folliculorum) and Demodex brevis (D. brevis).
     * D. folliculorum mites are around 0.3-0.4 millimeters long, while D. brevis mites are slightly smaller at 0.15-0.2 mm.
     * More details:- https://www.webmd.com/skin-problems-and-treatments/what-are-demodex-mites - well written; lot of information; high information density; has a picture of Demodex; worth reading end to end.
+  * National master in chess
+  * political gadfly
+  * bytearray in python
 
 ==== idioms ====
 Policy:

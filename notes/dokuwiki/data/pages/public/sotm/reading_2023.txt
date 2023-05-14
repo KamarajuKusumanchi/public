@@ -1,4 +1,21 @@
 
+==== 2023-05-12 ====
+Notes from https://www.barrons.com/articles/debt-ceiling-medicare-healthcare-dd8c586d?mod=hp_LEAD_3
+  * the federal government is a large source of revenue for many medical providers, in the form of payments for Medicare and, to a lesser extent, Medicaid
+  * The average payer mix at U.S. hospitals is an estimated 20.5% Medicare and 13.2% Medicaid
+  * hospitals could respond by canceling all elective procedures and focusing on emergency services
+  * Federal law bars hospitals that participate in Medicare and have a dedicated emergency department from discriminating against ER patients on their ability to pay
+  * nursing homes and rehabilitation facilities
+  * Many nursing homes get a large portion of their revenue from Medicaid
+  * Medicaid is jointly funded by the federal government and the states. The exact breakdown varies by state but it is roughly 70% federal and 30% state.
+  * Rehabilitation facilities, where patients go to recover from surgeries
+
+==== 2023-05-10 ====
+Notes from https://www.barrons.com/livecoverage/berkshire-hathaway-warren-buffett-annual-shareholder-meeting?mod=hpsubnav
+  * telematics, or usage-based insurance, which adjusts customers’ rates based on how they drive
+  * Geico uses more than 600 distinct tech platforms
+  * most competitors moving to precision-scheduled railroading
+
 ==== 2023-05-03 ====
 Notes from https://www.barrons.com/articles/unitedhealth-conagra-to-buy-end-fed-rate-hikes-1b4215d4?mod=hp_LEAD_1_B_3
   * defensive sectors like healthcare and staples

@@ -32,6 +32,8 @@ See also:
   * https://docs.python.org/3/library/os.path.html
 
 ==== depth of a directory relative to a parent directory ====
+tags | relative path
+
 <code>
 import os
  

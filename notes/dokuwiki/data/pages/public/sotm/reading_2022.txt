@@ -1254,7 +1254,7 @@ Notes from https://www.bloomberg.com/news/articles/2022-04-28/fidelity-to-create
     * Closely-held
     * Controlled by the Johnson family
     * In last year: revenue = \$24 billion, operating income = \$8.1 billion
-    * Worth $74.8 billion
+    * Worth \$74.8 billion
     * 33.5 million brokerage accounts by Q1 end
     * Currently has 57,000 staff and will add 12,000 by Q3 end
     * discretionary assets of $4.2 trillion

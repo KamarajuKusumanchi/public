@@ -60,6 +60,52 @@ Ref:-
 
 
 
+==== command cheat sheet ====
+
+^ purpose ^ command ^
+| List all packages in the current environment | conda list | 
+| List the version of a package in all the conda environments | <WRAP>
+<code>
+for env in `conda info --envs | stuff.py | cut -f 1 -d ' '`
+do
+  echo $env
+  conda list <package_name> -n $env
+  echo
+done
+</code>
+where stuff.py is from https://github.com/KamarajuKusumanchi/rutils/blob/master/python3/stuff.py
+
+For example <code>
+for env in `conda info --envs | stuff.py | cut -f 1 -d ' '`
+do
+  echo $env
+  conda list agate -n $env
+  echo
+done </code> gives something like <code>
+...
+py310
+# packages in environment at <munged_path>:
+#
+# Name                    Version                   Build  Channel
+agate                     1.7.1           py310haa95532_0    defaults
+agate-dbf                 0.2.2                      py_0    defaults
+agate-excel               0.2.5              pyhd3eb1b0_0    defaults
+agate-sql                 0.5.8              pyhd3eb1b0_0    defaults
+
+py311
+# packages in environment at <munged_path>:
+#
+# Name                    Version                   Build  Channel
+agate                     1.7.1           py311haa95532_0    defaults
+agate-dbf                 0.2.2                      py_0    defaults
+agate-excel               0.2.5              pyhd3eb1b0_0    defaults
+agate-sql                 0.5.8              pyhd3eb1b0_0    defaults
+...
+</code> 
+</WRAP> |
+| Show the channel urls | conda list --show-channel-urls |
+| Search packages available in Anaconda | conda search -f <package_name> |
+
 ==== find the package version ====
 tags | check package version, list packages in environment, show the package version
 
@@ -93,6 +139,50 @@ pandas-datareader         0.9.0                      py_0
 </code>
 
 Ref:- https://conda.io/docs/commands/conda-list.html
+
+==== list available package versions ====
+
+List all packages in the current environment
+
+<code>
+$ conda list
+# packages in environment at C:\ProgramData\Continuum\Anaconda\envs\numpy_issue:
+#
+# Name                    Version                   Build  Channel
+certifi                   2019.3.9                 py27_0
+numpy                     1.16.4                   pypi_0    pypi
+pip                       19.1.1                   py27_0
+python                    2.7.16               hcb6e200_0
+setuptools                41.0.1                   py27_0
+sqlite                    3.28.0               h0c8e037_0
+vc                        9                    h7299396_1
+vs2008_runtime            9.00.30729.1         hfaea7d5_1
+wheel                     0.33.4                   py27_0
+wincertstore              0.2              py27hf04cefb_0
+</code>
+
+Show the channel urls
+
+<code>
+$ conda list --show-channel-urls
+# packages in environment at C:\ProgramData\Continuum\Anaconda\envs\numpy_issue:
+#
+# Name                    Version                   Build  Channel
+certifi                   2019.3.9                 py27_0    defaults
+numpy                     1.16.4                   pypi_0    pypi
+pip                       19.1.1                   py27_0    defaults
+python                    2.7.16               hcb6e200_0    defaults
+setuptools                41.0.1                   py27_0    defaults
+sqlite                    3.28.0               h0c8e037_0    defaults
+vc                        9                    h7299396_1    defaults
+vs2008_runtime            9.00.30729.1         hfaea7d5_1    defaults
+wheel                     0.33.4                   py27_0    defaults
+wincertstore              0.2              py27hf04cefb_0    defaults
+</code>
+
+Related:
+
+  * conda search -f <package_name> - search packages available in Anaconda
 
 ==== reduce disk space usage ====
 <cli>
