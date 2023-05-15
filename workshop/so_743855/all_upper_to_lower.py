@@ -4,8 +4,6 @@
 # One, Two.
 # OnE, Two.
 # ONE, TWO.
-# (py311)
-# kkusuman@NYCWD800155 MINGW64 ~/Workspace/work/myrepos/public/playground/so_743855 (master)
 # $ cat input.txt | python all_upper_to_lower.py
 # One, Two.
 # OnE, Two.
