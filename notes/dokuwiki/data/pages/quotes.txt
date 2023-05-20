@@ -5,5 +5,12 @@
 ==== Charlie Munger quotes ====
   * “Never underestimate the man who overestimates himself. These weird guys who overestimate themselves occasionally knock it right out of the park.”
     * Ref:- https://novelinvestor.com/quote-author/charlie-munger/
+
+==== Warren Buffett quotes ====
+  * "you should write your obituary and then try and figure out how to live up to it."
+
 ==== motivational quotes ====
   * Work with speed, skill, spirit and smile.
+
+==== dummy ====
+  * Problems are only faced when they become painful.

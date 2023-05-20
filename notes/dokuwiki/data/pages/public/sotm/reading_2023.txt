@@ -1,4 +1,12 @@
 
+==== 2023-05-14 ====
+Notes from https://www.barrons.com/articles/dow-industrials-index-divisor-apple-unitedhealth-c68b2c8a?mod=hp_LEAD_3
+  * \$7.1 trillion is indexed to the sp500 at year-end 2021 and just under \$40 billion indexed to the Dow
+  * Dow was created in 1885 by Charles Dow
+  * sp500 was launched in 1956
+  * Weights of Apple and United Health in sp500 index are 7.47%, 1.34% respectively.
+  * Dow Jones, which owns Barron’s, spun off its index business in 2010 to S&P.
+
 ==== 2023-05-12 ====
 Notes from https://www.barrons.com/articles/debt-ceiling-medicare-healthcare-dd8c586d?mod=hp_LEAD_3
   * the federal government is a large source of revenue for many medical providers, in the form of payments for Medicare and, to a lesser extent, Medicaid

@@ -50,6 +50,9 @@ Policy:
   * National master in chess
   * political gadfly
   * bytearray in python
+  * Intestinal Adenoma (IA)
+    * https://link.springer.com/article/10.1007/s00394-023-03110-2 - Garlic consumption in relation to colorectal cancer risk and to alterations of blood bacterial DNA
+
 
 ==== idioms ====
 Policy:

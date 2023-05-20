@@ -1,5 +1,14 @@
 tags | stocks to watch for next month, companies I came across
 
+==== 2023-05-14 ====
+  * CVS
+    * from https://www.barrons.com/market-data/stocks/cvs
+      * price = $69, P/E = 22.59, Dividend yield = 3.53%, beta = 0.73
+      * market cap = $88 B
+      * -26% ytd
+    * from https://finviz.com/quote.ashx?t=CVS&p=d
+      * Forward P/E = 7.67
+
 ==== 2023-05-05 ====
   * ISRG - Intuitive Surgical
 

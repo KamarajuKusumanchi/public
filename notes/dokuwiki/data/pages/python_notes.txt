@@ -190,6 +190,71 @@ sleep(10)
 
 Ref:- https://realpython.com/python-sleep/ - well written article that talks about how you might use the sleep function in real life. Worth reading end-to-end once.
 
+===== Reading files =====
+==== read file into a list ====
+Given
+<code>
+$ cat -A great.txt
+kamaraju$
+kamaraj $
+kamara  $
+kamar   $
+kama    $
+kam     $
+ka      $
+k       $
+</code>
+where the $ denotes the end of line.
+<code>
+$ du -b great.txt
+72      great.txt
+
+$ wc great.txt
+ 8  8 72 great.txt
+</code>
+
+To read it
+<code>
+In [3]:
+file = 'great.txt'
+with open(file) as fh:
+    contents = [line.rstrip('\n') for line in fh]
+print(contents)
+['kamaraju', 'kamaraj ', 'kamara  ', 'kamar   ', 'kama    ', 'kam     ', 'ka      ', 'k       ']
+
+In [4]:
+len(contents)
+Out[4]:
+8
+</code>
+
+Ref:- https://stackoverflow.com/questions/15233340/getting-rid-of-n-when-using-readlines
+
+You can also do it using readlines.
+
+<code>
+In [5]:
+file = 'great.txt'
+with open(file) as fh:
+    lines = fh.readlines()
+    lines = [line.rstrip('\n') for line in lines]
+print(lines)
+['kamaraju', 'kamaraj ', 'kamara  ', 'kamar   ', 'kama    ', 'kam     ', 'ka      ', 'k       ']
+</code>
+
+tags | file readlines strip newline
+
+Another approach is to use read() with splitlines().
+
+<code>
+In [6]:
+file = 'great.txt'
+with open(file) as fh:
+    lines = fh.read().splitlines()
+print(lines)
+['kamaraju', 'kamaraj ', 'kamara  ', 'kamar   ', 'kama    ', 'kam     ', 'ka      ', 'k       ']
+</code>
+
 ===== programming related =====
 ==== get the home directory ====
 <code>
