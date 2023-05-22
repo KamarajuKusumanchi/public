@@ -208,6 +208,9 @@
   * [[air filters]]
   * [[amazon notes]]
   * [[barrons notes]]
+  * [[yahooquery notes]]
+  * [[yfinance notes]]
+  * [[markdown notes]]
 
 ==== by date ====
   * [[reading journal 2022]]

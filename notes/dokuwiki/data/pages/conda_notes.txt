@@ -1,5 +1,6 @@
 ===== dummy =====
-
+==== tasks ====
+  * [[conda environment file to install different packages from different channels]]
 
 ==== Remove an environment ====
 To do it with no questions asked

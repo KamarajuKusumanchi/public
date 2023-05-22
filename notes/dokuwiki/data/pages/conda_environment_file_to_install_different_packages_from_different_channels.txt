@@ -1,0 +1,49 @@
+===== conda environment file to install different packages from different channels ====
+
+==== Background ====
+
+yfinance library is the easiest and fastest way to download historical stock prices. Asof 2023-05-20, it is not available in the defaults channel. But is available in the conda-forge channel.
+
+==== Task ====
+
+The goal here is to pull the yfinance package from conda-forge but everything else from the defaults channel.
+
+==== Solution ====
+
+<code>
+ % cat env_test_yfinance.yml | stuff.py
+name: test_yfinance
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - conda-forge::yfinance
+</code>
+
+where stuff.py is a python script to strip out the comments. It can be downloaded from https://github.com/KamarajuKusumanchi/rutils/blob/master/python3/stuff.py
+
+Create the environment
+
+<code>
+ % conda env create -f ./env_test_yfinance.yml
+</code>
+
+==== Evidence ====
+yfinance is downloaded from conda-forge.
+<code>
+ % conda list -n test_yfinance | grep conda-forge
+multitasking              0.0.9              pyhd8ed1ab_0    conda-forge
+yfinance                  0.2.18             pyhd8ed1ab_0    conda-forge
+</code>
+
+python is downloaded from the defaults channel
+<code>
+ % conda list -n test_yfinance | grep "python"     
+python                    3.11.3               h7a1cb2a_0  
+python-dateutil           2.8.2              pyhd3eb1b0_0
+</code>
+
+==== See also ====
+  * The above environment file can be downloaded from https://github.com/KamarajuKusumanchi/rutils/blob/master/python3/envs/env_test_yfinance.yml
+  * I got the idea from https://stackoverflow.com/questions/58555389/set-the-channel-priority-in-conda-environment-yaml -> https://stackoverflow.com/a/65983247/6305733
+  * The official documentation I could find on this feature is https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-file-manually \\ <Todo:- See if you can find a better link afterwards.>

@@ -1,0 +1,3 @@
+==== links I came across ====
+  * https://github.com/dpguthrie/yahooquery - source code
+  * https://yahooquery.dpguthrie.com/guide/ticker/modules/ - use this to find out where a particular item (ex:- marketCap) is available.

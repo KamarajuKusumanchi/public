@@ -6,6 +6,17 @@ Policy:
 Why:
   * Goodreads assumes that you read from beginning to end. But I tend to read couple of pages here and there. This is my naive way to keep track of the progress.
 
+==== Python for Finance Cookbook ====
+Book details:
+  * Python for Finance Cookbook - Eryk Lewinson - 2nd edition - 2022
+  * Pages: {total in pdf: 741, front matter: 1-19, content: 20-721, back matter: 722-741}
+  * Will be using the pages in the book (and not pdf) to track the progress.
+
+^ date ^ pages ^ overall progress ^ notes ^
+| 2023-05-20 | [1-1] | [1-1] | |
+| 2023-05-21 | [2-3] | [1-3] | The book talks about yfinance. \\ But it is not working at the moment.\\ More details at https://github.com/ranaroussi/yfinance/issues/1407 .\\ Use yahooquery until then.|
+| 2023-05-22 | [4-5] | [1-5] | Have to create an account at Nasdaq Data Link. |
+
 ==== Test-Driven Development with Python ====
 Book details:
   * Test-Driven Development with Python - Harry J. W. Percival - 2017 - 2nd edition

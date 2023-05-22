@@ -120,7 +120,22 @@ find . -name "*.py" | xargs pylint
   * [[find depth]]
 
 ===== difference between =====
+==== os.getenv vs. os.environ.get ====
+What is the difference between os.getenv vs os.environ.get?
 
+None. I prefer to use os.getenv as it is less number of characters to type.
+
+To experiment, use [[https://github.com/KamarajuKusumanchi/notebooks/blob/master/python/difference%20between%20os.getenv%20vs.%20os.environ.get.ipynb | difference between os.getenv vs. os.environ.get.ipynb]] (github.com/KamarajuKusumanchi).
+
+Sample usage from https://github.com/dpguthrie/yahooquery/blob/master/yahooquery/base.py#LL926C1-L936C1
+<code>
+    def __init__(self, **kwargs):
+        ...
+        username = os.getenv("YF_USERNAME") or kwargs.get("username")
+        password = os.getenv("YF_PASSWORD") or kwargs.get("password")
+        if username and password:
+            self.login(username, password)
+</code>
 
 ===== Snippets =====
 === import from another project ====

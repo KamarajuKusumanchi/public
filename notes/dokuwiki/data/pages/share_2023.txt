@@ -2,6 +2,9 @@
 
 
 
+==== 2023-05-22 ====
+  * https://about.gitlab.com/blog/2021/01/27/we-need-to-talk-no-proxy/ - We need to talk: Can we standardize NO_PROXY?
+
 ==== 2023-05-03 ====
   * https://docs.python.org/3/howto/sorting.html - "Sorting HOW TO - Python"
     * high information density, good read to from top to bottom at least once.
