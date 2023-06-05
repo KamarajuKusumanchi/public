@@ -48,8 +48,6 @@ Ref:-
   * https://www.wsj.com/articles/us-inflation-august-2022-consumer-price-index-11663017630
 
 ==== 2023-04-20 why is costco up today? ====
-
-
 Observation:
   * time = 2023-04-20 12:04 pm
   * prices = {VOO: \$378.69, COST: \$508.36}
@@ -58,3 +56,21 @@ Observation:
 Hypothesis:
   * On 2023-04-19, Costco announced that they will be increasing the cash dividend from 90 cents to $1.02 per share. The dividend is payable May 19, 2023, to shareholders of record at the close of business on May 5, 2023.
     * Ref:- https://investor.costco.com/news/news-details/2023/Costco-Wholesale-Corporation-Announces-an-Increase-in-Its-Quarterly-Cash-Dividend/default.aspx Costco is increasing .
+
+==== 2023-05-22 Why is Costco down today? ====
+Observation:
+^ Stock ^ 2023-05-19 close (\$) ^ 2023-05-22 close (\$) ^ 2023-05-22 return (bps) ^
+| COST |  496.52 |  491.87 |  -94 |
+| VOO |  384.57 |  384.78 |  5 |
+
+Is there anything that could explain this?
+
+I checked
+  * No dividends are paid on either 5/19 or 5/22
+  * No news on https://investor.costco.com/news/default.aspx
+
+What else?
+
+Ref:
+  * https://finance.yahoo.com/quote/COST/history?p=COST
+  * https://finance.yahoo.com/quote/VOO/history?p=VOO

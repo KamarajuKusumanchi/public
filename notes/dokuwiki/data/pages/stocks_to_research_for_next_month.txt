@@ -1,5 +1,11 @@
 tags | stocks to watch for next month, companies I came across
 
+==== 2023-06-04 ====
+  * WSM - Williams-Sonoma
+    * https://www.barrons.com/market-data/stocks/wsm
+  * WAL - Western Alliance Bancorp
+    * https://www.barrons.com/market-data/stocks/wal
+
 ==== 2023-05-14 ====
   * CVS
     * from https://www.barrons.com/market-data/stocks/cvs

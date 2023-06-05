@@ -211,6 +211,10 @@
   * [[yahooquery notes]]
   * [[yfinance notes]]
   * [[markdown notes]]
+  * [[td ameritrade notes]]
+  * [[td bank notes]]
+  * [[streamlit notes]]
+  * [[new jersey notes]]
 
 ==== by date ====
   * [[reading journal 2022]]

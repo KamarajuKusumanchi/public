@@ -1,3 +1,10 @@
+===== favorite configuration =====
+==== show private contributions on the github profile ====
+  * Profile icon at the top right -> Settings -> Contributions & Activity -> "Include private contributions on my profile" -> check -> "Update preferences"
+
+==== hide achievements on the github profile ====
+  * Profile icon at the top right -> Settings -> Profile Settings -> "Show Achievements on my profile" -> uncheck -> "Update preferences"
+
 ===== dummy =====
 ==== links I came across ====
   * [[https://docs.github.com/en/get-started/signing-up-for-github/verifying-your-email-address | Verifying your email address]] (docs.github.com)

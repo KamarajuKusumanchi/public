@@ -1,11 +1,42 @@
+==== tasks ====
+  * [[random_page#generate_a_random_page | generate a random page]]
+
+==== convert mediawiki page to dokuwiki ====
+<code>
+pandoc -f mediawiki -t dokuwiki --shift-heading-level-by=-1 mw.txt -o dk.txt
+</code>
+
+Q. Why --shift-heading-level-by=-1?
+
+A. The section levels are preserved. For example
+
+<code>
+$ cat mw.txt
+==== foo ====
+
+$ pandoc -f mediawiki -t dokuwiki mw.txt
+=== foo ===
+
+$ pandoc --shift-heading-level-by=-1 -f mediawiki -t dokuwiki mw.txt
+==== foo ====
+</code>
+
+See also:
+  * Documentation - https://pandoc.org/MANUAL.html#reader-options -> ctrl-f for --shift-heading-level-by
+  * In action - [[https://github.com/KamarajuKusumanchi/rutils/blob/master/bin/mediawiki2dokuwiki.sh | mediawiki2dokuwiki.sh]] (github.com/KamarajuKusumanchi)
+
+tags | section headings, header levels, mediawiki to dokuwiki change header level
+
 ==== reference urls ====
   * source code - https://github.com/splitbrain/dokuwiki
 
-==== check dokuwiki version running ====
+==== check the version of dokuwiki instance ====
   * Login as admin and go to https://www.kamaraju.xyz/dk/doku.php?do=check
     * Note:- If you do not login as admin, the version number is not displayed.
 
 Ref:- https://www.dokuwiki.org/faq:version
+
+tags | check dokuwiki version running
 
 ==== Tag plugin ====
   * url: https://www.dokuwiki.org/plugin:tag

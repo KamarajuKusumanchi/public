@@ -1,0 +1,19 @@
+==== dummy ====
+today | 2023-05-26
+
+Taking the money out of the bank is a pain.
+  * ACH push to a different bank takes 3 business days.
+  * Transfer limits from TD Bank checking
+    * per transfer - $2,500
+    * daily - $3,000
+    * rolling 30-day limit - $5,000
+  * Transfer limits from TD Bank savings
+    * per transfer - $2,500
+    * daily - $3,000
+    * rolling 30-day limit - $5,000
+
+From the customer service reps -> tech department:
+  * It is not possible to override these limits.
+  * TD bank uses Fiserv to do the external transfers.
+  * Fiserv is not same as ACH.
+  * You cannot do ACH transfers from their website.

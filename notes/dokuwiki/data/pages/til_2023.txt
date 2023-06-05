@@ -1,3 +1,11 @@
+==== 2023-05-23 ====
+  * <WRAP>
+You can show private contributions on the github profile by doing
+
+Profile icon at the top right → Settings → Contributions & Activity → “Include private contributions on my profile” → check → “Update preferences”
+
+Ref:- https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/showing-your-private-contributions-and-achievements-on-your-profile
+</WRAP>
 ==== 2023-05-22 ====
   * [[https://en.wikipedia.org/wiki/Transaction_log | Transaction log]] (wikipedia.org): A transaction log is a history of actions executed by a database management system used to guarantee ACID properties over crashes or hardware failures.
 

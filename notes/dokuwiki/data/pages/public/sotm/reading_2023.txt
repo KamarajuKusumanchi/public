@@ -1,3 +1,72 @@
+==== 2023-06-02 ====
+Notes from https://www.bloomberg.com/news/articles/2023-06-02/amazon-talking-with-verizon-dish-t-mobile-to-offer-mobile-with-prime?srnd=premium
+  * Amazon’s US Prime subscription
+    * $139 a year.
+    * It used to be $119 before
+    * free grocery delivery for orders > $150
+    * 167 million subscribers
+  * Walmart+ membership
+    * competitor to Amazon Prime membership
+    * $98 a year
+    * free grocery delivery for orders > $35
+  * T-Mobile and Verizon unlimited plans
+    * $60 a month
+  * AT&T unlimited plans
+    * $65 a month
+  * Amazon
+    * plans to start testing a satellite-internet service called Project Kuiper next year.
+  * reseller, otherwise known as a mobile virtual network operator or MVNO
+  * MVNos
+    * ESPN Mobile and Virgin Mobile failed
+    * Alphabet's Google Fi service runs on T-Mobile’s network and has about 2 million customers
+  * Cable companies - Charter Communications Inc. and Comcast Corp
+
+==== 2023-06-01 ====
+Notes from https://www.barrons.com/articles/blackstone-stock-price-breit-redemptions-c76143a9?mod=hp_columnists
+  * The Blackstone Real Estate Income Trust, Breit
+    * AUM is $69 billion
+    * received \$4.4 billion of redemption requests in May and paid out 30% of those requests to investors, or \$1.3 billion
+    * Redemption limits are {monthly: 2%, quarterly: 5%} of NAV.
+    * Redemption requests were {Jan: \$5.3 billion, Feb: \$3.9 billion, Mar: \$4.5 billion, April: \$4.5 billion}
+    * Blackstone has paid out $7.5 billion since November
+    * six-year-old fund
+    * higher percentage of redemption requests are from international investors than those in the U.S.
+    * a nontraded real estate investment trust sold through major brokerage firms and financial advisors
+
+==== 2023-05-28 ====
+Notes from https://wwsg.com/speaker-news/ex-fdic-chair-what-bank-depositors-really-need-from-regulators/
+  * Bair serves on the corporate board of Bunge BG (pronounced BUN-ghee), an oilseed producer and agribusiness based in St. Louis
+    * https://www.barrons.com/market-data/stocks/bg
+  * Banco Santander, the large Spanish bank
+  * US is the highest in terms of number of banks
+    * 4,100 FDIC insured institutions
+    * Russia is next with ~400
+  * Canada has ~80 banks. Canada's population and GDP are 10% of US.
+  * a George Bailey moment - a reference to the protagonist, played by Jimmy Stewart, of It’s a Wonderful Life—a banking movie from a previous era.
+  * Bair wrote
+    * Money Tales
+    * Billy the Borrowing Blue-Footed Booby
+    * Princess Persephone Loses the Castle
+    * Daisy Bubble
+
+==== 2023-05-26 ====
+Notes from https://www.barrons.com/articles/yield-hungry-investors-are-feasting-on-t-bills-5185e488
+  * noncompetitive bids at T-Bill auction is a good proxy for individual investor demand
+  * Data source for the amount of noncompetitive bids in Treasury auctions - U.S. Treasury Department
+  * junk bonds, emerging market debt, high-grade corporates, mortgage securities
+  * unlike CDs and corporate bonds, interest from Treasuries is exempt from state and local taxes.
+  * The Treasury auctions 4-week, 8-week, 13-week, 17-week and 26-week T-bills each week and 52-week bills every four weeks.
+  * reinvest the proceeds of maturing T-bills in newly auctioned ones, a process known as rolling
+  * It’s best to hold a T-bill until maturity; a sale prior to the redemption date can be costly, due to fees charged by securities brokers
+  * BIL and SGOV have average maturities of just over a month
+  * one risk in T-bills is "reinvestment" risk - the next bill you buy might yield less than the one you own
+  * US delayed some payments in 1979 (in part because of a debt-ceiling debate)
+  * When the ceiling is raised, there could be a deluge of T-bill issuance over two months - perhaps up to $700 billion
+
+==== 2023-05-24 ====
+Notes from https://www.federalreserve.gov/monetarypolicy/fomcminutes20230503.htm
+  * commercial and industrial (C&I) loans
+  * Mid-sized banks - those that have total consolidated assets in the range of \$50 billion to \$250 billion
 
 ==== 2023-05-14 ====
 Notes from https://www.barrons.com/articles/dow-industrials-index-divisor-apple-unitedhealth-c68b2c8a?mod=hp_LEAD_3

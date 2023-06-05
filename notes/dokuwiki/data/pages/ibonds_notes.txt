@@ -25,6 +25,11 @@ today | 2021-11-23
 ??? Where can I see the history of ibonds?
 !!! https://www.treasurydirect.gov/files/savings-bonds/i-bond-rate-chart.pdf - Shows the history of interest rates for I-bonds. It has a table with the historical fixed and variable components.
 
+??? How is the fixed interest rate on Ibonds set?
+!!! The Treasury sets the fixed interest rate based on the yield on TIPS.
+
+Ref:- https://www.barrons.com/articles/i-bond-interest-rate-cbe5a38?mod=hp_LEAD_1_B_1
+
 ==== links I came across ====
   * https://www.investopedia.com/terms/s/seriesibond.asp - comprehensive, easy to understand.
 

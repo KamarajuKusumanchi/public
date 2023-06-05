@@ -1,4 +1,13 @@
 ==== dummy ====
+  * Q: Why was the math book sad?
+    * It was full of problems!
+
+  * Q: Why did the student bring a ladder to the school?
+    * He wanted to go to high school.
+
+  * Q: Why did the teacher wear sunglasses indoors?
+    * Her students were so bright!
+
   * Q: What did the fish say when he hit the wall
     * Dam
 
@@ -13,3 +22,7 @@
 
   * What do clouds wear under their shorts?
     * Thunderpants
+
+==== links I came across ====
+  * https://www.enchantedlearning.com/jokes/topics/school.shtml
+  * https://www.funology.com/other-jokes-and-riddles/

@@ -1,0 +1,11 @@
+==== mansion tax ====
+  * Buyer has to pay a 1% tax if the price is more than $1,000,000.
+
+See also:
+  * https://www.state.nj.us/treasury/taxation/lpt/rtffaqs.shtml <WRAP>
+> A husband and wife enter into separate contracts for each to purchase 50% interests as tenants-in-common in residential property (Class 2) to be owned jointly between the two of them. Each contract is worth $600,000 or $1,200,000 together. The husband and wife are to be conveyed one deed each that incorporates these terms. Is the spouses' acquisition of the real estate subject to the 1% fee?
+> 
+>Regardless of whether the spouses are receiving one or two deeds into each spouse's name, the intent of the parties matters. The intent is clearly that the spouses purchase the one property together. The performance of separate contracts resulting in separate deeds is merely a fiction to attempt to circumvent the intention of the law. The total consideration is the combined consideration of each deed together. "Consideration" is defined in part as "the entire compensation paid or to be paid for the transfer of title." If the total consideration or selling price exceeds $1,000,000, the grantees or buyers must remit the 1% fee.
+</WRAP>
+  * https://www.state.nj.us/treasury/taxation/realtytransfees.shtml -> "Additional Fee on Certain Transfers of Real Property Over $1,000,000" has some information on this.
+  * https://www.state.nj.us/treasury/taxation/documents/pdf/guides/Buying-or-Selling-a-Home-in-New-Jersey.pdf mentions about this but does not go into details.

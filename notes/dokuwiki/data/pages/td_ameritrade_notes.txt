@@ -1,0 +1,26 @@
+==== set phone pin ====
+Q. How to set the phone pin for the TD Ameritrade brokerage account?
+
+A. Login -> My Profile -> Personal Information -> Account PIN
+
+==== passive ACH ====
+today | 202305-24
+
+  * I did an ACH push from the checking account at a bank to the brokerage account at TD Ameritrade to deposit funds into the brokerage account.
+  * The brokerage account received the funds the next day.
+  * <WRAP>
+TD Ameritrade brokerage account shows the transaction in
+My Account -> History & Statements -> Transactions \\ 
+-> Type = All Transaction types
+</WRAP>
+  * <WRAP>
+But it does not show it in
+My Account -> History & Statements -> Transactions \\ 
+-> Type = "Deposit & Withdrawls"
+</WRAP>
+  * <WRAP>
+It also does not show up in
+My Account -> Deposits & Transfers -> Activity \\
+-> Completed Transactions
+</WRAP>
+  * The customer service representative told me that since the ACH transfer originated from the bank (as opposed to TD Ameritrade) it is considered a passive ACH and so will not show up in the above screens.

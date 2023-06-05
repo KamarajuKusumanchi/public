@@ -2,6 +2,15 @@
 
 
 
+==== 2023-06-01 ====
+  * https://www.youtube.com/watch?v=yg62ennFHGQ - "Charlie Munger Really Likes Costco ... But Warren Buffett Has Heard It Before"
+
+==== 2023-05-30 ====
+  * [[https://www.neccheli.com/2023/02/విజ్ఞానశాస్త్రంలో-వనితల/]] - talks about [[https://en.wikipedia.org/wiki/Emmy_Noether | Emmy Noether]] (wikipedia.org), a German mathematician who made many important contributions to abstract algebra.
+
+==== 2023-05-29 ====
+  * https://www.cdc.gov/melioidosis/outbreak/2021/index.html - 2021 Multistate outbreak of melioidosis
+
 ==== 2023-05-22 ====
   * https://about.gitlab.com/blog/2021/01/27/we-need-to-talk-no-proxy/ - We need to talk: Can we standardize NO_PROXY?
 

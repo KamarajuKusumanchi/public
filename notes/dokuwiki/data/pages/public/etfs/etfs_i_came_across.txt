@@ -19,6 +19,9 @@ Policy:
   * The Vanguard Industrials ETF (VIS)
   * the Vanguard Information Technology ETF (VGT)
   * The Vanguard Utilities ETF (VPU)
+\\
+  * SPDR Bloomberg 1-3 Month T-Bill ETF (BIL)
+  * iShares 0-3 Month Treasury Bond ETF (SGOV)
 
 ==== see also ====
   * https://github.com/KamarajuKusumanchi/market_data/blob/master/funds/expense_ratio.csv

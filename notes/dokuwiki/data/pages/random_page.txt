@@ -1,0 +1,14 @@
+==== generate a random page ====
+After installing https://www.dokuwiki.org/plugin:randompage2, appending ''?do=randompage'' or ''?do=nsrandompage'' to a page url will redirect to a random page within the wiki or within the namespace respectively.
+
+For example, https://www.kamaraju.xyz/dk/start?do=randompage will redirect to a randompage in this wiki and https://www.kamaraju.xyz/dk/public/sotm/start?do=nsrandompage will redirect to a randompage within the public/sotm namespace.
+
+Further, if you install the ShortcutKey Plugin (https://www.dokuwiki.org/plugin:shortcutkey) and map
+
+  Set “Shortcut key to show random page within current namespace (Randompage plugin is required)” to N
+  Set “Shortcut key to show random page (Randompage plugin is required)” to A
+
+in the configuration settings (''Admin -> Configuration Settings -> Plugin -> Shortcutkey''), you can use ''a'' and ''n'' to get a random page within the wiki and within the namespace respectively.
+
+
+Ref:- https://github.com/solewniczak/dokuwiki-plugin-randompage2/issues/5
