@@ -16,7 +16,7 @@ Notes from https://www.bloomberg.com/news/articles/2023-06-02/amazon-talking-wit
   * Amazon
     * plans to start testing a satellite-internet service called Project Kuiper next year.
   * reseller, otherwise known as a mobile virtual network operator or MVNO
-  * MVNos
+  * MVNOs
     * ESPN Mobile and Virgin Mobile failed
     * Alphabet's Google Fi service runs on T-Mobile’s network and has about 2 million customers
   * Cable companies - Charter Communications Inc. and Comcast Corp

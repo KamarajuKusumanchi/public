@@ -1,3 +1,9 @@
+==== 2023-06-07 ====
+  * https://brilliant.org/wiki/bloom-filter/ - a data structure used to add elements to a set and then test if an element belongs to that set (ex:- spell checker).
+  * https://www.airnow.gov/national-maps/ - shows "current air quality" and "today's air quality forecast" for the entire US.
+  * https://www.airnow.gov/ - to get the air quality data for where you live.
+  * https://www.airnow.gov/?city=Morganville&state=NJ&country=USA - air quality data for Morganville.
+
 ==== 2023-05-23 ====
   * <WRAP>
 You can show private contributions on the github profile by doing
