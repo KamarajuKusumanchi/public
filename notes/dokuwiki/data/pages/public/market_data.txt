@@ -3,3 +3,6 @@
     * +1 - Their calendar covers speeches from important people like President Biden etc.,
     * On Wed 2023-05-17, the market went up from 4123 (prev day close) to 4169 (today's close). The jump is attributed to "President Biden Speech on Debt Ceiling". This calendar showed that event.
       * https://www.barrons.com/livecoverage/stock-market-today-051723/card/stocks-climb-after-biden-speaks-on-debt-ceiling-0AVkvEjgloggFe93B8ns - Stocks Climb After Biden Speaks on Debt Ceiling
+
+==== mortgage rates ====
+  * [[https://tradingeconomics.com/united-states/30-year-mortgage-rate | United States 30-Year Mortgage Rate]] (tradingeconomics.com)

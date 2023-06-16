@@ -1,0 +1,3 @@
+A bitmap index is a special kind of ''database index'' that uses ''bitmaps''.
+
+https://en.wikipedia.org/wiki/Bitmap_index

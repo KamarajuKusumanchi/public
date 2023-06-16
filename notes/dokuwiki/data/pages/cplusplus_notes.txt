@@ -1,0 +1,62 @@
+==== inherit map ====
+
+Maps can be inherited. For example, to cache a bunch of "foo" objects, one can use
+
+<code>
+class fooCache : public map<string, foo>
+{
+  public:
+    ~fooCache();
+    // more functions to manipulate cache
+};
+</code>
+
+tags | derive a c++ class from a map
+
+==== checklist when factoring out a function ====
+
+1. Add a semicolon, remove class name in the new function's declaration.
+
+2. Add a return statement in the new function's definition if the function is supposed to return a value.
+
+==== possible fixes to common g++ errors ====
+
+<code>
+# error: XXX does not name a type
+</code>
+
+If XXX is declared by auto keyword, add -std=c++11 to the compilation command.
+
+Tested on g++ 4.7.1
+
+==== function declarations ====
+
+Information that is available only in function declarations but not in the function definitions
+
+  - Whether a function is static, virtual etc.,
+  - If there is a default value supplied to the argument(s).
+
+==== strings related ====
+
+To replace all occurrences of a character in a string
+
+See minastaros solution in http://stackoverflow.com/questions/2896600/how-to-replace-all-occurrences-of-a-character-in-string
+
+==== Reference ====
+
+  * STL iterators - http://www.cprogramming.com/tutorial/stl/iterators.html
+  * compound assignment operators - http://en.wikipedia.org/wiki/Operators_in_C_and_C%2B%2B#Compound_assignment_operators
+
+==== Type of iterators ====
+
+The vector class supports a random access iterator, the most general kind. The list container only supports bidirectional iterators.
+
+==== Complexity of operations ====
+
+  * Inserting a new key (and an associated value) into a map, or lookup of the data associated with a key in a map, can take up to O(log(n)) time, where n is the size of the current map. This is potentially a bit slower than some hash tables with a good hashing function, and is due to the fact that the map keys are stored in sorted order for use by iterators.
+
+  * The vector has relatively costly insertions into the middle of the vector, but fast random access, whereas the list allows cheap insertions, but slow access (because the list has to be traversed to reach any item). Some algorithms, such as merge sort, even have different requirements when applied to lists instead of vectors. For instance, merge sort on vectors requires a scratch vector, whereas merge sort on lists does not.
+
+  * The size function on a list may take O(n) time, so if you want to do something simple such as test for an empty list, use the empty function instead of checking for a size of zero. If you want to guarantee that the list is empty, you can always use the clear function.
+
+  * Searching for an element in a list will require O(n) time because it lacks support for random access

@@ -203,6 +203,74 @@ Out[12]:
 See also:
   * https://stackoverflow.com/questions/45901018/convert-pandas-series-of-lists-to-dataframe
 
+==== Create a dataframe from a bunch of variables ====
+<code>
+import pandas as pd
+df = pd.DataFrame({
+  'key': ['var1', 'var2', 'var3'],
+  'value': [var1, var2, var3]
+})
+</code>
+
+For example
+<code>
+$ ipython
+
+In [1]:
+year = 2023; month = 6; date = 15
+
+In [2]:
+import pandas as pd
+df = pd.DataFrame({
+  'key': ['year', 'month', 'date'],
+  'value': [year, month, date]
+})
+
+In [3]:
+df
+Out[3]:
+     key  value
+0   year   2023
+1  month      6
+2   date     15
+
+In [4]:
+df.dtypes
+Out[4]:
+key      object
+value     int64
+dtype: object
+</code>
+
+It works even if the variables are not of the same type.
+<code>
+In [5]:
+year = 2023; month = 'June'; date = 15
+
+In [6]:
+df = pd.DataFrame({
+  'key': ['year', 'month', 'date'],
+  'value': [year, month, date]
+})
+
+In [7]:
+df
+Out[7]:
+     key value
+0   year  2023
+1  month  June
+2   date    15
+
+In [8]:
+df.dtypes
+Out[8]:
+key      object
+value    object
+dtype: object
+</code>
+
+Tested with Python 3.11.3, IPython 8.12.0
+
 ===== selection related =====
 ==== split columns ====
 
