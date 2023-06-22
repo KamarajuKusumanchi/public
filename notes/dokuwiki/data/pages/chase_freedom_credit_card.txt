@@ -1,0 +1,28 @@
+==== chase freedom credit card ====
+If you have a “Chase freedom: ultimate rewards” credit card, consider upgrading
+to “Chase freedom unlimited rewards” instead.
+
+Both cards look the same, have the same APR, same foreign currency transaction fee, no annual fee etc., but the latter gives more rewards and you do not have to activate bonus categories every quarter.
+
+^ ^ Chase freedom: ultimate rewards ^ Chase freedom unlimited rewards ^
+| rewards on all purchases | 1% | 1.5% |
+| requires activation of bonus categories every quarter | Yes | No |
+
+Chase freedom: ultimate rewards
+<code>
+You always earn unlimited 1% cash back on all your purchases.
+Activate new bonus categories every quarter. You'll earn an
+additional 4% cash back, for a total of 5% cash back on up to
+$1,500 in combined bonus category purchases each quarter.
+Activate for free at chase.com/freedom, visit a Chase branch or
+call the number on the back of your card.
+</code>
+Chase freedom unlimited rewards
+<code>
+You earn unlimited 5% Cash Back rewards on travel purchased
+through Ultimate Rewards, unlimited 3% cash back on dining at
+restaurants and drugstore purchases, and unlimited 1.5% cash
+back on all other purchases. It's automatic! Redeem for cash with
+no minimum, and your Cash Back rewards do not expire as long
+as your account is open.
+</code>

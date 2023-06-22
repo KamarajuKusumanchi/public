@@ -13,6 +13,7 @@ Ref:-
 
 ===== useful links =====
 ==== dummy ====
+  * refresh pivot table data - https://support.microsoft.com/en-us/office/refresh-pivottable-data-6d24cece-a038-468a-8176-8b6568ca9be2
   * sort values in a pivot table - https://support.microsoft.com/en-us/office/sort-data-in-a-pivottable-or-pivotchart-e41f7107-b92d-44ef-861f-24430830450a
 
 ==== sum values based on another column ====
