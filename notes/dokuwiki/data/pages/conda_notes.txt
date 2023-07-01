@@ -300,3 +300,10 @@ $ conda config --remove-key pinned_packages
 
 ==== What is the difference between conda, pip, and virtualenv? ====
   * https://docs.conda.io/projects/conda/en/latest/commands.html#conda-vs-pip-vs-virtualenv-commands -> scroll down to see a table that shows how to accomplish different tasks by using either conda or a combination pip and virtualenv.
+
+==== conda release numbers ====
+  * After 4.14.0 (released on Aug 3, 2022), conda changed to CalVer versioning system. The release after 4.14.0 is 22.9.0 (released on Sep 20, 2022).
+
+See also:
+  * https://github.com/conda/conda/releases - conda release history
+  * https://calver.org/ - CalVer - Calendar Versioning

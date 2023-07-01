@@ -1,1 +1,1 @@
-<nspages -tree -r -subns -pagesInNs -textNs="Page tree - recent first" -sortByDate -reverse>
+<nspages -tree -r -subns -pagesInNs -textNs="Page tree - recent first" -sortByDate -displayModificationDates -reverse>

@@ -1,0 +1,6 @@
+==== dummy ====
+  * shards
+    * context | https://www.franzoni.eu/consistent-hashing-for-dummies/
+  * backhoe
+    * context | https://www.barrons.com/articles/ford-layoffs-engineers-hiring-deere-cnh-e4e6cd57?mod=hp_columnists
+

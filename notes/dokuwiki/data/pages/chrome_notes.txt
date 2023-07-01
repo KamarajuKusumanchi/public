@@ -1,4 +1,20 @@
 ===== favorite configuration on desktop =====
+==== background of the inactive chrome tabs ====
+If the background of the inactive chrome tabs is dark, their titles are not readily visible. To work around this, change the "theme color" to "Warm grey".
+
+  chrome://settings/manageProfile -> Pick a theme color -> choose "Warm grey" option.
+
+Before:
+
+{{:chrome_tabs_dark_background.png}}
+
+After:
+
+{{:chrome_tabs_warm_grey_theme.png}}
+
+
+tags | can't see chrome tabs in dark mode
+
 ==== restore previous session ====
 
   chrome://settings/onStartup -> check "Continue where you left off"
@@ -127,3 +143,10 @@ related:
       - Press (or hold) the middle mouse button and then move the mouse
       - Hold Ctrl and press the left mouse button
     * https://chrome.google.com/webstore/detail/autoscroll/occjjkgifpmdgodlplnacmkejpdionan?hl=en
+
+===== bookmarks related =====
+==== bookmarks file ====
+C:\Users\<username>\AppData\Local\Google\Chrome\User Data\Default\Bookmarks
+
+==== import bookmarks ====
+three dots button -> Bookmarks and lists -> Import bookmarks and settings... -> In the drop down choose "Bookmarks HTML file"

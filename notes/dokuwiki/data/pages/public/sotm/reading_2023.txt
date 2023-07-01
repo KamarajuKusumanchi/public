@@ -1,3 +1,32 @@
+==== 2023-06-29 ====
+Notes from https://www.bloomberg.com/news/articles/2023-02-19/uniqlo-s-quest-to-conquer-the-us-one-cashmere-sweater-at-a-time
+  * Uniqlo
+    * parent company is Fast Retailing Co.
+    * Daisuke Tsukagoshi, Uniqlo’s chief executive officer for the US and Canada
+    * has 61 stores in North America
+    * operates 112 outlets in Europe
+    * 900 stores in China
+    * CEO Tadashi Yanai, Japan’s richest man
+    * first Uniqlo store opened in New Jersey in 2005
+    * fiscal year ends in August
+    * Chief Financial Officer Takeshi Okazaki
+  * $291 billion retail clothing market
+  * Hennes & Mauritz AB has 740 H&M stores in the Americas
+  * Gap Inc. has more than 2,000 stores in the Americas
+  * S&P Global Market Intelligence economists
+
+https://www.barrons.com/articles/ford-layoffs-engineers-hiring-deere-cnh-e4e6cd57?mod=hp_columnists
+  * Ford Motor
+    * is laying off about 1,000 workers, including engineers
+    * 173,000 employees at the end of 2022
+  * CNH Industrial (CNHI)
+    * a rival of Deere (DE)
+    * makes tractors and heavy-duty machinery
+    * employs about 40,000 workers
+    * is buying Hemisphere
+  * Hemisphere 
+    * a global leader in high-performance satellite positioning technology
+
 ==== 2023-06-02 ====
 Notes from https://www.bloomberg.com/news/articles/2023-06-02/amazon-talking-with-verizon-dish-t-mobile-to-offer-mobile-with-prime?srnd=premium
   * Amazon’s US Prime subscription

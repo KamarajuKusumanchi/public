@@ -2,6 +2,15 @@
 
 
 
+==== 2023-06-30 ====
+  * If you are using conda, consider upgrading to conda >= 22.11 and set the solver to libmamba as explained in the article [[https://www.anaconda.com/blog/conda-is-fast-now | Conda Is Fast Now. Like, Really Fast]] (anaconda.org). It works great. The libmamba solver solves the environment very quickly. The packages are downloaded and extracted in parallel.
+  * See also: https://github.com/conda/conda/releases
+==== 2023-06-25 ====
+  * https://en.wikipedia.org/wiki/Maria_Sibylla_Merian - Maria Sibylla Merian <WRAP>
+> Until her careful, detailed work, it had been thought that insects were "born of mud" by spontaneous generation. Her pioneering research in illustrating and describing the various stages of development, from egg to larva to pupa and finally to adult, dispelled the notion of spontaneous generation and established the idea that insects undergo distinct and predictable life cycles.
+</WRAP>
+    * I came to know about her from [[https://www.neccheli.com/2023/03/విజ్ఞానశాస్త్రంలో-వనిత-2/]] which profiles her life story in a succint way.
+
 ==== 2023-06-12 ====
   * https://www.bloomberg.com/news/articles/2023-06-12/instant-pot-and-pyrex-maker-instant-brands-files-for-bankruptcy - Instant Brands, maker of the Instant Pot pressure cooker and Pyrex glassware, filed for bankruptcy on Monday.
 

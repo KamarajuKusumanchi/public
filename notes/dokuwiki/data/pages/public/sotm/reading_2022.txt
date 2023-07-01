@@ -1311,7 +1311,7 @@ Notes from https://www.bloomberg.com/news/features/2021-04-08/how-bill-hwang-of-
   * the Financial Services Ministry, a group affiliated with New York’s Redeemer Presbyterian Church that connects Christians in finance
   * Paul Gojkovich, a former director at Merrill Lynch
   * U.S. rules prevent individual investors from buying securities with more than 50% of the money borrowed on margin. No such limits apply to hedge funds and family offices.
-  * 2x leverage = $1 million borrowed for every $1 million of capital
+  * 2x leverage = \$1 million borrowed for every \$1 million of capital
   * In a typical swap agreement, a bank gives its client exposure to an underlying asset, such as a stock. While the client gains—or loses—from any changes in price, the bank shows up in filings as the registered holder of the shares.
   * Cursing was not tolerated in Archego's offices. It is a policy borrowed from Robertson’s Tiger.
   * Uniqlo, the fast-fashion brand, because it’s cheap and comfortable
