@@ -1,0 +1,39 @@
+==== Pretty print tabular data ====
+Consider the following data where the columns are separated by a tab character. However, since the field length in each column changes across rows, it looks really messy if the file is just catted out.
+
+<code>
+% cat data3.txt
+clue	answer
+Cotillion honorees	debs
+Contend	vie
+Conductor	Maestro
+</code>
+
+A better way to print it is to use the "column" command from the bsdextrautils package.
+
+<code>
+% cat data3.txt | column -ts $'\t'
+clue                answer
+Cotillion honorees  debs
+Contend             vie
+Conductor           Maestro
+</code>
+
+Tested this on a machine running Debian stable (Bookworm) using
+
+<code>
+% cat /etc/debian_version 
+12.0
+
+% zsh --version
+zsh 5.9 (x86_64-debian-linux-gnu)
+
+% which column
+/usr/bin/column
+
+% dpkg -S /usr/bin/column
+bsdextrautils: /usr/bin/column
+
+% dpkg -l bsdextrautils | grep ^ii
+ii  bsdextrautils  2.38.1-5+b1  amd64        extra utilities from 4.4BSD-Lite
+</code>

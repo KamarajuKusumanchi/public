@@ -1,0 +1,39 @@
+tags | founder run companies
+
+==== Solactive U.S. Founder-Run Companies Index ====
+  * https://www.solactive.com/Indices/?index=DE000SLA21M5
+  * Came across it in https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060296 -> pdf -> pg-9
+
+Question:
+
+The https://www.solactive.com/Indices/?index=DE000SLA21M5 -> Index Composition tab -> sort by the "Index Shares" column shows
+<code>
+NAME                          INDEX SHARES
+QUANTUMSCAPE CORP             7.098485
+PALANTIR TECHNOLOGIES INC     6.411535
+SNAP INC                      5.704867
+MEDICAL PROPERTIES TRUST INC  5.665837
+ROBINHOOD MARKETS INC - A     5.614621
+BLUE OWL CAPITAL INC          4.412912
+RIVIAN AUTOMOTIVE INC         3.875928
+UIPATH CL A ORD               3.529076
+VORNADO REALTY TRUST          3.310419
+SENTINELONE INC               3.092059
+</code>
+
+But https://www.solactive.com/Indices/?index=DE000SLA21M5 -> Documents -> Factsheet -> pg-2 -> "TOP COMPONENTS AS OF 30-Jun-2023" shows
+<code>
+Company                   Ticker         Country Currency Index Weight (%)
+PALANTIR TECHNOLOGIES INC PLTR UN Equity US      USD                 1.78%
+WAYFAIR INC               W    UN Equity US      USD                 1.68%
+ZSCALER INC               ZS   UW Equity US      USD                 1.46%
+TESLA INC                 TSLA UW Equity US      USD                 1.43%
+NVIDIA CORP               NVDA UW Equity US      USD                 1.37%
+BILL HOLDINGS INC         BILL UN Equity US      USD                 1.37%
+APPLOVIN CORP             APP  UW Equity US      USD                 1.36%
+DATADOG INC               DDOG UW Equity US      USD                 1.31%
+CLOUDFLARE INC - CLASS A  NET  UN Equity US      USD                 1.25%
+SNAP INC                  SNAP UN Equity US      USD                 1.22%
+</code>
+
+Why are these two different?

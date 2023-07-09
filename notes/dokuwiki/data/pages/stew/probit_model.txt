@@ -1,0 +1,2 @@
+Probit model
+  * https://en.wikipedia.org/wiki/Probit_model

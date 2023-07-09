@@ -1,6 +1,8 @@
 Note:- My old blog is in http://raju.shoutwiki.com/wiki/Blog . I plan to migrate the articles from there to here as time permits.
 
 ==== 2023 ====
+  * 2023-07-01 [[Pretty print tabular data]]
+
   * 2023-06-19 [[chase freedom credit card]]
 
   * 2023-05-20 [[conda environment file to install different packages from different channels]]
