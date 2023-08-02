@@ -46,6 +46,7 @@ print(interest)
 ==== useful links ====
   * https://ibkr.info/article/1851 - Cash Sweeps
   * comparison of different trading platforms - https://www.interactivebrokers.com/en/index.php?f=13868
+  * https://pennies.interactivebrokers.com/cstools/contract_info/v3.10/index.php - search for contract information
 
 ==== interest rates ====
   * https://www.interactivebrokers.com/en/accounts/fees/pricing-interest-rates.php - Interest rates

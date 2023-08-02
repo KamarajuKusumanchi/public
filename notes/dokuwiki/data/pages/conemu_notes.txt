@@ -28,6 +28,17 @@ Settings -> Keys & Macro -> Paste ->
 solves | New lines lost when pasting into ipython
 
 Ref:- https://github.com/Maximus5/ConEmu/issues/1809
+
+==== check for new stable version on startup ====
+<code>
+Settings -> General -> Update
+-> Update settings
+-> Do automatic check on
+  -> check Startup box
+  -> uncheck Hourly box
+-> Preferred release type
+  -> select Stable radio button
+</code>
 ===== dummy =====
 ==== tasks ====
 tags | conemu star an ssh session, specify startup directory for ssh
@@ -119,3 +130,11 @@ Ref:- https://conemu.github.io/en/ConEmuArgs.html - explains about the -run argu
   * https://conemu.github.io/en/KeyboardShortcuts.html
   * https://github.com/Maximus5/ConEmu/releases - release history
     * Useful for "how many conemu releases were there between 210422 and 210627?"
+
+==== disable new preview version available popup ====
+<code>
+Settings -> General -> Update
+-> Update settings
+-> Do automatic check on
+-> uncheck Startup and Hourly boxes
+</code>

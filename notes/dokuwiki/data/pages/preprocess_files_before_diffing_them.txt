@@ -1,0 +1,24 @@
+==== Situation ====
+
+Often times I want to preprocess files a bit before running a diffing tool such as vimdiff on them. For example, say I have two files - file1.txt, file2.txt . Instead of doing "vimdiff file1.txt file2.txt", I would like to do
+
+<code>
+cut -f 1 file1.txt | sort > file1.txt_sorted
+cut -f 2 file2.txt | sort > file2.txt_sorted
+vimdiff file1.txt file2.txt
+rm file1.txt_sorted file2.txt_sorted
+</code>
+
+The task here is to simplify this process.
+
+==== Solution ====
+
+<code>
+vimdiff <(cut -f 1 file1.txt | sort) <(cut -f 1 file2.txt | sort)
+</code>
+
+This tip works with other diffing tools such as diff. The cool thing is that we no longer have to worry about managing temporary files.
+
+==== System Information ====
+
+Tested it on zsh 4.3.10

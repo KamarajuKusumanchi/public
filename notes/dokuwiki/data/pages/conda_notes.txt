@@ -1,6 +1,7 @@
 ===== dummy =====
 ==== tasks ====
   * [[conda environment file to install different packages from different channels]]
+    * tags | conda-forge::foo
 
 ==== Remove an environment ====
 To do it with no questions asked
@@ -195,20 +196,6 @@ Ref:-
   * https://stackoverflow.com/questions/48706548/how-to-free-disk-space-taken-up-by-anaconda
   * https://github.com/conda/conda/issues/8630 - recommends ''conda clean --all'' to fix ''conda json.decoder.JSONDecodeError: Unterminated string starting at: line xxxxxx column xx (char xxxxxxxx)''
 
-==== sample environment file ====
-<code>
-name: sample_py36
-channels:
-  - conda-forge
-  - defaults
-dependencies:
-  - python=3.6.8
-  - pandas=0.24.1
-  - pip:
-    - pywinauto
-    - fastavro==0.21.18
-</code>
-
 ==== where is the package cache ====
 <code>
 conda info
@@ -233,6 +220,41 @@ $ conda info | grep "user config file"
   * conda update - https://docs.conda.io/projects/conda/en/latest/commands/update.html
   * conda config - https://docs.conda.io/projects/conda/en/latest/commands/config.html
   * pinning packages - https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-pkgs.html#preventing-packages-from-updating-pinning
+
+==== which solver am I using? ====
+Use
+<code>
+conda config --show solver
+</code>
+or
+<code>
+conda config --show-sources
+</code>
+
+
+Sample output:
+<code>
+$ conda config --show solver
+solver: classic
+</code>
+
+<code>
+$ conda config --show solver
+solver: libmamba
+</code>
+
+<code>
+$conda config --show-sources
+==> C:\Users\root\.condarc <==
+solver: libmamba
+
+==> cmd_line <==
+debug: False
+json: False
+</code>
+
+See also:-
+  * https://conda.github.io/conda-libmamba-solver/getting-started/ - tells how to switch the default solver from classic to libmamba.
 
 ===== activate conda environment =====
 tags | activate conda environment through shell script
@@ -279,6 +301,65 @@ set -eux
 tested with conda 4.8.3 on a machine running RHEL 7.6
 
 See also: [[#source activate vs. conda activate]], [[#conda activate]]
+
+===== Sample environment files =====
+
+==== sample environment file ====
+<code>
+name: sample_py36
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6.8
+  - pandas=0.24.1
+  - pip:
+    - pywinauto
+    - fastavro==0.21.18
+</code>
+
+==== environment file to install pip package from a local repository ====
+One way to specify a wheel file stored in a local directory as a pip dependency in a conda environment file is to do something like
+<code>
+name: test_ibapi
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+    - file:///home/rajulocal/software/dist/ibapi-10.22.1-py3-none-any.whl
+</code>
+
+but this will not be portable when you move to a different machine since the wheel file path (/home/rajulocal/software/dist/ibapi-10.22.1-py3-none-any.whl) is hard coded. A better approach is to run
+
+<code>
+ % pip config set global.find-links file:///home/rajulocal/software/dist
+</code>
+which will modify pip.conf as
+<code>
+ % cat ~/.config/pip/pip.conf 
+[global]
+find-links = file:///home/rajulocal/software/dist
+</code>
+and then specify ibapi as a normal pip dependency.
+<code>
+name: test_ibapi
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+    - ibapi
+</code>
+Ref:-
+  * https://pip.pypa.io/en/stable/cli/pip_config/ - shows the syntax for the 'pip config' command
+  * https://pip.pypa.io/en/stable/topics/configuration/ - shows the locations of default pip configuration files.
+  * https://manpages.debian.org/bookworm/python3-pip/pip.1.en.html - where I found the <nowiki>--find-links</nowiki> option
+
+tags | <nowiki>--find-links</nowiki>, pip config local packages, how to specify local repo location for pip packages, conda install pip package from a "local directory"
+
 ===== dummy =====
 
 ==== create an environment on the fly ====
@@ -307,3 +388,13 @@ $ conda config --remove-key pinned_packages
 See also:
   * https://github.com/conda/conda/releases - conda release history
   * https://calver.org/ - CalVer - Calendar Versioning
+
+==== twsapi conda environment file ====
+  * Build a wheel file from the zip file.
+    * See for example https://github.com/KamarajuKusumanchi/market_data_processor/blob/master/src/scripts/build_twsapi.sh which builds a wheel file from the TWS python api zip file (https://interactivebrokers.github.io/downloads/twsapi_macunix.1022.01.zip)
+  * Configure pip to install its wheels from a local wheel directory <code>pip config set global.find-links file:///home/rajulocal/software/dist</code>
+
+  * Install the package
+    * See for example https://github.com/KamarajuKusumanchi/rutils/blob/master/python3/envs/env_test_ibapi.yml
+
+tags | conda envrionment install package from zip file, conda install zip package, install zip file

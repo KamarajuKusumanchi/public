@@ -2,7 +2,7 @@
 
 ==== Background ====
 
-yfinance library is the easiest and fastest way to download historical stock prices. Asof 2023-05-20, it is not available in the defaults channel. But is available in the conda-forge channel.
+yfinance library is the easiest and fastest way to download historical stock prices. Asof 2023-05-20, it is not available in the defaults channel. But it is available in the conda-forge channel.
 
 ==== Task ====
 
