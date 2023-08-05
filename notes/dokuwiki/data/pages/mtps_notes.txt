@@ -1,4 +1,7 @@
 ==== links I came across ====
+  * https://www.mtps.org/apps/pages/index.jsp?uREC_ID=807531&type=d&pREC_ID=1195086 - Summer reading list
+    * https://4.files.edl.io/8a95/06/07/23/131022-f4d63de9-d6b8-4338-bb97-79c92a9ed850.pdf - 2023 Elementary Grades Summer Reading List
+
   * https://www.mtps.org/apps/pages/index.jsp?uREC_ID=1693152&type=d&pREC_ID=2209335
     * This is the MTPS COVID-19 dashboard. It shows the number of students and staff that currently have covid. I find it more useful than the emails they send out whenever there is a new case.
     * It answers questions like "how many students currently have covid and how many staff?" etc.,

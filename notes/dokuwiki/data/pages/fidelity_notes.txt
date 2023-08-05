@@ -1,0 +1,14 @@
+==== linking a bank account ====
+On 2023-07-xx, I tried to link CFCU checking account to Fidelity brokerage account in order to do an EFT (Electronic Funds Transfer). But I could not do it since Fidelity is asking for CFCU account's credentials. It is asking for this even when I chose "Enter my bank information on my own" instead of choosing "Log into my bank account with Plaid".
+
+This issue seems to be specific to (Fidelity, CFCU). I was able to link accounts at other banks such as TD Bank, Capitalone to Fidelity without any issues.
+
+I am not comfortable giving my bank account credentials to Fidelity.
+
+I called Fidelity the customer service. The representatives suggested to fill out a paper form, scan it and mail it to them. This form can be found as follows:
+
+Login into fidelity.com ->  search for 'forms' in the top right 'Search or get a quote' bar -> click on 'Online Forms and Applications' -> All Forms -> pg-6 -> Electronic Funds Transfer (EFT) -> Download the PDF
+
+This seemed very cumbersome.
+
+In the end, I worked around it by doing CFCU -> Capitalone -> Fidelity.

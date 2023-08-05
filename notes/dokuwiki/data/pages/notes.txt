@@ -217,6 +217,7 @@
   * [[new jersey notes]]
   * [[cplusplus notes | c++ notes]]
   * [[user manuals]]
+  * [[fidelity notes]]
 
 ==== by date ====
   * [[reading journal 2022]]
