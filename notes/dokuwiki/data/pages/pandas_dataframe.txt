@@ -58,6 +58,7 @@ print(team)
 Ref:-
   * https://www.geeksforgeeks.org/add-column-names-to-dataframe-in-pandas/ - got the idea on zip from here.
 
+tags | row by row
 ==== Create a dataframe by splitting strings ====
 Given a list of strings, the idea here is to create a data frame by splitting them into multiple columns.
 

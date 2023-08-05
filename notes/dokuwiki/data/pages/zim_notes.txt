@@ -99,3 +99,19 @@ release_date, version
 </code>
 
 Ref:- https://zim-wiki.org/downloads.html
+
+
+==== How to insert equations in zim? ====
+Enable the "Insert Equation" plugin
+
+Edit -> Preferences -> Plugins -> Insert Equation -> check the box
+
+Then do
+
+Insert -> Equation -> Enter the equation (ex:- \sqrt{ a^2 + b^2 }) -> Preview -> OK
+
+This will create pairs of files such as (equation.tex, equation.png), (equation001.tex, equation001.png), (equation002.tex, equation002.png) etc., Each pair corresponds to one equation.
+
+Ref:- https://zim-wiki.org/manual/Plugins/Equation_Editor.html - talks about this functionality. But it does not tell how to enable it in the first place.
+
+tags | zim math equations, equation editor, where is the equation editor plugin?

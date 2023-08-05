@@ -218,6 +218,7 @@
   * [[cplusplus notes | c++ notes]]
   * [[user manuals]]
   * [[fidelity notes]]
+  * [[xboard notes]]
 
 ==== by date ====
   * [[reading journal 2022]]

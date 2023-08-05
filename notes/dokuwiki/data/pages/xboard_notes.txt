@@ -1,0 +1,2 @@
+==== useful links ====
+  * https://www.gnu.org/software/xboard/manual/html_node/Mode-Menu.html - the section on 'Analysis Mode' tells how to analyze games using xboard. I prefer the Crafty engine for analysis.

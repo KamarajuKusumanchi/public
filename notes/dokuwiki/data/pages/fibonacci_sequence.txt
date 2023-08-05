@@ -1,0 +1,107 @@
+==== Definition ====
+Recurrence relation
+$$F_0 = 0, \quad F_1 = 1$$
+
+and
+$$F_n=F_{n-1} + F_{n-2}$$
+for $ n > 1 $
+
+The first 20 Fibonacci numbers $F_n$ are:
+
+^ $ F_0 $ ^ $ F_1 $ ^ $ F_2 $ ^ $ F_3 $ ^ $ F_4 $ ^ $ F_5 $ ^ $ F_6 $ ^ $ F_7 $ ^ $ F_8 $ ^ $ F_9 $ ^ $ F_{10} $ ^ $ F_{11} $ ^ $ F_{12} $ ^ $ F_{13} $ ^ $ F_{14} $ ^ $ F_{15} $ ^ $ F_{16} $ ^ $ F_{17} $ ^ $ F_{18} $ ^ $ F_{19} $ ^
+| 0 | 1 | 1 | 2 | 3 | 5 | 8 | 13 | 21 | 34 | 55 | 89 | 144 | 233 | 377 | 610 | 987 | 1597 | 2584 | 4181 |
+
+The sequence is (0, 1, 1, 2, 3, 5, 8, 13, ... )
+
+==== Matrix form ====
+
+$$ {F_{k+2} \choose F_{k+1}} = \begin{pmatrix} 1 & 1 \\ 1 & 0 \end{pmatrix} {F_{k+1} \choose F_{k}} $$
+
+$$ \vec F_{k+1} = \mathbf{A} \vec F_{k} $$
+
+$$ \vec F_n = \mathbf{A}^n  \vec F_0 $$
+
+==== Eigen values of A ====
+To get the eigen values, solve
+$$ \begin{vmatrix}
+1 - \lambda & 1 \\
+1 & -\lambda
+\end{vmatrix} = 0
+$$
+
+\begin{align}
+(1-\lambda)(-\lambda) - 1 & = 0 \\
+(\lambda)(\lambda - 1) - 1 & = 0 \\
+\lambda^2 - \lambda -1 & = 0
+\end{align}
+
+If we denote the eigen values as $ \lambda_1, \lambda_2 $, this tells us that
+
+$$ \lambda_1 + \lambda_2 = 1, \quad \lambda_1 \lambda_2 = -1 $$
+
+Solving the quadratic equation, we get
+$$ 
+\left( \lambda_1, \lambda_2 \right) = \left( \frac{1+\sqrt{5}}{2}, \frac{1-\sqrt{5}}{2} \right)
+$$
+Also, note
+$$ \lambda_1 - \lambda_2 = \sqrt{5} $$
+
+==== Eigen vectors of A ====
+To get the eigen vectors, solve
+$$
+\begin{bmatrix}
+1 - \lambda & 1 \\
+1 & -\lambda
+\end{bmatrix}
+\begin{bmatrix}
+x_1 \\
+x_2
+\end{bmatrix}
+=
+\begin{bmatrix}
+0 \\
+0
+\end{bmatrix}
+$$
+
+Expanding
+
+\begin{align}
+(1-\lambda) x_1 + x_2 & = 0 \\
+x_1 & = \lambda x_2
+\end{align}
+
+From the characteristic equation of $ \mathbf{A} $, we know
+
+\begin{align}
+& (1-\lambda)(-\lambda) - 1 = 0 \\
+\Rightarrow \quad & (1-\lambda) = -\frac{1}{\lambda}
+\end{align}
+
+Substituting for $1-\lambda$, we get
+
+\begin{align}
+-\frac{1}{\lambda} x_1 + x_2 & = 0 \\
+x_1 & = \lambda x_2
+\end{align}
+
+So both equations simplify to
+$$ x_1 = \lambda x_2$$
+
+which gives the eigen vector matrix as
+$$
+\Lambda = 
+\begin{bmatrix}
+\lambda_1 & \lambda_2 \\
+1 & 1
+\end{bmatrix}
+$$
+
+
+==== References ====
+  * https://www.dokuwiki.org/plugin:mathjax - mathjax syntax of dokuwiki
+  * https://tex.stackexchange.com/questions/162533/how-to-align-implies-that-symbols-neatly-in-equation-array - talks about alignat which can be used to align 'implies that' symbols in an equation array. I picked up ''\Rightarrow\quad'' from here.
+  * https://mathworld.wolfram.com/CharacteristicEquation.html
+  * https://www.math-linux.com/latex-26/faq/latex-faq/article/how-to-write-matrices-in-latex-matrix-pmatrix-bmatrix-vmatrix-vmatrix - nice visual representation of how various matrix environments work in latex
+  * https://tex.stackexchange.com/questions/78736/bigger-parentheses-in-equations - picked up ''\left( ... \right)'' from here.
+    * tags | big parentheses

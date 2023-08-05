@@ -1,0 +1,5 @@
+==== UnitedHealth Group ====
+  * ticker: UNH
+  * part of SP500 healthcare sector
+  * insurance company
+  * Other healthcare stocks: Elevance Health (ELV) and Cigna Group (CI)

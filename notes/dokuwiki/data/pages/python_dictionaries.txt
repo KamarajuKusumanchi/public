@@ -6,6 +6,29 @@ Policy: group | related items, sort by | descending order of (nontriviality, int
   * [[Convert a string to a dictionary]]
 
 
+==== find key corresponding to a value ====
+The following will find the first key corresponding to a given value
+<code>
+>>> d ={1:'A', 2:'B', 3:'A', 4:'B'}
+>>> key_list = list(d.keys())
+>>> val_list = list(d.values())
+>>> lookup_val = 'A'
+>>> position = val_list.index(lookup_val)
+>>> key_val = key_list[position]
+>>> print(key_val)
+1
+</code>
+<code>
+>>> lookup_val = 'B'
+>>> position = val_list.index(lookup_val)
+>>> key_val = key_list[position]
+>>> print(key_val)
+2
+</code>
+
+Sample use case:
+  * In https://github.com/KamarajuKusumanchi/notebooks/blob/master/finvizfinance/target_price.ipynb , I used the above technique to find the index corresponding to 'Target Price'.
+
 ==== initialize a dictionary ====
 <code>
 In [1]:

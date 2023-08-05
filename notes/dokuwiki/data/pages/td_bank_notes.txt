@@ -17,3 +17,8 @@ From the customer service reps -> tech department:
   * TD bank uses Fiserv to do the external transfers.
   * Fiserv is not same as ACH.
   * You cannot do ACH transfers from their website.
+
+today | 2023-07-26
+Depositing money into the account is also painful.
+  * Deposited a check on 7/20 (Thu). It was pending asof 7/27 (Thu) and got cleared on 7/28 (Fri). Apparently, they hold the funds for 6 business days.
+  * Compare this with Capitalone where it takes 1-2 business days for the funds to be fully available. Deposited a check on 7/17 (Mon) and it was fully available on 7/19 (Wed).

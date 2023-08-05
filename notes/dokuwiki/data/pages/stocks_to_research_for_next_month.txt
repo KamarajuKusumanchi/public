@@ -1,5 +1,21 @@
 tags | stocks to watch for next month, companies I came across
 
+==== 2023-07-27 ====
+  * COST - Costco
+    * Recommended in https://www.barrons.com/articles/costco-stock-price-buy-8fc9f7c0?mod=hp_columnists by Teresa Rivas
+    * Watch out her future recommendations
+
+==== 2023-07-24 ====
+  * AJG - Arthur J. Gallagher & Co
+    * Recommended in https://www.barrons.com/articles/buy-arthur-j-gallagher-stock-price-pick-50e3d4c6?mod=hp_StockPicks by Teresa Rivas
+    * Seems to be doing better than Costco. $47 bln market cap
+    * 	P/E = 40.59; Forward P/E = 21.94;
+
+
+==== 2023-07-12 ====
+  * WU - Western Union
+    * https://www.barrons.com/market-data/stocks/wu
+
 ==== 2023-06-04 ====
   * WSM - Williams-Sonoma
     * https://www.barrons.com/market-data/stocks/wsm

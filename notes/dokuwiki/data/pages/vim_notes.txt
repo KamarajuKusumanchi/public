@@ -20,3 +20,21 @@ will insert a new line before each occurrence of 29.
   :nmap J :s/\n/, /^M
 
   * https://vi.stackexchange.com/a/14248/12620
+
+==== Preprocess files before diffing them ====
+  * [[Preprocess files before diffing them]]
+tags | vimdiff, sort
+
+
+==== print full file name ====
+
+  * :echo expand("%:p")
+  * :!ls %:p
+  * :!realpath % - be aware that realpath is not POSIX
+  * :!echo "$PWD/%" - very difficult to type this!
+  * 1 followed by ctrl-g - shows full path name but does not expand "~" to home directory
+  * :'<,'>!realpath % - to replace the current selection with the file path
+  * set statusline+=%F - will show full filename in the status bar
+  * ctrl-g - shows file path relative to vim's current working directory
+
+Ref:- http://vi.stackexchange.com/questions/104/how-can-i-see-the-full-path-of-the-current-file

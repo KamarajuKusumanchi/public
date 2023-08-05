@@ -2,9 +2,20 @@
 
 
 
+==== 2023-07-31 ====
+  * I finished watching all five seasons of "Breaking Bad" and its sequel film "El Camino: A Breaking Bad Movie" on Netflix. They are very good.
+    * https://en.wikipedia.org/wiki/Breaking_Bad
+    * https://en.wikipedia.org/wiki/El_Camino:_A_Breaking_Bad_Movie
+
+==== 2023-07-15 ====
+  * A **Red Flag Warning** means high fire danger with increased probability of a quickly spreading vegetation fire in the area within 24 hours.
+    * Ref:- https://en.wikipedia.org/wiki/Red_flag_warning
+
 ==== 2023-06-30 ====
   * If you are using conda, consider upgrading to conda >= 22.11 and set the solver to libmamba as explained in the article [[https://www.anaconda.com/blog/conda-is-fast-now | Conda Is Fast Now. Like, Really Fast]] (anaconda.org). It works great. The libmamba solver solves the environment very quickly. The packages are downloaded and extracted in parallel.
   * See also: https://github.com/conda/conda/releases
+
+    * tags | solving environment
 ==== 2023-06-25 ====
   * https://en.wikipedia.org/wiki/Maria_Sibylla_Merian - Maria Sibylla Merian <WRAP>
 > Until her careful, detailed work, it had been thought that insects were "born of mud" by spontaneous generation. Her pioneering research in illustrating and describing the various stages of development, from egg to larva to pupa and finally to adult, dispelled the notion of spontaneous generation and established the idea that insects undergo distinct and predictable life cycles.

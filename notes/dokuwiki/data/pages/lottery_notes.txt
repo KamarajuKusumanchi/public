@@ -1,6 +1,13 @@
-==== lottery days ====
-  * Tue, Fri - Megamillions
-  * Mon, Wed, Sat - Powerball
+==== dummy ====
+^ ^ megamillions ^ powerball ^
+| ways to win | https://www.megamillions.com/How-to-Play.aspx | |
+| odds | <WRAP>
+  * https://www.megamillions.com/How-to-Play.aspx
+    * Jackpot: 1 in 302,575,350
+    * Any prize: 1 in 24
+</WRAP> | |
+| lottery days | Tue, Fri | Mon, Wed, Sat |
+
 
 ==== powerball past winning numbers ====
   * https://www.texaslottery.com/export/sites/lottery/Games/Powerball/Winning_Numbers/print.html_2013354932.html
