@@ -1,0 +1,2 @@
+==== useful links ====
+  * miniconda release history - https://docs.conda.io/en/latest/miniconda_release_notes.html

@@ -219,6 +219,8 @@
   * [[user manuals]]
   * [[fidelity notes]]
   * [[xboard notes]]
+  * [[anaconda notes]]
+  * [[miniconda notes]]
 
 ==== by date ====
   * [[reading journal 2022]]

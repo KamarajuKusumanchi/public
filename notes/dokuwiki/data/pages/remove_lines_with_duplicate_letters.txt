@@ -1,0 +1,40 @@
+===== Remove lines with duplicate letters =====
+==== Task ====
+Find five letter words that are made up of letters {h, i, k, e, r, s} where each letter appears only once.
+==== Issue ====
+<code>
+grep -i "^[hikers][hikers][hikers][hikers][hikers]$" /usr/share/dict/american-english
+</code>
+gives
+<code>
+Essie
+Hesse
+Irish
+Kerri
+Reese
+Sheri
+...
+</code>
+where some letters are duplicated in some of the words. For example, the letter 'i' appears twice in the word 'Irish'. We need to filter out all such words.
+
+==== Solution ====
+Pipe the output to ''grep -viE '(.).*\1' ''. For example
+
+<code>
+% grep -i "^[hikers][hikers][hikers][hikers][hikers]$" /usr/share/dict/american-english | grep -viE "(.).*\1"
+Sheri
+Shrek
+heirs
+hiker
+hikes
+hires
+sheik
+shire
+shirk
+skier
+</code>
+
+==== Ref ====
+  * https://unix.stackexchange.com/questions/352927/delete-all-lines-that-contain-duplicate-letters -> comment by Stéphane Chazelas
+    * I got the idea from here.
+

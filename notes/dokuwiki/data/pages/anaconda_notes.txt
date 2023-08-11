@@ -1,0 +1,2 @@
+==== links I came across ====
+  * release history - https://docs.anaconda.com/free/anaconda/reference/release-notes/

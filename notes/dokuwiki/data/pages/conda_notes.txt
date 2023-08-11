@@ -38,6 +38,10 @@ Ref:- https://conda.io/docs/commands/env/conda-env-update.html
 
 ==== update conda ====
 <code>
+conda update -n base -c defaults conda --repodata-fn=repodata.json
+</code>
+
+<code>
 conda update -n <env_name> -c defaults --yes conda
 </code>
 For example

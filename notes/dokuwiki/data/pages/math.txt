@@ -32,6 +32,12 @@ I came across this simplification while reading https://liorsinai.github.io/math
 ==== pages in this wiki ====
   * [[fibonacci sequence]]
 
+==== links I came across ====
+  * What is the formula for sum of the p-th powers of the first n positive integers?
+    * Use Faulhaber's formula in described in https://en.wikipedia.org/wiki/Faulhaber%27s_formula
+    * The formula involves binomial coefficients and Bernoulli numbers.
+    * See also: https://www.johndcook.com/blog/2016/12/31/sums-of-consecutive-powers/
+
 ==== pages with math outside of this wiki ====
 use cases | to copy paste syntax
   * https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html
