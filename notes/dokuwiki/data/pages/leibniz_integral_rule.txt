@@ -1,0 +1,7 @@
+===== Leibniz integral rule =====
+==== What is Leibniz integral rule? ====
+$$ \frac{d}{dx} \left(\int_{a(x)}^{b(x)} f(x, t) \,dt\right) = f(x, b(x)) \, b^\prime(x) - f(x, a(x)) \, a^\prime(x) + \int_{a(x)}^{b(x)} \frac{\partial}{\partial x} f(x, t) \,dt $$
+
+For details, see https://en.wikipedia.org/wiki/Leibniz_integral_rule
+
+tags | differentiate under the integral sign

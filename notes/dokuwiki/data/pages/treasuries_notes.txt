@@ -1,3 +1,6 @@
 ==== links I came across ====
+  * https://thefinancebuff.com/treasury-bills-cd-money-market.html - How To buy Treasury bills & notes without fee at online brokers
+    * Well written; high information density
+    * I used it to buy Treasury bills from Fidelity
   * https://www.ustreasuryyieldcurve.com/ - US Treasury yield curve
   * https://www.cnbc.com/quotes/US10Y - shows time series of US 10 year Treasury

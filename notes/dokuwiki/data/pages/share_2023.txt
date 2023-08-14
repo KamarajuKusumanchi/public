@@ -2,6 +2,11 @@
 
 
 
+==== 2023-08-11 ====
+  * Bram Moolenaar has died.
+    * https://groups.google.com/g/vim_announce/c/tWahca9zkt4
+    * He is one of my heroes.
+
 ==== 2023-07-31 ====
   * I finished watching all five seasons of "Breaking Bad" and its sequel film "El Camino: A Breaking Bad Movie" on Netflix. They are very good.
     * https://en.wikipedia.org/wiki/Breaking_Bad

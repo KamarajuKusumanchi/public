@@ -1,3 +1,23 @@
+
+
+==== replace a page with another pdf ====
+To replace pg-16 of a pdf with another pdf. Assume that the later consists of only one single page.
+
+<code>
+pdftk A=initial.pdf B=insertAsPg16.pdf cat A1-15 B1 A17-end output final.pdf
+</code>
+
+Tested using
+
+<code>
+% pdftk --version
+
+pdftk 2.01 a Handy Tool for Manipulating PDF Documents
+Copyright (C) 2003-13, Sid Steward - Please Visit: www.pdftk.com
+This is free software; see the source code for copying conditions. There is
+NO warranty, not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+</code>
+
 ==== rotate pages by 180 degrees ====
 <code>
 pdftk in.pdf cat 1-endsouth output out.pdf

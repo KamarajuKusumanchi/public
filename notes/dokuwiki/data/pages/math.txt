@@ -31,6 +31,7 @@ I came across this simplification while reading https://liorsinai.github.io/math
 
 ==== pages in this wiki ====
   * [[fibonacci sequence]]
+  * [[Leibniz integral rule]]
 
 ==== links I came across ====
   * What is the formula for sum of the p-th powers of the first n positive integers?

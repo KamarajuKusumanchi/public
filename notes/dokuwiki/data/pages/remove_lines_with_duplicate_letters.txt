@@ -37,4 +37,5 @@ skier
 ==== Ref ====
   * https://unix.stackexchange.com/questions/352927/delete-all-lines-that-contain-duplicate-letters -> comment by Stéphane Chazelas
     * I got the idea from here.
+  * (Mastering Regular Expressions, Jeffrey E.F. Friedl, 2006) book -> Chapter 1 "Introduction to Regular Expressions" -> section "Parentheses and Backreferences" -> pages 20 through 22 go over this concept.
 
