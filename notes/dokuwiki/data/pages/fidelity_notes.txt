@@ -1,3 +1,61 @@
+==== Core positions ====
+
+Asof 2023-08-18, I am using FZFXX as the core position in my brokerage account. The CMA account does not allow to change the core position.
+
+^ Fund ^ Name ^ url ^ notes ^
+| FZFXX | Fidelity Treasury Money Market Fund | https://fundresearch.fidelity.com/mutual-funds/ratings/316341304 | |
+| SPAXX | Fidelity Government Money Market Fund | https://fundresearch.fidelity.com/mutual-funds/summary/31617H102 | |
+| FZCXX | Fidelity Government Money Market Fund | https://fundresearch.fidelity.com/mutual-funds/summary/31617H706 | came across it from https://thefinancebuff.com/fidelity-cash-management-checking-savings.html |
+
+^ Fund ^ 7-Day Yield (%) ^ Expense ratio (bps) ^ minimum investment ($) ^ asof ^
+| FZFXX | 4.97 | 42 |  0 | 2023-08-17 |
+| SPAXX | 4.97 | 42 |  0 | 2023-08-17 |
+| FZCXX | 5.07 | 36 |  100,000 | 2023-08-17 |
+
+^ Fund ^ Available as a core position in ^
+| FCASH | [Brokerage, CMA] |
+| FZFXX | Brokerage |
+| SPAXX | Brokerage |
+
+^ Fund ^ invests in ^ last checked |
+| FZFXX | <WRAP>
+  * U.S. Treasury Bills
+  * U.S. Treasury Coupons
+  * U.S. Treasury Strips
+  * U.S. Treasury Inflation-Protected Securities
+  * Repurchase Agreements
+  * Other Money Market Investments
+  * Net Other Assets
+</WRAP> | 2023-08-18 |
+| SPAXX | <WRAP>
+  * U.S. Treasury Bills
+  * U.S. Treasury Coupons
+  * U.S. Treasury Strips
+  * U.S. Treasury Inflation-Protected Securities
+  * Agency Fixed-Rate Securities
+  * Agency Floating-Rate Securities
+  * U.S. Government Repurchase Agreements
+  * Other Money Market Investments
+  * Net Other Assets
+</WRAP> | 2023-08-18 |
+| FZCXX | <WRAP>
+  * U.S. Treasury Bills
+  * U.S. Treasury Coupons
+  * U.S. Treasury Strips
+  * U.S. Treasury Inflation-Protected Securities
+  * Agency Fixed-Rate Securities
+  * Agency Floating-Rate Securities
+  * U.S. Government Repurchase Agreements
+  * Other Money Market Investments
+  * Net Other Assets
+</WRAP> | 2023-08-18 |
+
+This information can be obtained by going to the fund's page (ex:- https://fundresearch.fidelity.com/mutual-funds/summary/316341304) -> Summary -> "Composition by Instrument" table
+
+==== links I came across ====
+  * https://www.fidelity.com/trading/faqs-about-account
+    * tags | core position
+
 ==== linking a bank account ====
 On 2023-07-xx, I tried to link CFCU checking account to Fidelity brokerage account in order to do an EFT (Electronic Funds Transfer). But I could not do it since Fidelity is asking for CFCU account's credentials. It is asking for this even when I chose "Enter my bank information on my own" instead of choosing "Log into my bank account with Plaid".
 
@@ -5,10 +63,12 @@ This issue seems to be specific to (Fidelity, CFCU). I was able to link accounts
 
 I am not comfortable giving my bank account credentials to Fidelity.
 
+Solution 1:
 I called Fidelity the customer service. The representatives suggested to fill out a paper form, scan it and mail it to them. This form can be found as follows:
 
 Login into fidelity.com ->  search for 'forms' in the top right 'Search or get a quote' bar -> click on 'Online Forms and Applications' -> All Forms -> pg-6 -> Electronic Funds Transfer (EFT) -> Download the PDF
 
-This seemed very cumbersome.
+Solution 2:
+Work around it by transferring money to a different bank (ex:- CFCU -> Capitalone -> Fidelity).
 
-In the end, I worked around it by doing CFCU -> Capitalone -> Fidelity.
+==== core position ====

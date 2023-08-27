@@ -12,7 +12,7 @@ sells
 
 Remove lines with duplicate letters
 <code>
- % grep -i "^[hikers][hikers][hikers][hikers][hikers]$" /usr/share/dict/american-english | grep -vi '\(.\).*\1'
+ % grep -Ei "^[hikers]{5}$" /usr/share/dict/american-english | grep -Eiv "(.).*\1"
 ...
 shire
 shirk
@@ -21,7 +21,7 @@ skier
 
 compare this with
 <code>
- % grep -i "^[hikers][hikers][hikers][hikers][hikers]$" /usr/share/dict/american-english
+ % grep -Ei "^[hikers]{5}$" /usr/share/dict/american-english
 ...
 shire
 shirk
@@ -31,6 +31,7 @@ sises
 skier
 skies
 </code>
+
 which also shows words where some letters are repeated twice.
 
 ==== repeat previous character N times ====

@@ -2,6 +2,17 @@
 
 
 
+
+==== 2023-08-22 ====
+  * https://www.youtube.com/watch?v=7h1s2SojIRw - "2.8.1 QuickSort Algorithm" by Prof. Abdul Bari
+    * Very good explanation on how quicksort works; nontrivial example; easy to follow
+  * https://www.youtube.com/watch?v=OqLt2GfX6jg - "Why Pointers?" by Prof. Abdul Bari
+    * Very good explanation; easy to follow
+  * I found that videos made by Prof. Abdul Bari are excellent in terms of content. The explanations are succinct and easy to follow.
+
+  * https://www.youtube.com/watch?v=3San3uKKHgg - "Quick sort with Hungarian, folk dance" by kamal yassin on 2013-04-10
+    * entertaining, informative.
+
 ==== 2023-08-11 ====
   * Bram Moolenaar has died.
     * https://groups.google.com/g/vim_announce/c/tWahca9zkt4

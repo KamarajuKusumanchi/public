@@ -1,3 +1,56 @@
+==== 2023-08-22 ====
+Notes from (https://www.youtube.com/watch?v=PdvGEI-P3-M ; Stack vs Heap; Abdul Bari; 2015-09-07)
+  * A computer memory is divided into three major sections: [code, stack, heap]
+  * code can access stack memory directly by using address
+  * code can only access heap memory indirectly by using pointers
+
+<WRAP>
+^ ^ stack memory ^ heap memory ^
+| access | direct | indirect |
+| size | static | dynamic |
+</WRAP>
+
+Notes from (https://www.youtube.com/watch?v=OqLt2GfX6jg ; Why Pointers?; Abdul Bari; 2015-09-15)
+  * pointers are called as address variables.
+  * They store address of the data.
+  * They are useful for indirectly accessing the data.
+  * Usages of pointers
+    * Accessing heap memory
+    * Call by reference
+    * Accessing files
+    * Accessing any peripherals (ex:- keyboard, monitor, printer, disk etc.,)
+
+==== 2023-08-17 ====
+Notes from https://www.barrons.com/articles/walmart-earnings-stock-price-retail-e6e1086c?mod=hp_LEAD_6
+  * LIFO, an accounting measure
+  * Comparable-store sales, which measure growth in stores open for at least a year
+  * Walmart
+    * trades at 23.9 times forward earnings, slightly higher than its five-year average of 22.5
+    * competitors: Target and Kroger
+    * sales growth was largely driven by groceries this quarter
+    * is often seen as a bellwether for U.S. consumer health
+
+Notes from https://www.barrons.com/articles/cvs-stock-caremark-amazon-1bfcc05c?mod=hp_LEAD_4
+  * Blue Shield of California
+    * is dropping CVS Caremark, its current pharmacy-benefit manager, and largely replacing it with a selection of other companies.
+    * Its new offering will include at-home drug delivery from Amazon (AMZN).
+    * CVS will continue handling specialty drugs
+    * 4.8 million members
+  * Cost Plus Drug Company
+    * the mail-order pharmacy owned by Mark Cuban
+  * Mark Cuban
+    * the billionaire owner of the Dallas Mavericks
+
+==== 2023-08-15 ====
+Notes from https://www.barrons.com/articles/berkshire-hathaway-warren-buffett-13f-dr-horton-gm-stock-dae98afa?mod=md_stockoverview_news
+  * D.R. Horton (ticker: DHI) is the industry leader in home-building
+  * Celanese (ticker: CE)
+  * home builders Lennar (ticker: LEN), NVR
+  * Berkshire owns Clayton Homes, the biggest producer of manufactured homes
+  * Berkshire owns Shaw, a maker of carpeting and flooring
+  * Berkshire owns Benjamin Moore in paints
+  * Berkshire’s equity portfolio of about $350 billion
+
 ==== 2023-08-09 ====
 Notes from https://www.barrons.com/articles/obesity-weight-loss-drugs-food-beverage-stocks-8f84b3cf?mod=hp_LEADSUPP_2
   * Novo Nordisk's (ticker: NVO) Ozempic is the most well-known obesity drug. It is an injectable that can curb users’ appetites.
