@@ -13,6 +13,14 @@ To make an opra request,
 Fill the form at http://www.fairlawn.org/ -> Departments -> click the "Clerk, Municipal" link -> click "Open Public Records Request (OPRA) Form"
 
 ==== LED light bulbs ====
+^ Temperature ^ name ^ For ^
+| 2700 K | soft white | Bedrooms, living rooms.\\ Similar to standard incandescent color. |
+| 3000 K | bright white | Bedrooms, living rooms.\\ Similar to standard incandescent color. |
+| 4000 K | cool white | Kitchens, work spaces |
+| 5000 K | daylight | Reading, bright light |
+| 6500 K | cool daylight | Reading, bright light |
+
+Ref:- On the box of a Feit Electric "choose your shade of white" 6-pack BR30 LED bulbs from Costco.
 
 ^           ^Soft White            ^Bright White/Cool White     ^Daylight                                    ^
 |Temperature|2700K – 3000K         |3500K – 4100K               |5000K – 6500K                               |
