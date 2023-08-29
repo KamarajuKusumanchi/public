@@ -1,3 +1,6 @@
+==== 2023-08-28 ====
+  * https://en.wikipedia.org/wiki/Aerial_work_platform#Scissor_lift - A scissor lift is a type of platform that can usually only move vertically.
+
 ==== 2023-06-07 ====
   * https://brilliant.org/wiki/bloom-filter/ - a data structure used to add elements to a set and then test if an element belongs to that set (ex:- spell checker).
   * https://www.airnow.gov/national-maps/ - shows "current air quality" and "today's air quality forecast" for the entire US.

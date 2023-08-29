@@ -1,5 +1,9 @@
 tags | stocks to watch for next month, companies I came across
 
+==== 2023-08-28 ====
+  * URI - United Rentals
+    * Per https://www.portfoliovisualizer.com/backtest-portfolio#analysisResults this has beaten COST, AJG over 2021-Jan through 2023-Jul. But AJG has better sharpe ratio out of the three.
+
 ==== 2023-07-27 ====
   * COST - Costco
     * Recommended in https://www.barrons.com/articles/costco-stock-price-buy-8fc9f7c0?mod=hp_columnists by Teresa Rivas

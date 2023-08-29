@@ -3,7 +3,7 @@
 Find five letter words that are made up of letters {h, i, k, e, r, s} where each letter appears only once.
 ==== Issue ====
 <code>
-grep -i "^[hikers][hikers][hikers][hikers][hikers]$" /usr/share/dict/american-english
+grep -Ei "^[hikers]{5}$" /usr/share/dict/american-english
 </code>
 gives
 <code>
@@ -21,7 +21,7 @@ where some letters are duplicated in some of the words. For example, the letter 
 Pipe the output to ''grep -viE '(.).*\1' ''. For example
 
 <code>
-% grep -i "^[hikers][hikers][hikers][hikers][hikers]$" /usr/share/dict/american-english | grep -viE "(.).*\1"
+% grep -Ei "^[hikers]{5}$" /usr/share/dict/american-english | grep -viE "(.).*\1"
 Sheri
 Shrek
 heirs

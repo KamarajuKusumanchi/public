@@ -1,0 +1,33 @@
+==== who owns a property ====
+
+http://njparcels.com/property/
+
+tags | who owns a house
+
+==== opra request ====
+
+scope | Fair Lawn specific
+
+To make an opra request,
+
+Fill the form at http://www.fairlawn.org/ -> Departments -> click the "Clerk, Municipal" link -> click "Open Public Records Request (OPRA) Form"
+
+==== LED light bulbs ====
+
+^           ^Soft White            ^Bright White/Cool White     ^Daylight                                    ^
+|Temperature|2700K – 3000K         |3500K – 4100K               |5000K – 6500K                               |
+|color      |Yellow                |Yellowish white             |Whitish blue                                |
+|Best in    |bedrooms, living rooms|kitchens, bathrooms, garages|kitchens, bathrooms, basement               |
+|good for   |                      |                            |reading, intricate projects, applying makeup|
+
+Ref:- http://blog.batteriesplus.com/2013/seeing-things-in-a-different-light
+
+==== rental search ====
+
+  * https://bestrentnj.com/
+
+==== before purchasing ====
+
+  * Oil tank sweep
+  * Level 2 chimney inspection
+  * HOA documents (for a townhome/condo)

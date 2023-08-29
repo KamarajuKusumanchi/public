@@ -222,6 +222,7 @@
   * [[xboard notes]]
   * [[anaconda notes]]
   * [[miniconda notes]]
+  * [[house related]]
 
 ==== by date ====
   * [[reading journal 2022]]

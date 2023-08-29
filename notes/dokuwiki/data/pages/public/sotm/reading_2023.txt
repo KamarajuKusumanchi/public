@@ -1,3 +1,11 @@
+==== 2023-08-28 ====
+Notes from https://www.barrons.com/amp/articles/shoplifting-shrink-what-retailers-say-fdea150a?mod=hp_LEAD_3
+  * inventory shrink, the industry term that encompasses merchandise theft and damage
+  * combed through earnings conference-call transcripts
+  * shink levels
+  * Topanga, California
+  * bear spray
+
 ==== 2023-08-22 ====
 Notes from (https://www.youtube.com/watch?v=PdvGEI-P3-M ; Stack vs Heap; Abdul Bari; 2015-09-07)
   * A computer memory is divided into three major sections: [code, stack, heap]
