@@ -1,3 +1,28 @@
+==== 2023-09-01 ====
+Notes from https://tradingeconomics.com/united-states/non-farm-payrolls
+  * the bankruptcy of Yellow, a major trucking company, left about 30,000 workers without jobs
+
+==== 2023-08-31 ====
+Notes from https://www.barrons.com/articles/dollar-general-stock-sinks-retailer-sales-c9b71d7?mod=hp_LEAD_5
+  * value-focused retails - Walmart (WMT), TJX Cos (TJX)
+  * inventory shrink, the industry term that refers to merchandise theft and damage
+
+==== 2023-08-30 ====
+Notes from https://www.barrons.com/articles/johnson-johnson-spinout-kenvue-is-the-new-dividend-aristocrat-6e75a708?mod=hp_LEAD_1
+  * Johnson & Johnson (JNJ)
+    * projected cash flow in 2024 = $26 billion
+  * Kenvue (KVUE)
+    * 135-plus-year-old consumer health company
+    * sells iconic brands such as Tylenol, Band-Aid, Listerine, and Neutrogena
+  * the S&P 500 Dividend Aristocrats Index
+    * companies that have raised their dividends for at least 25 consecutive years
+    * has 67 stocks
+    * run by S&P Global (SPGI)
+    * average aristocrat yield = 2.5%
+    * average price to estimated earnings = 22.4
+  * Dividend aristocrats
+    * S&P Global (SPGI), Johnson & Johnson (JNJ), Kenvue (KVUE)
+
 ==== 2023-08-28 ====
 Notes from https://www.barrons.com/amp/articles/shoplifting-shrink-what-retailers-say-fdea150a?mod=hp_LEAD_3
   * inventory shrink, the industry term that encompasses merchandise theft and damage

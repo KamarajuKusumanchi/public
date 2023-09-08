@@ -57,3 +57,47 @@ Another example:
  % grep -Ei "^([dunes]){2}u([dunes]){2}d$" /usr/share/dict/american-english
 unused
 </code>
+
+==== print lines with less than a certain number of characters ====
+To print lines that contain less than N characters
+<code>
+grep -Ev ".{N}" data.txt
+</code>
+
+For example:
+To print lines that contain less then 6 characters
+<code>
+grep -Ev ".{6}" data.txt
+</code>
+
+You can also do
+<code>
+grep -v "......" data.txt
+</code>
+where the . is repeated N times. This is easier to type for small N.
+
+Sample run:
+<code>
+$ cat data.txt
+a
+ab
+abc
+abcd
+abcde
+abcdef
+abcdefg
+
+$ grep -v "......" data.txt
+a
+ab
+abc
+abcd
+abcde
+
+$ grep -Ev ".{6}" data.txt
+a
+ab
+abc
+abcd
+abcde
+</code>

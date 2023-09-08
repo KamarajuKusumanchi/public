@@ -1,6 +1,8 @@
 ===== dummy =====
 
 ==== useful links ====
+  * [[https://tutswiki.com/python/exception-handling/ | exception handling in python]] (tutswiki.com)
+    * very easy to follow; high information density; well thought out examples
   * [[https://www.programiz.com/python-programming/online-compiler/ | Online python compiler]] (programiz.com)
     * can be useful while doing live coding interviews.
   * [[https://nedbatchelder.com/text/names.html | Facts and myths about Python names and values]] (nedbatchelder.com) - well explained.

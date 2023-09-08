@@ -1,3 +1,31 @@
+==== my favorite configuration ====
+<code>
+Profile pic -> Settings -> 
+  -> General
+    -> Start Page -> All
+    -> Default Presentation -> Titles-Only View
+    -> Default Sort -> Oldest
+    -> Hide Empty Feeds in Left Navigation -> Hide
+    -> Contextual Menu -> Hide menu
+  -> Appearance -> Display Density -> Compact (densest)
+</code>
+
+==== 929 authentication error ====
+If you are getting the following error when logging into feedly.com
+<code>
+Error: 929 / Bug / Authenticated requests with no session)
+</code>
+Upgrade the Bypass Paywalls extension to >= 1.7.2
+
+Tested on: Debian Buster machine running Chrome 83.0.4103.61 with Bypass Paywalls extension 1.7.2.
+
+Ref:-
+  * https://github.com/iamadamdev/bypass-paywalls-chrome/issues/652
+  * https://github.com/iamadamdev/bypass-paywalls-chrome - To download the latest Bypass Paywalls extension
+
+==== missing features on android app ====
+There is no way to only see unread folders in the mobile app. It works fine on the desktop but not on the phone.
+
 ==== useful links ====
   * customer service - care@feedly.com
   * export feeds to an OPML file - http://feedly.com/i/opml

@@ -8,6 +8,10 @@ Launch google photos -> profile picture -> photos settings -> Backup -> Back up 
 ==== what is my phone number ====
 Settings -> About phone
 
+==== update android ====
+Settings -> System -> System update-> Check for update
+
+Ref:- https://support.google.com/android/answer/7680439?hl=en
 ===== Apps =====
 ==== hourly chimes ====
   * Yes

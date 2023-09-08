@@ -1,2 +1,9 @@
 ==== links I came across ====
   * release history - https://docs.anaconda.com/free/anaconda/reference/release-notes/
+
+==== license ====
+  * Anaconda - https://legal.anaconda.com/policies/en/
+  * conda
+    * Conda is released under the 3-clause BSD license
+      * https://github.com/conda/conda/blob/main/LICENSE
+      * https://docs.conda.io/en/latest/license.html

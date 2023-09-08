@@ -1,0 +1,10 @@
+==== 2023-09-08 ====
+  * just remove the duck
+    * https://rachelbythebay.com/w/2013/06/05/duck/
+  * Hairy arms technique in graphic design: https://www.npr.org/2014/11/17/364760847/whats-with-all-of-the-hairy-arms-in-graphic-design
+
+===== Policy =====
+  * Most recent first.
+  * Each year in its own page.
+  * Separate sections for each date.
+  * If an individual entry takes more than a line, add an extra line for readability.

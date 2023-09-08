@@ -1,3 +1,8 @@
+==== 2023-09-08 ====  
+  * A spike or piton is a piece of removable mountain-climbing gear that doesn’t get us any higher on the route, but it enables us to climb safely.
+    * I came across it in https://tutswiki.com/convert-python-script-to-module/
+  * https://en.wikipedia.org/wiki/Piton shows a picture of piton.
+
 ==== 2023-08-28 ====
   * https://en.wikipedia.org/wiki/Aerial_work_platform#Scissor_lift - A scissor lift is a type of platform that can usually only move vertically.
 

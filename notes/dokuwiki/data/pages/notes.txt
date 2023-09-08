@@ -223,8 +223,10 @@
   * [[anaconda notes]]
   * [[miniconda notes]]
   * [[house related]]
+  * [[english notes]]
 
 ==== by date ====
+  * [[reading journal 2023]]
   * [[reading journal 2022]]
   * [[reading journal 2021]]
   * [[TIL 2023]]

@@ -1,3 +1,5 @@
 ==== dummy ====
   * న్యూటన్ గతి సూత్రాలు
   * ఐన్‌స్టీన్ సాపేక్ష సిధ్ధాంత సమీకారణలు
+  * telugu year names
+    * https://en.wikipedia.org/wiki/Telugu_years
