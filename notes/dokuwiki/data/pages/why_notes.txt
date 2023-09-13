@@ -1,3 +1,17 @@
+==== why not obsidian ====
+  * I can't use the free version at work. From https://obsidian.md/license
+<code>
+Free for personal and non-profit use
+
+Obsidian is free for personal and non-profit use. However, if you use Obsidian
+for work-related activities that generate revenue in a company with two or more
+people, you must purchase a commercial license for each user. Non-profit
+organizations are exempt from this requirement.
+
+To support our development, you can optionally purchase a Catalyst license.
+This one-time payment gives you early access to beta versions of Obsidian.
+</code>
+
 ===== why dokuwiki =====
   * ACL - can create private and public namespaces and can control which users have access to which namespaces.
 
