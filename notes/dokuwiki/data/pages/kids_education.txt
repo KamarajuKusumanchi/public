@@ -1,0 +1,4 @@
+==== dummy ====
+  * https://imaginecup.microsoft.com/en-us/compete/whycompete - Microsoft imagine cup
+    * considered to be Olympiad of Technology
+    * high school students can participate in it

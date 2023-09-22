@@ -6,4 +6,7 @@
     * from https://www.barrons.com/articles/costco-membership-crackdown-stealing-afec29f6?mod=hp_columnists <WRAP>
 > the term "stealing" is more often associated with using a five-finger discount on a product.
 </WRAP>
-
+  * [[https://dictionary.cambridge.org/us/dictionary/english/cost-a-pretty-penny | cost someone a pretty penny]] (cambridge.org) - to be very expensive
+    * from https://www.barrons.com/articles/clorox-cyberattack-breach-stock-price-8fae9f1e?mod=hp_columnists <WRAP>
+> Harnessing new technology like artificial intelligence and machine learning already costs a pretty penny.
+</WRAP>

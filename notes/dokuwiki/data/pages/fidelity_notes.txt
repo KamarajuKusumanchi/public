@@ -1,6 +1,17 @@
+==== why fidelity ====
+  * Automatic sweep of uninvested cash into money market funds
+    * FWIW, this is not available in Schwab. [asof | 2023-09-21]
+
 ==== Core positions ====
 
-Asof 2023-08-18, I am using FZFXX as the core position in my brokerage account. The CMA account does not allow to change the core position.
+^ Account ^ core positions available ^
+| Brokerage | FCASH, FZFXX, SPAXX |
+| CMA | FCASH |
+
+^ Account ^ core position I am using ^ asof ^
+| Brokerage | FZFXX | 2023-08-18 |
+| CMA | FCASH | 2023-08-18 |
+
 
 ^ Fund ^ Name ^ url ^ notes ^
 | FZFXX | Fidelity Treasury Money Market Fund | https://fundresearch.fidelity.com/mutual-funds/ratings/316341304 | |
@@ -11,11 +22,6 @@ Asof 2023-08-18, I am using FZFXX as the core position in my brokerage account. 
 | FZFXX | 4.97 | 42 |  0 | 2023-08-17 |
 | SPAXX | 4.97 | 42 |  0 | 2023-08-17 |
 | FZCXX | 5.07 | 36 |  100,000 | 2023-08-17 |
-
-^ Fund ^ Available as a core position in ^
-| FCASH | [Brokerage, CMA] |
-| FZFXX | Brokerage |
-| SPAXX | Brokerage |
 
 ^ Fund ^ invests in ^ last checked |
 | FZFXX | <WRAP>
@@ -71,4 +77,9 @@ Login into fidelity.com ->  search for 'forms' in the top right 'Search or get a
 Solution 2:
 Work around it by transferring money to a different bank (ex:- CFCU -> Capitalone -> Fidelity).
 
-==== core position ====
+==== securing the account ====
+  * Enable two factor authentication
+  * Turn on lockdown
+
+See also:
+  * https://digital.fidelity.com/ftgw/digital/security/lockdown

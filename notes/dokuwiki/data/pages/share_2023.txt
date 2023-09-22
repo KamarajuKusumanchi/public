@@ -3,6 +3,12 @@
 
 
 
+==== 2023-09-15 ====
+  * https://www.bitsaboutmoney.com/archive/the-infrastructure-behind-atms/ - The infrastructure behind ATMs
+
+==== 2023-09-13 ====
+  * https://www.medscape.com/viewarticle/996369 - FDA Panel Deems Phenylephrine Ineffective
+
 ==== 2023-08-22 ====
   * https://www.youtube.com/watch?v=7h1s2SojIRw - "2.8.1 QuickSort Algorithm" by Prof. Abdul Bari
     * Very good explanation on how quicksort works; nontrivial example; easy to follow

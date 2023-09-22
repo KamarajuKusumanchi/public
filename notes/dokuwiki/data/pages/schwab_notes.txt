@@ -1,0 +1,6 @@
+==== links I came across ====
+  * https://www.schwab.com/cash-investments
+  * https://www.schwab.com/money-market-funds
+
+==== why not schwab ====
+  * no automatic sweep of uninvested cash into money market funds

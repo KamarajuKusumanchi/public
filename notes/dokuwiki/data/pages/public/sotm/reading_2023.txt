@@ -1,3 +1,55 @@
+==== 2023-09-20 ====
+Notes from https://www.bloomberg.com/opinion/articles/2023-09-07/india-vs-bharat-name-becomes-an-issue-for-modi-and-g-20
+  * Burma, Rhodesia and Ceylon changed their names to Myanmar (in 1989), Zimbabwe (in 1980) and Sri Lanka (in 1972) respectively.
+  * the top level web domain .bh is taken by Bahrain
+
+==== 2023-09-19 ====
+Notes from https://www.barrons.com/articles/instacart-ipo-stock-price-18556f27?mod=hp_LEAD_1
+  * Instacart
+    * based in San-Francisco
+    * founded in 2012
+    * formally known as Maplebear
+    * last year revenue = $2.55 billion
+      * 75% from delivering groceries; 25% from ads (retailers pay to show ads to customers)
+    * net income = -\$70 million 2020, -\$73 million in 2021, \$428 million in 2022 (includes \$358 million tax benefit)
+  * Instacart IPO
+    * sold 22 million shares @ $30 each
+    * market value $9.9 billion, based on fully diluted share count
+    * raises \$660 million out of which \$420 million goes to the company
+    * ticker CART
+    * price to sales = 4
+    * competitors - DoorDash, UberEats, Shipt
+  * Shipt is owned by Target
+
+Notes from https://onepercentamonth.com/2023/08/28/instacart-profitable-yet-with-real-business-concerns/
+  * Instacart
+    * 1,400 retail partners including Costco, Aldi, Kroger, Publix, Wegman, Bestbuy and Walgreens.
+    * Customer Acquisition Cost (CAC)
+  * Walmart
+    * based in Arkansas
+
+==== 2023-09-15 ====
+Notes from https://www.bloomberg.com/news/features/2023-09-15/fhlb-home-loan-system-forsakes-the-buyers-who-need-it-most?srnd=premium
+  * CDFI = Community Development Financial Institutions
+
+Notes from https://www.washingtonpost.com/business/2023/09/15/tom-wolfe-and-the-birth-of-the-quant-revolution/b8c66ed0-53bc-11ee-accf-88c266213aac_story.html
+  * Tom Wolfe
+    * documentary, //Radical Wolfe//
+    * was a reported for the Washington Post in 1961
+    * bestseller //Beat the Dealer//
+    * Wrote the great American financial novel, //Bonfire of the Vanities//, satirizing and immortalizing the excesses of 1980s Wall Street. 
+    * his second novel, A Man in Full is a fictional work. It combines accurate insider accounts of quant finance with broader human and social considerations.
+    * 2013 essay, Eunuchs of the Universe
+  * the capital asset pricing model in the 1960s
+  * the Black-Scholes option pricing model in the 1970s
+  * Fischer Black and Myron Scholes published the option pricing model
+  * Edward Thorp
+    * a mathematics professor
+    * gave a talk in Jan 1961 at the American Mathematical Society entitled “Fortune’s Formula,” outlining the secret for winning at blackjack.
+    * tell-all quant
+    * gave away his trading secrets in the 1967 bestseller //Beat the Market//
+    * 
+
 ==== 2023-09-01 ====
 Notes from https://tradingeconomics.com/united-states/non-farm-payrolls
   * the bankruptcy of Yellow, a major trucking company, left about 30,000 workers without jobs

@@ -1,0 +1,29 @@
+==== checks from BofA ====
+Summary:
+
+Be very careful when accepting BofA checks from others. The amount might initially get deposited into your bank account. But then BofA might randomly ask your bank to return the check back to them. When this happens, the money will go back to the sender and your bank might charge you a fee.
+
+Details:
+
+Relevant transactions:
+^ Date ^ Type ^ Description ^ Credit ^ Balance ^
+| 9/8/2023 | DEP | DEPOSIT | \$6,000.00	| \$7,000.68 |
+| 9/12/2023 | DEBIT | DEP RETURN CHARGEBACK | -\$6,000.00 | \$1,024.68 |
+| 9/12/2023 | FEE | DEP RETURN FEE | -\$15.00 | \$1,009.68 |
+
+
+So the check got deposited into my TD Bank account on 9/8. But then BofA asked to return it back on 9/12. TD bank honored the request and then charged me a fee of $15.
+
+What happened behind the scenes:
+
+BofA thought that the check was fraud. It sent an email to my friend asking to confirm the legitimacy of it within 24 hours. My friend did not check the email as it got filtered by gmail (into Promoted category). Since BofA did not get a reponse in time, they asked TD Bank to return the check back.
+
+I called TD Bank customer service to waive the $15 fee which they did.
+
+In this particular case, I got lucky on two things - (1) I found out that the check got returned - there was no intimation from TD Bank about this. I just happened to look into my account and caught it by luck. (2) I was able to get the $15 fee waived. But this might not always happen. So we need to be extra careful when accepting BofA checks.
+
+Conclusion:
+  * BofA's check fraud detection is error prone.
+  * TD Bank charges $15 for a returned check even though it is not your fault.
+  * TD Bank customer service can waive this fee.
+

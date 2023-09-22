@@ -1,0 +1,16 @@
+==== dummy ====
+  * Lung cancer
+  * Chronic obstructive pulmonary disease (COPD)
+  * Upper aerodigestive cancer
+  * Stroke
+  * Ischemic heart disease
+  * Bladder cancer
+  * Kidney & urinary cancers
+  * Liver cancer
+  * Pancreas cancer
+  * Stomach cancer
+  * Hypertensive disease
+  * Myeloid leukemia
+  * Tuberculosis
+  * Diabetes
+  * Colorectal cancer
