@@ -17,6 +17,7 @@ FILE_NAME := $(TAG).tar.zst
 URL := https://github.com/ankitects/anki/releases/download/${VERSION}/${FILE_NAME}
 
 ZIP_FILE_PATH := ${ZIP_DIR}/${FILE_NAME}
+UNZIP_TAG_DIR := ${UNZIP_DIR}/${TAG}
 
 install:
 	$(MAKE) -f $(THIS_FILE) uninstall
@@ -28,16 +29,25 @@ else
 	@echo "${ZIP_FILE_PATH} exists. Skipping download."
 endif
 	mkdir -p ${UNZIP_DIR}
+ifeq ($(wildcard ${UNZIP_TAG_DIR}),)
+	@echo "unzipping to ${UNZIP_TAG_DIR}"
 	tar xaf ${ZIP_FILE_PATH} -C ${UNZIP_DIR}
+else
+	@echo "${UNZIP_TAG_DIR} exists. Skipping unzipping step."
+endif
 	# The install script requires to be run from the directory it is in.
-	cd ${UNZIP_DIR}/${TAG} && sudo ./install.sh
+	cd ${UNZIP_TAG_DIR} && sudo ./install.sh
 
 uninstall:
 ifneq ($(wildcard /usr/local/share/anki/uninstall.sh),)
 	sudo /usr/local/share/anki/uninstall.sh
 endif
 
-.PHONY: install uninstall
+clean:
+	rm -f ${ZIP_FILE_PATH}
+	rm -rf ${UNZIP_TAG_DIR}
+
+.PHONY: install uninstall clean
 
 # Notes:
 # * I was initially thinking of doing this by a shell script. Then I saw
