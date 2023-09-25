@@ -29,6 +29,7 @@ else
 endif
 	mkdir -p ${UNZIP_DIR}
 	tar xaf ${ZIP_FILE_PATH} -C ${UNZIP_DIR}
+	# The install script requires to be run from the directory it is in.
 	cd ${UNZIP_DIR}/${TAG} && sudo ./install.sh
 
 uninstall:
