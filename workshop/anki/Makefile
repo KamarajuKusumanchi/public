@@ -6,9 +6,26 @@
 # Be sure to place this BEFORE `include` directives, if any.
 THIS_FILE := $(lastword $(MAKEFILE_LIST))
 
+PROGRAM := anki
+SOFTWARE_DIR := ${HOME}/software
+ZIP_DIR := ${SOFTWARE_DIR}/zipped/${PROGRAM}
+
+VERSION := 2.1.66
+FILE_NAME := anki-$(VERSION)-linux-qt5.tar.zst
+URL := https://github.com/ankitects/anki/releases/download/${VERSION}/${FILE_NAME}
+
+ZIP_FILE_PATH := ${ZIP_DIR}/${FILE_NAME}
+
 install:
 	$(MAKE) -f $(THIS_FILE) uninstall
-	# echo "installing anki"
+	mkdir -p ${ZIP_DIR}
+	# cd ${ZIP_DIR}
+ifeq ($(wildcard ${ZIP_FILE_PATH}),)
+	@echo "downloading ${FILE_NAME}"
+	curl -L -O ${URL} --output-dir ${ZIP_DIR}
+else
+	@echo "${ZIP_FILE_PATH} exists. Skipping download."
+endif
 
 uninstall:
 ifneq ($(wildcard /usr/local/share/anki/uninstall.sh),)
