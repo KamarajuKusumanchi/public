@@ -32,7 +32,8 @@ yf.pdr_override()
 
 data = web.get_data_yahoo('SPY', start='2023-09-02', end='2023-10-02')
 # -
-data
+type(data)
 
+data
 
 
