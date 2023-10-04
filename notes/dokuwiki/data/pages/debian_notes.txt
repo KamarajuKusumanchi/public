@@ -93,6 +93,9 @@ buster
 
 Ref:- I came across it in https://www.texmacs.org/tmweb/download/linux-repos.en.html#debian
 
+==== debconf23 video archive ====
+  * https://meetings-archive.debian.net/pub/debian-meetings/2023/DebConf23/
+
 ===== packages I came across =====
 ==== python3-full ====
   * python3-full package - https://packages.debian.org/stable/python3-full

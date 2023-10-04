@@ -1,4 +1,18 @@
-==== 2023-09-08 ====  
+==== 2023-09-23 ====
+  * You can use :Sexplore and :Vexplore to open the local-directory browser.
+    * :Sexplore - Horizontal Split & Explore
+    * :Hexplore - Vertical Split & Explore
+    * More info at https://vimhelp.org/pi_netrw.txt.html#%3ASexplore
+
+==== 2023-09-22 ====
+  * https://github.com/jbms/finance-dl - Tools for automatically downloading/scraping personal financial data.
+  * https://www.genome.gov/genetics-glossary/apoptosis
+    * Apoptosis is the process of programmed cell death.
+
+==== 2023-09-13 ====
+  * https://www.medscape.com/viewarticle/996369 - FDA Panel deems Phenylephrine ineffective.
+
+==== 2023-09-08 ====
   * A spike or piton is a piece of removable mountain-climbing gear that doesn’t get us any higher on the route, but it enables us to climb safely.
     * I came across it in https://tutswiki.com/convert-python-script-to-module/
   * https://en.wikipedia.org/wiki/Piton shows a picture of piton.

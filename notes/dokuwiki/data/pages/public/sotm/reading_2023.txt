@@ -1,3 +1,32 @@
+==== 2023-09-29 ====
+Notes from https://minesafetydisclosures.com/blog/2018/6/18/costco
+  * Costco stocks only 4,000 SKUs vs. Walmart'ts 120,000 and Amazon's 600,000,000.
+  * Costco has the highest "revenue per employee" and "profit per employee" of all major retailers.
+  * Costco generates highest "revenue per store" and "profit per store" than any other major big box retailer.
+  * Inventory is turned over (i.e. from supplier -> Costco -> customer) once every 26 days.
+  * Accounts Payable: Inventory
+  * Working Capital
+  * The average Costco employee makes $22/hr, receives health insurance, 401k, company stock, etc.,
+  * Costco's annual employee turnover rate is 5% vs. the retail industry average of 59%.
+
+==== 2023-09-27 ====
+Notes from https://www.barrons.com/articles/apple-iphone-15-deals-are-out-what-they-mean-for-t-mobile-at-t-verizon-stocks-6c42252?mod=md_stockoverview_news
+  * cable firms with wireless businesses like Charter (CHTR) and Comcast ‘s (CMCSA) Xfinity Mobile
+
+Notes from https://www.barrons.com/articles/apple-stocks-growth-recession-resistant-6bd672f7
+  * Defensive stocks are conventionally less volatile than the broader market.
+  * stable businesses such as groceries, small household products, healthcare insurance, drug makers or utilities
+
+==== 2023-09-25 ====
+Notes from https://www.bloomberg.com/news/articles/2023-09-25/costco-offers-health-care-to-members-in-deal-with-sesame-cost?srnd=premium
+  * Sesame, a New York-based startup that’s backed by Alphabet Inc.’s venture unit
+  * $4.3 trillion US health-care market
+  * primary-care chain ChenMed
+  * Amazon purchased One Medical for $3.5 billion
+  * Kroger and Best Buy have health-care divisions
+  * Costco purchased a minority stake in a pharmacy benefits manager, Navitus Health Solutions LLC, in 2020
+  * Sesame is aimed at people without health coverage
+
 ==== 2023-09-20 ====
 Notes from https://www.bloomberg.com/opinion/articles/2023-09-07/india-vs-bharat-name-becomes-an-issue-for-modi-and-g-20
   * Burma, Rhodesia and Ceylon changed their names to Myanmar (in 1989), Zimbabwe (in 1980) and Sri Lanka (in 1972) respectively.

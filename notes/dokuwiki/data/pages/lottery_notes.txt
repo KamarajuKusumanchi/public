@@ -1,6 +1,7 @@
 ==== dummy ====
 ^ ^ megamillions ^ powerball ^
-| ways to win | https://www.megamillions.com/How-to-Play.aspx | |
+| ways to win | https://www.megamillions.com/How-to-Play.aspx | https://www.powerball.com/powerball-prize-chart |
+| past winning numbers | | https://www.powerball.com/previous-results?gc=powerball |
 | odds | <WRAP>
   * https://www.megamillions.com/How-to-Play.aspx
     * Jackpot: 1 in 302,575,350

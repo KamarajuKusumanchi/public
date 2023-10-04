@@ -25,10 +25,12 @@ Ref:- https://support.google.com/android/answer/7680439?hl=en
     * https://play.google.com/store/apps/details?id=it.nadolski.blipblip - Blip Blip (hourly chime)
       * Has a paid version (meaning the free version is not good enough)
 
-==== apps I came across ====
-  * MacroDroid - Device Automation
-    * https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid
-    * Can this be used to chime every half an hour?
+==== auto scroll whatsapp messages ====
+  * Easy Scroll by Jetpof Apps
+    * https://play.google.com/store/apps/details?id=jettoast.easyscroll&hl=en_US&gl=US
+    * Works as expected.
+    * Requires full device access.
+    * Came across it in https://www.youtube.com/watch?v=oLeszlQf06A
 
 
 ==== apps I am currently trying ====
@@ -53,3 +55,8 @@ Ref:- https://support.google.com/android/answer/7680439?hl=en
     * Tried it around 2022-09
     * recommendation: no, avoid.
     * reason: shows too many ads. They come up whenever you go up one level. All the Ads are repetitive, annoying, uninteresting, unskippable.
+
+==== apps I came across ====
+  * MacroDroid - Device Automation
+    * https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid
+    * Can this be used to chime every half an hour?

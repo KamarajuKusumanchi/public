@@ -1,0 +1,2 @@
+==== etf screener with top holdings ====
+You can use https://etfdb.com/tool/etf-stock-exposure-tool/ to find etfs that have a given stock as a top holding.

@@ -3,6 +3,10 @@
 
 
 
+==== 2023-09-25 ====
+  * Beginning September 25, every U.S. household can again place an order to receive four more free COVID-19 rapid tests delivered directly to their home.
+    * https://www.covid.gov/tests
+
 ==== 2023-09-15 ====
   * https://www.bitsaboutmoney.com/archive/the-infrastructure-behind-atms/ - The infrastructure behind ATMs
 
