@@ -231,6 +231,7 @@
   * [[etfs notes]]
   * [[make notes]]
   * [[gift card notes]]
+  * [[equifax notes]]
 
 ==== by date ====
   * [[reading journal 2023]]

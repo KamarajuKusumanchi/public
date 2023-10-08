@@ -1,0 +1,10 @@
+==== download equifax credit report as a pdf ====
+Use https://www.annualcreditreport.com/index.action . In the screen where it shows 'your equifax credit report', there is a "Print Credit Report" button at the top right which can be used to download the credit report as a pdf.
+
+Ref:- 
+  * https://www.reddit.com/r/PersonalFinanceCanada/comments/nyfgps/comment/jrnfyhy/?utm_source=share&utm_medium=web2x&context=3
+
+worked asof | 2023-10-08
+
+Notes:
+  * This option is not available in equifax.com -> myEquifax. So, do not use that. Instead, go directly with annualcreditreport.com .
