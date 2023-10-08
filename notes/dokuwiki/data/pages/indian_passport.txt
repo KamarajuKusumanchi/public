@@ -1,4 +1,3 @@
-=== notes ===
 ==== VFS Global ====
   * website: https://www.vfsglobal.com/india/usa
   * track an application: https://services.vfsglobal.com/usa/en/ind/track-application
