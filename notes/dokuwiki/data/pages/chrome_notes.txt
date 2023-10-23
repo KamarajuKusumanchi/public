@@ -53,6 +53,11 @@ preferences button -> Settings -> Settings -> Search -> Manage search engines
 To access the search engines, enter the keyword in the address bar and press tab.
 
 Another easy way to add a custom search engine is to go to the website, right click on the search bar -> select "Add as search engine..." -> edit the fields if necessary -> ok
+
+==== Blocking ads ====
+  * [[https://github.com/gorhill/uBlock/ | uBlock Origin]]
+    * It was mentioned in <nowiki>http://www.enricozini.org/blog/2016/i-chipped-in/</nowiki>
+
 ===== dummy =====
 
 ==== fast select text in chrome ====
@@ -74,13 +79,13 @@ cd $software/build
 mkdir ublock_origin_parent; cd ublock_origin_parent
 
 git clone https://github.com/gorhill/uBlock.git
-# 2022-09-20: Do we have to check out uAssets?
-git clone https://github.com/uBlockOrigin/uAssets.git
+# 2023-10-08: uAssets is not needed to build uBlock
+# git clone https://github.com/uBlockOrigin/uAssets.git
 cd uBlock
 git checkout master
 
-conda activate py310
-./tools/make-chromium.sh
+conda activate py311
+make chromium
 </code>
 The package is created in dist/build/uBlock0.chromium
 
@@ -93,7 +98,66 @@ select /uBlock/dist/build/uBlock0.chromium/
 
 Useful links:
   * https://github.com/uBlockOrigin/uBlock-issues/issues - This is the issue tracker as per https://github.com/gorhill/uBlock/issues/3726
+
+==== Install bypass paywalls clean ====
+Ref:- https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean
+
+<code>
+cd $software/zipped
+mkdir -p bypass_paywalls_clean
+cd bypass_paywalls_clean
+</code>
+
+/*
+(Raju, 2023-10-19): copied this code but commenting it out as it needs to be updated and tested.
+
+Create a backup of the existing zip file
+<code>
+conda activate py311
+make_bkup.py master.zip
+</code>
+*/
+
+Download the zip file
+<code>
+curl -L -O https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/archive/master/bypass-paywalls-chrome-clean-master.zip
+</code>
+
+/*
+(Raju, 2023-10-19): copied this code but commenting it out as it needs to be updated and tested.
+
+Create a backup of previously unzipped version.
+<code>
+cd ../../unZipped
+make_bkup.py bypass-paywalls-chrome-master
+rm -rf bypass-paywalls-chrome-master
+</code>
+*/
+
+Unzip the latest version
+<code>
+cd ../../unZipped
+unzip ../zipped/bypass_paywalls_clean/bypass-paywalls-chrome-clean-master.zip
+</code>
+This will unzip everything into $software/unZipped/bypass-paywalls-chrome-clean-master
+
+<code>
+chrome -> chrome://extensions/
+Enable Developer mode
+-> Load unpacked
+select $software/unZipped/bypass-paywalls-chrome-clean-master
+</code>
+
+/*
+(Raju, 2023-10-19): copied this code but commenting it out as it needs to be updated and tested.
+
+related:
+  * https://github.com/KamarajuKusumanchi/rutils/blob/master/python3/make_bkup.py - script to backup a directory or a file.
+*/
+
 ==== Install bypass paywalls ====
+Note: on 2023-10-19, I decided to use https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean instead of https://github.com/iamadamdev/bypass-paywalls-chrome for reasons listed in https://www.kamaraju.xyz/dk/diary/2023-10-19 . But I am keeping these instructions for reference.
+
 Ref:- https://github.com/iamadamdev/bypass-paywalls-chrome
 
 <code>
@@ -104,6 +168,7 @@ cd bypass_paywalls
 
 Create a backup of the existing zip file
 <code>
+conda activate py311
 make_bkup.py master.zip
 </code>
 
@@ -136,6 +201,16 @@ related:
   * https://github.com/iamadamdev/bypass-paywalls-chrome/archive/v1.7.5.zip - link to download a specific version.
   * https://github.com/KamarajuKusumanchi/rutils/blob/master/python3/make_bkup.py - script to backup a directory or a file.
 
+==== Input Cursor Focus ====
+Needed it for millionshort.com which does not focus the cursor in the search bar.
+
+https://chrome.google.com/webstore/detail/input-cursor-focus/hnhplmcglkomfmoapojflionoibodhla/related?hl=en
+
+==== New Tab Redirect ====
+Using it to set set the new tab url to millionshort.com
+
+https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna
+
 ==== extensions I use ====
   * autoscroll
     * Install this extension to scroll using the middle mouse button in chrome on Debian.
@@ -150,3 +225,14 @@ C:\Users\<username>\AppData\Local\Google\Chrome\User Data\Default\Bookmarks
 
 ==== import bookmarks ====
 three dots button -> Bookmarks and lists -> Import bookmarks and settings... -> In the drop down choose "Bookmarks HTML file"
+
+=== trouble shooting ===
+==== Bad Request - Header Field Too Long ====
+Issue:
+<code>
+Bad Request - Header Field Too Long
+HTTP Error 400. A request header field is too long.
+</code>
+
+
+I cleared the cache for the last 7 days. It started working after that.

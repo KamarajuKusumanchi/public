@@ -31,4 +31,5 @@ https://addons.mozilla.org/en-US/firefox/collections/<USER ID>/<COLLECTION NAME>
 <WRAP indent>So, for example, given a collection named "Abc Def", you must enter "Abc-Def" (note the dash) as the "Collection name" in the "Add-ons" screen.</WRAP>
 
 ==== bypass paywalls on desktop ====
-  * [[https://www.kamaraju.xyz/dk/chrome_notes#install_bypass_paywalls | Install bypass paywalls on chrome running on a desktop]]
+  * [[https://www.kamaraju.xyz/dk/chrome_notes#install_bypass_paywalls_clean | Install bypass paywalls clean on chrome running on a desktop]]
+

@@ -1,3 +1,39 @@
+==== 2023-10-22 ====
+Notes from https://www.barrons.com/articles/china-graphite-exports-ev-batteries-4bdab59?mod=hp_LEAD_4
+  * The batteries found in an average electric vehicle each need about 175 to 200 pounds of graphite
+  * In the U.S., there are 4 lithium-ion battery plants in operation and 21 in development.
+  * spherical graphite — a refined form used as anodes in lithium-ion batteries
+  * Graphite can be produced either from naturally mined material or in a synthetic process using petroleum feedstocks.
+  * China is the largest miner of natural graphite, followed by Mozambique and Madagascar, and Brazil.
+  * Bipartisan Infrastructure Law
+  * Graphite can also be manufactured from other carbon-based products such as petroleum coke. The process is more expensive and energy intensive, but the synthetic graphite anodes usually perform better, helping batteries charge faster and last longer.
+  * gallium and germanium - metals critical to the manufacturing of semiconductors.
+
+==== 2023-10-20 ====
+Notes from https://corporatefinanceinstitute.com/resources/equities/direct-stock-purchase-plan-dspp/
+  * Direct stock purchases are managed by transfer agents, which are third-party institutions that record transactions, issue certificates, and perform administrative duties.
+  * Some of the world’s largest transfer agents include Computershare Trust Company and American Stock Transfer & Trust Company (AST).
+
+==== 2023-10-18 ====
+Notes from https://www.bloomberg.com/news/articles/2023-10-13/israeli-palestinian-conflict-history-the-roots-of-the-israel-hamas-war?srnd=premium
+  * Israel has 2 million Arabs and 6.7 million Jews
+  * West Bank
+    * has 3 million Palestinians, 460,000 Jewish Israelis
+    * Israelis refer to it by its biblical name, Judea and Samaria
+  * evangelical Christians
+
+==== 2023-10-16 ====
+Notes from https://www.bloomberg.com/news/articles/2023-10-16/us-realtors-lucrative-fee-system-faces-mounting-antitrust-risk
+  * Re/Max and Anywhere Real Estate Inc.
+  * Redfin
+    * Chief Executive Officer Glenn Kelman
+    * withdrew from the National Association of Realtors (NAR)
+  * In Australia and the UK, total commisions for each sale are 2%
+  * median existing home sales price is $407,100
+  * NAR
+    * collects $150 in annual dues from more than 1.5 million agents
+    * the biggest spender on lobbying in the US, laying out more than $80 million in 2022.
+
 ==== 2023-09-29 ====
 Notes from https://minesafetydisclosures.com/blog/2018/6/18/costco
   * Costco stocks only 4,000 SKUs vs. Walmart'ts 120,000 and Amazon's 600,000,000.

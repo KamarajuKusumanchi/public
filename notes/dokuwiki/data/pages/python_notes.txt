@@ -116,6 +116,31 @@ pylint module_name.py
 find . -name "*.py" | xargs pylint
 </code>
 
+==== check if something is float ====
+<code>
+% python
+Python 3.11.4 (main, Jul  5 2023, 13:45:01) [GCC 11.2.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> isinstance(12.0, float)
+True
+>>> isinstance(12.0, int)
+False
+>>> isinstance(12, float)
+False
+</code>
+
+==== check if something is int ====
+<code>
+% python
+Python 3.11.4 (main, Jul  5 2023, 13:45:01) [GCC 11.2.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> isinstance(12, int)
+True
+>>> isinstance(12, float)
+False
+>>> isinstance(12.0, int)
+False
+</code>
 
 ===== tasks =====
   * [[get urls in a url]]

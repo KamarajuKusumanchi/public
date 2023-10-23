@@ -62,6 +62,7 @@ This information can be obtained by going to the fund's page (ex:- https://fundr
 ==== links I came across ====
   * https://www.fidelity.com/trading/faqs-about-account
     * tags | core position
+  * You can use https://accountmaint.fidelity.com/ftgw/Profile/custpref/divncapg/init to change how 'dividends and capital gains' are handled.
 
 ==== linking a bank account ====
 On 2023-07-xx, I tried to link CFCU checking account to Fidelity brokerage account in order to do an EFT (Electronic Funds Transfer). But I could not do it since Fidelity is asking for CFCU account's credentials. It is asking for this even when I chose "Enter my bank information on my own" instead of choosing "Log into my bank account with Plaid".

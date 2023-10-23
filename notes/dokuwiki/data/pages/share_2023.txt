@@ -3,6 +3,10 @@
 
 
 
+==== 2023-10-17 ====
+  * https://www.bloomberg.com/news/articles/2023-10-16/us-realtors-lucrative-fee-system-faces-mounting-antitrust-risk#xj4y7vzkg
+    * DoJ is suing NAR in regards to 6% commissions on the sale of residential real estate. I hope they are successful. IMHO, 6% is just too high for this type of work / value add.
+
 ==== 2023-09-25 ====
   * Beginning September 25, every U.S. household can again place an order to receive four more free COVID-19 rapid tests delivered directly to their home.
     * https://www.covid.gov/tests

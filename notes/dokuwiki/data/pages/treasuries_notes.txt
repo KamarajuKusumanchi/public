@@ -4,3 +4,17 @@
     * I used it to buy Treasury bills from Fidelity
   * https://www.ustreasuryyieldcurve.com/ - US Treasury yield curve
   * https://www.cnbc.com/quotes/US10Y - shows time series of US 10 year Treasury
+
+==== Q & A ====
+  * When did Treasury start issuing 17 week T Bills?
+    * October 25, 2022
+    * Ref:- https://www.treasurydirect.gov/research-center/timeline/auctions/
+
+==== timelines ====
+
+^ security ^ frequency ^ announcement day and time ^ auction day and time ^ settlement day ^
+| 13-Week Bill | weekly | | Thu 2:30 pm | |
+| 17-Week Bill | weekly | | Wed | |
+
+Ref:-
+  * Info on 13-week bills is available at https://home.treasury.gov/news/press-releases/4_week_bills

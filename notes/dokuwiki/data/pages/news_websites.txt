@@ -1,3 +1,8 @@
+==== Alternatives to Barrons ====
+  * Investopedia
+    * Market news - https://www.investopedia.com/markets-news-4427704
+    * Company news - https://www.investopedia.com/company-news-4427705
+
 ==== Alternatives to WSJ ====
   * https://www.livemint.com/
     * The article "Investors Yank Money From Commercial-Property Funds, Pressuring Real-Estate Values" is available at WSJ (https://www.wsj.com/articles/investors-yank-money-from-commercial-property-funds-pressuring-real-estate-values-11670293325). It is also available at livemint (https://www.livemint.com/market/stock-market-news/investors-yank-money-from-commercial-property-funds-pressuring-real-estate-values-11670329761658.html).
@@ -42,3 +47,17 @@
 
   * https://dfr.vermont.gov/consumer-alert/voyager-digital-files-chapter-11-bankruptcy - high information density; to the point.
     * More articles in https://dfr.vermont.gov/post-type/consumer-alert
+
+==== good opinion so far ====
+  * https://wobm.com - Articles with high information density. For example https://wobm.com/single-fatal-crash-closes-down-route-9-in-marlboro-monday
+
+
+==== high ad to content ratio ====
+Very high ad to content ratio. Use uBlock Origin to block the ads. 
+  * <nowiki>amny.com</nowiki>
+  * https://nypost.com/
+
+==== Video spam ====
+Video spam. Avoid.
+  * <nowiki>cbslocal.com</nowiki>
+  * <nowiki>abc7ny.com</nowiki>

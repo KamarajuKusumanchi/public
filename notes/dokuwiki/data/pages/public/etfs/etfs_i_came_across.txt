@@ -8,6 +8,14 @@ Ref:
   * https://thefinancebuff.com/money-market-fund-high-yield-savings-account-guide.html#htoc-vanguard
   * https://investor.vanguard.com/investment-products/mutual-funds/profile/vusxx
 
+==== VUSXX vs. FZFXX ====
+
+^ ^ [[ https://investor.vanguard.com/investment-products/mutual-funds/profile/vusxx | VUSXX]] ^ [[https://fundresearch.fidelity.com/mutual-funds/summary/316341304 | FZFXX]] ^
+| Name | Vanguard Treasury Money Market Fund | Fidelity Treasury Money Market Fund |
+| Expense ratio (bps) (last checked: 2023-10-13) |   9 |  42 |
+| 7-Day Yield (pct) (last checked: 2023-10-13 |  5.24 |  4.98 |
+| Minimum investment ($) |  3000 |  0 |
+
 ==== etfs I came across ====
 Policy:
   * new entries go in the end, unless they can be grouped with an existing entry
@@ -25,3 +33,11 @@ Policy:
 
 ==== see also ====
   * https://github.com/KamarajuKusumanchi/market_data/blob/master/funds/expense_ratio.csv
+
+==== home builders and related industries ====
+  * XHB - SPDR S&P Homebuilders ETF
+    * https://www.barrons.com/market-data/funds/xhb
+    * 36 bps expense ratio
+  * ITB - iShares U.S. Home Construction ETF
+    * https://www.barrons.com/market-data/funds/itb
+    * 40 bps expense ratio

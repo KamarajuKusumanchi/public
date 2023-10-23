@@ -1,4 +1,5 @@
 ==== authors I like ====
+  * Evie Liu - writes {good analysis; to the point; easy to read; plenty of data and statistics; provides evidence to backup claims}. See https://www.barrons.com/articles/china-graphite-exports-ev-batteries-4bdab59?mod=hp_LEAD_4
   * Jacob SonenshineFollow and Nicholas JasinskiFollow - their articles have {good analysis; to the point; easy to read}. See https://www.barrons.com/articles/earnings-stocks-gains-rally-outlook-fff4ad0c for an example.
 
   * James Somers - He writes very well. See https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge for an example of his work. It profiles Jeff Dean and Sanjay Ghemawat, two google engineers who together changed the course of Google - and the Internet. <WRAP>
