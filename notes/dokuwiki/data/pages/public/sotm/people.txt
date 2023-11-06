@@ -14,7 +14,7 @@
 
   * SEC Chairman - Gary Gensler
     * This position is also referred to as SEC Chair, Wall Street’s top regulator
-    * Is SEC chief \(\equiv\) SEC Chairman?
+    * Is SEC chief \( \equiv \) SEC Chairman?
 
   * Tony Rodriguez - head of fixed income strategy at Nuveen
   * Dan Krieter - BMO strategist
@@ -28,6 +28,8 @@
   * Bill Dudley - former New York Federal Reserve President
 
   * Yudhveer Chaudhry - Global Head of FX Trading, Blackrock
+  * Steve Laipply - global co-head of iShares fixed income ETFs, BlackRock
+
   * Joe Mecane - heads execution services for Citadel Securities
 
 ==== Aaron Brown ====

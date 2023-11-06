@@ -60,6 +60,11 @@ Another easy way to add a custom search engine is to go to the website, right cl
 
 ===== dummy =====
 
+==== go to the nth tab ====
+''M-[1–9]''
+
+Ref:- https://gwern.net/search -> "Web Browser Hotkeys" section
+
 ==== fast select text in chrome ====
   * Select the first word or letter or a part of the word where you want to start copying.
   * Scroll down till the place you have to copy.

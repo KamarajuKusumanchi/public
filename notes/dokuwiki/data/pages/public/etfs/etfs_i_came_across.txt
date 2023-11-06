@@ -30,6 +30,12 @@ Policy:
 \\
   * SPDR Bloomberg 1-3 Month T-Bill ETF (BIL)
   * iShares 0-3 Month Treasury Bond ETF (SGOV)
+\\
+  * iShares 20+ Year Treasury Bond ETF (TLT)
+    * tracks an index of Treasuries with maturities of 20 years and more
+\\
+  * SPDR Bloomberg High Yield Bond ETF (JNK)
+    * Junk bonds are riskier cousins of Treasuries.
 
 ==== see also ====
   * https://github.com/KamarajuKusumanchi/market_data/blob/master/funds/expense_ratio.csv

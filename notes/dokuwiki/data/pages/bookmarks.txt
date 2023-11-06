@@ -7,3 +7,6 @@
   * https://puzzlepaheliyan.com/ - Puzzles and riddles with answers and explanations.
   * https://www.worldtimebuddy.com/ - Useful for questions like \\ If it is 7 am in USA, what is the corresponding time in India?
   * https://www.kaggle.com/competitions
+  * https://www.classtools.net/Venn/
+    * Used it to make a Venn diagram on 2023-10-24
+

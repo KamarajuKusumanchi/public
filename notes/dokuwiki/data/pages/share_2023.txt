@@ -3,6 +3,16 @@
 
 
 
+==== 2023-10-24 ====
+  * Two professors Randy Hatton and Leslie Hendele spent 20 years to prove that phenylephrine, a popular decongestant used in all sorts of OTC medications is ineffective.
+    * https://www.theatlantic.com/health/archive/2023/09/cold-medicine-decongestant-phenylephrine-ineffective/675303/ - Why Has a Useless Cold Medication Been Allowed on Shelves for Years?
+      * This is a fascinating article.
+      * Instead of phenylephrine, it is better to use Sudafed. It contains a different drug, pseudoephedrine, that actually is effective against nasal congestion.
+      * Sudafed is available OTC. But you have to ask a Pharmacist about it and show an ID to purchase.
+\\
+  * https://www.briananglin.me/posts/spending-5k-to-learn-how-database-indexes-work/ - Spending $5k to learn how database indexes work
+    * I found it interesting because in the olden days, if something is non-optimal, the app will be slow or crash. But now, if the apps are not written well, you could end up with a large bill.
+
 ==== 2023-10-17 ====
   * https://www.bloomberg.com/news/articles/2023-10-16/us-realtors-lucrative-fee-system-faces-mounting-antitrust-risk#xj4y7vzkg
     * DoJ is suing NAR in regards to 6% commissions on the sale of residential real estate. I hope they are successful. IMHO, 6% is just too high for this type of work / value add.

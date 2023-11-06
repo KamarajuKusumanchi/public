@@ -1,3 +1,6 @@
+==== customer service phone number ====
+  * 1-888-280-4331
+
 ==== split payment on multiple cards ====
 Situation: I have two \$25 "visa gift cards". My order total was \$75. I wanted to split the payment between three cards (two visa gift cards and my normal credit card). But Amazon does not allow to split payment across multiple cards.
 

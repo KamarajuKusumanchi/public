@@ -1,3 +1,67 @@
+==== 2023-11-05 ====
+Notes from https://www.barrons.com/amp/articles/berkshire-hathaway-earnings-stock-price-8f61fc76
+  * Union Pacific (UNP) is the chief rival of the Berkshire railroad unit
+  * AAPL makes up nearly half the Berkshire equity portfolio
+  * Berkshire bought back $1.1 billion of stock in the third quarter
+  * Warren Buffett, 93, and Charlie Munger, 99
+
+Notes from https://www.berkshirehathaway.com/qtrly/3rdqtr23.pdf
+  * pg-49 (Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations -> Financial Condition)
+    * Berkshire paid $7.0 billion in the first nine months of 2023 to repurchase shares of its Class A and B common stock
+  * pg-53 (Item 2. Unregistered Sales of Equity Securities and Use of Proceeds and Issuer Repurchases of Equity Securities)
+    * contains a table of shares (BRK.A and BRK.B) repurchased and the average price
+
+==== 2023-10-31 ====
+Notes from https://www.barrons.com/advisor/articles/fidelity-schwab-low-paying-sweep-accounts-d9438bb3?mod=hp_columnists
+  * independent financial advisors
+  * nonretirement accounts in the custody channel
+  * retail brokerage clients
+  * Fidelity FCash rate = 2.26%, Schwab sweep rate = 0.45%, SPAXX = 5%
+  * custody clients
+  * financial advisors that use Schwab as a custodian
+  * Schwab's $300 billion bond portfolio has a yield of 2%
+  * Schwab holds $3.6 trillion of assets for independent advisors
+  * Schwab is the leading custodian with a roughly 50% market share. Fidelity has close to 25% share.
+  * custody accounts
+  * RIA firms
+  * Fidelity’s direct brokerage customers
+
+Notes from https://www.barrons.com/amp/articles/treasury-bond-market-quarterly-refunding-bee4bf23
+  * “Quarterly Refunding” report
+
+==== 2023-10-27 ====
+Notes from https://www.barrons.com/amp/articles/annaly-capital-sports-mortgage-reit-dividend-stock-price-3972cdfb
+  * Annaly Capital Management (NLY)'s dividend yield is 17%
+  * splashy colors on a rainforest frog
+  * herpetologist
+  * South America’s fire-bellied snake is said to be the only natural predator of the golden poison dart frog
+  * NLY cut its payment early this year to 65 cents a share each quarter from 88 cents
+  * NLY share price has already fallen by nearly half over three years
+  * Mortgage REITs
+    * lend money to developers, both commercial and residential, or buy mortgage securities, including ones that are backed by government agencies.
+    * They make money from a lending spread—for example, by borrowing shorter than six months to buy securities that mature in two to five years
+    * they use more leverage than equity REITs - sometimes two to three times as much as a percentage of assets.
+    * Dividends for mortgage REITs are more of a slide whistle than a steady drumbeat
+  * Resi MREITs
+  * TBV is tangible book value, or what securities are worth
+
+==== 2023-10-24 ====
+Notes from https://www.barrons.com/articles/pultegroup-stock-price-mortgages-dacc0f4c?mod=hp_LEAD_5
+  * PulteGroup
+    * the fourth-largest home builder by market capitalization
+    * Q3: (eps = \$2.83; revenue = \$4.1 billion)
+  * Pending-home sales, a measure of deals for previously owned homes that have not yet closed
+  * mortgage rate buy-downs
+
+==== 2023-10-23 ====
+Notes from https://www.barrons.com/articles/engagesmart-stock-to-be-acquired-fc70914f?mod=hp_LEAD_2
+  * Chevron (CVX) is buying Hess (HES)
+    * deal is valued at $53 billion, or $60 billion when including debt
+    * 1 HES share -> 1.025 CVX shares
+    * deal values HES shares at $171 each
+  * Exxon Mobil (XOM) is buying Pioneer Natural Resources (PXD)
+    * for $59.5 billion, or $64.5 billion when including debt
+
 ==== 2023-10-22 ====
 Notes from https://www.barrons.com/articles/china-graphite-exports-ev-batteries-4bdab59?mod=hp_LEAD_4
   * The batteries found in an average electric vehicle each need about 175 to 200 pounds of graphite

@@ -1,5 +1,17 @@
 tags | stocks to watch for next month, companies I came across
 
+==== 2023-10-24 ====
+  * GE
+    * Pros
+      * Sharpe ratio on a rolling 3 year window = 1.00
+      * after Q2 2024 GE will be split into two pieces - (GE Aerospace, GE Vernova)
+        * GE’s renewable power and gas power generation will be spun off into GE Vernova
+        * Remaining GE will be called GE Aerospace
+      * Operating profit margins: {aerospace: 20.4%, gas power generation: 6%, renewable power: -7.6%}
+
+Ref:
+  * https://www.barrons.com/articles/ge-earnings-stock-price-ea3f077f?siteid=yhoof2
+
 ==== 2023-10-14 ====
   * CPRT - Copart
 

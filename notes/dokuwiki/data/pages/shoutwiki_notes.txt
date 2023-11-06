@@ -13,6 +13,7 @@ Why:
 </WRAP> | N/A |
 | Site takes too long to respond | I was impacted by it on the following dates <WRAP>
   * 2021-11-24
+  * 2023-11-03
 </WRAP> | N/A |
 | Site does not respond | I was impacted by it on the following dates <WRAP>
   * 2022-09-19

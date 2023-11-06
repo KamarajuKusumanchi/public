@@ -176,8 +176,21 @@ Extension:-
 To display an option such as ''%%--skip-string-normalization%%'', use
 ''<nowiki>''%%--skip-string-normalization%%''</nowiki>''.
 
+tags | remove formatting
+
 ==== sitemap ====
 http://www.kamaraju.xyz/dk/start?do=sitemap
+
+==== search within a namespace ====
+To search pages within a namespace, prefix @ or ns: to the namespace. To not search pages within a namespace, prefix ^ or -ns: to the namespace.
+
+Examples:
+<code>
+dividend yield ns:diary
+</code>
+will search for 'dividend yield' in the 'diary' namespace
+
+https://www.dokuwiki.org/search#search_within_a_namespace
 
 ==== useful plugins ====
   * https://www.dokuwiki.org/plugin:tag - add search tags to the wiki pages.
@@ -285,6 +298,10 @@ bar
   * https://www.dokuwiki.org/index
   * https://www.dokuwiki.org/faq:lists has answers for
     * How to put line breaks in lists?
+
+==== useful links ====
+  * https://namespace-cpp.de/std/doku.php/wiki/quicksyntax - cheatsheet on dokuwiki syntax
+    * provides an example on how to put content into two or more columns.
 
 ==== multiple lines in table cell ====
 Install the wrap plugin and do something like

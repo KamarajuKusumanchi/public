@@ -1,3 +1,4 @@
 ==== links I came across ====
+  * Barrons stock picks - https://www.barrons.com/topics/barrons-stock-pick
   * livecoverage for a given day - <nowiki>https://www.barrons.com/livecoverage/stock-market-today-<MMDDYY>?mod=hpsubnav</nowiki> . For example, for 4/25/23 it is https://www.barrons.com/livecoverage/stock-market-today-042523?mod=hpsubnav .
   * technology news - https://www.barrons.com/topics/technology
