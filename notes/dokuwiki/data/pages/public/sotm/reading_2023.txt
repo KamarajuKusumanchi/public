@@ -1,3 +1,35 @@
+==== 2023-11-10 ====
+Notes from https://www.ft.com/content/b08c3159-982e-4831-8897-e35f8aca49e1
+  * US Treasuries is $25 tn market
+  * Fedwire, a real-time payments platform operated by the US Federal Reserve
+  * BNY, the world’s largest custodian bank
+  * US Treasury secretary Janet Yellen; China’s vice-premier He Lifeng
+  * The Securities Industry and Financial Markets Association (SIFMA), which represents banks and asset managers
+  * ICBC is the only Chinese broker with a securities clearing licence in the US. It created the business after buying the prime dealer services unit of Fortis Securities in 2010.
+  * Charlie McElligott, a cross-asset strategist at Nomura
+
+==== 2023-11-09 ====
+Notes from https://www.barrons.com/amp/articles/mondelez-ceo-weight-loss-drugs-ozempic-sales-eaf31b4b
+  * airlines, insulin pumps, food stocks
+  * Ozempic
+    * GLP-1 class medication
+    * made by Novo Nordisk
+  * Wegovy
+  * Mondelez International
+    * CEO Dirk van de Put
+    * Its brands range from Oreo cookies to Cadbury chocolates to Philadelphia cream cheese
+    * only a fifth of its business is in the U.S.
+    * better-for-you options and meal replacements like Clif Bars and belVita products
+  * exceptional brand loyalty in confections that tend to be stronger than in other categories
+  * postpandemic consumer behavior, in which snacking is a daily behavior, particularly for younger generations
+  * Côte d’Or
+    * the leading chocolate brand in Belgium
+    * part of Mondelez’s portfolio
+
+Notes from https://www.barrons.com/amp/articles/warren-buffett-berkshire-hathaway-bonds-buy-a1ba6dc0
+  * Chubb (ticker: CB) one of the largest P&C insurers
+    * At the end of Q3, it had about \$100 billion in bonds, \$17 billion in equities (mostly private), and \$5 billion in cash
+
 ==== 2023-11-05 ====
 Notes from https://www.barrons.com/amp/articles/berkshire-hathaway-earnings-stock-price-8f61fc76
   * Union Pacific (UNP) is the chief rival of the Berkshire railroad unit

@@ -1,5 +1,12 @@
 tags | stocks to watch for next month, companies I came across
 
+==== 2023-11-09 ====
+  * Copart
+    * earnings are going up and future looks bright
+      * per https://finviz.com/quote.ashx?t=CPRT&p=w
+        * eps this year = 13.58%, eps next year = 12.76%, eps next 5 years = 22.30%, eps past 5 years = 24.28%
+    * Teresa Rivas makes a good case for buying this stock in https://www.barrons.com/amp/articles/buy-copart-stock-price-pick-80df9a46
+
 ==== 2023-10-24 ====
   * GE
     * Pros

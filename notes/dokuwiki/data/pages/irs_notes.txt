@@ -1,3 +1,6 @@
 ==== dummy ====
+  * IRS has raised the contribution limit for 401(k) and related plans to \$23,000 for 2024, up from \$22,500 in 2023.
+    * https://www.barrons.com/amp/articles/401k-ira-retirement-contribution-limits-irs-31ceeacf
+    * https://www.irs.gov/newsroom/401k-limit-increases-to-23000-for-2024-ira-limit-rises-to-7000
   * Individuals can now contribute \$20,500 to their 401(k) plans in 2022. This limit used to be \$19,500 in 2020 and 2021. The announcement was made on 2021-11-04.
     * https://www.irs.gov/newsroom/irs-announces-401k-limit-increases-to-20500

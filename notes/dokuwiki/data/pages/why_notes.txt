@@ -1,3 +1,5 @@
+===== dummy =====
+
 ==== why not obsidian ====
   * I can't use the free version at work. From https://obsidian.md/license
 <code>
@@ -12,19 +14,19 @@ To support our development, you can optionally purchase a Catalyst license.
 This one-time payment gives you early access to beta versions of Obsidian.
 </code>
 
-===== why dokuwiki =====
+==== why dokuwiki ====
   * ACL - can create private and public namespaces and can control which users have access to which namespaces.
-
-==== why not moinmoin? ====
-tags | section editing
-  * Does not have a Section Edit feature.
 
 ==== features missing in dokuwiki ====
   * sections are not numbered
     * [today | 2023-05-01] filed a bug for this - https://github.com/dokuwiki/dokuwiki/issues/3531 . But there is no interest. There were some suggestions in the thread. But they either do not work right out of the box or are not robust enough for complex scenarios or require changing content of existing pages etc.,
   * Rearranging sections from one part of the document to another (especially in large pages) is not easy. A simple drag and drop to rearrange sections would be nice.
 
-=== cfcu ===
+==== why not moinmoin? ====
+tags | section editing
+  * Does not have a Section Edit feature.
+
+===== cfcu =====
 ==== why cfcu ====
   * good customer service
     * waived the $3 fee for cashiers check as a one time courtesy

@@ -13,3 +13,9 @@
 
 ==== Status related ====
   * AFK - away from keyboard
+
+==== dummy ====
+  * SCNR = Sorry, could not resist
+
+==== useful links ====
+  * https://english.stackexchange.com/questions/3755/difference-between-an-acronym-and-abbreviation - Difference between an acronym and abbreviation?

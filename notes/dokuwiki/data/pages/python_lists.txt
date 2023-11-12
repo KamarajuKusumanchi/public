@@ -4,6 +4,25 @@
   * [[get unique items in a list]]
   * [[convert a string to a list]]
 
+==== search one list in another ====
+<code>
+>>> letters = [i for i in 'abcdefghijklmnopqrstuvwxyz']
+>>> letters
+['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+>>> name = [i for i in 'kamaraju']
+>>> name
+['k', 'a', 'm', 'a', 'r', 'a', 'j', 'u']
+>>> indices = [letters.index(i) for i in name]
+>>> indices
+[10, 0, 12, 0, 17, 0, 9, 20]
+>>> rebuilt_name = [letters[i] for i in indices]
+>>> rebuilt_name
+['k', 'a', 'm', 'a', 'r', 'a', 'j', 'u']
+</code>
+
+tags | identify the indices
+
+
 ==== read file as list of strings ====
 <code>
 fname = "foo.txt"

@@ -1,0 +1,8 @@
+==== parse strings ====
+<code>
+In [1]:
+import csv
+csv.reader(['one,two,three']).__next__()
+Out[1]:
+['one', 'two', 'three']
+</code>
