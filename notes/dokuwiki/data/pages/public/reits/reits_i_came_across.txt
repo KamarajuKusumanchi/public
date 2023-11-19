@@ -1,0 +1,7 @@
+==== dummy ====
+  * Vornado Realty Trust (Ticker: VNO)
+  * Alexandria Real Estate Equities (Ticker: ARE)
+  * Boston Properties (Ticker: BXP)
+
+  * The Vanguard Real Estate etf (VNQ)
+    * a broad fund with varied REITs and real estate-related holdings

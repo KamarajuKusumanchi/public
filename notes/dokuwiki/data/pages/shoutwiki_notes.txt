@@ -12,8 +12,9 @@ Why:
   * 2023-03-01
 </WRAP> | N/A |
 | Site takes too long to respond | I was impacted by it on the following dates <WRAP>
-  * 2021-11-24
-  * 2023-11-03
+  * Wed 2021-11-24
+  * Fri 2023-11-03
+  * Sat 2023-11-18
 </WRAP> | N/A |
 | Site does not respond | I was impacted by it on the following dates <WRAP>
   * 2022-09-19

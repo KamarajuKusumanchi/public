@@ -19,6 +19,7 @@ Ref:- (Pandas 1.x Cookbook, by Matt Harrison and Theodore Petrou, second edition
   * Optional dependencies - https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html#optional-dependencies
 
 ==== links I came across ====
+  * https://github.com/pandas-dev/pandas/releases - pandas release history
   * http://pandas.pydata.org/pandas-docs/stable/getting_started/install.html - pandas installation page. Contains instructions to install pandas in various ways.
   * http://pandas.pydata.org/pandas-docs/stable/ - pandas official documentation
   * https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html - good reference to learn about iloc, slicing ranges

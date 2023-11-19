@@ -1,0 +1,5 @@
+===== my favorite configuration =====
+==== display dates instead of weeks ====
+Login -> profile icon -> Preferences -> Interface ->
+Dates -> Use absolute dates -> Show absolute dates instead of relative ones ->
+check

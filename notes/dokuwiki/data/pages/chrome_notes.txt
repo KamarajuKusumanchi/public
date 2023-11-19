@@ -231,7 +231,7 @@ C:\Users\<username>\AppData\Local\Google\Chrome\User Data\Default\Bookmarks
 ==== import bookmarks ====
 three dots button -> Bookmarks and lists -> Import bookmarks and settings... -> In the drop down choose "Bookmarks HTML file"
 
-=== trouble shooting ===
+===== trouble shooting =====
 ==== Bad Request - Header Field Too Long ====
 Issue:
 <code>

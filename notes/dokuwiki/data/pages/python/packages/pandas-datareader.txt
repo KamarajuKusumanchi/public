@@ -1,3 +1,5 @@
+
 ==== links I came across ====
   * https://github.com/pydata/pandas-datareader
   * https://pandas-datareader.readthedocs.io/en/latest/index.html
+  * https://pandas-datareader.readthedocs.io/en/latest/readers/nasdaq-trader.html - documentation on pandas_datareader.nasdaq_trader.get_nasdaq_symbols()

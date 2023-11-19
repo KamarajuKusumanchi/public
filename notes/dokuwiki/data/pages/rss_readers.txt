@@ -1,0 +1,12 @@
+==== required features ====
+  * Ability to export feeds
+  * Ability to import feeds
+  * Add unlimited number of feeds for free
+  * web based
+
+==== opml export ====
+  * inoreader - preferences -> "Import, Export, Backup" -> Export -> Download OPML subscriptions file only
+  * feedly - https://feedly.com/i/opml -> Download your feedly opml
+
+==== what does not work ====
+  * feedspot - no ability to export feeds.

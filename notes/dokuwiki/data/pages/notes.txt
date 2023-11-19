@@ -235,6 +235,9 @@
   * [[credit cards]]
   * [[retirement plans]]
   * [[medicines]]
+  * [[taxes]]
+  * [[rss readers]]
+  * [[inoreader notes]]
 
 ==== by date ====
   * [[reading journal 2023]]

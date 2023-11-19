@@ -44,3 +44,6 @@ FAILED compare_lists.py::test_compare_lists_fail - AssertionError: lists do not 
 
 Ref:
   * https://stackoverflow.com/questions/46914222/how-can-i-assert-lists-equality-with-pytest
+
+Related commands:
+  * python -m pytest -vv compare_lists.py
