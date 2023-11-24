@@ -1,3 +1,8 @@
+==== turn on push notifications ====
+To turn on the push notifications from Fidelity app in Android
+
+Settings -> Notifications -> App notifications -> Select Fidelity -> Slide right
+
 ==== why fidelity ====
   * Automatic sweep of uninvested cash into money market funds
     * FWIW, this is not available in Schwab. [asof | 2023-09-21]
@@ -82,7 +87,8 @@ Work around it by transferring money to a different bank (ex:- CFCU -> Capitalon
 
 ==== securing the account ====
   * Enable two factor authentication
-  * Turn on lockdown
+  * Turn on money transfer lockdown
+    * https://digital.fidelity.com/ftgw/digital/security/dashboard/view
 
 See also:
   * https://digital.fidelity.com/ftgw/digital/security/lockdown

@@ -1,4 +1,20 @@
 ===== dummy =====
+==== search button in taskbar not working ====
+Symptom: The search button in the task bar does not respond to the keyboard.
+
+Fix: Reboot the search process
+
+ctrl+alt+del -> Task Manager -> Processes -> Search -> Search -> End Task
+
+Ref:- https://www.reddit.com/r/Windows10/comments/317gce/windows_10_search_bar_not_working/
+
+==== wifi password ====
+  Control Panel\Network and Internet\Network and Sharing Center
+  -> View your active networks -> click the link after "Connections:"
+  -> which will be something like Wi-Fi (SSID)
+  -> Wireless Properties -> Security -> Network security key
+  -> Show characters -> enter the admin password
+
 ==== Check windows version ====
 <code>
 winver
@@ -109,13 +125,6 @@ tags | equivalent of foo in windows
     * Notes:
       * started using it from 2020-11
       * Using 64-bit version of 1.3.5
-
-==== wifi password ====
-  Control Panel\Network and Internet\Network and Sharing Center
-  -> View your active networks -> click the link after "Connections:"
-  -> which will be something like Wi-Fi (SSID)
-  -> Wireless Properties -> Security -> Network security key
-  -> Show characters -> enter the admin password
 
 ==== clear recent files list ====
 https://www.businessinsider.com/how-to-clear-recent-files-windows-10
