@@ -45,6 +45,9 @@ git bash 2.18.0 running on Windows 10 Enterprise
 
 See also:- https://www.stefaanlippens.net/pretty-csv.html - talks about handling corner cases and other OSes.
 
+==== zsh function ====
+(Todo, 2023-11-27): Add instructions to do this in zsh shell
+
 ==== vim ====
 To convert the whole file
 <code>

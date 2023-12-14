@@ -1,3 +1,106 @@
+==== 2023-12-11 ====
+Notes from https://www.barrons.com/amp/articles/berkshire-class-b-stock-discount-7574d193
+  * Many companies have two classes of stock outstanding
+  * Buffett holds virtually all his roughly 15% economic stake in Berkshire through the A shares
+  * The Class B stock was issued in 1996 and now is more liquid and widely owned than the A stock due to its lower share price and inclusion in the S&P 500 index.
+  * 1 Class A share = 1,500 Class B shares in terms of economic stake.
+  * 1 Class A share voting power = 10,000 Class B shares voting power.
+
+Notes from https://www.barrons.com/amp/articles/hp-sell-berkshire-hathaway-d9c8cf6b
+
+==== 2023-12-10 ====
+Notes from https://www.barrons.com/amp/articles/home-mortgages-cdfi-treasury-rules-13fd0663
+  * federally certified lenders known as Community Development Financial Institutions (CDFI)
+  * “ability-to-repay” rules
+  * nonqualified mortgages: loans with features such as interest-only periods and balloon payments
+  * The Treasury unit that administers the CDFI program, the CDFI Fund
+
+Notes from https://www.wsj.com/business/warren-buffett-berkshire-hathaway-jimmy-haslam-pilot-lawsuit-70ef0413?mod=WTRN_pos1&cx_testId=3&cx_testVariant=cx_166&cx_artPos=0
+  * a financial-reporting method known as pushdown accounting
+    * When a company gets bought, it can choose whether to revalue all the assets and liabilities on its own separate set of books, in effect “pushing down” the acquirer’s purchase price and using that as the basis for the new values. The method is optional. Companies have wide discretion on whether to apply it. But if they do, the decision is irrevocable.
+
+Notes from https://www.wsj.com/finance/why-treasury-auctions-have-wall-street-on-edge-8385f15e?mod=hp_lead_pos4
+  * When the yield is higher than expected, investors call that a “tail.” When it’s lower, that is a “stop-through.” Auctions that meet expectations are said to be “on the screws.”
+  * The government has been advised to maintain T-bills at around 15% to 20% of the overall debt load.
+
+==== 2023-12-06 ====
+Notes from https://www.barrons.com/amp/articles/blackrock-investing-2024-forecast-b2b3ee5a
+  * BlackRock Large Cap Value exchange-traded fund
+    * portfolio manager: Tony DeSpirito
+    * AUM: $6.6 million
+    * active fund
+    * launched in May 2023
+  * Tony DeSpirito
+    * likes Low-beta, quality stocks
+  * $8.3 trillion in money-market funds sitting on the sidelines
+
+==== 2023-12-05 ====
+Notes from https://www.barrons.com/amp/articles/bargain-priced-closed-end-funds-45bf3f94
+  * Muni funds, which make up about one-third of all closed-end fund assets, tend to deploy leverage.
+  * Banks issue a lot of preferreds
+  * Top credit managers like Apollo, KKR, Blackstone, and BlackRock
+
+Notes from https://www.wsj.com/health/healthcare/prescription-drug-costs-cvs-pharmacy-56acb623?mod=hp_lead_pos2
+  * CVS Health
+    * largest drugstore chain in US
+    * 9,500 retail pharmacies
+    * Chief Pharmacy Officer Prem Shah
+    * CostVantage payment model
+  * "cost plus" payment model
+  * Mark Cuban’s eponymous pharmacy company
+  * drug discount card
+  * Pharmacies are mostly paid by pharmacy-benefit managers
+  * CVS Caremark, a sister company to the retail-pharmacy unit
+
+==== 2023-12-04 ====
+Notes from https://www.efinancialcareers.com/news/2023/11/jpmorgan-nomura-technology
+  * The bank announced plans yesterday to cut $100m in costs in its wholesale banking division.
+  * These are in addition to the $340m of cost reductions it says will be completed by 2025.
+
+==== 2023-12-03 ====
+Notes from https://www.youtube.com/watch?v=vT5-cV4oMY8 - Why Aldi Is America’s Fastest Growing Grocery Store | WSJ The Economics Of - 2023-10-31
+  * grocers
+    * Aldi, Grocery outlet, publix, sprouts, H-E-B, Whole foods market
+  * Aldi
+    * no-frills approach
+    * growing at a rate of 100 stores per year
+    * 90% of items are private label
+  * Average supermarket ~ 48,415 sq ft; Aldi and Trader Joes's ~ 12,000 sq ft
+  * Average number of items per store
+    * Supermarket - 31,530
+    * Trader Joe's - 4,000
+    * Aldi - 1,650
+  * compensatory inferences
+  * peers: Aldi, Trader Joe's, Albertsons, Whole foods, Walmart, Dillons, Costco, Kroger, Sam's club, Target, Safeway
+  * known value items
+  * Trader Joe's
+    * Ube Mochi pancake & waffle mix
+    * Butternut squash mac & cheese
+
+==== 2023-12-01 ====
+Notes from https://www.barrons.com/amp/articles/fed-jerome-powell-speech-rate-hikes-today-4f518694
+  * CME FedWatch Tool - https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html
+
+==== 2023-11-30 ====
+Notes from https://www.barrons.com/amp/articles/walgreens-altria-verizon-dividend-yields-best-payouts-1fb8bf77?mod=ampMP
+  * Boston Properties (BXP)
+    * one of the leading office REITs
+    * buildings in key markets like New York, Boston and San Francisco
+    * CEO Owen Thomas
+  * Healthpeak
+    * a REIT that leases office space to doctors’ practices and lab space to biotech and other drug companies
+    * will merge with Physician Realty Trust
+    * CEO Scott Brinker
+
+==== 2023-11-27 ====
+Notes from https://www.barrons.com/amp/articles/shein-ipo-news-sec-fe778f69
+  * Shein
+    * Singapore-based fashion retailer
+    * was founded in China but shifted its headquarters to Singapore in 2019
+    * valued at about \$66 billion in a \$2 billion May 2023 fund-raising round
+    * famed for its ultralow apparel prices
+    * world’s most popular shopping app
+
 ==== 2023-11-13 ====
 Notes from https://www.barrons.com/amp/articles/stocks-rallied-as-treasury-yields-fell-dont-get-used-to-it-80103173
   * The federal government ran a deficit of $1.7 trillion in its fiscal 2023, which ended in September.

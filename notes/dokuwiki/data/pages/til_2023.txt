@@ -1,3 +1,7 @@
+==== 2023-12-05 ====
+  * You can use the import linter package to enforce layered dependencies in a project.
+    * https://blog.europython.eu/kraken-technologies-how-we-organize-our-very-large-pythonmonolith/ - Kraken Technologies: How we organise our very large Python monolith
+
 ==== 2023-10-31 ====
   * https://github.com/gventuri/pandas-ai - PandasAI is the Python library that integrates Gen AI into pandas, making data analysis conversational
 

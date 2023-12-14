@@ -1,7 +1,7 @@
 ==== My configuration ====
 <code>
 Edit -> Preferences -> Editing -> Automatically turn "CamelCase" words into links -> uncheck
-Edit -> Preferences -> Editing -> Automatically turn filepaths into links
+Edit -> Preferences -> Editing -> Automatically turn filepaths into links -> uncheck
 </code>
 
 ==== navigate to a page ====

@@ -1,0 +1,9 @@
+==== mark text message as unread ====
+today | 2023-12-13
+
+I could not find a way to mark an individual text message as unread. But you can mark a chat as unread as follows.
+  * Go to the chat list.
+  * Tap and hold on a chat.
+  * Tap to select any other chats.
+  * Tap Menu at the top.
+  * Select Mark as unread

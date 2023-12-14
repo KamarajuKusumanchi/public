@@ -1,0 +1,6 @@
+==== dummy ====
+asof | 2023-12-10
+
+  * https://tradingeconomics.com/united-states/calendar
+    * very good
+    * better than finviz's economic calendar (https://tradingeconomics.com/united-states/calendar)
