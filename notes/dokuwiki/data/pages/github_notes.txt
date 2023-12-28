@@ -20,6 +20,20 @@
     * sample query: https://grep.app/search?q=binary%20gap%20&filter[lang][0]=Python
 
 ===== searching code =====
+==== search files with extension ====
+<code>
+foo path:*.extension
+</code>
+
+ex:-
+<code>
+foo path:*.ipynb
+</code>
+
+will search for ''foo'' in .ipynb files
+
+Ref:- https://stackoverflow.com/questions/59909592/how-can-i-search-all-files-ending-with-the-file-extension-feature-on-github
+
 ==== search in a particular file ====
 Use
 <code>

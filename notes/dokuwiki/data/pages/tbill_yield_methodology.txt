@@ -1,0 +1,36 @@
+==== dummy ====
+
+Example: 912797JA6 is a tbill with a maturity of 28 days. It was sold for $99.5905 on 2023-12-21. What is the yield?
+
+Ans:
+For tbills of not more than half-year maturity, the yield is calculated as
+
+<code>
+i = ((100 - P)/P) * (y/r)
+</code>
+
+where y is 366, r is the days to maturity.
+
+<code>
+In [25]:
+def tbill_yield(P, r):
+    y = 366
+    i = ((100 - P) / P) * (y/r)
+    i = round(i*100, 3)
+    return(i)
+
+In [26]:
+tbill_yield(99.5905, 28)
+Out[26]:
+5.375
+</code>
+
+so the yield is 5.375%
+
+Ref:
+  * https://www.treasurydirect.gov/instit/annceresult/press/preanre/2004/ofcalc6decbill.pdf shows examples to compute price, yield and rate for tbills.
+    * rate == discount rate?
+    * yield == coupon equivalent yield?
+    * pg-2 shows how to compute the yield for bills of not more than one half-year to maturity.
+  * https://www.treasurydirect.gov/auctions/announcements-data-results/announcement-results-press-releases/auction-results/ gives "today's auction results"
+  * https://www.treasurydirect.gov/instit/annceresult/press/preanre/2023/R_20231221_1.pdf shows that it is 28-day tbill, was sold on 2023-12-21 at a price of $99.590500 for an "Investment Rate" of 5.375%. This "Investment Rate" is same as the yield above.

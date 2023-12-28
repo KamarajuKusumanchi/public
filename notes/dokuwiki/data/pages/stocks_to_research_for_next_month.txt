@@ -1,5 +1,16 @@
 tags | stocks to watch for next month, companies I came across
 
+==== 2023-12-20 ====
+  * CVS
+    * On 2023-12-20, market went down by 1.86% but CVS was up by 1.43%
+    * Per https://finviz.com/quote.ashx?t=CVS&ty=c&ta=1&p=d
+      * P/E = 11.74; Forward P/E = 9.13
+      * EPS (ttm) = 6.63; EPS next Y = 8.52;
+      * EPS this Y = -1.21%, EPS next Y = -0.79%; EPS next 5Y = 2.35%; EPS past 5Y = -13.40%
+      * Profit Margin = 2.47%; Debt/Eq = 1.08
+    * Low profit margins, not much eps growth over next 5 years, high debt
+    * Decision: do not buy
+
 ==== 2023-12-04 ====
   * HP (HPQ)
     * Came across it in https://www.barrons.com/visual-stories/stock-pick-bank-ai-pc-hp-chevron-266c6905?mod=article_inline&mod=hp_LEADSUPP_3 - Barron’s Stock Picks of the Month
@@ -17,6 +28,13 @@ tags | stocks to watch for next month, companies I came across
       * EPS (ttm) = 16.40; EPS next Y = 22.27;
       * EPS this Y = 21.42%, EPS next Y = 22.63%; EPS next 5Y = 22.50%; EPS past 5Y = -1.59%
       * Profit Margin = 4.71%; Debt/Eq = 1.44
+
+Update on 2023-12-20:
+  * Per https://finviz.com/quote.ashx?t=FDX&p=w
+    * P/E = 14.64; Forward P/E = 11.35
+    * EPS (ttm) = 16.88; EPS next Y = 21.78;
+    * EPS this Y = 18.76%, EPS next Y = 22.59%; EPS next 5Y = 22.50%; EPS past 5Y = -1.59%
+    * Profit Margin = 4.87%; Debt/Eq = 1.43
 
 ==== 2023-12-01 ====
   * ASML

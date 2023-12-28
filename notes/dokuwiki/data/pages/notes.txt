@@ -240,6 +240,7 @@
   * [[inoreader notes]]
   * [[data sources]]
   * [[economic calendars]]
+  * [[leetcode notes]]
 
 ==== by date ====
   * [[reading journal 2023]]

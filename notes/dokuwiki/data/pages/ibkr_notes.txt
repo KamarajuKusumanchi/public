@@ -3,7 +3,7 @@
 open the chart -> settings button at the top right -> Outside RTH -> drag to the right
 
 ==== excess funds sweep ====
-IBKR Mobile -> Settings button at the top left -> Account Mangement -> Trading Permissions -> Settings (at the top left) -> Excess Funds Sweep -> Scroll to the bottom -> Excess Funds Sweep Method -> Sweep to Securities Account
+IBKR Mobile -> Settings button at the top left -> Settings -> Account Settings -> Trading Permissions -> Settings (at the top left) -> Excess Funds Sweep -> Scroll to the bottom -> Excess Funds Sweep Method -> Sweep to Securities Account
 
 Notes:
   * There are three options available - "Do not Sweep", "Sweep to Securities Account", "Sweep to Commodities Account".

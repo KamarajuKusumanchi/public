@@ -29,8 +29,8 @@ tags | fed minutes
   * https://fred.stlouisfed.org/series/WALCL - Assets: Total Assets: Total Assets (Less Eliminations from Consolidation): Wednesday Level (WALCL)
 
 ==== FedNow service ====
-  * https://www.federalreserve.gov/newsevents/pressreleases/other20230720a.htm - Federal Reserve announces that its new system for instant payments, the FedNow Service, is now live
   * https://www.frbservices.org/financial-services/fednow/organizations - list of financial institutions that are currently live on the FedNow service.
+  * https://www.federalreserve.gov/newsevents/pressreleases/other20230720a.htm - Federal Reserve announces that its new system for instant payments, the FedNow Service, is now live
 
 ==== economic projections ====
   * economic projections from the 2023 September 19-20 FOMC meeting - https://www.federalreserve.gov/monetarypolicy/files/fomcprojtabl20230920.pdf

@@ -1,3 +1,27 @@
+==== 2023-12-21 ====
+Notes from https://www.barrons.com/amp/articles/fidelitys-joel-tillinghast-is-moving-on-his-investing-lessons-will-endure-1d7cce1d
+  * a call-center company like Concentrix or Teleperformance
+  * value stocks
+    * low price/earnings multiple
+    * a high free-cash-flow yield
+  * HealthSouth Rehab
+
+==== 2023-12-18 ====
+Notes from https://www.wsj.com/business/retail/uniqlo-self-checkout-rfid-holiday-shopping-fast-retailing-c4287e2f?mod=wsjhp_columnists_pos2
+  * Uniqlo
+    * Its parent company is Fast Retailing (ticker: FRCOY)
+    * known for its inexpensive, reliable clothing
+    * Heattech innerwear
+    * There are four types of RFID tags: hanging tags, waist tags, sticker tags for packaged goods and header tags for those socks.
+  * Fast Retailing (ticker: FRCOY)
+    * company’s mission is to “wow the customer”
+    * it controls the supply chain from the factory to the sales floor
+  * RFID tags
+    * 4 cents per tag
+  * Takahiro Tambara
+    * the architect of Uniqlo’s self-checkout
+    * chief information officer at Fast Retailing
+
 ==== 2023-12-11 ====
 Notes from https://www.barrons.com/amp/articles/berkshire-class-b-stock-discount-7574d193
   * Many companies have two classes of stock outstanding

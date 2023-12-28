@@ -56,6 +56,35 @@ Ref:-
 
 tags | run pytest from main function, pytest run parameterized test
 
+==== assert actual expected template ====
+
+template 1
+
+<code>
+assert Actual == Expected,\
+    'Expected = {}, Actual = {}'.format(Expected, Actual)
+</code>
+
+template 2
+
+<code>
+from pandas.util.testing import assert_frame_equal
+assert_frame_equal(df_actual, df_expected)
+</code>
+
+template 3
+
+<code>
+import pytest
+@pytest.mark.parametrize('input, expected_output', [
+    ('foo', bar),
+    ('foo2', bar2),
+])
+def test_fancy_func(input, expected_output):
+    got = fancy_func(input)
+    assert got == expected_output, 'Expected = {}, got = {}'.format(expected_output, got)
+</code>
+
 ==== useful links ====
   * https://docs.pytest.org/en/latest/getting-started.html - Get started on pytest
   * Source code - https://github.com/pytest-dev/pytest
@@ -63,8 +92,16 @@ tags | run pytest from main function, pytest run parameterized test
   * http://pythontesting.net - Brian Okken's website on pytest and code testing in general
   * To get it from PyPI - https://pypi.python.org/pypi/pytest
   * T. Ben Thompson's python testing set up - http://tbenthompson.com/post/how_i_test/
+  * https://docs.pytest.org/en/latest/how-to/assert.html#assertions-about-expected-exceptions - shows how to check whether the code is throwing exceptions or not.
 
 Links related to parameterization:
   * Parametrizing fixtures and test functions - https://docs.pytest.org/en/latest/parametrize.html#parametrize-basics
   * Parametrizing tests - https://docs.pytest.org/en/latest/example/parametrize.html
   * parametrizing tests where functions have default arguments - https://stackoverflow.com/questions/35844791/how-to-write-a-test-for-a-function-with-optional-arguments
+
+==== books on pytest ====
+  * pytest Quick Start Guide by Bruno Oliveira, published by Packt - https://github.com/PacktPublishing/pytest-Quick-Start-Guide
+  * Python Testing with pytest: Simple, Rapid, Effective, and Scalable 1st Edition by Brian Okken - https://www.amazon.com/Python-Testing-pytest-Effective-Scalable/dp/1680502409/
+
+==== who wrote pytest ====
+  * https://github.com/pytest-dev/pytest/blob/master/AUTHORS

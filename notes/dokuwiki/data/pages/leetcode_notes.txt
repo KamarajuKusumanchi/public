@@ -1,0 +1,16 @@
+=== copy leetcode problem as markdown ====
+Use https://immortal-blog.github.io/tomd/ to copy leetcode problem as markdown. This is useful if you want to copy the leetcode problem into a jupyter notebook for example.
+
+See also:
+  * source code: https://github.com/immortalt/2md
+  * blogpost by the author about the tool: https://immortal-blog.github.io/devops/copy_and_paste_content_to_markdown.html
+
+==== leetcode problems I came across ====
+
+  * 138. Copy List with Random Pointer - https://leetcode.com/problems/copy-list-with-random-pointer/description/
+  * 102. Binary Tree Level Order Traversal - https://leetcode.com/problems/binary-tree-level-order-traversal/description/
+  * 283. Move Zeroes - https://leetcode.com/problems/move-zeroes/description/
+  * 1038. Binary Search Tree to Greater Sum Tree - https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/
+    * to check - https://stackoverflow.com/questions/66018493/leetcode-problem-1038-binary-search-tree-to-greater-sum-tree-python
+  * 121. Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+  * 122. Best Time to Buy and Sell Stock II - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/

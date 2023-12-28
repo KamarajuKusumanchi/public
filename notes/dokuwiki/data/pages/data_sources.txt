@@ -1,3 +1,6 @@
 ==== earnings history ====
   * https://www.macrotrends.net/stocks/charts/TICKER/fedex/eps-earnings-per-share-diluted
     * Ex:- https://www.macrotrends.net/stocks/charts/FDX/fedex/eps-earnings-per-share-diluted
+
+==== compare stocks ====
+  * Ex:- https://portfolioslab.com/tools/stock-comparison/cprt/ajg

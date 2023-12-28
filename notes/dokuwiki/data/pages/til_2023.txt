@@ -1,3 +1,7 @@
+==== 2023-12-18 ====
+  * https://ourworldindata.org/period-versus-cohort-measures-whats-the-difference - Period versus cohort measures: what’s the difference?
+    * well written; high information density; easy to read and understand.
+
 ==== 2023-12-05 ====
   * You can use the import linter package to enforce layered dependencies in a project.
     * https://blog.europython.eu/kraken-technologies-how-we-organize-our-very-large-pythonmonolith/ - Kraken Technologies: How we organise our very large Python monolith
