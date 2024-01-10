@@ -34,3 +34,49 @@ Ref:
     * pg-2 shows how to compute the yield for bills of not more than one half-year to maturity.
   * https://www.treasurydirect.gov/auctions/announcements-data-results/announcement-results-press-releases/auction-results/ gives "today's auction results"
   * https://www.treasurydirect.gov/instit/annceresult/press/preanre/2023/R_20231221_1.pdf shows that it is 28-day tbill, was sold on 2023-12-21 at a price of $99.590500 for an "Investment Rate" of 5.375%. This "Investment Rate" is same as the yield above.
+
+
+Example 2:
+On https://www.treasurydirect.gov/auctions/announcements-data-results/ showed
+
+^ Security Term	^ CUSIP ^ Issue Date ^ Maturity Date ^ High Rate ^ Investment Rate ^
+| 4-Week | 912797JB4 | 01/02/2024 | 01/30/2024 | 5.325% | 5.436% |
+
+It was bought on 12/28/2023, settlement date = 1/2/2024 for a price of 99.585833. The yield on it is
+
+<code>
+In [1]: 
+from tbill_yield import tbill_yield
+tbill_yield(99.585833, 28)
+Out[1]: 
+5.436
+</code>
+
+The 5.436 matches with the Investment Rate in the table.
+
+So 'Issue Date' in the table is the settlement date.
+
+Example 3:
+On https://www.treasurydirect.gov/auctions/announcements-data-results/ showed
+^ Security Term	^ CUSIP ^ Issue Date ^ Maturity Date ^ High Rate ^ Investment Rate ^
+| 4-Week | 912797JC2 | 01/09/2024 | 02/06/2024 | 5.290% | 5.400% |
+
+It was bought on 01/04/2024, settlement date = 1/9/2024 for a price of 99.588556. The yield on it is
+
+<code>
+In [1]:
+from tbill_yield import tbill_yield
+tbill_yield(99.588556, 28)
+Out[1]:
+5.4
+</code>
+
+The precision in the price matters. If you only have 4 significant digits after the decimal, the result will not match with the 'Investment Rate'
+<code>
+In [4]:
+tbill_yield(99.5885, 28)
+Out[4]:
+5.401
+</code>
+
+Conclusion: Price should have 6 significant digits after the decimal.

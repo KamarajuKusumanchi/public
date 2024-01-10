@@ -1,0 +1,80 @@
+==== 2024-01-08 ====
+Notes from https://www.wsj.com/finance/greg-abel-berkshire-hathaway-executive-6b7d8988?st=x62ub1e8q67x9dd&reflink=desktopwebshare_permalink
+  * Berkshire Hathaway
+    * eighth most valuable U.S. company
+  * Canadian Prairies
+  * Ron Olson, a longtime Berkshire director and a partner at Munger Tolles & Olson, the law firm co-founded by Munger.
+  * the company driver gushed about Abel
+  * publicly traded utilities were often expected to return more than half of earnings to shareholders in the form of stock dividends
+  * Buffett Kremlinologists
+  * corporate chieftains
+  * Olson, the Berkshire director
+  * Kyle Krause
+    * He is a close friend of Greg Abel
+    * His company, the convenience-store chain Kum & Go, is a competitor of sorts to PTC
+
+==== 2024-01-05 ====
+Notes from https://www.barrons.com/amp/articles/retail-stocks-nike-burlington-tjx-consumer-e53fd14b
+  * Hoka owner Deckers Outdoors
+
+Notes from https://www.barrons.com/amp/articles/consumer-spending-holidays-mastercard-ee3f9a25
+  * Mastercard SpendingPulse
+  * Mastercard Economics Institute
+
+Notes from https://www.barrons.com/amp/articles/uhaul-stock-uhal-30476fc4
+  * U-Haul
+    * dominates the do-it-yourself moving business
+    * nationwide fleet of trucks
+    * Competitors
+      * Penske and Budget
+    * Competitors are a fraction of its size
+    * 23,000 locations around the U.S. and Canada
+    * 200,000 rental trucks
+    * nonvoting stock trades under the ticker UHAL.B
+    * There is no Wall Street coverage of U-Haul
+    * It is run like a private company by the Shoen family, which owns about half the company
+
+Notes from https://www.barrons.com/amp/articles/best-income-investments-bc965589
+  * Pipeline stocks
+    * Alerian MLP
+  * U.S. pipeline infrastructure is largely built out and it’s hard to get regulatory and environmental approval for new construction. That’s favorable for pipeline operators.
+  * The industry is divided into partnerships like Enterprise Products Partners and Energy Transfer and corporations like Kinder Morgan , Williams Cos. , and Oneok . Many investors favor the corporations because they prefer simpler 1099 tax forms to K-1s. 
+  * Enterprise Products yields 7.6%, Energy Transfer pays out 9%, while Kinder Morgan and Williams offer yield in the 5% to 6% range.
+  * Some investors prefer Williams due to its natural gas focus, given that long-term U.S. gas demand is probably better than oil.
+  * TMUS
+    * plans to return \$60 billion to shareholders in dividends and buybacks from 2023 through 2025. Its current market value is \$189 billion
+  * The biggest mortgage ETFs are the $29 billion iShares MBS and $18 billion Vanguard Mortgage-Backed Securities.
+
+==== 2024-01-04 ====
+Notes from https://www.barrons.com/amp/articles/costco-wholesale-stock-december-sales-024f25c6
+  * Same-store sales, which measure sales growth in stores open for more than a year
+
+==== 2024-01-02 ====
+Notes from https://www.barrons.com/amp/articles/live-longer-healthier-new-year-resolution-28f8b434 - 7 Things to Do in the New Year for a Longer, Healthier Life
+  * Exercise regularly. Eat healthy. Drink moderately, if at all, and don’t smoke. Get enough sleep. Maintain strong relationships. Challenge your brain. Manage stress.
+  * Dr. Peter Attia, in his book Outlive: The Science and Art of Longevity
+  * Schimpff, in his book Longevity Decoded: The 7 Keys to Healthy Aging
+  * healthy diet, regular exercise, healthy weight, no smoking, and moderate alcohol intake
+  * Exercise helps prevent heart disease; it helps ward off depression and dementia; it even helps prevent cancer by revving up our immune system.
+  * Cardiorespiratory fitness
+  * The best way of testing cardiorespiratory fitness is the VO2max test, which measures the maximum amount of oxygen your body can consume during vigorous exercise.
+  * Exercise at least 150 minutes of moderate exercise or 75 minutes of vigorous exercise a week
+  * To maximize your fitness, include some interval training into your exercise regimen. Once a week, do 4×4 interval training: four intervals of intense exercise lasting four minutes apiece, separated by rest between each interval.
+  * do full-body, multi-joint movements such as squats, dead lifts, and overhead presses that stress your hips, spine, and shoulders. 
+  * Weightlifting—along with diet—is also key for avoiding osteoporosis.
+  * People who have atrial fibrillation, or AFib, should avoid drinking. Even moderate drinking can bring on episodes, and AFib increases the likelihood of stroke.
+  * Mediterranean diet - whole grains, vegetables, fruit, legumes, nuts, and fish is healthy.
+  * blue zones where people live longer
+  * sweet potatoes in Okinawa, Japan, or tortillas, beans, squash, and fruit in Costa Rica
+  * consume a lot of plant-based food
+  * Not sleeping enough wreaks havoc on our immune systems, weight, brains, and general health.
+  * People need at least five hours and 45 minutes of sleep a night. Some people require eight hours or more a night.
+  * have a regular bedtime, avoid computers and smartphones before bed, and sleep in a cool dark room.
+  * A challenging job helps keep your brain healthy. So does learning a new language, or traveling to new places, or learning new skills.
+  * you should get a hearing aid if you can’t hear what people around you are saying
+  * People with untreated hearing loss have a 90% higher rate of dementia than others in their age group
+  * Chronic stress, however, puts you at greater risk of anxiety, depression, memory problems, weight gain, digestive issues, muscle pains, heart disease, stroke, and sleep loss
+  * Regular exercise, meditation, yoga, and even participating in a religion can be useful ways to understand and possibly alleviate stress.
+
+==== Policy ====
+  * Reverse chronological order
