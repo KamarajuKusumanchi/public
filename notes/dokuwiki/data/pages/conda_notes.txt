@@ -260,6 +260,26 @@ json: False
 See also:-
   * https://conda.github.io/conda-libmamba-solver/getting-started/ - tells how to switch the default solver from classic to libmamba.
 
+==== when was a conda environment created? ====
+<code>
+conda env list | grep -v '^#' | perl -lane 'print $F[-1]' | xargs ls -lrt1d
+</code>
+
+For example
+<code>
+ % conda env list | grep -v '^#' | perl -lane 'print $F[-1]' | xargs ls -lrt1d
+drwxr-xr-x 10 rajulocal rajulocal 4096 Apr  4  2020 /opt/rajulocal/miniconda3/envs/rutils
+drwxr-xr-x 23 rajulocal rajulocal 4096 Nov  8  2021 /opt/rajulocal/miniconda3/envs/py39
+drwxr-xr-x 13 rajulocal rajulocal 4096 Jun  6  2022 /opt/rajulocal/miniconda3/envs/play_ground
+drwxr-xr-x 27 rajulocal rajulocal 4096 Feb 28  2023 /opt/rajulocal/miniconda3/envs/py310
+drwxr-xr-x 13 rajulocal rajulocal 4096 May 20  2023 /opt/rajulocal/miniconda3/envs/test_yfinance
+drwxr-xr-x 18 rajulocal rajulocal 4096 Jun 30 00:45 /opt/rajulocal/miniconda3
+drwxr-xr-x 27 rajulocal rajulocal 4096 Jul 11 01:07 /opt/rajulocal/miniconda3/envs/py311
+drwxr-xr-x 24 rajulocal rajulocal 4096 Nov 12 04:44 /opt/rajulocal/miniconda3/envs/market_data_processor
+</code>
+
+Ref: https://stackoverflow.com/questions/69109316/how-can-i-see-the-creation-dates-for-my-conda-environments
+
 ===== activate conda environment =====
 tags | activate conda environment through shell script
 ==== source activate vs. conda activate ====

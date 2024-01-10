@@ -10,3 +10,7 @@ Hack: Buy an Amazon gift card of the same value with each "visa gift card". I di
   * https://www.amazon.com/redeem - to redeem a gift card
   * https://amazon.com/reportascam - to report any suspicious communication — a call, text, or email — that you think may not be from Amazon.
 
+==== cvv number of amazon prime chase visa credit card ====
+The cvv number is located in the signature box towards right. It is a bit confusing because usually it is besides the signature box. But in the case of Amazon prime chase visa credit card, it is in the signature box itself.
+
+Ref:- https://discussions.apple.com/thread/8501647

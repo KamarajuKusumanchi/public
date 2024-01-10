@@ -1,3 +1,14 @@
+==== View treasuries by maturity ====
+To view treasuries by maturity
+
+Login -> All accounts -> More -> Analysis ->
+Hover on "Fixed Income Analysis" -> Choose "Fixed Income Analysis Tool" ->
+A separate windows pops up
+
+You can also go there via https://oltx.fidelity.com/ftgw/fbc/ofoltx/bondCDAnalysis
+
+Sort by the Maturity column
+
 ==== turn on push notifications ====
 To turn on the push notifications from Fidelity app in Android
 
@@ -7,6 +18,7 @@ Settings -> Notifications -> App notifications -> Select Fidelity -> Slide right
   * Automatic sweep of uninvested cash into money market funds
     * FWIW, this is not available in Schwab. [asof | 2023-09-21]
   * Customer service is great. [today | 2023-09-22]
+  * Treasuries can be automtically rolled over. [today | 2023-12-29]
 
 ==== Core positions ====
 

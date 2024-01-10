@@ -3,6 +3,10 @@
   * [[list files within a specific range]]
 
 ===== dummy =====
+==== other pages in this wiki ====
+  * [[bash scripting]]
+  * [[shell scripting notes]]
+
 ==== useful links ====
   * https://explainshell.com/ - useful for understanding complex shell commands
   * https://mywiki.wooledge.org/ArithmeticExpression - Arithmetic Expansion

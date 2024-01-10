@@ -36,6 +36,8 @@ Policy:
 \\
   * SPDR Bloomberg High Yield Bond ETF (JNK)
     * Junk bonds are riskier cousins of Treasuries.
+\\
+  * SPDR S&P Retail ETF (XRT)
 
 ==== see also ====
   * https://github.com/KamarajuKusumanchi/market_data/blob/master/funds/expense_ratio.csv

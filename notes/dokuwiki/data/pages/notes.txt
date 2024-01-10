@@ -241,6 +241,9 @@
   * [[data sources]]
   * [[economic calendars]]
   * [[leetcode notes]]
+  * [[perl notes]]
+  * [[ms paint notes]]
+  * [[nomura notes]]
 
 ==== by date ====
   * [[reading journal 2023]]

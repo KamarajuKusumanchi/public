@@ -38,6 +38,20 @@ find . -type f -exec wc -w {} + | tail -n1
 
 Ref:- https://askubuntu.com/questions/926422/how-to-count-the-total-number-of-words-from-all-the-files-in-a-directory/1286714
 
+==== gunzip files on nfs and copy to hadoop ====
+<code>
+files_to_copy=`find $dir -maxdepth 1 -iname '*.avro.gz' -newer $tmp_file -print
+for i in $files_to_copy
+do
+    unzipped_file=${tmp_nfs_dir}/`basename $i | sed -e 's/\.gz$//'`
+    gunzip $i -c > $unzipped_file
+    hadoop fs -put -f $unzipped_file $hdfs_dir
+    echo "$unzipped_file -> $hdfs_dir"
+    rm -f $unzipped_file
+done
+</code>
+
+tags | process the output of find
 ==== dummy ====
   * [[grep on find results]]
 

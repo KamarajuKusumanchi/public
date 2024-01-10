@@ -4,3 +4,8 @@
     * https://www.irs.gov/newsroom/401k-limit-increases-to-23000-for-2024-ira-limit-rises-to-7000
   * Individuals can now contribute \$20,500 to their 401(k) plans in 2022. This limit used to be \$19,500 in 2020 and 2021. The announcement was made on 2021-11-04.
     * https://www.irs.gov/newsroom/irs-announces-401k-limit-increases-to-20500
+
+==== commuter benefits limits ====
+The following limits are effective as of January 1, 2024:
+  * The 2024 pretax contribution limit for transit is $315 per month.
+  * The 2024 pretax contribution limit for parking is $315 per month.

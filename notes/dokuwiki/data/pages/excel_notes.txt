@@ -62,6 +62,20 @@ You can bring up the "Format Cells" dialog by clicking on the small arrow button
 ==== shortcuts I came across ====
 
 | insert multiple lines in excel cell | Alt + Enter |
+
+==== format as numbers ====
+''Ctrl + Shift + !'' will apply number format.
+
+For example, let's say we have
+
+{{:before_applying_number_format.png|}}
+
+Select columns A and B. Press ''Ctrl + Shift + !''. We will then get
+
+{{:after_applying_number_format.png|}}
+
+See also:
+  * https://www.myonlinetraininghub.com/excel-shortcuts - shows many short cuts. The ''Ctrl + Shift + !'' shortcut is listed in the 'Number Formatting' section.
 ===== Articles =====
 ==== clickable links from csv file ====
 The idea here is to create a csv file that has clickable links when imported into excel. I prefer csv files as opposed to tab separated or space separated files since the excel importing wizard does not pop up if it is a .csv file but pops for other types such as .tsv and .txt.

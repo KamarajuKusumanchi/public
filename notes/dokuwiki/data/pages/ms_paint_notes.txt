@@ -1,0 +1,13 @@
+===== favorite configuration =====
+==== always show the ribbon ====
+Ctrl+F1 or press the down arrow button (left to the question mark) in the top right)
+
+{{::ms_paint_ribbon_expander.png|}}
+
+===== dummy =====
+==== paste image without extra space ====
+  * Click on the rectangular Select icon
+  * Click & drag your cursor around the area you want to keep
+  * Click on Crop [just next to the Select icon].
+
+Ref:- https://www.tenforums.com/software-apps/198621-how-get-rid-white-space-paint.html

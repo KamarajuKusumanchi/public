@@ -1,0 +1,36 @@
+===== code snippets =====
+==== get base name and directory name from a file name ====
+<code>
+use File::Basename; # for fileparse
+use File::Spec; # for rel2abs
+
+# By default, the filename is not converted to absolute path.
+# It has to be done manually if necessary.
+#
+# Note that the directory name contains '/' at the end. 
+my ($base_name, $dir) = fileparse(File::Spec->rel2abs( $fname));
+</code>
+
+Ref: http://perldoc.perl.org/File/Basename.html
+
+===== Modules =====
+==== frequently used perl modules ====
+Some perl modules that I frequently use and find useful.
+<code>
+use strict;
+use warnings;
+use autodie;
+use Getopt::Long;
+use Data::Dumper;  # for debugging purposes
+use POSIX;         # for getting date and time
+use Sys::Hostname; # for hostname
+use File::Path qw(make_path);
+use File::Basename qw(dirname);
+use File::Spec;    # for rel2abs
+use File::Spec::Functions qw(catdir catfile);
+use List::Util qw(min);
+use List::MoreUtils qw(uniq);
+use Set::CrossProduct;  # for doing cross products
+use Archive::Extract;    # to extract tar gzipped files
+use 5.10.0;
+</code>

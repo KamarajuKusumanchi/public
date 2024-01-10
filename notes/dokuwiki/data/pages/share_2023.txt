@@ -3,6 +3,14 @@
 
 
 
+==== 2023-12-30 ====
+  * The Python Mega Course is still free on Udemy
+    * https://old.reddit.com/r/Python/comments/18tn8y0/the_python_mega_course_is_still_free_on_udemy/
+
+==== 2023-12-28 ====
+  * https://www.youtube.com/watch?v=XYVrnZK5MAU - How does the Google Authenticator Work? HOTP TOTP Difference | 2FA Authentication
+    * Good explanation; goes into details; high information density; easy to understand.
+
 ==== 2023-10-24 ====
   * Two professors Randy Hatton and Leslie Hendele spent 20 years to prove that phenylephrine, a popular decongestant used in all sorts of OTC medications is ineffective.
     * https://www.theatlantic.com/health/archive/2023/09/cold-medicine-decongestant-phenylephrine-ineffective/675303/ - Why Has a Useless Cold Medication Been Allowed on Shelves for Years?

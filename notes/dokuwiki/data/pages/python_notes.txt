@@ -7,6 +7,10 @@
     * can be useful while doing live coding interviews.
   * [[https://nedbatchelder.com/text/names.html | Facts and myths about Python names and values]] (nedbatchelder.com) - well explained.
 
+==== links to documentation ====
+
+  * os.path.basename - https://docs.python.org/3/library/os.path.html#os.path.basename
+  * continue statement - https://docs.python.org/3/reference/simple_stmts.html#the-continue-statement
 ==== validate inputs ====
 Sample snippet:
 <code>
@@ -142,6 +146,45 @@ False
 False
 </code>
 
+==== Python comparisons ====
+
+<code>
+$ python
+Python 3.9.17 (main, Jul  5 2023, 20:47:11) [MSC v.1916 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 4 == True
+False
+>>> 1 == True
+True
+</code>
+
+==== Chained comparisons ====
+Q: In Python ''3 < 4 == True'' evaluates to False.
+
+<code>
+$ python
+Python 3.9.17 (main, Jul  5 2023, 20:47:11) [MSC v.1916 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 3 < 4 == True
+False
+</code>
+
+Why?
+
+A: The ''<'' and ''=='' are comparison operators. If a, b, c, …, y, z are expressions and op1, op2, …, opN are comparison operators, then in python, a op1 b op2 c ... y opN z is equivalent to a op1 b and b op2 c and ... y opN z, except that each expression is evaluated at most once.
+
+So ''3 < 4 == True'' is equivalent to ''3 < 4 and 4 == True'' which evaluates to ''True and False'' which turns out to be ''False''.
+
+Ref:-
+  * https://docs.python.org/3/reference/expressions.html#comparisons - describes the above rule and also gives a list of comparison operators
+
+==== List of comparison operators ====
+<code>
+"<" | ">" | "==" | ">=" | "<=" | "!="
+| "is" ["not"] | ["not"] "in"
+</code>
+
+Ref:- https://docs.python.org/3/reference/expressions.html#comparisons
 ===== tasks =====
   * [[get urls in a url]]
   * [[find depth]]
