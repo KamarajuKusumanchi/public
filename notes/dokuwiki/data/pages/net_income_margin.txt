@@ -1,0 +1,26 @@
+==== net income margin ====
+Net Income Margin is calculated by dividing Net income by Total revenue.
+
+Ex:- VIRT's Q4 earnings report (https://ir.virtu.com/files/doc_financials/2023/q4/Virtu-Financial-Earnings-Release-2023-Q4.pdf) shows that it had a net income of \$6.7 million and a total revenue of \$536.0 million in Q4 2023. So its net income margin for Q4 2023 will be
+<code>
+In [1]:
+net_income = 6.7e6
+total_revenue = 536.0e6
+net_income_margin = (net_income / total_revenue) * 100
+round(net_income_margin, 1)
+Out[1]:
+1.2
+</code>
+The PDF shows that it is 1.3% . The difference is probably due to rounding of the inputs.
+
+The PDF also shows that it had a net income of \$263.9 million and a total revenue of \2,293.4 million in full year 2023. So its net income margin for full year 2023 will be
+<code>
+In [2]:
+net_income = 263.9e6
+total_revenue = 2293.4e6
+net_income_margin = (net_income / total_revenue) * 100
+round(net_income_margin, 1)
+Out[2]:
+11.5
+</code>
+The PDF shows that it is 11.5% matching with the above.

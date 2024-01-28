@@ -1,0 +1,7 @@
+==== dummy ====
+  * Alphabet
+    * had 182,381 employees at the end of September 2023.
+      * https://www.wsj.com/tech/google-trims-hundreds-of-jobs-as-it-marshalls-resources-for-ai-6558298c?mod=hp_lead_pos6
+
+==== related links ====
+  * https://www.trueup.io/layoffs

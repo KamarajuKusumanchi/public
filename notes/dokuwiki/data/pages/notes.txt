@@ -170,6 +170,7 @@
   * [[deals]]
   * [[air travel notes]]
   * [[world maps]]
+  * [[us maps]]
   * [[kde notes]]
   * [[lottery notes]]
   * [[indexes notes]]
@@ -244,6 +245,12 @@
   * [[perl notes]]
   * [[ms paint notes]]
   * [[nomura notes]]
+  * [[head count]]
+  * [[project ideas]]
+  * [[mental models]]
+  * [[529 plans]]
+  * [[net income margin]]
+  * [[music notes]]
 
 ==== by date ====
   * [[reading journal 2023]]
@@ -253,6 +260,7 @@
   * [[TIL 2022]]
   * [[TIL 2021]]
   * [[TIL 2020]]
+  * [[share 2024]]
   * [[share 2023]]
   * [[share 2022]]
   * [[share 2021]]

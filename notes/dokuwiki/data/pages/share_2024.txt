@@ -1,0 +1,16 @@
+===== 2024 =====
+==== 2024-01-28 ====
+  * Classical Johny Johny yes papa
+    * https://www.youtube.com/watch?v=5RCUsYxY6OE - full version
+    * https://www.instagram.com/reel/C2fYqNpvCzW
+
+
+==== 2024-01-13 ====
+  * https://freedium.cfd/ - Freedium: Paywall Breakthrough for Medium
+    * Use case: https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d has a paywall. But https://freedium.cfd/https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d does not.
+    * Recommended by bypass-paywalls-clean extension.
+
+===== Policy =====
+  * Most recent first
+  * Each year in its own page.
+  * If an individual entry takes more than a line, add an extra line for readability.

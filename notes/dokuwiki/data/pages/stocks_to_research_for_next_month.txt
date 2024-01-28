@@ -1,5 +1,16 @@
 tags | stocks to watch for next month, companies I came across
 
+==== 2024-01-23 ====
+  * BABA - Alibaba Group Holding Ltd ADR
+    * Came across it in https://www.barrons.com/amp/articles/alibaba-stock-buybacks-d7bf7edb
+    * Per https://finviz.com/quote.ashx?t=BABA&ty=c&ta=1&p=d
+      * price = $73.95
+      * P/E = 10.24; Forward P/E = 8.01
+      * EPS (ttm) = 7.22; EPS next Y = 9.23;
+      * EPS this Y = 17.36%, EPS next Y = 3.68%; EPS next 5Y = 11.26%; EPS past 5Y = 1.29%
+      * Profit Margin = 14.45%; Debt/Eq = 0.16; LT Debt/Eq = 0.15
+      * Dividend % = 0.04%, Payout = 24.30%, beta = 0.47
+
 ==== 2024-01-05 ====
   * BURL - Burlington Stores
     * Per https://finviz.com/quote.ashx?t=BURL&p=d

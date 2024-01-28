@@ -53,6 +53,32 @@ to the search string.
 
 Ref:
   * https://docs.github.com/en/search-github/getting-started-with-searching-on-github/understanding-the-search-syntax#exclude-certain-results - documents the '-' operator.
+
+==== exclude forks from search results ====
+tags | do not search in forks
+
+To exclude forks from your results:
+<code>
+NOT is:fork
+</code>
+
+To search only fork repositories:
+<code>
+is:fork
+</code>
+
+Example:
+<code>
+header_to_metadata_and_cell NOT is:fork
+</code>
+will search for header_to_metadata_and_cell in non-fork repositories.
+
+On 2026-01-26, ''header_to_metadata_and_cell NOT is:fork'' gave 33 results vs 204 results for ''header_to_metadata_and_cell''
+
+Ref:
+  * https://docs.github.com/en/search-github/github-code-search/understanding-github-code-search-syntax#is-qualifier - documentation
+  * https://github.com/orgs/community/discussions/13126
+
 ===== search issues =====
 ==== search issues filed by a user ====
 For your own issues

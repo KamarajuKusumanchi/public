@@ -1,0 +1,33 @@
+===== blocked by barrons =====
+==== Issue ====
+barrons.com is giving the following error.
+<code>
+You have been blocked.
+
+Why?
+Something about the behaviour of the browser has caught our
+attention.
+
+There are various possible explanations for this:
+* You are browsing and clicking at a speed much faster than
+  expected of a human being.
+* Something is preventing JavaScript from working on your
+  computer.
+* There is a robot on the same network (IP WW.XX.YY.ZZ) as you.
+
+Having problems accessing the site? Submit feedback.
+ID: a-b-c-d-e
+</code>
+
+==== Solution ====
+Chrome
+-> Click on the extensions button in the top right
+-> Bypass Paywalls Clean -> settings button -> Options
+-> scroll down to "BPC settings" section
+-> check "Barron's - no Googlebot (http error 500)" option
+-> Save
+
+==== System Information ====
+  * bypass paywalls clean extension version: 3.5.2.1 (latest asof 2024-01-22)
+  * google chrome: 120.0.6099.200
+  * OS: Windows 10 Enterprise

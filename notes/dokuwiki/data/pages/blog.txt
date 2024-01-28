@@ -1,5 +1,8 @@
 Note:- My old blog is in http://raju.shoutwiki.com/wiki/Blog . I plan to migrate the articles from there to here as time permits.
 
+==== 2024 ====
+  * 2024-01-23 [[blocked by barrons]]
+
 ==== 2023 ====
   * 2023-08-11 [[Remove lines with duplicate letters]]
 

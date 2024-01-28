@@ -6,9 +6,12 @@
 last checked - 2023-03-31
 
 ==== bus stops of interest ====
-  * 23551 - U.S. 9 + Texas Road towards NYC
-  * 24855 - U.S. 9 + Texas Road towards Lakewood
-  * 24865 - U.S. 9 + Costco towards NYC
+SMS: 69287
+^ ^ description ^ MyBus ^
+| 23551 | U.S. 9 + Texas Road towards NYC | U S RT 9 + TEXAS RD |
+| 24855 | U.S. 9 + Texas Road towards Lakewood | RT 9 + TEXAS RD |
+| 24865 | U.S. 9 + Costco towards NYC | |
+| 26229 | PABT | PORT AUTHORITY BUS TERMINAL |
 
 In the MyBus system, 23551 stop is referred to as "U S RT 9 + TEXAS RD" and 24865 stop is referred to as "RT 9 + TEXAS RD"
 

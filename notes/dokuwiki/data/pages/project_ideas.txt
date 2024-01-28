@@ -1,0 +1,3 @@
+==== 2024-01-17 ====
+  * Develop a program that automatically summarizes and sends the minutes of every webex call
+    * Currently, I prepare the minutes of some meetings and this process is manual. Can a AI do this efficiently?

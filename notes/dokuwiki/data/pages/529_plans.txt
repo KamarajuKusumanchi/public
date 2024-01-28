@@ -1,0 +1,22 @@
+==== terminology ====
+  * FAFSA - the Free Application for Federal Student Aid
+  * EFC - Expected Family Contribution
+  * COA - Cost of Attendance
+
+==== FAFSA ====
+  * Managed by US DoE.
+
+==== useful links I came across ====
+  * https://studentaid.gov/complete-aid-process/how-calculated
+    * short and to the point
+  * https://www.thebalancemoney.com/will-529-plan-hurt-your-financial-aid-chances-4151976 - Will a 529 Plan Hurt My Child's Chance for Financial Aid?
+  * https://www.thebalancemoney.com/how-529s-affect-scholarships-and-vice-versa-4153510 - How 529s Affect Scholarships (and Vice Versa)
+  * https://finaid.org/calculators/finaidestimate/ - Expected Family Contribution (EFC) Calculator
+
+==== notes ====
+  * COA – EFC = Financial need
+    * Example: If COA is \$30k and EFC is \$12k, financial need will be \$18k.
+  * Cost of Attendance (COA) – Student Aid Index (SAI) = Financial Need
+    * You can’t receive more need-based aid than the amount of your financial need.
+
+

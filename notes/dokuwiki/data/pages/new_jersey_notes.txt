@@ -1,3 +1,11 @@
+==== government websites ====
+  * https://www.511nj.org/home - NJDOT's traffic information website. For real-time travel information.
+  * https://njhousing.gov/ - New Jersey housing and mortgage financing agency
+  * https://covid19.nj.gov/ - NJ corona virus information hub
+
+==== maps ====
+  * new jersey county map - http://www.digital-topo-maps.com/county-map/new-jersey.shtml
+
 ==== mansion tax ====
   * Buyer has to pay a 1% tax if the price is more than $1,000,000.
 
