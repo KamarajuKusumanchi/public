@@ -1,5 +1,7 @@
 import pandas as pd
 
+from constants import ORANGE_JUICE, EGGS, WAFFLES, CEREAL, LETTUCE, BROCCOLI
+
 
 def get_inventory():
     fridge = get_items_in_fridge()
@@ -10,10 +12,11 @@ def get_inventory():
 
 def get_items_in_fridge():
     # Todo: hard coding for now. Make it generic later.
-    df = pd.DataFrame({'items': ['Lettuce', 'Broccoli', 'Eggs']})
+    df = pd.DataFrame({
+        'items': [LETTUCE, BROCCOLI, EGGS, ORANGE_JUICE]})
     return df
 
 
 def get_items_in_pantry():
-    df = pd.DataFrame({'items': ['Waffles', 'Cereal']})
+    df = pd.DataFrame({'items': [WAFFLES, CEREAL]})
     return df
