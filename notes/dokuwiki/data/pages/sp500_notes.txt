@@ -1,3 +1,16 @@
+==== current pe of sp500 ====
+See https://www.wsj.com/market-data/stocks/peyields . It gives
+  * P/E ratio for
+    * the trailing 12 months
+    * a year ago (for trailing 12 months)
+  * Forward P/E ratio for the next 12 months
+  * Dividend yield for
+    * the trailing 12 months
+    * a year ago (for trailing 12 months)
+  * Data is available for S&P 500, Nasdaq 100, Russell 2000 indices
+  * Data is updated weekly on Friday.
+  * Data source: Birinyi Associates 
+
 ==== links I came across ====
   * https://ycharts.com/indicators/sp_500_monthly_return
   * https://ycharts.com/indicators/sp_500_monthly_total_return

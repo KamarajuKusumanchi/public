@@ -60,6 +60,8 @@ aka articles with low information density, articles that make mountains of moleh
   * Ignore articles from Karishma Vanjani (https://www.barrons.com/authors/karishma-vanjani?mod=article_byline). She does not seem to have a clue. For example,
     * In https://www.barrons.com/articles/treasury-bonds-buy-sell-c8a5f1b4 - Why Treasuries Are Less Risky After Years of Losses, she says Treasuries are less risky now as they have low duration. She also compares the yield on 30-year Treausuries with SPX but ignores the fact that SPX would appreciate over that time but Treasuries will not.
     * In https://www.barrons.com/amp/articles/treasury-auction-bond-yields-stock-market-db08c04b , she says weak demand at 30-year treasury bond auction caused the market to go down. She is wrong. The market (went / started going) down at 1 pm but the 30-year treasury bond auction happened at 2 pm.
+    * https://www.barrons.com/amp/articles/fed-meeting-rate-cuts-balance-sheet-f79f6526 - example of another fluffy article.
+
 ==== Height of desperation ====
 
   * Jared Dillian - <nowiki>https://www.bloomberg.com/view/articles/2017-03-09/does-warren-buffett-not-understand-risk-adjusted-returns</nowiki> - Desperately tries to argue that (1) Investing in hedge funds is better than investing in index (2) How Warren Buffett is wrong about recommending index funds than hedge funds for an average investor. The arguments does not even make any sense. Better to skip articles from this author from now on.

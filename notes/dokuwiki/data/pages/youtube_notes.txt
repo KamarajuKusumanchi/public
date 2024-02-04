@@ -1,2 +1,33 @@
+==== do not show ads ====
+<code>
+https://www.youtube.com/watch?v=DuB8VUICGqc // will occasionally show ads
+https://www.youtube.com./watch?v=DuB8VUICGqc // will not show ads
+</code>
+
+==== download audio only using youtube-dl ====
+<code>
+youtube-dl -f bestaudio "url" -o "%(title)s.%(ext)s"
+</code>
+
+Ref:- https://askubuntu.com/questions/423508/can-i-directly-download-audio-using-youtube-dl
+
+Edit the audio (if necessary) For example, to copy the first 40 seconds of src.webm to dest.webm
+
+<code>
+ffmpeg -ss 00:00:00 -i src.webm -to 00:00:40 -c copy dest.webm
+</code>
+
+==== alternatives ====
+  * https://youtube.com
+  * https://lbry.tv/
+  * https://www.dailymotion.com/ - https://en.wikipedia.org/wiki/Dailymotion
+  * https://www.bitchute.com/
+  * https://dlive.tv/
+
+dailymotion was acquired by Vivendi (huge media conglomerate, owner of Universal Music Group) in 2016
+
+==== dummy ====
+When playing a youtube video in a browser, you can type 0 through 9 to jump to 0% to 90% through the video.
+
 ==== multiple channels ====
 You can create multiple youtube channels with one google account. Go to https://www.youtube.com/channel_switcher and click on "+ Create a new channel" button.

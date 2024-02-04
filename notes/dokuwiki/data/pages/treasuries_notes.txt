@@ -1,3 +1,11 @@
+==== CMBs ====
+  * 42-Day CMBs are getting issued every Thursday.
+    * [asof | 2024-01-11] 42-Day CMBs were issued - 2013-12-07, 2013-12-14, 2013-12-21, 2023-12-28, 2024-01-04, 2024-01-11.
+    * [asof | 2024-02-01] 42-Day CMBs were issued - 2024-01-18, 2024-01-25, 2024-02-01.
+  * (42-Day CMB; 912797LL9; auction date = 2024-02-06; announcement date = 2024-02-01). So new CMBs are announced every Thursday?
+  * There are three dates - announcement date, auction date, issue date.
+    * Issue date is same as settlement date.
+
 ==== links I came across ====
   * https://thefinancebuff.com/treasury-bills-cd-money-market.html - How To buy Treasury bills & notes without fee at online brokers
     * Well written; high information density
@@ -20,8 +28,3 @@
 
 Ref:-
   * Info on 13-week bills is available at https://home.treasury.gov/news/press-releases/4_week_bills
-
-==== CMBs ====
-  * [asof | 2024-01-11] 42-Day CMBs were issued - 2013-12-07, 2013-12-14, 2013-12-21, 2023-12-28, 2024-01-04, 2024-01-11. So they are being issued every Thursday?
-  * There are three dates - announcement date, auction date, issue date.
-    * Issue date is same as settlement date.

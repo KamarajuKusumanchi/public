@@ -1,3 +1,15 @@
+==== 2024-01-30 ====
+Notes from https://www.barrons.com/amp/articles/fed-meeting-rate-cuts-balance-sheet-f79f6526
+  * reverse repo facility (RRP)
+    * It is a place where money-market funds and others park excess cash to earn short-term interest from the Fed
+    * It is a good gauge of excess liquidity in the U.S.
+    * It is currently at $571 billion; It is down sharply from its peak of $2.6 trillion about a year ago.
+    * A short-term 4-week government debt recently offered 5.390% in annualized investment rate, while RRP offered 5.30%. So institutions are exiting RRP and going for Treasury bills instead.
+
+==== 2024-01-28 ====
+Notes from https://businessandfinances.com/2023/09/investment-giants-buying-americas-homes-blackrock-vanguard-state-street/
+  * BlackRock is heavily invested in Invitation Homes. A company that owns and operates over 80,000 rental homes in the U.S.
+
 ==== 2024-01-16 ====
 Notes from https://www.barrons.com/amp/articles/pfizer-ceo-bourla-pension-stock-cca4733c
   * Trust is something that you earn in drops and you may lose it in buckets.
