@@ -1,3 +1,5 @@
+#! /usr/bin/env python3
+
 import pandas as pd
 
 def get_items_in_fridge():
