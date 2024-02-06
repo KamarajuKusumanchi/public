@@ -10,3 +10,6 @@ LETTUCE = "Lettuce"
 BROCCOLI = "Broccoli"
 
 MILK = "Milk"
+
+# snacks
+FORTUNE_COOKIES = "Fortune cookies"

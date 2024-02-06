@@ -1,6 +1,14 @@
 import pandas as pd
 
-from constants import ORANGE_JUICE, EGGS, WAFFLES, CEREAL, LETTUCE, BROCCOLI
+from constants import (
+    ORANGE_JUICE,
+    EGGS,
+    WAFFLES,
+    CEREAL,
+    LETTUCE,
+    BROCCOLI,
+    FORTUNE_COOKIES,
+)
 
 
 def get_inventory():
@@ -17,5 +25,7 @@ def get_items_in_fridge():
 
 
 def get_items_in_pantry():
-    df = pd.DataFrame({"items": [WAFFLES, CEREAL]})
-    return df
+    shelf_1 = pd.DataFrame({"items": [WAFFLES, CEREAL]})
+    snacks = pd.DataFrame({"items": [FORTUNE_COOKIES]})
+    pantry = pd.concat([shelf_1, snacks], ignore_index=True)
+    return pantry
