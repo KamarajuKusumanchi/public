@@ -1,3 +1,84 @@
+===== creating a series =====
+==== create a series from a list ====
+<code>
+>>> a = pd.Series(['sun', 'mon', 'tue'])
+>>> a
+0    sun
+1    mon
+2    tue
+dtype: object
+</code>
+
+To assign an index
+<code>
+>>> b = pd.Series(['sun', 'mon', 'tue'], index=['s', 'm', 't'])
+>>> b
+s    sun
+m    mon
+t    tue
+dtype: object
+</code>
+
+To assign a name to the column
+<code>
+>>> c = pd.Series(['sun', 'mon', 'tue'], index=['s', 'm', 't'], name='day')
+>>> c
+s    sun
+m    mon
+t    tue
+Name: day, dtype: object
+</code>
+
+To assign a name to the index
+<code>
+>>> d = pd.Series(['sun', 'mon', 'tue'], index=['s', 'm', 't'], name='day')
+>>> d.index.name = 'letter'
+>>> d
+letter
+s    sun
+m    mon
+t    tue
+Name: day, dtype: object
+</code>
+
+Column name is useful when converting the series to dataframe.
+<code>
+>>> b.to_frame()
+     0
+s  sun
+m  mon
+t  tue
+
+>>> c.to_frame()
+   day
+s  sun
+m  mon
+t  tue
+</code>
+
+If the series did not have a name to begin with but we desire to have one while converting to the dataframe
+<code>
+>>> b.to_frame(name='days')
+  days
+s  sun
+m  mon
+t  tue
+</code>
+
+The index name comes in handy while resetting the index
+<code>
+>>> c.reset_index()
+  index  day
+0     s  sun
+1     m  mon
+2     t  tue
+>>> d.reset_index()
+  letter  day
+0      s  sun
+1      m  mon
+2      t  tue
+</code>
+
 ===== dummy =====
 ==== append element to series ====
 <code>
@@ -20,6 +101,101 @@ Out[2]:
 '1.2.1'
 </code>
 
+==== return a random element ====
+Use pandas.Series.sample
+
+Ref:-
+  * https://pandas.pydata.org/docs/reference/api/pandas.Series.sample.html
+
+==== expand a series ====
+tags | using reindex, change index
+
+Given two series S, I of length n, and an integer N which is >= n, the idea here is to expand S into an N-element vector, E so that E[I[:]] = S[:].
+
+For example if S is [3.4, 1.8], I is [3, 5] and N is 10, we want E to be [0, 0, 0, 3.4, 0, 1.8, 0, 0, 0, 0]
+
+<code>
+import pandas as pd
+import numpy as np
+
+def expand_series(S, I, N, id='val'):
+    E = pd.Series(S.values, index=I, name=id).reindex(np.arange(0, N)).fillna(0)
+    return E
+</code>
+
+<code>
+df = pd.DataFrame({'id': [3,5], 'val': [3.4, 1.8]})
+print(df)
+</code>
+
+<code>
+   id  val
+0   3  3.4
+1   5  1.8
+</code>
+
+<code>
+unravelled_series = expand_series(df['val'], df['id'], 10)
+print(unravelled_series)
+</code>
+
+<code>
+id
+0    0.0
+1    0.0
+2    0.0
+3    3.4
+4    0.0
+5    1.8
+6    0.0
+7    0.0
+8    0.0
+9    0.0
+Name: val, dtype: float64
+</code>
+
+Sample code: https://github.com/KamarajuKusumanchi/notebooks/blob/master/pandas/expand%20a%20series.ipynb
+
+Ref:
+
+  * https://stackoverflow.com/questions/40029071/setting-series-as-index
+  * https://chrisalbon.com/python/data_wrangling/pandas_dataframe_reindexing/ - contains some examples on using pandas.Series.reindex
+  * https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.reindex.html - API
+
+==== Convert series to a dataframe ====
+
+Use to_frame(). By default, it will use the series name to set the column name in the dataframe. But you can also assign one while calling the to_frame function.
+
+<code>
+>>> import pandas as pd
+>>> b = pd.Series(['sun', 'mon', 'tue'], index=['s', 'm', 't'])
+>>> b
+s    sun
+m    mon
+t    tue
+dtype: object
+>>> b.to_frame()
+     0
+s  sun
+m  mon
+t  tue
+>>> c = pd.Series(['sun', 'mon', 'tue'], index=['s', 'm', 't'], name='day')
+>>> c
+s    sun
+m    mon
+t    tue
+Name: day, dtype: object
+>>> c.to_frame()
+   day
+s  sun
+m  mon
+t  tue
+>>> b.to_frame(name='days')
+  days
+s  sun
+m  mon
+t  tue
+</code>
 ===== check if =====
 ==== check if a series is empty ====
 Use pandas.Series.empty .
@@ -66,3 +242,54 @@ True
 Used Python 3.9.4 and IPython 7.22.0
 
 tags | check if a series has at least one element
+
+==== check if all elements in a series are unique ====
+Use pandas.Series.is_unique
+
+<code>
+In [1]: 
+import pandas as pd
+
+In [2]: 
+pd.Series([1, 2, 3]).is_unique
+Out[2]: 
+True
+
+In [3]: 
+pd.Series([1, 2, 2]).is_unique
+Out[3]: 
+False
+</code>
+
+Missing values are treated as any other value. So if there are multiple NaNs, it will return True. If this is not desired, drop the NaNs first.
+<code>
+In [4]: 
+import numpy as np
+pd.Series([1, 2, 3, np.nan, np.nan]).is_unique
+Out[4]: 
+False
+
+In [5]: 
+pd.Series([1, 2, 3, np.nan, np.nan]).dropna().is_unique
+Out[5]: 
+True
+</code>
+
+For completeness
+<code>
+In [6]: 
+pd.Series([1, 2, 2, np.nan, np.nan]).is_unique
+Out[6]: 
+False
+
+In [7]: 
+pd.Series([1, 2, 2, np.nan, np.nan]).dropna().is_unique
+Out[7]: 
+False
+</code>
+
+Using | pandas 1.5.3, python 3.11.4, ipython 8.12.0
+
+Ref:-
+  * https://pandas.pydata.org/docs/reference/api/pandas.Series.is_unique.html
+  * https://stackoverflow.com/questions/48838247/how-to-check-every-pandas-series-value-is-unique

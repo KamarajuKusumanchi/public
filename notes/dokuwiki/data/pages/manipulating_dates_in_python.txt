@@ -5,6 +5,30 @@
 
 ===== Dummy =====
 
+==== date in isoformat ====
+
+<code>
+from datetime import date
+today = date.today().isoformat()
+print(type(today))
+print(today)
+
+<class 'str'>
+2023-09-18
+</code>
+
+It also works on datetime objects and will give the time in ISO 8601 format.
+<code>
+from datetime import datetime
+now = datetime.today().isoformat()
+print(type(now))
+print(now)
+
+<class 'str'>
+2023-09-18T13:55:17.214513
+</code>
+
+Ref:- https://stackoverflow.com/questions/32490629/getting-todays-date-in-yyyy-mm-dd-in-python
 
 ==== extract date from datetime ====
 <code>
@@ -60,31 +84,6 @@ In [4]:
 Out[4]: 
 [2021, 8, 14]
 </code>
-
-==== date in isoformat ====
-
-<code>
-from datetime import date
-today = date.today().isoformat()
-print(type(today))
-print(today)
-
-<class 'str'>
-2023-09-18
-</code>
-
-It also works on datetime objects and will give the time in ISO 8601 format.
-<code>
-from datetime import datetime
-now = datetime.today().isoformat()
-print(type(now))
-print(now)
-
-<class 'str'>
-2023-09-18T13:55:17.214513
-</code>
-
-Ref:- https://stackoverflow.com/questions/32490629/getting-todays-date-in-yyyy-mm-dd-in-python
 
 ==== iterate over a range of dates ====
 To iterate on all days including weekends
