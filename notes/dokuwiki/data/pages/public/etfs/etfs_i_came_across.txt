@@ -1,3 +1,6 @@
+==== expense ratio ====
+  * See https://github.com/KamarajuKusumanchi/market_data/blob/master/funds/expense_ratio.csv
+
 ==== VUSXX ====
   * Vanguard Treasury Money Market Fund
   * invests exclusively in Treasuries
@@ -38,9 +41,6 @@ Policy:
     * Junk bonds are riskier cousins of Treasuries.
 \\
   * SPDR S&P Retail ETF (XRT)
-
-==== see also ====
-  * https://github.com/KamarajuKusumanchi/market_data/blob/master/funds/expense_ratio.csv
 
 ==== home builders and related industries ====
   * XHB - SPDR S&P Homebuilders ETF

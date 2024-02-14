@@ -1,5 +1,5 @@
-==== dummy ====
-today | 2023-05-26
+===== dummy =====
+==== today | 2023-05-26 ====
 
 Taking the money out of the bank is a pain.
   * ACH push to a different bank takes 3 business days.
@@ -18,13 +18,13 @@ From the customer service reps -> tech department:
   * Fiserv is not same as ACH.
   * You cannot do ACH transfers from their website.
 
-today | 2023-07-26
+==== today | 2023-07-26 ====
 
 Depositing money into the account is also painful.
   * Deposited a check on 7/20 (Thu). It was pending asof 7/27 (Thu) and got cleared on 7/28 (Fri). Apparently, they hold the funds for 6 business days.
   * Compare this with Capitalone where it takes 1-2 business days for the funds to be fully available. Deposited a check on 7/17 (Mon) and it was fully available on 7/19 (Wed).
 
-today | 2023-09-13
+==== today | 2023-09-13 ====
 
 Receiving money via Zelle is very restrictive.
   * My friend tried to transfer $3,500 via Zelle from a BofA account to my TD Bank checking account. It failed. We are not sure why.
@@ -37,3 +37,8 @@ source: TD Bank customer service reps
 
 The restrictions on the BofA side are
   * https://www.bankofamerica.com/online-banking/zelle-transfer-limits/
+
+==== today | 2024-02-14 ====
+It is not possible to do an ACH transfer from your account to an account owned by another person. The only option to do a third party transfer is to do it via Zelle or through wire transfer.
+
+Situation: I wanted to transfer money from wife's checking account to my daughter's 529 plan (owned by me). Using Zelle is not an option since my Zelle is associated with another bank account. Using wire transfer is not an option as there is a $30 fee for it.

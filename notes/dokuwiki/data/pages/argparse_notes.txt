@@ -1,0 +1,38 @@
+==== --feature and --no-feature ====
+To do
+<code>
+command --feature
+</code>
+and
+<code>
+command --no-feature
+</code>
+
+For python >= 3.9:
+<code>
+parser.add_argument('--feature', action=argparse.BooleanOptionalAction)
+</code>
+
+For python < 3.9:
+<code>
+parser.add_argument('--feature', action='store_true')
+parser.add_argument('--no-feature', dest='feature', action='store_false')
+parser.set_defaults(feature=True)
+</code>
+
+In practice:
+<code>
+parser.add_argument(
+    "--header", action='store_true',
+    dest='header',
+    help='use 1st line as header')
+parser.add_argument(
+    "--no-header", action='store_false',
+    dest='header',
+    help='assumes that there is no header')
+parser.set_defaults(header=True)
+</code>
+
+Ref:-
+  * https://stackoverflow.com/questions/15008758/parsing-boolean-values-with-argparse
+  * https://docs.python.org/3/library/argparse.html#action -> search for ''<nowiki>--no-foo</nowiki>''

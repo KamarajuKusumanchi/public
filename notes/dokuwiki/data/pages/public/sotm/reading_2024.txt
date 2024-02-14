@@ -1,9 +1,47 @@
+==== 2024-02-12 ====
+Notes from https://www.wsj.com/finance/stocks/stock-prices-valuations-financial-advisers-35ced497?mod=hp_lead_pos1
+  * Based on trailing earnings, the S&P 500’s multiple is 24.18, above its 10-year average of 20.36. The index’s forward multiple, at 20.38, recently rose above 20 for the first time in two years. Its longer-term average is 17.96.
+  * book value, a measure of total assets minus liabilities
+  * P/B is typically used to evaluate financial stocks, particularly banks, and shares of companies with tangible assets. It is less useful for tech companies because their growth prospects often aren’t captured on company balance sheets.
+  * The S&P 500 is trading at a forward price-to-book ratio of 4.15, above its 10-year average of 3.26 and its 20-year average of 2.76.
+  * Equity risk premium is calculated by taking the gap between a company’s earnings yield and that of a Treasury.
+  * Earnings yield is computed by dividing a company’s reported or projected earnings over the next year by its stock price.
+  * To calculate PEG ratio, divide a company’s price/earnings ratio over the past 12 months by its projected annual future earnings growth. A PEG of 1 indicates the stock’s price is in line with its growth expectations. 
+  * CAPE ration - cyclically adjusted price-to-earnings ratio
+
+==== 2024-02-11 ====
+Notes from https://www.barrons.com/amp/articles/cvs-walgreens-pharmacy-store-closings-drug-reimbursements-bbaeb60b
+  * So-called front-of-store offerings, like candy and batteries, account for just a quarter of sales at Walgreens and CVS.
+  * Pharmacies buy their prescription drugs from a distributor like Cardinal Health , then get reimbursed by pharmacy-benefit managers, which contract with the patients’ insurer.
+  * The pharmacy-benefit managers (PBMs) have accrued enormous power in the drug chain.
+  * Three large PBMs, including CVS-owned Caremark, process 80% of U.S. prescriptions.
+  * Of the roughly 58,900 pharmacy counters in the U.S. in 2022, 16,800 were located inside of supermarkets or mass-market merchants like Walmart.
+
+==== 2024-02-07 ====
+Notes from https://www.barrons.com/amp/articles/tech-growth-cyclical-value-stock-market-36fa8dad
+  * cyclical value stocks - financials, industrials, materials, real estate, and energy
+  * financials
+    * sensitive to economic growth
+    * Examples:  Visa , Mastercard , Wells Fargo , and Fiserv
+  * energy and industrials
+    * sensitive to inflation
+    * Examples: Boeing, CSX, Schlumberger, EOG Resources, and FedEx.
+
+Notes from https://www.barrons.com/amp/articles/nycb-bank-stock-price-news-moodys-debt-downgrade-39ae2adc
+  * regional banks that collapsed last year (2023) are Silicon Valley Bank, Signature Bank, and First Republic Bank.
+  * Signature Bank was acquired by New York Community Bancorp and that is in trouble now.
+
+Notes from https://en.wikipedia.org/wiki/2023_United_States_banking_crisis
+  * First Republic had been sold to JPMorgan Chase.
+  * Signature Bank had significant exposure to cryptocurrency.
+  * On March 19 2023, the New York Community Bank (NYCB) agreed to purchase around \$38.4 billion in Signature's assets for \$2.7 billion.
+
 ==== 2024-01-30 ====
 Notes from https://www.barrons.com/amp/articles/fed-meeting-rate-cuts-balance-sheet-f79f6526
   * reverse repo facility (RRP)
     * It is a place where money-market funds and others park excess cash to earn short-term interest from the Fed
     * It is a good gauge of excess liquidity in the U.S.
-    * It is currently at $571 billion; It is down sharply from its peak of $2.6 trillion about a year ago.
+    * It is currently at \$571 billion; It is down sharply from its peak of \$2.6 trillion about a year ago.
     * A short-term 4-week government debt recently offered 5.390% in annualized investment rate, while RRP offered 5.30%. So institutions are exiting RRP and going for Treasury bills instead.
 
 ==== 2024-01-28 ====

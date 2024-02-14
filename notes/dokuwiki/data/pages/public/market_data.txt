@@ -6,3 +6,10 @@
 
 ==== mortgage rates ====
   * [[https://tradingeconomics.com/united-states/30-year-mortgage-rate | United States 30-Year Mortgage Rate]] (tradingeconomics.com)
+
+==== How much money is sitting in money market funds? ====
+tags | aum history of money market funds
+
+  * https://fred.stlouisfed.org/series/MMMFFAQ027S shows the level of total financial assets in in money market funds over time. 
+    * For example, asof Q3 2023, \$6.1 trillion is in money market funds.
+    * Data is updated quarterly.
