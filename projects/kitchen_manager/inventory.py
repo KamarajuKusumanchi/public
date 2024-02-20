@@ -20,7 +20,7 @@ def get_inventory():
 
 def get_items_in_fridge():
     # Todo: hard coding for now. Make it generic later.
-    df = pd.DataFrame({"items": [LETTUCE, BROCCOLI, EGGS, ORANGE_JUICE]})
+    df = pd.DataFrame({"items": [LETTUCE, BROCCOLI, EGGS, ORANGE_JUICE, "pine apple"]})
     return df
 
 

@@ -14,8 +14,14 @@ from constants import (
 
 
 def get_breakfast_items():
-    items = [WAFFLES, CEREAL, EGGS, ORANGE_JUICE]
+    items = [WAFFLES, CEREAL, EGGS, ORANGE_JUICE, "pine apple"]
     df = pd.DataFrame({"items": items})
+    return df
+
+
+def what_to_cook_for_dinner():
+    dishes = ["oats dosa"]
+    df = pd.DataFrame({"dishes": dishes})
     return df
 
 
