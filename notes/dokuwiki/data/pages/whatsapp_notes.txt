@@ -1,2 +1,14 @@
+==== format text ====
+^ ^ ^
+| Monospace | <code>
+```text```
+</code> |
+| Italic | _text_ |
+| Bold | *text* |
+| Strikethrough | ~text~ |
+
+See also:- 
+  * https://faq.whatsapp.com/539178204879377/?cms_platform=web - got the above from here. It contains more info than summarized above.
+
 ==== I could not find a way to ====
   * send a message / photo to myself.

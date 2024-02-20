@@ -1,3 +1,29 @@
+==== 2024-02-19 ====
+Notes from https://www.barrons.com/amp/articles/nycb-stock-alibaba-tencent-palantir-2a62d7b6
+  * New York State Common Retirement Fund (NYSCRF)
+    * is a pension fund
+    * is one of the biggest public pensions in the U.S. by assets
+    * \$248.5 billion audited value
+    * fund gained 19% in 2023 vs. 24% in SP500
+    * the office of New York State Comptroller is the sole trustee responsible for NYSCRF
+
+==== 2024-02-18 ====
+Notes from https://www.bloomberg.com/news/features/2024-02-14/real-estate-lenders-confront-falling-us-commercial-property-prices?srnd=premium
+  * Outstanding distress (bankruptcy, default, tenant problems, other known issues)
+  * Potential Distress (delinquent repayments, forbearance, leasing problems, etc.)
+
+Notes from https://www.nytimes.com/interactive/2024/02/03/climate/us-lng-natural-gas-leader.html
+  * In just eight years, the United States has rocketed from barely selling any gas overseas to becoming the world’s No. 1 supplier.
+
+==== 2024-02-16 ====
+Notes from https://www.wsj.com/real-estate/national-association-realtors-crisis-lawsuits-home-buyers-6030e372?mod=hp_lead_pos7
+  * Anywhere Real Estate, one of the country’s largest real-estate brokerages
+    * owns several brokerage brands including Corcoran, Coldwell Banker and Century 21
+
+==== 2024-02-15 ====
+Notes from https://www.barrons.com/amp/articles/january-retail-sales-drop-bb3bf0cd
+  * core retail sales, a metric that strips away sales of cars and fuel
+
 ==== 2024-02-12 ====
 Notes from https://www.wsj.com/finance/stocks/stock-prices-valuations-financial-advisers-35ced497?mod=hp_lead_pos1
   * Based on trailing earnings, the S&P 500’s multiple is 24.18, above its 10-year average of 20.36. The index’s forward multiple, at 20.38, recently rose above 20 for the first time in two years. Its longer-term average is 17.96.

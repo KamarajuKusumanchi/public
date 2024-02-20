@@ -1,5 +1,15 @@
 
 
+==== extract some pages ====
+To get pages 11-19 (inclusive on both sides) of a pdf file
+  pdftk A=in.pdf cat A11-19 output out.pdf
+
+Tested using
+<code>
+ % pdftk --version
+pdftk port to java 3.3.2 a Handy Tool for Manipulating PDF Documents
+</code>
+
 ==== replace a page with another pdf ====
 To replace pg-16 of a pdf with another pdf. Assume that the later consists of only one single page.
 

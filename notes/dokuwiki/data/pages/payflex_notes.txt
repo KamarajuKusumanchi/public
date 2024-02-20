@@ -1,0 +1,8 @@
+==== Well-being Reimbursement Account ====
+
+To get the list of eligible expenses for your Well-being Reimbursement Account, go to
+
+  * https://www.mypayflex.com/HelpCenter/HelpAndSupport/ResourceCenter -> "Well-being Reimbursement Account Eligible Expenses"
+
+The Resoure Center (https://www.mypayflex.com/HelpCenter/HelpAndSupport/ResourceCenter) can also be accessed via
+  * Login -> "Help & Support" -> "Resource Center"

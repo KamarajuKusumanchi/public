@@ -19,3 +19,9 @@ https://investor.costco.com/stock-info/dividend-history/default.aspx -> "Dividen
 ==== dummy ====
   * Asof 2023-09-25, Costco has about 125 million cardholders worldwide, and generates roughly 70% of sales in the US.
     * Ref:- https://www.bloomberg.com/news/articles/2023-09-25/costco-offers-health-care-to-members-in-deal-with-sesame-cost?srnd=premium
+
+==== Morganville Costco ====
+  * Costco does not do check printing anymore.
+    * checked on | 2024-02-18
+  * It is open normal hours on President's day.
+    * checked on | 2024-02-19
