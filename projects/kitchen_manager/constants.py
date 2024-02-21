@@ -7,6 +7,7 @@ ORANGE_JUICE = "orange juice"
 WAFFLES = "Waffles"
 CEREAL = "Cereal"
 OATS = "oats"
+MAGGI = "maggi"
 
 # veggies
 LETTUCE = "Lettuce"
@@ -22,6 +23,7 @@ FORTUNE_COOKIES = "Fortune cookies"
 FRENCH_FRIES = "French Fries"
 
 # dishes
-EGG_SCRAMBLE = "egg scramble"
 EGG_CURRY = "egg curry"
+EGG_NOODLES = "egg noodles"
+EGG_SCRAMBLE = "egg scramble"
 OATS_DOSA = "oats dosa"

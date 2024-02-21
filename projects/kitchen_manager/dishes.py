@@ -1,4 +1,13 @@
-from constants import EGGS, EGG_SCRAMBLE, EGG_CURRY, ONIONS, OATS_DOSA, OATS
+from constants import (
+    EGGS,
+    EGG_SCRAMBLE,
+    EGG_CURRY,
+    ONIONS,
+    OATS_DOSA,
+    OATS,
+    EGG_NOODLES,
+    MAGGI,
+)
 
 
 def get_dish_map():
@@ -7,6 +16,7 @@ def get_dish_map():
     dish_map[EGG_SCRAMBLE] = [EGGS]
     dish_map[EGG_CURRY] = [EGGS, ONIONS]
     dish_map[OATS_DOSA] = [OATS, ONIONS]
+    dish_map[EGG_NOODLES] = [EGGS, MAGGI]
     return dish_map
 
 
