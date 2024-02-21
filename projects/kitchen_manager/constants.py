@@ -1,3 +1,7 @@
+# fruits
+APPLE = "apple"
+STRAW_BERRIES = "straw berries"
+
 # juices
 APPLE_JUICE = "apple juice"
 MANGO_JUICE = "mango juice"
@@ -26,4 +30,11 @@ FRENCH_FRIES = "French Fries"
 EGG_CURRY = "egg curry"
 EGG_NOODLES = "egg noodles"
 EGG_SCRAMBLE = "egg scramble"
+BOILED_EGGS = "boiled eggs"
 OATS_DOSA = "oats dosa"
+
+# meal types
+BREAK_FAST = "break fast"
+LUNCH = "lunch"
+DINNER = "dinner"
+SNACK = "snack"

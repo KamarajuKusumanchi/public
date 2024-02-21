@@ -7,6 +7,12 @@ from constants import (
     OATS,
     EGG_NOODLES,
     MAGGI,
+    BREAK_FAST,
+    LUNCH,
+    DINNER,
+    ORANGE_JUICE,
+    BOILED_EGGS,
+    APPLE,
 )
 
 
@@ -52,6 +58,15 @@ def get_item_map():
     dish_map = get_dish_map()
     item_map = convert_to_item_map(dish_map)
     return item_map
+
+
+def get_dish_to_meal_map():
+    dish_to_meal = {}
+    dish_to_meal[OATS_DOSA] = [BREAK_FAST, DINNER]
+    dish_to_meal[EGG_CURRY] = [LUNCH, DINNER]
+    dish_to_meal[ORANGE_JUICE] = [BREAK_FAST]
+    dish_to_meal[BOILED_EGGS] = [BREAK_FAST]
+    dish_to_meal[APPLE] = [BREAK_FAST]
 
 
 if __name__ == "__main__":
