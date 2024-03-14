@@ -144,8 +144,7 @@ From https://www.wsj.com/articles/early-alameda-staffers-quit-after-battling-sam
   * risk, compliance and accounting
 From https://www.wsj.com/articles/u-s-government-to-backstop-mortgages-above-1-million-mark-for-first-time-11669740331
   * The maximum size of home-mortgage loans eligible for backing by Fannie Mae and Freddie Mac will rise to \$1,089,300 next year in a few expensive markets, from \$970,800 this year
-  * FHFA = the Federal Housing Finance Agency
-  * FHFA oversees mortgage-finance giants
+
   * For most parts of the country, loan limits will rise to \$726,200 from a 2022 maximum of \$647,200
   * By law, loan limits are calculated annually using a formula that factors in average housing prices.
   * about 100 counties and county equivalents, out of about 3,000 across the U.S. are designated as high-cost markets

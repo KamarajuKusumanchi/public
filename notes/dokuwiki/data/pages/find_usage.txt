@@ -57,3 +57,80 @@ tags | process the output of find
 
 ==== find and sort ====
 See: https://unix.stackexchange.com/questions/34325/sorting-the-output-of-find
+
+==== copy all txt files in a directory to another ====
+
+<code>
+find $SRC_DIR -maxdepth 1 -iname '*.txt' -exec cp -vt $DEST_DIR {} +
+</code>
+
+Note: The $DEST_DIR must exist. Otherwise it will throw an error.
+
+The difference between this and ''cp $SRC_DIR/*.txt $DEST_DIR'' is that the latter throws an error if there are no txt files in $SRC_DIR. The find command simply completes even if there are no files.
+
+Sample run
+
+
+
+<code>
+$ mkdir -p x1/x2 x3
+$ touch x1/file1.txt x1/file1.pdf x1/file2.txt x1/x2/file3.txt
+
+$tree
+.
+├── x1
+│   ├── file1.pdf
+│   ├── file1.txt
+│   ├── file2.txt
+│   └── x2
+│       └── file3.txt
+└── x3
+
+3 directories, 4 files
+
+$find x1 -maxdepth 1 -iname '*.txt' -exec cp -vt x3 {} +
+`x1/file1.txt' -> `x3/file1.txt'
+`x1/file2.txt' -> `x3/file2.txt'
+
+$tree
+.
+├── x1
+│   ├── file1.pdf
+│   ├── file1.txt
+│   ├── file2.txt
+│   └── x2
+│       └── file3.txt
+└── x3
+    ├── file1.txt
+    └── file2.txt
+
+3 directories, 6 files
+</code>
+
+Without the -maxdepth option, all files underneath $SRC_DIR will be copied. The directory hierarchy is not preserved. For example, while files in x1 are copied to x3 so are the files in x1/x2 etc.,
+
+
+
+<code>
+$ rm -rf x3
+$ mkdir x3
+$ find x1 -iname '*.txt' -exec cp -vt x3 {} +
+`x1/x2/file3.txt' -> `x3/file3.txt'
+`x1/file1.txt' -> `x3/file1.txt'
+`x1/file2.txt' -> `x3/file2.txt'
+
+$ tree
+.
+├── x1
+│   ├── file1.pdf
+│   ├── file1.txt
+│   ├── file2.txt
+│   └── x2
+│       └── file3.txt
+└── x3
+    ├── file1.txt
+    ├── file2.txt
+    └── file3.txt
+
+3 directories, 7 files
+</code>

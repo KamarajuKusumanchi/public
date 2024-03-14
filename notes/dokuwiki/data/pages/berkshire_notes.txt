@@ -37,7 +37,7 @@ So, the operating earnings in Q1 of 2023 are
 </code>
 and the operating earnings in Q1 of 2022 are
 <code>
->>> 5580 + 1580
+>>> 5580 - (-1580)
 7160
 </code>
 
@@ -62,8 +62,8 @@ Go to the annual report https://www.berkshirehathaway.com/2022ar/2022ar.pdf . Yo
 
 <code>
 https://www.berkshirehathaway.com/ -> Annual & Interim Reports
--> Year link corresponding to (row, column) = (2022; Annual)
--> Click on "2022 Annual Report (PDF file)" .
+-> Year link corresponding to (row, column) = (2022, Annual)
+-> Click on "2022 Annual Report (PDF file)"
 </code>
 
 In the annual report, go to pg-86 (K-70)
@@ -79,6 +79,29 @@ Railroad, Utilities and Energy:
 </code>
 
 Summing up all these numbers gives \$128,585. So Berkshire has about \$129 billion in cash.
+
+See also:
+  * https://github.com/KamarajuKusumanchi/market_data/blob/master/berkshire/cash.txt - Berkshire's cash by quarter.
+
+==== How much cash does Berkshire hold at the end of Q2 2023? ====
+Go to the Q2 2023 report https://berkshirehathaway.com/qtrly/2ndqtr23.pdf. You can also go there via
+<code>
+https://berkshirehathaway.com/ -> Annual & Interim Reports
+-> Link corresponding to (row, column) = (2023, 2nd Quarter)
+-> Click on "2023 Second Quarter Report (PDF file)"
+</code>
+
+In the quarterly report, go to pg-3 in PDF (pg-2 in document) -> Consolidated Balance Sheets
+<code>
+                  (dollars in millions)
+                                                   June 30, 2023
+Insurance and Other:
+  Cash and cash equivalents                        $44,611
+  Short-term investments in U.S. Treasury Bills    $97,322
+Railroad, Utilities and Energy:
+  Cash and cash equivalents                        $ 5,444
+</code>
+Summing up all these numbers gives \$147,377. So Berkshire has about \$147 billion in cash at the end of Q2 2023.
 
 See also:
   * https://github.com/KamarajuKusumanchi/market_data/blob/master/berkshire/cash.txt - Berkshire's cash by quarter.

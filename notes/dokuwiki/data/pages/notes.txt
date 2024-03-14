@@ -253,11 +253,14 @@
   * [[music notes]]
   * [[uscis notes]]
   * [[payflex notes]]
+  * [[yalist notes]]
+  * [[dividends]]
 
 ==== by date ====
   * [[reading journal 2023]]
   * [[reading journal 2022]]
   * [[reading journal 2021]]
+  * [[TIL 2024]]
   * [[TIL 2023]]
   * [[TIL 2022]]
   * [[TIL 2021]]

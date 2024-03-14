@@ -25,3 +25,7 @@
 | West | Mountain | 8 |
 | West | Pacific | 5 |
 </WRAP></WRAP>
+
+  * https://www2.census.gov/geo/pdfs/maps-data/maps/reference/us_regdiv.pdf - Census region map
+    * Shows which US states belong to which region
+    * There are 4 regions in the maps - West, Midwest, South, Northeast

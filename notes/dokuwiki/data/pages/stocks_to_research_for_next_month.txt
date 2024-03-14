@@ -1,5 +1,11 @@
 tags | stocks to watch for next month, companies I came across
 
+==== 2024-02-26 ====
+  * WU - Western Union
+    * 7.44% dividend; 7.61 P/E; 7.19 Forward P/E; 55.83% payout ratio
+    * \$12.80
+    * \$4.38 B market cap
+
 ==== 2024-01-23 ====
   * BABA - Alibaba Group Holding Ltd ADR
     * Came across it in https://www.barrons.com/amp/articles/alibaba-stock-buybacks-d7bf7edb

@@ -1,5 +1,6 @@
-==== dummy ====
+===== dummy =====
 
+==== Example 1 ====
 Example: 912797JA6 is a tbill with a maturity of 28 days. It was sold for $99.5905 on 2023-12-21. What is the yield?
 
 Ans:
@@ -9,19 +10,19 @@ For tbills of not more than half-year maturity, the yield is calculated as
 i = ((100 - P)/P) * (y/r)
 </code>
 
-where y is 366, r is the days to maturity.
+where y is the days in year, r is the days to maturity.
 
 <code>
-In [25]:
-def tbill_yield(P, r):
-    y = 366
-    i = ((100 - P) / P) * (y/r)
-    i = round(i*100, 3)
-    return(i)
+In [1]: 
+def tbill_yield_short_maturity(P, r, y):
+    i = ((100 - P) / P) * (y / r)
+    i = round(i * 100, 3)
+    return i
+ 
 
-In [26]:
-tbill_yield(99.5905, 28)
-Out[26]:
+In [2]: 
+tbill_yield_short_maturity(99.5905, 28, 366)
+Out[2]: 
 5.375
 </code>
 
@@ -36,7 +37,7 @@ Ref:
   * https://www.treasurydirect.gov/instit/annceresult/press/preanre/2023/R_20231221_1.pdf shows that it is 28-day tbill, was sold on 2023-12-21 at a price of $99.590500 for an "Investment Rate" of 5.375%. This "Investment Rate" is same as the yield above.
 
 
-Example 2:
+==== Example 2 ====
 On https://www.treasurydirect.gov/auctions/announcements-data-results/ showed
 
 ^ Security Term	^ CUSIP ^ Issue Date ^ Maturity Date ^ High Rate ^ Investment Rate ^
@@ -46,8 +47,8 @@ It was bought on 12/28/2023, settlement date = 1/2/2024 for a price of 99.585833
 
 <code>
 In [1]: 
-from tbill_yield import tbill_yield
-tbill_yield(99.585833, 28)
+from tbill_yield import tbill_yield_short_maturity
+tbill_yield_short_maturity(99.585833, 28, 366)
 Out[1]: 
 5.436
 </code>
@@ -56,7 +57,7 @@ The 5.436 matches with the Investment Rate in the table.
 
 So 'Issue Date' in the table is the settlement date.
 
-Example 3:
+==== Example 3 ====
 On https://www.treasurydirect.gov/auctions/announcements-data-results/ showed
 ^ Security Term	^ CUSIP ^ Issue Date ^ Maturity Date ^ High Rate ^ Investment Rate ^
 | 4-Week | 912797JC2 | 01/09/2024 | 02/06/2024 | 5.290% | 5.400% |
@@ -64,19 +65,56 @@ On https://www.treasurydirect.gov/auctions/announcements-data-results/ showed
 It was bought on 01/04/2024, settlement date = 1/9/2024 for a price of 99.588556. The yield on it is
 
 <code>
-In [1]:
-from tbill_yield import tbill_yield
-tbill_yield(99.588556, 28)
-Out[1]:
+In [2]: 
+from tbill_yield import tbill_yield_short_maturity
+tbill_yield_short_maturity(99.588556, 28, 366)
+Out[2]: 
 5.4
 </code>
 
 The precision in the price matters. If you only have 4 significant digits after the decimal, the result will not match with the 'Investment Rate'
 <code>
-In [4]:
-tbill_yield(99.5885, 28)
-Out[4]:
+In [3]: 
+tbill_yield_short_maturity(99.5885, 28, 366)
+Out[3]: 
 5.401
 </code>
 
 Conclusion: Price should have 6 significant digits after the decimal.
+
+==== Example 4 ====
+https://www.treasurydirect.gov/auctions/upcoming/ -> Auction Results shows
+
+^ Bills ^ CMB ^ CUSIP ^ Issue Date ^ High Rate ^ Investment Rate ^ Price per $100 ^
+| 42-Day | Yes | 912797HF7 | 02/29/2024 | 5.290% | 5.397% | $99.382833 |
+| 42-Day | Yes | 912797GZ4 | 02/22/2024 | 5.280% | 5.401% | $99.384000 |
+
+https://www.treasurydirect.gov/auctions/announcements-data-results/ -> CMBs tab shows
+
+^ Security Term	^ CUSIP ^ Issue Date ^ Maturity Date ^ High Rate ^ Investment Rate ^
+| 42-Day | 912797HF7 | 02/29/2024 | 04/11/2024 | 5.290% | 5.397% |
+| 42-Day | 912797GZ4 | 02/22/2024 | 04/04/2024 | 5.280% | 5.401% |
+
+Combining both, we get
+^ Security Term ^ CMB ^ CUSIP ^ Issue Date ^ Maturity Date ^ High Rate ^ Investment Rate ^ Price per $100 ^
+| 42-Day | Yes | 912797HF7 | 02/29/2024 | 04/11/2024 | 5.290% | 5.397% | $99.382833 |
+| 42-Day | Yes | 912797GZ4 | 02/22/2024 | 04/04/2024 | 5.280% | 5.401% | $99.384000 |
+
+Notice how yield (Investment Rate) went down (from 5.401% to 5.397%) even though price went down (from \$99.384000 to \$99.382833) for the first entry? This is because the 'days in year' changes from 366 to 365.
+
+<code>
+$ ipython
+
+In [1]:
+from tbill_yield import tbill_yield_short_maturity
+tbill_yield_short_maturity(99.384000, 42, 366)
+Out[1]:
+5.401
+
+In [2]:
+tbill_yield_short_maturity(99.382833, 42, 365)
+Out[2]:
+5.397
+</code>
+
+Ref: https://github.com/KamarajuKusumanchi/market_data_processor/blob/master/src/tbills/tbill_yield.py -> tbill_yield_short_maturity()

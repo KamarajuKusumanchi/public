@@ -1,4 +1,32 @@
 ===== 2024 =====
+
+==== 2024-02-29 ====
+  * https://ciechanow.ski/airfoil/ - airfoil
+    * Very well written; easy to follow along; interactive; high information density; lot of information.
+
+==== 2024-02-27 ====
+  * $1 Billion Donation Will Provide Free Tuition at a Bronx Medical School
+    * https://www.nytimes.com/2024/02/26/nyregion/albert-einstein-college-medicine-bronx-donation.html
+
+==== 2024-02-26 ====
+  * https://money.stackexchange.com/questions/144755/why-qualified-dividends-are-taxed-differently-from-current-income - Why [qualified] dividends are taxed differently from current income?
+
+==== 2024-02-19 ====
+The Check 21 Act
+  * is a US federal law
+  * It allows the recipient of a paper check to create a digital version of the original, a process known as check truncation, into an electronic format called a "substitute check", thereby eliminating the need for further handling of the physical document.
+  * It was enacted on October 28, 2003.
+  * went into effect on October 28, 2004.
+from | https://en.wikipedia.org/wiki/Check_21_Act
+
+==== 2024-02-17 ====
+  * Fidelity has a cool feature called “Full View” wherein you can add all your other accounts (brokerage, 401k, bank accounts etc.,) and track your net worth for free.
+    * https://www.fidelity.com/go/monitoring-your-financial-portfolio
+
+==== 2024-01-29 ====
+  * https://thefinancebuff.com/rent-by-choice-beyond-numbers.html - Beyond the Numbers: a Closer Look at Renting By Choice
+
+
 ==== 2024-01-28 ====
   * The 2023 U.S. economy, in a dozen charts - https://www.cnbc.com/2024/01/07/the-2023-us-economy-in-charts.html
 

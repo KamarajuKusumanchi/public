@@ -208,6 +208,10 @@ https://www.dokuwiki.org/search#search_within_a_namespace
   * https://www.dokuwiki.org/plugin:qna
   * https://www.dokuwiki.org/plugin:mathjax
   * https://www.dokuwiki.org/plugin:move
+  * https://www.dokuwiki.org/plugin:yalist
+    * for | nested lists, definition lists etc.,
+  * https://www.dokuwiki.org/plugin:yearbox
+    * using this to maintain a journal
 
 ==== plugins I am exploring ====
   * https://www.dokuwiki.org/plugin:tabbox
@@ -222,7 +226,6 @@ https://www.dokuwiki.org/tips:book mentions two plugins that are useful for crea
   * https://www.dokuwiki.org/plugin:gh
   * https://www.dokuwiki.org/plugin:pycode
 \\
-  * https://www.dokuwiki.org/plugin:yalist
   * https://www.dokuwiki.org/plugin:publish
 
 ==== conflicting plugins ====

@@ -17,8 +17,14 @@ Settings -> Notifications -> App notifications -> Select Fidelity -> Slide right
 ==== why fidelity ====
   * Automatic sweep of uninvested cash into money market funds
     * FWIW, this is not available in Schwab. [asof | 2023-09-21]
-  * Customer service is great. [today | 2023-09-22]
-  * Treasuries can be automtically rolled over. [today | 2023-12-29]
+  * Customer service is great. [today | 2023-09-22, 2024-02-20]
+  * Treasuries can be automatically rolled over. [today | 2023-12-29]
+  * [today | 2024-02-20] It has a cool feature called “Full View” wherein you can add all your other accounts (brokerage, 401k, bank accounts etc.,) and track your net worth for free.
+    * https://www.fidelity.com/go/monitoring-your-financial-portfolio
+
+==== Fidelity vs. Schwab ====
+  * Fidelity offers true treasury autoroll with no time out of the market. Schwab keeps your money out of the market 1 week and gives no interest.
+  * Fidelity will autoliquidate retail money market funds to settle withdrawals, ACH payments and security purchases. So you can keep money in a higher yielding money market fund instead of a settlement fund. Schwab does not offer this, and requires a manual sale of a money market fund.
 
 ==== Core positions ====
 
