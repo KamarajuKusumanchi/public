@@ -1,3 +1,11 @@
+==== cash back rewards ====
+  * [asof | 2024-02-01] If you earn \$300 or more in cash back rewards, you can deposit the reward certificate directly into your bank. [1]
+
+  * [asof | 2024-03-14] You can encash the entire Costco Citi credit card reward certificate at Costco without purchasing anything. Only the rewards from Costco membership requires a purchase. But the credit card rewards does not require a purchase.
+
+Ref:-
+  * [1] https://www.reddit.com/r/Costco/comments/1agikui/there_is_a_new_way_to_redeem_your_costco_citi/
+
 ==== links I came across ====
   * https://tires.costco.com/
     * You can get the make and model of a car by entering license plate information in here.
@@ -19,6 +27,8 @@ https://investor.costco.com/stock-info/dividend-history/default.aspx -> "Dividen
 ==== dummy ====
   * Asof 2023-09-25, Costco has about 125 million cardholders worldwide, and generates roughly 70% of sales in the US.
     * Ref:- https://www.bloomberg.com/news/articles/2023-09-25/costco-offers-health-care-to-members-in-deal-with-sesame-cost?srnd=premium
+  * Charlie Munger served on Costco’s board from 1997 until his death in 2023
+
 
 ==== Morganville Costco ====
   * Costco does not do check printing anymore.
