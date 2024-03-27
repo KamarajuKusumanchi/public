@@ -5,3 +5,7 @@
 ==== Roth IRA ====
   * For married couples filing jointly, the income phaseout range for making contributions to a Roth IRA will increase to between \$230,000 and \$240,000, up from a range of \$218,000 to \$228,000. (Those making under the threshold can contribute up to the full amount, those making in between can contribute a reduced amount, and those making over can’t contribute anything to a Roth.)
     * https://www.barrons.com/amp/articles/401k-ira-retirement-contribution-limits-irs-31ceeacf
+
+==== Roth 401k vs. Roth IRA ====
+  * https://www.reddit.com/r/fidelityinvestments/comments/1bjstmf/roth_401k_or_roth_ira/
+    * The reply from Fidelity_JennyK has lots of information.

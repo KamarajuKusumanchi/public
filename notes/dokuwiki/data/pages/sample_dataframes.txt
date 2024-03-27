@@ -1,0 +1,29 @@
+==== groups, random integers, and random floats ====
+<code>
+In [6]: 
+import pandas as pd
+import numpy as np
+rand = np.random.RandomState(1)
+df = pd.DataFrame({'A': ['foo', 'bar'] * 3,
+                   'B': rand.randn(6),
+                   'C': rand.randint(0, 20, 6)})
+
+In [7]: 
+print(df)
+     A         B   C
+0  foo  1.624345   5
+1  bar -0.611756  18
+2  foo -0.528172  11
+3  bar -1.072969  10
+4  foo  0.865408  14
+5  bar -2.301539  18
+</code>
+
+Useful for things like
+<code>
+In [8]: 
+gb = df.groupby(['A'])
+</code>
+
+Ref:
+  * Found it in https://stackoverflow.com/questions/14734533/how-to-access-subdataframes-of-pandas-groupby-by-key

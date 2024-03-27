@@ -236,6 +236,8 @@ dtype: int64
 Ref: https://stackoverflow.com/questions/49859182/understanding-level-0-and-group-keys
 
 ==== extract groupby object by key ====
+tags | pandas groupby filter a group
+
   * groups.get_group(key_value) if grouping on a single column
   * groups.get_group(key_value_tuple) if grouping on multiple columns.
 <code>
@@ -316,6 +318,68 @@ Out[10]:
 3  bar  0  4
 5  bar  0  6
 </code>
+
+==== groupby slicing ====
+Consider
+<code>
+In [1]: 
+import pandas as pd
+import numpy as np
+rand = np.random.RandomState(1)
+df = pd.DataFrame({'A': ['foo', 'bar'] * 3,
+                   'B': rand.randn(6),
+                   'C': rand.randint(0, 20, 6)})
+
+In [2]: 
+df
+Out[2]: 
+     A         B   C
+0  foo  1.624345   5
+1  bar -0.611756  18
+2  foo -0.528172  11
+3  bar -1.072969  10
+4  foo  0.865408  14
+5  bar -2.301539  18
+</code>
+
+Group by on column 'A'
+<code>
+In [3]: 
+gb = df.groupby(['A'])
+</code>
+
+You can use get_group() to get a single group
+<code>
+In [4]: 
+gb.get_group('foo')
+Out[4]: 
+     A         B   C
+0  foo  1.624345   5
+2  foo -0.528172  11
+4  foo  0.865408  14
+</code>
+
+You can select different columns using the groupby slicing:
+<code>
+In [5]: 
+gb[['A', 'B']].get_group('foo')
+Out[5]: 
+     A         B
+0  foo  1.624345
+2  foo -0.528172
+4  foo  0.865408
+
+In [6]: 
+gb[['C']].get_group('foo')
+Out[6]: 
+    C
+0   5
+2  11
+4  14
+</code>
+
+Ref:
+  * https://stackoverflow.com/questions/14734533/how-to-access-subdataframes-of-pandas-groupby-by-key
 
 ==== apply a function on each group ====
 Note:- think of a better function for black_ops. The current function does not really demand a groupby. We can simply do those column operations on the top level dataframe

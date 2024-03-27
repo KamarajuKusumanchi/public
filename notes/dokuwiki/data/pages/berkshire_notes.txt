@@ -105,3 +105,6 @@ Summing up all these numbers gives \$147,377. So Berkshire has about \$147 billi
 
 See also:
   * https://github.com/KamarajuKusumanchi/market_data/blob/master/berkshire/cash.txt - Berkshire's cash by quarter.
+
+==== What are the holdings of Berkshire? ====
+  * https://www.cnbc.com/berkshire-hathaway-portfolio/ - shows the holdings of Berkshire.

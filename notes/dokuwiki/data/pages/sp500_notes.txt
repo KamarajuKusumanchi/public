@@ -1,7 +1,11 @@
 ==== current pe of sp500 ====
 tags | pe, yields
 
-See https://www.wsj.com/market-data/stocks/peyields . It gives
+https://www.multpl.com/s-p-500-pe-ratio/table/by-month - SP500 PE Ratio by Month
+  * monthly PE going all the way back to 1871-01-01
+  * Also gives PE for today
+
+https://www.wsj.com/market-data/stocks/peyields gives
   * P/E ratio for
     * the trailing 12 months
     * a year ago (for trailing 12 months)

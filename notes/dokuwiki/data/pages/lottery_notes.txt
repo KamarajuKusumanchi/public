@@ -27,3 +27,7 @@
 ==== links I came across ====
   * https://www.powerball.com/games/home#winning-numbers - powerball winning numbers
   * https://www.megamillions.com/Winning-Numbers.aspx - megamillions winning numbers
+
+==== Which states won the highest jackpots recently? ====
+  * https://www.powerball.net/winners -> search for "Powerball Jackpots Won (Most Recent First)" -> The table below the hit gives (state, date, jackpot value) from which you can deduce which state won the highest jackpot.
+    * Asof 2024, California seems to be winning highest in dollar value.

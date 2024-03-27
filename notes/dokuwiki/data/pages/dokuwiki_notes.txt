@@ -1,6 +1,32 @@
 ==== tasks ====
   * [[random_page#generate_a_random_page | generate a random page]]
 
+==== how to write question and answers ====
+tags | qna, Q&A
+
+You can use
+<code>
+:?: Question \\
+:!: Answer
+</code>
+It will render as
+
+:?: Question \\
+:!: Answer
+
+It also works with lists. For example
+<code>
+  * :?: Question
+  * :!: Answer
+</code>
+will render as
+  * :?: Question
+  * :!: Answer
+
+See also:
+  * https://forum.dokuwiki.org/d/3686-questions-and-answers-style - where I found this trick
+  * https://www.dokuwiki.org/plugin:qna
+
 ==== convert mediawiki page to dokuwiki ====
 <code>
 pandoc -f mediawiki -t dokuwiki --shift-heading-level-by=-1 mw.txt -o dk.txt
@@ -211,7 +237,10 @@ https://www.dokuwiki.org/search#search_within_a_namespace
   * https://www.dokuwiki.org/plugin:yalist
     * for | nested lists, definition lists etc.,
   * https://www.dokuwiki.org/plugin:yearbox
-    * using this to maintain a journal
+    * using this to maintain a journal in [[:diary:]]
+  * https://www.dokuwiki.org/plugin:const
+    * using this to parameterize the value of ''year'' in pages such as [[:diary:yearbox_2023]], [[:diary:yearbox_2024]]
+    * tags | variable in page content
 
 ==== plugins I am exploring ====
   * https://www.dokuwiki.org/plugin:tabbox
@@ -227,6 +256,10 @@ https://www.dokuwiki.org/tips:book mentions two plugins that are useful for crea
   * https://www.dokuwiki.org/plugin:pycode
 \\
   * https://www.dokuwiki.org/plugin:publish
+\\
+https://diyfuturism.com/index.php/2018/01/01/how-to-set-up-a-personal-wiki-with-configuration-for-common-use-cases-like-recipes-and-journaling/ talks about TemplatePageName plugin
+  * https://www.dokuwiki.org/plugin:templatepagename
+    * https://www.dokuwiki.org/namespace_templates
 
 ==== conflicting plugins ====
   * https://www.dokuwiki.org/plugin:edittable - seems nice. But it is conflicting with https://www.dokuwiki.org/plugin:wrap . For example, if I have a cell with a list of items, and if I install the edittable plugin and then try to edit that table, the cell contents are not longer rendered as a list.
@@ -305,6 +338,7 @@ bar
 ==== useful links ====
   * https://namespace-cpp.de/std/doku.php/wiki/quicksyntax - cheatsheet on dokuwiki syntax
     * provides an example on how to put content into two or more columns.
+  * https://www.dokuwiki.org/namespace_templates - Namespace Templates
 
 ==== multiple lines in table cell ====
 Install the wrap plugin and do something like
@@ -361,3 +395,9 @@ adminplugins
 ~~INFO:adminplugins~~
 
 Ref:- https://www.dokuwiki.org/plugin:info
+
+==== link to a namespace ====
+You can use ''<nowiki>[[:ns:]]</nowiki>''. For example ''<nowiki>[[:diary:]]</nowiki>'' will render as [[:diary:]].
+
+Ref:-
+  * Found this tip in https://www.dokuwiki.org/namespaces . It covers a lot of other scenarios besides the above.

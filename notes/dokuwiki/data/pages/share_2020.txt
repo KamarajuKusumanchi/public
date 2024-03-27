@@ -42,8 +42,6 @@
 
   * 2020-10-03 https://www.medrxiv.org/content/10.1101/2020.07.29.20164020v1 \\ Researchers suggest that while diabetes is an independent risk factor for COVID-19-related mortality, this risk is dramatically reduced in subjects taking metformin, raising the possibility that metformin may provide a protective approach in this high risk population. Metformin is a cheap and popular anti-diabetes drug.
 
-  * 2020-10-01 [[https://www.biznews.com/wp-content/uploads/2014/09/illustration-7.png]] (biznews.com) \\ tags | things that matter, things you can control, venn diagram \\ referenced in | https://www.biznews.com/thought-leaders/2014/09/16/investing-guru-carl-richards-6-ways-finance-industry-can-reform-change-investing-world -> scroll all the way to the bottom to point 6, "Let go".
-
 ==== 2020-09 ====
   * 2020-09-28 [[https://www.iquilezles.org/blog/?p=4582|Babylonian Multiplication in the shower]] (iquilezles.org)\\ https://i.imgur.com/CHYYhn6.png gives an explanation.
 
