@@ -384,6 +384,26 @@ Ref:-
 
 tags | <nowiki>--find-links</nowiki>, pip config local packages, how to specify local repo location for pip packages, conda install pip package from a "local directory"
 
+==== specify package version with git+https ====
+<code>
+name: test_chessli
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas=1.5.3
+  - pip
+  - pip:
+    - chessli
+    - git+https://github.com/lervag/apy.git@v0.6.0#egg=apy
+</code>
+
+Ref:-
+  * https://stackoverflow.com/questions/47617552/how-can-i-specify-a-custom-git-branch-in-my-pipfile - where I found the answer
+  * https://github.com/lervag/apy/tags?after=v0.9.1 - versions of the api package < 0.9.1
+
+tags | pip "git+https" release, conda "git+https" release, conda git depend on a "specific release", specify package version with git+https in conda environment file
+
 ===== dummy =====
 
 ==== create an environment on the fly ====
