@@ -125,3 +125,6 @@ From https://www.bogleheads.org/forum/viewtopic.php?p=7555257#p7555257
 
 Ref:-
   * [1] - https://www.reddit.com/r/fidelityinvestments/comments/1bkji5f/money_transfer_lockdown_on_529_account/
+
+==== endorsing checks ====
+  * Write "For deposit only to Fidelity", sign it and write date.

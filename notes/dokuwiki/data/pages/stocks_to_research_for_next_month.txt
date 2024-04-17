@@ -1,6 +1,6 @@
 tags | stocks to watch for next month, companies I came across
 
-==== 2024-02-26 ====
+==== 2024-03-21 ====
   * WU - Western Union
     * Per https://finviz.com/quote.ashx?t=WU&p=d
       * 6.86% dividend; 8.15 P/E; 7.70 Forward P/E; 55.83% payout ratio

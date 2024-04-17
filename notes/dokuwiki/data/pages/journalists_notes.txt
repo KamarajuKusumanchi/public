@@ -82,3 +82,6 @@ Ref:- comments in https://news.ycombinator.com/item?id=18267460
 
 ==== regurgitation ====
   * <nowiki>http://www.frequentbusinesstraveler.com/2020/01/state-department-urges-u-s-citizens-to-leave-iraq-immediately</nowiki> is just a blogspam of the original State Dept announcement: https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Iraq.html. Instead of visiting <nowiki>http://www.frequentbusinesstraveler.com</nowiki>, try to go directly to the primary source.
+
+==== spaghetti ====
+  * Geoff Nudelman write spaghetti articles (convoluted; difficult to read). For example, https://www.barrons.com/articles/billionaire-ken-griffin-donates-50-million-to-fund-florida-hospital-neuroscience-care-expansion-90ee7cff?mod=article_inline&mod=hp_LEADSUPP_3 . Try to skip this author if possible.
