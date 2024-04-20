@@ -334,6 +334,9 @@ bar
   * https://www.dokuwiki.org/index
   * https://www.dokuwiki.org/faq:lists has answers for
     * How to put line breaks in lists?
+  * https://www.dokuwiki.org/faq:approval has answer for
+    * approve edits on dokuwiki
+
 
 ==== useful links ====
   * https://namespace-cpp.de/std/doku.php/wiki/quicksyntax - cheatsheet on dokuwiki syntax
