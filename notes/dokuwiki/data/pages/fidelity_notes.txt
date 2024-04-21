@@ -1,3 +1,11 @@
+==== why fidelity ====
+  * Automatic sweep of uninvested cash into money market funds
+    * FWIW, this is not available in Schwab. [asof | 2023-09-21]
+  * Customer service is great. [today | 2023-09-22, 2024-02-20]
+  * Treasuries can be automatically rolled over. [today | 2023-12-29]
+  * [today | 2024-02-20] It has a cool feature called “Full View” wherein you can add all your other accounts (brokerage, 401k, bank accounts etc.,) and track your net worth for free.
+    * https://www.fidelity.com/go/monitoring-your-financial-portfolio
+
 ==== securing the account ====
   * Enable two factor authentication
   * Turn on money transfer lockdown (MTL)
@@ -21,14 +29,6 @@ Sort by the Maturity column
 To turn on the push notifications from Fidelity app in Android
 
 Settings -> Notifications -> App notifications -> Select Fidelity -> Slide right
-
-==== why fidelity ====
-  * Automatic sweep of uninvested cash into money market funds
-    * FWIW, this is not available in Schwab. [asof | 2023-09-21]
-  * Customer service is great. [today | 2023-09-22, 2024-02-20]
-  * Treasuries can be automatically rolled over. [today | 2023-12-29]
-  * [today | 2024-02-20] It has a cool feature called “Full View” wherein you can add all your other accounts (brokerage, 401k, bank accounts etc.,) and track your net worth for free.
-    * https://www.fidelity.com/go/monitoring-your-financial-portfolio
 
 ==== Fidelity vs. Schwab ====
   * Fidelity offers true treasury autoroll with no time out of the market. Schwab keeps your money out of the market 1 week and gives no interest.
@@ -128,3 +128,11 @@ Ref:-
 
 ==== endorsing checks ====
   * Write "For deposit only to Fidelity", sign it and write date.
+
+==== qna ====
+-----
+:?: Can I buy treasuries in fidelity brokerage account?
+
+:!: Yes, you can. There are positives and negatives between buying at TreasuryDirect vs. a brokerage account like Fidelity. TreasuryDirect allows you to buy in increments of \$100 vs. \$1,000 at Fidelity. You can sell them before maturity at Fidelity which is not possible in TreasuryDirect. More details at 
+https://thefinancebuff.com/treasury-bills-cd-money-market.html . FWIW, I use Fidelity but I suggest you to go through the above link and decide yourself.
+----
