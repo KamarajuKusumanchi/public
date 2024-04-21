@@ -1,0 +1,25 @@
+-----
+Notes from https://www.bloomberg.com/news/features/2024-02-21/car-washes-are-taking-over-the-us-here-s-why
+  * Mister Car Wash, a chain picked up by private equity firm Leonard Green & Partners that has gone public and now has more than 400 US locations,
+  * national chains like Mister Car Wash and Zips Car Wash
+
+-----
+tags | things that matter, things you can control, venn diagram
+
+{{:matter_control_focus.png}}
+
+Downloaded this from https://i0.wp.com/bekind2you.com/wp-content/uploads/2017/02/focus-on-control.png which is referenced in https://bekind2you.com/focus-on-what-you-can-control-let-go-of-the-rest/
+
+-----
+Notes from https://learn.microsoft.com/en-us/sql/t-sql/statements/disable-trigger-transact-sql?view=sql-server-ver16 - disable trigger (Transact-SQL)
+  * What is a DML trigger?
+  * What is a DDL trigger?
+  * What are the differences between a DML trigger and a DDL trigger?
+
+-----
+https://turbotax.intuit.com/tax-tips/home-ownership/tax-aspects-of-home-ownership-selling-a-home/L6tbMe3Dy - Tax Aspects of Home Ownership: Selling a Home
+
+-----
+https://www.wsj.com/economy/housing/once-americas-hottest-housing-market-austin-is-running-in-reverse-94226027 - Once America’s Hottest Housing Market, Austin Is Running in Reverse
+
+-----

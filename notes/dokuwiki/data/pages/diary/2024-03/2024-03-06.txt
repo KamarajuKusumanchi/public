@@ -1,0 +1,33 @@
+----
+tags | Saver's Match
+
+1)
+  * https://crsreports.congress.gov/product/pdf/IF/IF11159 - The Retirement Savings Contribution Credit and the Saver’s Match
+    * comprehensive; high information density with good amount of details, examples
+
+Notes
+  * SECURE 2.0 created a federal Saver’s Match to replace the Saver’s Credit in 2027
+
+
+2)
+  * Notes from https://finance.yahoo.com/news/federal-government-match-retirement-plan-110000901.html?guccounter=1 <WRAP group><WRAP column>
+^ filing status ^ threshold 1 ^ threshold 2 ^
+| Single filers | \$20,500 | \$35,500 |
+| Joint filers | \$41,000 | \$71,000 |
+| Head of household | \$30,750 | \$53,250 |
+</WRAP></WRAP>
+  * <WRAP group><WRAP column><code>
+if income < threshold1:
+  eligible = True
+  max_match = 1000
+elif income < threshold2:
+  eligible = True
+  phase_out = True
+else:
+  eligible = False
+</code></WRAP></WRAP>
+
+----
+  * https://en.wikipedia.org/wiki/Capital_gains_tax_in_the_United_States - Capital gains tax in the United States
+
+----

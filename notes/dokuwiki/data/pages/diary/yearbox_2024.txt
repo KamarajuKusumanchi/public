@@ -1,0 +1,11 @@
+<const>
+year=2024
+</const>
+
+{{yearbox>year=%%year%%;ns=diary;name=}}
+~~NOCACHE~~
+
+<nspages -tree -r -subns -pagesInNs -pregNSOn="/%%year%%/i" -pregPagesOn="/%%year%%|^yearbox|^start/i" -textNs="Page tree" -reverse>
+
+Policy:
+  * Only show pages corresponding to just this year but provide links to other years and to the start page

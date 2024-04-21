@@ -1,0 +1,17 @@
+==== 2024-03-28 ====
+Notes from https://www.barrons.com/amp/articles/home-depot-to-acquire-srs-distribution-bfd55f53
+  * Home Depot
+    * will buy SRS Distribution for $18.25 billion including debt
+    * Chairman and CEO Ted Decker
+    * will be funded by cash on hand and debt
+  * SRS Distribution
+    * owned by private-equity firms Leonard Green & Partners and Berkshire Partners
+    * It is a specialty trade distribution company serving professional contractors, specifically roofers, landscapers, and pool specialists
+
+:?: Is SRS distribution a public company or a private company? \\
+:!: It is a private company as per https://pitchbook.com/profiles/company/56158-48#overview
+
+:?: Is Berkshire Partners related to Berkshire Hathaway? \\
+:!: No.
+As per https://www.peakframeworks.com/post/berkshire-partners-overview
+>Despite its name, Berkshire Partners has no relation to Warren Buffett or Berkshire Hathaway.

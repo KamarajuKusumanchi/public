@@ -1,0 +1,26 @@
+Q. What is the difference between "https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean" and "https://github.com/iamadamdev/bypass-paywalls-chrome"
+
+A.
+
+| repo link | https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean | https://github.com/iamadamdev/bypass-paywalls-chrome |
+| repo name | Bypass Paywalls Chrome Clean | Bypass Paywalls |
+
+For brevity, let's call "Bypass Paywalls Chrome Clean" as BPC and "Bypass Paywalls" as BP.
+
+Notes:
+  * BPC is a fork of BP created by magnolia1234
+  * BPC has some additional features
+  * BPC is cleaner because it removes Google Analytics but BP has it and refused to remove it.
+
+Ref:-
+  * https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/issues/1
+  * https://news.ycombinator.com/item?id=34601064
+
+On 2023-10-18, I wanted to report that barrons.com is not working with https://github.com/iamadamdev/bypass-paywalls-chrome . But I could not. https://github.com/iamadamdev/bypass-paywalls-chrome/issues/new gave the following notice.
+<code>
+An owner of this repository has limited the ability to open an issue to users that have contributed to this repository in the past.
+</code>
+
+barrons.com worked out of the box with https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean .
+
+Till now I was using BP. But decided to move to BPC going forward.

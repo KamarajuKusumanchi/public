@@ -1,0 +1,97 @@
+==== today | 2024-02-04 ====
+
+Issue:
+
+/var/log/syslog shows a lot of
+<code>
+2024-02-04T00:08:31.821628-05:00 hogwarts kwin_x11[1679]: qt.qpa.xcb: QXcbConnection: XCB error: 9 (BadDrawable), sequence: 48439, resource id: 25259764, major code: 14 (GetGeometry), minor code: 0
+</code>
+
+how to fix it?
+
+<code>
+% lsb_release -a
+No LSB modules are available.
+Distributor ID: Debian
+Description:    Debian GNU/Linux 12 (bookworm)
+Release:        12
+Codename:       bookworm
+</code>
+
+<code>
+% date
+Sun Feb  4 11:15:27 AM EST 2024
+</code>
+
+Do I have any obsolete qt packages?
+<code>
+rajulocal@hogwarts ~ % apt list "?obsolete" | grep qt
+...
+qml-module-qtquick-controls-styles-breeze/now 4:5.14.5-1 amd64 [installed,local]
+qtcore4-l10n/now 4:4.8.7+dfsg-18+deb10u1 all [installed,local]
+</code>
+
+purged both qtcore4-l10n, qml-module-qtquick-controls-styles-breeze
+
+How many obsolete packages are on my system at the moment?
+<code>
+rajulocal@hogwarts ~ % date
+Sun Feb  4 12:05:22 PM EST 2024
+rajulocal@hogwarts ~ % apt list -- '?obsolete' 2>/dev/null | wc -l
+145
+</code>
+
+Todo: check if it fixed the problem.
+
+==== today | 2024-02-11 ====
+
+/var/log/syslog still shows a lot of
+<code>
+2024-02-11T21:13:14.668404-05:00 hogwarts kwin_x11[1634]: qt.qpa.xcb: QXcbConnection: XCB error: 9 (BadDrawable), sequence: 59688, resource id: 36780747, major code: 14 (GetGeometry), minor code: 0
+</code>
+
+Are there any obsolete packages installed?
+<code>
+% apt list "?obsolete" 2>/dev/null | wc -l
+97
+</code>
+
+Removed a bunch of obsolete packages and got it down to
+<code>
+% apt list "?obsolete" 2>/dev/null | wc -l
+80
+</code>
+
+Useful command
+<code>
+% apt list "?obsolete" 2>/dev/null | cut -f 1 -d '/' | popsort.py
+</code>
+
+Todo: check if it fixed the problem.
+
+==== today | 2024-02-14 ====
+
+/var/log/syslog still shows a lot of
+<code>
+2024-02-14T00:24:42.925628-05:00 hogwarts kwin_x11[1630]: qt.qpa.xcb: QXcbConnection: XCB error: 9 (BadDrawable), sequence: 65090, resource id: 25543376, major code: 14 (GetGeometry), minor code: 0
+</code>
+
+How many obsolete packages are installed?
+<code>
+% apt list "?obsolete" 2>/dev/null | wc -l
+79
+</code>
+
+Identify some obsolete packages and delete them
+<code>
+apt list "?obsolete" 2>/dev/null | cut -f 1 -d '/' | popsort.py
+</code>
+
+Got the number of obsolete packages down to
+<code>
+ % apt list "?obsolete" 2>/dev/null | wc -l
+48
+</code>
+
+Todo:- Check if the problem still exists.
+

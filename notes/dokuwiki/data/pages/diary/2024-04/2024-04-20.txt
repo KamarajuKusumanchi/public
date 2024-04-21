@@ -1,0 +1,9 @@
+==== 2024-04-20 ====
+Notes from https://en.wikipedia.org/wiki/Business_Development_Company
+  * A Business Development Company ("BDC") is a form of unregistered closed-end investment company in the United States that invests in small and mid-sized businesses. This form of company was created to provide small and growing companies access to capital and to enable private equity funds to access public capital markets. A BDC must invest at least 70% of its assets in nonpublic US companies with market values of less than $250 million. Moreover, like REITs, as long as 90% or more of the BDC's income is distributed to investors, a BDC is not taxed at the corporate level.
+  * Some BDCs are publicly traded, while others are not.
+  * BDCs are usually taxed as regulated investment companies (RIC)
+  * Because income is not taxed at the corporate level, distributions to investors are generally taxable for investors based on the type of income earned by the BDC. For example, ordinary income to the BDC is taxable for investors at ordinary income rates, while capital gains income to the BDC is generally taxable for investors at capital gains rates.
+
+reading journal
+  * https://en.wikipedia.org/wiki/Wildcard_DNS_record - Wildcard DNS record

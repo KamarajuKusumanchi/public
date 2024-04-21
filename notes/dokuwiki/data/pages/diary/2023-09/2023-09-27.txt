@@ -1,0 +1,6 @@
+  * Longest common subsequence - https://en.wikipedia.org/wiki/Longest_common_subsequence
+  * Longest common substring - https://en.wikipedia.org/wiki/Longest_common_substring
+  * Generalized suffix tree - https://en.wikipedia.org/wiki/Generalized_suffix_tree
+  * suffix tree
+  * Third normal form - https://en.wikipedia.org/wiki/Third_normal_form
+  * Boyce–Codd normal form - https://en.wikipedia.org/wiki/Boyce%E2%80%93Codd_normal_form

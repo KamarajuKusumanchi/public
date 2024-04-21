@@ -1,0 +1,17 @@
+==== 2024-03-30 ====
+==== dummy 1 ====
+Notes from https://www.fico.com/blogs/average-us-fico-score-717-more-consumers-face-financial-headwinds
+  * The average FICO score asof October 2023 is 717
+
+==== dummy 2 ====
+The 2024 global investment returns yearbook from UBS - https://www.ubs.com/global/en/investment-bank/in-focus/2024/global-investment-returns-yearbook.html
+
+From pg-12
+
+{{:diary:2024-03:industry_weightings_us_uk_1900_2024.png|}}
+
+
+In 1900, 63% of US stock market value was in railroads.
+
+Ref:
+  * link to the actual pdf: https://www.ubs.com/global/en/investment-bank/in-focus/2024/global-investment-returns-yearbook.html -> https://www.ubs.com/global/en/investment-bank/in-focus/2024/global-investment-returns-yearbook/_jcr_content/mainpar/toplevelgrid/col1/innergrid/xcol2/actionbutton_copy.0474491116.file/PS9jb250ZW50L2RhbS9hc3NldHMvaWIvZ2xvYmFsL2luLWZvY3VzL2RvYy91YnMtZ2xvYmFsLWludmVzdG1lbnQtcmV0dXJucy15ZWFyYm9vay0yMDI0LXN1bW1hcnktZWRpdGlvbi5wZGY=/ubs-global-investment-returns-yearbook-2024-summary-edition.pdf

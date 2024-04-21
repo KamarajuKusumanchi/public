@@ -1,0 +1,22 @@
+==== hypernym ====
+From: https://everything2.com/title/Hypernym
+  * Hypernym is a word that is more generic than a given word, representing a class, a superordinate word.
+    * Smell is a hypernym for scent, stink, fragrance, etc.
+
+
+From: https://simple.wiktionary.org/wiki/hypernym
+  * 
+    * "Insect" is a hypernym for "ant", because an ant is a type of insect.
+    * Some hypernyms of the word "cat" are "mammal", "pet", "carnivore", and "quadruped".
+
+From: https://simple.wikipedia.org/wiki/Hyponymy_and_hypernymy
+  * A hypernym is sometimes also called an umbrella term or a blanket term.
+  * Red:Color :: Hyponym:Hypernym
+  * In CS, the hyponymic relationship, the relationship between hyponyms and hypernym is often called an "is-a" relationship.
+    * For example, the phrase 'Red is-a colour' describes the hyponymic relationship between red and colour.
+
+
+See also:
+  * https://english.stackexchange.com/questions/tagged/hypernyms
+  * https://english.stackexchange.com/questions/tagged/single-word-requests
+  * https://english.stackexchange.com/questions/320749/what-is-the-single-word-category-name-for-such-things-as-breakfast-lunch-dinne

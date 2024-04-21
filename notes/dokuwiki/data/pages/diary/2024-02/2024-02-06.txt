@@ -1,0 +1,3 @@
+  * From https://www.bogleheads.org/forum/viewtopic.php?f=2&t=423547&newpost=7697827
+    * pledged asset line
+    * an asset-backed line-of-credit

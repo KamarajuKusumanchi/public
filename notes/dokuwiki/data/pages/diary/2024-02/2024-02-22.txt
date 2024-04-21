@@ -1,0 +1,20 @@
+----
+a hasya kavi once said
+<code>
+Chaar laina sunaonga
+Pasand aayi to theek hai
+Nahi to chaar aur sunaounga
+</code>
+:-)
+----
+
+Discriminant is different from determinant.
+
+  ? Discriminant
+  : The discriminant of the quadratic polynomial $a x^2 + b x + c$ is $b^2 - 4 a  c$
+  : More info at https://en.wikipedia.org/wiki/Discriminant
+  ? Determinant
+  : The determinant of a 2 × 2 matrix is $ \begin{vmatrix} a & b\\c & d \end{vmatrix} = ad-bc$
+  : More info at https://en.wikipedia.org/wiki/Determinant
+
+----

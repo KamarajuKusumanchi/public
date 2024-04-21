@@ -1,0 +1,9 @@
+-----
+  * From https://pandas.pydata.org/docs/reference/api/pandas.Series.sample.html -> Examples ->  <code>
+...
+An upsample sample of the DataFrame with replacement: ...
+</code>
+
+  * https://en.wikipedia.org/wiki/Upsampling
+
+-----

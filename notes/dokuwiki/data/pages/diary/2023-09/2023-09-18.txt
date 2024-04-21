@@ -1,0 +1,20 @@
+* Dividend yields of stocks referred in https://www.barrons.com/articles/stock-market-movers-1caf56f9
+
+^ ticker ^ dividend yield (%) ^ 
+| JPM |  2.69 |
+| BAC |  3.35 |
+| WFC |  3.24 |
+| PSA |  4.41 |
+| KIM |  4.89 |
+| DLR |  3.77 |
+| PEB |  0.27 |
+| VNO |  0.00 |
+| NLY |  12.43 |
+| AGNC |  14.10 |
+| PFF |  6.93 |
+| PFFR |  8.16 |
+| VZ |  7.88 |
+| T |  7.35 |
+
+* https://en.wikipedia.org/wiki/Modigliani_risk-adjusted_performance - Modigliani risk-adjusted performance
+  * It is a measure of the risk-adjusted returns of some investment portfolio.

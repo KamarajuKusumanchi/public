@@ -1,0 +1,8 @@
+==== 2024-04-06 ====
+Notes from https://globalmarketsinvestor.substack.com/p/the-us-labor-market-is-much-weaker
+  * Each month the BLS provides two surveys that measure employment levels and their trends: the Current Population Survey (CPS), or the household survey, and the Current Employment Statistics (CES) survey, or the establishment survey.
+  * Employment estimates from the payroll survey are a count of jobs, while the household survey provides an estimate of the number of employed people. If a person changes jobs and is on the payrolls of two employers during the same reference period, both jobs would be counted in the payroll survey estimates.
+  * the unemployment rate is calculated from the household survey
+  * questions:
+    * The article talks about full-time jobs and part-time jobs. If a company hires a software engineer as a contractor (i.e. not as a full time employee), will it be count as a full-time job or part-time job?
+    * Also, for contractors, there is a vendor and client. Does that count as two jobs or as one job?

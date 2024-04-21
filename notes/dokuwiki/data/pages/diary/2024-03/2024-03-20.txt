@@ -1,0 +1,5 @@
+===== 2024-03-20 =====
+==== links I came across ====
+  * https://strftime.net/ - interactively build date/time format string
+  * https://www.php.net/strftime - php reference on strftime
+    * referenced in https://www.dokuwiki.org/namespace_templates

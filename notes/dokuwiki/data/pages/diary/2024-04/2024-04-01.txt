@@ -1,0 +1,9 @@
+==== 2024-04-01 ====
+Notes from https://www.barrons.com/amp/articles/bird-flu-virus-human-cow-cattle-texas-e4eaa491
+  * oseltamivir, the drug sold under the brand name Tamiflu
+
+Debugging stories
+  * https://predr.ag/blog/wifi-only-works-when-its-raining/ - The Wi-Fi only works when it's raining
+  * https://www.cs.cmu.edu/~wkw/humour/carproblems.txt - the "Car is allergic to vanilla ice cream"
+  * https://www.ibiblio.org/harris/500milemail.html - I cannot send email further than 500 miles
+  * https://bugs.launchpad.net/ubuntu/+source/cupsys/+bug/255161/comments/28 - My wife has complained that open office will never print on Tuesdays!?!

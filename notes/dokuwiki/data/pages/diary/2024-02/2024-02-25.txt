@@ -1,0 +1,22 @@
+----
+context | 2023 earnings of Berkshire
+
+today | 2024-02-25
+
+<code>
+In [9]: 
+cash_2022q4 = 128585
+cash_2023q4 = 167641
+operating_earnings_2023 = 8065 + 10043 + 10761 + 8481
+cash_increase = cash_2023q4 - cash_2022q4
+
+In [10]: 
+[cash_increase, operating_earnings_2023]
+Out[10]: 
+[39056, 37350]
+</code>
+
+In English, the business generated about \$37 billions of earnings in 2023. The cash pile increased by \$39 billions. So Buffett actually sold $2bn worth securities on a net-net basis.
+
+Am I right?
+----

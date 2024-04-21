@@ -1,0 +1,67 @@
+today | 2024-02-03
+
+Issue:
+
+My Debian desktop is shutting down after a while.
+
+System information:
+<code>
+% lsb_release -a
+No LSB modules are available.
+Distributor ID: Debian
+Description:    Debian GNU/Linux 12 (bookworm)
+Release:        12
+Codename:       bookworm
+</code>
+
+today | 2024-02-03
+
+https://serverfault.com/questions/386985/how-to-investigate-unexpected-linux-server-shut-down suggests to take a looks at /var/log/syslog and /var/log/kern.log .
+
+/var/log/syslog is full of these
+<code>
+2024-02-03T19:24:39.762840-05:00 hogwarts ntpd[858]: DNS: dns_probe: 3.debian.pool.ntp.org, cast_flags:8, flags:101
+2024-02-03T19:24:39.943991-05:00 hogwarts ntpd[858]: DNS: dns_check: processing 3.debian.pool.ntp.org, 8, 101 
+2024-02-03T19:24:39.944067-05:00 hogwarts ntpd[858]: DNS: dns_check: DNS error: -3, Temporary failure in name resolution
+2024-02-03T19:24:39.944130-05:00 hogwarts ntpd[858]: DNS: dns_take_status: 3.debian.pool.ntp.org=>temp, 3
+</code>
+
+Are any ntpd processes currently running?
+<code>
+rajulocal@hogwarts /var/log % ps -ef | grep ntpd
+ntpsec       860       1  0 19:26 ?        00:00:00 /usr/sbin/ntpd -p /run/ntpd.pid -c /etc/ntpsec/ntp.conf -g -N -u ntpsec:ntpsec
+rajuloc+    3655    3441  0 19:40 pts/2    00:00:00 grep ntpd
+</code>
+
+Which package contains this binary?
+<code>
+rajulocal@hogwarts /var/log % apt-file search /usr/sbin/ntpd
+ntpsec: /usr/sbin/ntpd
+...
+</code>
+
+What version am I running?
+<code>
+rajulocal@hogwarts /var/log % dpkg -l ntpsec | grep ^ii
+ii  ntpsec         1.2.2+dfsg1-1+deb12u1 amd64        Network Time Protocol daemon and utility programs
+</code>
+
+
+Why was it installed in the first place?
+
+<code>
+rajulocal@hogwarts /var/log % aptitude why ntpsec
+i   ntp Depends ntpsec
+rajulocal@hogwarts /var/log % aptitude why ntp   
+i   gnome-system-tools Suggests ntp
+</code>
+
+Remove it
+<code>
+rajulocal@hogwarts /var/log % sudo apt-get remove --purge ntpsec
+</code>
+
+Todo: Check if the problem still persists.
+
+today | 2024-02-11
+Looks like it worked. So far the machine did not shutdown.

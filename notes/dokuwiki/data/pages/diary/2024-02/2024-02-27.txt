@@ -1,0 +1,5 @@
+----
+  * variable -> noun; function -> verb
+    * https://en.wikipedia.org/wiki/Larry_Wall
+
+-----

@@ -1,0 +1,2 @@
+  * beta regression
+    * https://en.wikipedia.org/wiki/Beta_regression

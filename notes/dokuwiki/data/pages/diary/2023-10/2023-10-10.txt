@@ -1,0 +1,36 @@
+from: https://www.finrafoundation.org/sites/finrafoundation/files/dividend-paying-stocks.pdf - Money math for teens - Dividend paying stocks
+  * A share of stock is ownership in a corporation.
+  * Dividends are sums of money paid by a corporation to shareholders.
+
+To compute yield, use
+
+<code>
+round((dividend / stock_price) * 100, 1)
+</code>
+
+For example
+<code>
+In [6]:
+def yield_pct(dividend, stock_price):
+    res = round((dividend / stock_price) * 100, 1)
+    return res
+
+
+In [7]:
+dividend = 1.55; stock_price = 82.00
+
+In [8]:
+yield_pct(1.55, 82.00)
+Out[8]:
+1.9
+</code>
+
+So, if a company pays \$1.55 dividend and its stock price is \$82.00, then the yield is 1.9%
+
+pg-5
+  * profit yield = ((new_price / old_price) -1)
+  * total yield = profit yield + dividend yield
+
+pg-10
+  * A dividend aristocrat is an S&P 500 company that has raised its dividend every year for the past 25 years.
+  * A dividend achiever is an S&P 500 company that has raised its dividend every year for the past 10 years.

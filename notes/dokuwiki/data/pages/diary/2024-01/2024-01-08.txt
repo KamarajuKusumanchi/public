@@ -1,0 +1,17 @@
+==== dummy 1 ====
+From pg-11 of https://www.amerco.com/redirect.aspx?file_name=2Q24%20U-Haul%20Holding%20Company.pdf&id=2906328
+
+> We calculate earnings per share using **the two-class method** in accordance with Accounting Standards Codification Topic 260, Earnings Per Share. The two-class method allocates the undistributed earnings available to common stockholders to the Company’s outstanding common stock, \$0.25 par value (the “Voting Common Stock”) and the Series N Non-Voting Common Stock, \$0.001 par value (the “Non-Voting Common Stock”) based on each share’s percentage of total weighted average shares outstanding. The Voting Common Stock and Non-Voting Common Stock are allocated 10% and 90%, respectively, of our undistributed earnings available to common stockholders. This represents earnings available to common stockholders less the dividends declared for both the Voting Common Stock and Non-Voting Common Stock.
+\\
+> Our undistributed earnings per share is calculated by taking the undistributed earnings available to common stockholders and dividing this number by the weighted average shares outstanding for the respective stock. If there was a dividend declared for that period, the dividend per share is added to the undistributed earnings per share to calculate the basic and diluted earnings per share. The process is used for both Voting Common Stock and Non-Voting Common Stock.
+\\
+It then shows how eps is computed for voting stock (UHAUL) and non voting stock (UHAUL-B).
+
+You can also go to this pdf as follows
+  * https://www.amerco.com/earnings_releases.aspx -> 2024
+  * This will go to https://www.amerco.com/earnings_releases.aspx?id_category=2024.
+  * In the table -> Release Date column -> November 8, 2023 -> click link under "Download" . This is same as https://www.amerco.com/redirect.aspx?file_name=2Q24%20U-Haul%20Holding%20Company.pdf&id=2906328 .
+  * Go to pg-11
+
+==== dummy 2 ====
+  * https://asc.fasb.org/260/showallinonepageplus - describes the two-class method in detail and contains some worked out examples.

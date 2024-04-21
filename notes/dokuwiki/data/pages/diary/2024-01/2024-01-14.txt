@@ -1,0 +1,10 @@
+While reading https://wiki.python.org/moin/TimeComplexity
+
+  * https://wiki.python.org/moin/TimeComplexity
+    * deque = double-ended queue
+
+  * https://en.wikipedia.org/wiki/Double-ended_queue - Double-ended queue
+    * A double-ended queue (abbreviated to deque, pronounced deck, like "cheque") is an abstract data type that generalizes a queue, for which elements can be added to or removed from either the front (head) or back (tail).
+    * Deque is sometimes written dequeue, but this use is generally deprecated in technical literature or technical writing because dequeue is also a verb meaning "to remove from a queue".
+
+  *  work stealing algorithm - https://en.wikipedia.org/wiki/Work_stealing

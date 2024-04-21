@@ -1,0 +1,34 @@
+-----
+English is a funny language
+
+-- case in point --
+
+I want to be a billionaire.
+
+Just like my uncle.
+
+Wow, your uncle is a billionaire?
+
+No, he also wants to be a billionaire.
+
+-----
+  * https://en.wikipedia.org/wiki/Sirolimus
+    * Sirolimus is also known as rapamycin.
+    * It is sold under the brand name Rapamune.
+  * https://en.wikipedia.org/wiki/Apolipoprotein_B
+    * Apolipoprotein B (ApoB) is a protein that in humans is encoded by the APOB gene. It is commonly used to detect risk of atherosclerotic cardiovascular disease.
+  * https://en.wikipedia.org/wiki/Mendelian_randomization - Mendelian randomization
+  * https://en.wikipedia.org/wiki/Bradford_Hill_criteria - Bradford Hill criteria
+    * The Bradford Hill criteria, otherwise known as Hill's criteria for causation, are a group of nine principles that can be useful in establishing epidemiologic evidence of a causal relationship between a presumed cause and an observed effect and have been widely used in public health research.
+
+-----
+  * loans on 401k
+    * capped at $50k.
+    * will be able to take it only if you are still employed.
+    * most will require the full repayment upon termination of employment.
+  * RMD
+    * It is probably better to consolidate all your 401k and IRAs into a single IRA.
+    * From https://www.irs.gov/retirement-plans/rmd-comparison-chart-iras-vs-defined-contribution-plans
+      * If you have more than one IRA, you must calculate the RMD for each IRA separately each year. However, you may aggregate your RMD amounts for all your IRAs and withdraw the total from one IRA or a portion from each of your IRAs. You do not have to take a separate RMD from each IRA.
+
+-----

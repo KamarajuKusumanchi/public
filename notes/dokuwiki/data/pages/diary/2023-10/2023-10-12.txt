@@ -1,0 +1,11 @@
+  * CGI = Computer generated imagery
+    * CGI movies
+
+  * Sleeper hit - https://en.wikipedia.org/wiki/Sleeper_hit
+    * Sound of Freedom, a 2023 American crime thriller film, was a sleeper hit.
+      * [[https://en.wikipedia.org/wiki/Sound_of_Freedom_(film)]]
+
+  * https://www.bloomberg.com/news/articles/2023-10-12/nomura-how-bill-hwang-s-friendship-ended-in-bank-s-3-billion-loss?srnd=premium#xj4y7vzkg - Archegos ‘Friendship’ With Nomura Ended in $3 Billion Loss By Donal Griffin
+
+  * https://en.wikipedia.org/wiki/Tim_Peters_(software_engineer)
+    * Tim Peters an American software developer who is known for creating the Timsort hybrid sorting algorithm and for his major contributions to the Python programming language and its original CPython implementation.

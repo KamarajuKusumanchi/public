@@ -1,0 +1,14 @@
+==== 2024-04-16 ====
+1)
+  * dividend yield = dividend / price
+
+2)
+  * https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean has been taken down
+  * From https://twitter.com/Magnolia1234B/status/1779050596181438791 <WRAP>
+> Bypass Paywalls Clean blocked on GitLab : another day another DMCA takedown notice ...
+
+> I'll consider later if I'm going to upload the code again on some GitHub alternative.
+
+> For now update your extension/add-on manually (zip with latest extension versions): https://we.tl/t-ZHD2Ioi4aQ
+</WRAP>
+  * found out about this from https://news.ycombinator.com/item?id=40007670

@@ -1,0 +1,3 @@
+  * PMF = Product Market Fit
+  * types of graphs
+    * undirected graphs, trees

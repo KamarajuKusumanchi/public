@@ -1,0 +1,7 @@
+tags | stocks to research for next month
+
+Per https://www.nytimes.com/interactive/2024/02/03/climate/us-lng-natural-gas-leader.html , US is the world's biggest gas supplier and will probably stay that way for a number of years to come. Check out companies that are pioneers in this space?
+
+From the "company finder" (https://www.kamaraju.xyz/cf/) tool:
+  * liquified: [BKR, BRK-B, COP, CVX, KMI, MRO, TRGP]
+  * liquified natural gas: [BKR, BRK-B, COP, CVX, KMI, MRO, TRGP]

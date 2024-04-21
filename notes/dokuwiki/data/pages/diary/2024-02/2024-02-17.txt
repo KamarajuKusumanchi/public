@@ -1,0 +1,26 @@
+-----
+Q. Where to park cash temporarily?
+
+A. Checkout Fidelity brokerage account. You can configure your sweep account to their money market funds which gives 5% yield. You can pay bills from that account using bill pay, buy stocks for investment etc , Any new cash (ex:- from dividends) will  automatically be swept into money market funds. This is the most hassle free setup IMHO.
+
+I am not affiliated with them ... Just a happy customer.
+
+Also, Fidelity has a cool feature called "Full View" wherein you can add all your other accounts (brokerage, 401k, bank accounts etc.,) and track your net worth for free.
+
+https://www.fidelity.com/go/monitoring-your-financial-portfolio
+-----
+https://en.wikipedia.org/wiki/Emancipation_of_minors - Emancipation of minors
+
+-----
+
+Q. Wealthfront’s cash account (https://www.wealthfront.com/cash) offers FDIC insurance up to $8 million. How do they manage it?
+
+A. From https://www.forbes.com/advisor/banking/savings/wealthfront-cash-account/
+
+> The additional coverage is made possible by Wealthfront’s network of 32 partner banks. The money in your Cash Account is automatically spread across multiple program banks, keeping your balance below the FDIC limit of $250,000 at each bank. According to Wealthfront, all partner banks are FDIC-insured and reviewed regularly for risks.
+...
+> Other banks and fintechs offering competitive FDIC insurance include Betterment, Bluevine, SoFi and Ameris Bank, and like Wealthfront, they spread your funds among partnering FDIC-insured banks.
+
+
+
+-----

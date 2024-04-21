@@ -1,0 +1,25 @@
+-----
+  * Pharmacology is the study of drugs and their effects.
+
+Ref:
+  * https://www.nichd.nih.gov/health/topics/pharma
+
+-----
+  * Pharmacokinetics is the study of drug absorption, distribution, metabolism, and elimination.
+  * pharmacodynamics
+  * pharmacogenetics
+
+Ref:
+  * https://www.nichd.nih.gov/health/topics/pharma/conditioninfo
+
+-----
+
+Notes from https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O - "Algorithms" by Abdul Bari - 1/84
+  * Algorithm is a step by step procedure to solve a computational problem.
+
+^ ^ Algorithm ^ Program ^
+| When is it written? | at design time | at implementation time |
+| Who writes it? | a person with domain knowledge | a programmer |
+| Which language is used? | any language | programming language |
+| Does it depend on hardware and os?| No | Yes |
+| What do we do with it? | Analyze | Testing |

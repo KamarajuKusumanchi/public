@@ -1,0 +1,8 @@
+-----
+  * [make is picking up executable instead of target, make execute a target from another target]
+    * https://stackoverflow.com/questions/3267145/makefile-execute-another-target
+
+-----
+  * In the context of makefiles, what does '@' at the beginning of the line do?
+    * When @ is used at the very beginning of a recipe (command) line, just after the tab character, it causes the command not to be printed when it's about to be executed.
+      * https://unix.stackexchange.com/questions/192241/file-function-in-makefile-takes-args-prefixed-by-symbol
