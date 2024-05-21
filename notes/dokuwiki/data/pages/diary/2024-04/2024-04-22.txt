@@ -1,0 +1,15 @@
+==== 2024-04-22 ====
+----
+Notes from https://www.barrons.com/amp/articles/inheritance-tax-charity-donation-mistake-37f90b04
+  * Stocks, real property, collectibles, businesses, and cryptocurrencies, are stepped up to their value on the day of the owner’s death.
+  * retirement accounts and tax-deferred annuities, aren’t stepped up in value.
+  * If you want to give some assets to charity, you should first donate the assets that don’t get stepped up in value at your death.
+  * Parents can avoid probate and retain step-up for their heirs by creating a revocable trust for their real estate
+    * Upon death, the trustees—presumably the children—can take control of the house without going through probate, but they won’t owe taxes on its previous capital gain.
+    * They will, however, need to get the home appraised to establish its value at the “date of demise.”
+
+----
+  * https://en.wikipedia.org/wiki/XZ_Utils_backdoor - XZ Utils backdoor
+    * Someone called Jia Tan spent ~3 years to gain access to a position of trust within the xz project in order to put in a backdoor.
+
+----

@@ -1,0 +1,27 @@
+==== 2024-04-26 ====
+Notes from https://www.wsj.com/health/parkinsons-disease-can-now-be-detected-through-the-skin-5f9341e7?&mod=wknd_pos1 - Parkinson’s Disease Can Now Be Detected Through the Skin
+  * People with Parkinson’s disease have an abnormal protein called alpha-synuclein in their nerves.
+  * A medical technology company called CND Life Sciences developed a skin biopsy that can detect this protein.
+  * The test involves taking skin samples near ankle, knee, shoulder.
+  * It costs {\$1,500: insurance, \$995: patient}
+\\
+  * Parkinson's disease
+    * Doctors normally diagnose it by symptoms
+    * But symptoms take years to appear
+    * It is the second-most common age-related neurodegenerative condition
+    * It is a major driver of disability, dementia and death.
+    * A sleep behavior disorder is a precursor to Parkinson’s
+    * It is a progressive disorder where brain cells are lost over time
+    * Parkinson’s occurs when cells deep in the brain that produce dopamine, which coordinates movement, become impaired or die.
+    * Symptoms include tremors, stiffness, slow movements and problems with balance.
+    * Patients also have non-motor complications such as depression, sleep disorders and pain.
+    * It usually occurs in older people, more often men.
+    * There is no cure, but drugs and other treatments help relieve symptoms.
+
+  * Dr. Jason Crowell, a movement-disorders neurologist in Louisville, Ky.
+  * CND Life Sciences, a medical technology company in Scottsdale, Ariz.
+  * Dr. Joseph Jankovic, professor of neurology at Baylor College of Medicine in Houston
+  * dementia with Lewy bodies
+  * prognoses
+  * Dr. Christopher Gibbons, a neurologist at Beth Israel Deaconess Medical Center in Boston
+  * Dr. Todd Levine, chief medical officer of CND Life Sciences

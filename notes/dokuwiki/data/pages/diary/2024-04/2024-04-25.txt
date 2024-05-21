@@ -1,0 +1,15 @@
+==== 2024-04-25 ====
+----
+Links I came across
+  * https://www.newyorkfed.org/markets/data-hub - markets data dashboard
+  * https://fred.stlouisfed.org/series/RRPONTSYD - Overnight Reverse Repurchase Agreements: Treasury Securities Sold by the Federal Reserve in the Temporary Open Market Operations
+    * Can this be used to predict SP500 futures?
+    * tags | fed rrp data
+
+----
+:?: What are polypetides? \\
+:!: A polypeptide is a longer, continuous, unbranched peptide chain.
+
+Ref:- https://en.wikipedia.org/wiki/Peptide
+
+----
