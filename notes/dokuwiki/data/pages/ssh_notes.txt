@@ -23,5 +23,8 @@ Ref:
   * man page - https://linux.die.net/man/1/ssh-copy-id
 
 ==== Useful links ====
+  * https://linuxize.com/post/using-the-ssh-config-file/ - Using the SSH config file
+    * Well written; easy to follow; high information density; non-trivial examples
+
   * [[http://www.linuxproblem.org/art_9.html | ssh without password]]
   * You can create nicknames for logging into remote servers in ~/.ssh/config and can use them with ssh, rsync, scp etc., - https://www.saltycrane.com/blog/2008/11/creating-remote-server-nicknames-sshconfig/

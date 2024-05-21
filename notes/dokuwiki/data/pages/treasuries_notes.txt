@@ -16,9 +16,23 @@
   * https://www.treasurydirect.gov/auctions/announcements-data-results/ - auction announcements, data and results
 
 ==== Q & A ====
-  * When did Treasury start issuing 17 week T Bills?
-    * October 25, 2022
-    * Ref:- https://www.treasurydirect.gov/research-center/timeline/auctions/
+:?: When did Treasury start issuing 17 week T Bills? \\
+
+:!: October 25, 2022
+
+  * Ref:- https://www.treasurydirect.gov/research-center/timeline/auctions/
+
+:?: How much of the US Treasury debt is outstanding? \\
+
+:!: $27 trillion asof 2024-03-23
+
+Ref: https://www.wsj.com/finance/the-27-trillion-treasury-market-is-only-getting-bigger-a9a9d170
+
+:?: How much of US Treasury debt is held by foreign investors?
+
+:!: ~25%
+
+Ref: https://www.wsj.com/finance/the-27-trillion-treasury-market-is-only-getting-bigger-a9a9d170
 
 ==== timelines ====
 

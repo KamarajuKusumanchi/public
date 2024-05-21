@@ -103,5 +103,17 @@ Summing up all these numbers gives \$147,377. So Berkshire has about \$147 billi
 See also:
   * https://github.com/KamarajuKusumanchi/market_data/blob/master/berkshire/cash.txt - Berkshire's cash by quarter.
 
+===== dummy =====
 ==== What are the holdings of Berkshire? ====
   * https://www.cnbc.com/berkshire-hathaway-portfolio/ - shows the holdings of Berkshire.
+
+==== Board of directors ====
+  * Ronald L. Olson
+
+Ref:- Full list can be found at https://www.berkshirehathaway.com/2001ar/directors.html
+
+==== dummy ====
+  * Olson's board seats
+    * Berkshire Hathaway
+    * Western Asset Trusts
+    * Provivi

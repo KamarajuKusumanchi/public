@@ -1,3 +1,12 @@
+==== equity market hours ====
+  * pre-market session: 7 am - 9:28 am
+  * regular session: 9:30 am - 4 pm
+  * after-hours session: 4 pm - 8 pm
+Ref: https://www.fidelity.com/viewpoints/active-investor/extended-hours-trading
+
+Notes from https://www.fidelity.com/viewpoints/active-investor/extended-hours-trading
+  * each brokerage firm may have different rules pertaining to trading during non-market hours
+
 ==== why fidelity ====
   * Automatic sweep of uninvested cash into money market funds
     * FWIW, this is not available in Schwab. [asof | 2023-09-21]
@@ -129,6 +138,8 @@ Ref:-
 ==== endorsing checks ====
   * Write "For deposit only to Fidelity", sign it and write date.
 
+tags | check endorsement
+
 ==== qna ====
 -----
 :?: Can I buy treasuries in fidelity brokerage account?
@@ -136,3 +147,8 @@ Ref:-
 :!: Yes, you can. There are positives and negatives between buying at TreasuryDirect vs. a brokerage account like Fidelity. TreasuryDirect allows you to buy in increments of \$100 vs. \$1,000 at Fidelity. You can sell them before maturity at Fidelity which is not possible in TreasuryDirect. More details at 
 https://thefinancebuff.com/treasury-bills-cd-money-market.html . FWIW, I use Fidelity but I suggest you to go through the above link and decide yourself.
 ----
+
+==== sweep in CMA account ====
+  * From June 15, 2024, Fidelity CMA accounts will have an option to sweep to SPAXX
+  * This was announced in the March 2024 statement of the Fidelity CMA account.
+

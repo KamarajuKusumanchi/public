@@ -1,0 +1,17 @@
+==== 2024-05-07 ====
+----
+
+:?: What are some companies similar to Berkshire? \\
+:!:
+  * Graham holdings
+    * ticker: GHC
+    * https://finviz.com/quote.ashx?t=GHC&p=d
+  * Loews Corp
+    * ticker: L
+    * https://finviz.com/quote.ashx?t=L&ty=c&ta=1&p=d
+
+----
+Wall street and fluid dynamics
+  * (asset|cash|order) flows, liquidity
+
+----

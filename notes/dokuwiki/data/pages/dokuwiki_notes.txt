@@ -101,6 +101,11 @@ fixed the issue
 
   * This plugin requires the pagelist plugin (https://www.dokuwiki.org/plugin:pagelist). But it is not pulled in automatically as part of the installation. So, install it manually.
 
+==== struct plugin ====
+  * source code: https://github.com/cosmocode/dokuwiki-plugin-struct
+  * https://forum.dokuwiki.org/d/17750-struct-plugin-how-to-use-page-schemas/4
+    * Andi's post helps in how to think about the struct plugin
+
 ==== table with minimum column width ====
 Use
 <code>
@@ -247,6 +252,10 @@ https://www.dokuwiki.org/search#search_within_a_namespace
   * https://www.dokuwiki.org/plugin:cli
 
 ==== plugins I came across ====
+https://philip-p-ide.uk/doku.php/blog/articles_on_writing/wiki_farm_01 mentioned
+  * https://www.dokuwiki.org/plugin:indexmenu
+  * https://www.dokuwiki.org/plugin:toolbox
+\\
 https://www.dokuwiki.org/tips:book mentions two plugins that are useful for creating books.
   * https://www.dokuwiki.org/plugin:bookcreator
   * https://www.dokuwiki.org/plugin:dw2pdf
@@ -276,6 +285,14 @@ https://diyfuturism.com/index.php/2018/01/01/how-to-set-up-a-personal-wiki-with-
 startSectionEdit: $data "section" is NOT an array! One of your plugins needs an update.
 </code> on all the pages.
     * Tested using 2012-10-13 version.
+
+==== list of installed plugins ====
+syntaxplugins
+~~INFO:syntaxplugins~~
+adminplugins
+~~INFO:adminplugins~~
+
+Ref:- https://www.dokuwiki.org/plugin:info
 
 ==== issues reported by me ====
   * https://github.com/splitbrain/dokuwiki/issues/3531 - display section numbers in the page and table of contents
@@ -307,6 +324,12 @@ bar
   * https://www.dokuwiki.org/devel:vim - setup vim for dokuwiki development.
 
 ==== Useful documentation ====
+  * https://www.dokuwiki.org/config:useslash
+    * tags | use slash instead of colon as namespace separator in URLs
+
+  * https://www.dokuwiki.org/caching
+    * shows how to invalidate dokuwiki cache
+
   * https://www.dokuwiki.org/wiki:syntax#tables
 
   * https://www.dokuwiki.org/tips
@@ -331,12 +354,16 @@ bar
   * https://wiki.chongtin.com/adding_google_adsense
 
 ==== documentation links I came across ====
+  * https://www.dokuwiki.org/template:dokuwiki#changing_the_logo has answers for
+    * how to change the default logo?
   * https://www.dokuwiki.org/index
   * https://www.dokuwiki.org/faq:lists has answers for
     * How to put line breaks in lists?
   * https://www.dokuwiki.org/faq:approval has answer for
     * approve edits on dokuwiki
 
+  * struct plugin
+    * https://www.dokuwiki.org/plugin:struct:filters#value_placeholders
 
 ==== useful links ====
   * https://namespace-cpp.de/std/doku.php/wiki/quicksyntax - cheatsheet on dokuwiki syntax
@@ -391,16 +418,23 @@ Ref:-
 ==== Questions to look into ====
   * Is it possible to persist the breadcrumbs across user sessions? For example, the breadcrumbs are lost if I close the chrome browser and reopen it. Is it possible to preserve them even in such cases?
 
-==== list of installed plugins ====
-syntaxplugins
-~~INFO:syntaxplugins~~
-adminplugins
-~~INFO:adminplugins~~
-
-Ref:- https://www.dokuwiki.org/plugin:info
-
 ==== link to a namespace ====
 You can use ''<nowiki>[[:ns:]]</nowiki>''. For example ''<nowiki>[[:diary:]]</nowiki>'' will render as [[:diary:]].
 
 Ref:-
   * Found this tip in https://www.dokuwiki.org/namespaces . It covers a lot of other scenarios besides the above.
+
+==== directory layout in debian ====
+
+| dokuwiki root | /usr/share/dokuwiki |
+| wiki data | /var/lib/dokuwiki/data |
+| configuration | /etc/dokuwiki |
+
+my symlinks
+
+  * /var/www/wiki -> /usr/share/dokuwiki
+
+Ref:- https://wiki.debian.org/DokuWiki#Specificities_of_the_Debian_package
+
+==== pages in this wiki ====
+  * [[dokuwiki farmer plugin]]

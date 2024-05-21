@@ -42,6 +42,7 @@
   * [[dad jokes]]
   * [[cheat.sh notes]]
   * [[lichess notes]]
+  * [[chessli notes]]
   * [[plotting data]]
   * [[bookmarklets]]
   * [[nri notes]]
@@ -255,6 +256,12 @@
   * [[payflex notes]]
   * [[yalist notes]]
   * [[dividends]]
+  * [[usps notes]]
+  * [[check printing]]
+  * [[dokuwiki farmer plugin]]
+  * [[gcd notes]]
+  * [[linkedin notes]]
+  * [[pe ratio]]
 
 ==== by date ====
   * [[reading journal 2023]]

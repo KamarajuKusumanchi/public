@@ -1,0 +1,31 @@
+==== 2024-05-15 ====
+Event summary:
+  * Berkshire's mystery stock is Chubb.
+  * It now owns 6.4% of it (25.9 million shares out of 406.06 million shares).
+  * The stake is worth ~$6.6 bln.
+    * = 25.9 million shares * $252.97 per share
+      * where $252.97 is the closing price of CB on 2024-05-15
+
+Notes from https://www.barrons.com/amp/articles/berkshire-hathaway-mystery-stock-warren-buffett-fe2ac440
+  * Berkshire
+    * Bought 25.9 million shares of Chubb
+    * Held about 8 million shares of Chubb at the end of Q3 2023
+    * Held about 20 million shares of Chubb at the end of year 2023
+    * operates the world’s largest P&C insurance business including auto insurer Geico
+  * Buffett
+    * admires Chubb
+    * generally likes to pay no more than 15 times forward earnings for a stock
+  * Chubb (ticker: CB)
+    * is trading at about 12 times projected 2024 earnings
+    * is an industry leader
+    * headed by CEO Evan Greenberg
+      * son of Maurice “Hank” Greenberg
+    * is viewed as one of the best run big P&C insurers
+    * has ample underwriting margins
+    * is best known for its high-end Masterpiece homeowners insurance popular with wealthy Americans
+  * Maurice “Hank” Greenberg
+    * is an insurance legend
+    * is the former boss of AIG
+
+From https://ycharts.com/companies/CB/shares_outstanding
+  * CB shares outstanding as of 2024-04-19 = 406.06 M

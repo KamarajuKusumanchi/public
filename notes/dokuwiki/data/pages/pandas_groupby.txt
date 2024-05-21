@@ -235,6 +235,39 @@ dtype: int64
 
 Ref: https://stackoverflow.com/questions/49859182/understanding-level-0-and-group-keys
 
+==== filter elements from groups that dont satisfy a criterion ====
+tags | pandas groupby filter groups
+<code>
+In [2]:
+import pandas as pd
+df = pd.DataFrame({
+    'A' : ['foo', 'bar', 'foo', 'bar', 'foo', 'bar'],
+    'B' : [1, 2, 3, 4, 5, 6],
+    'C' : [2.0, 5., 8., 1., 2., 9.]})
+df
+Out[2]:
+     A  B    C
+0  foo  1  2.0
+1  bar  2  5.0
+2  foo  3  8.0
+3  bar  4  1.0
+4  foo  5  2.0
+5  bar  6  9.0
+
+In [3]:
+grouped = df.groupby('A')
+
+In [4]:
+grouped.filter(lambda x: x['B'].mean() > 3.)
+Out[4]:
+     A  B    C
+1  bar  2  5.0
+3  bar  4  1.0
+5  bar  6  9.0
+</code>
+
+Ref:- https://pandas.pydata.org/docs/reference/api/pandas.core.groupby.DataFrameGroupBy.filter.html
+
 ==== extract groupby object by key ====
 tags | pandas groupby filter a group
 

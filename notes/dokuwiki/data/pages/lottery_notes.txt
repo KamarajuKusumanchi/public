@@ -8,6 +8,10 @@
     * Any prize: 1 in 24
 </WRAP> | |
 | lottery days | Tue, Fri | Mon, Wed, Sat |
+| cut off time in NJ | | <WRAP>
+  * 9:59 p.m. - one hour before the drawing - on Mon, Wed, Sat
+  * from https://www.nj.com/lottery/2023/10/when-is-the-latest-time-to-buy-a-powerball-ticket-101123.html
+</WRAP> |
 
 
 ==== powerball past winning numbers ====

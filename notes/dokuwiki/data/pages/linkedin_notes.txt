@@ -1,0 +1,5 @@
+==== download a video from linkedin post ====
+  * go to https://www.expertsphp.com/linkedin-video-downloader/
+  * paste the url of linkedin post
+    * You can get this by clicking on ''...'' -> ''copy link to post''
+  * Download -> click the three vertical dots -> Download

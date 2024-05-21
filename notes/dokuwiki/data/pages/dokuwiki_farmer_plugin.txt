@@ -1,0 +1,7 @@
+==== useful links ====
+  * https://www.dokuwiki.org/plugin:farmer
+
+==== stackoverflow links I came across ====
+  * https://superuser.com/questions/1388360/dokuwiki-farm-on-nginx-using-subdomains
+  * https://forum.dokuwiki.org/d/19119-how-to-configure-dokuwiki-farm-on-nginx
+

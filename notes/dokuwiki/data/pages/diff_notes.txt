@@ -1,3 +1,16 @@
+==== ignore subdirectories ====
+One way is to call diff without the --recursive (-r) option and use grep to filter out the unwanted messages:
+
+<code>
+ % diff dir1 dir2 | grep -v "^Only in "
+</code>
+or
+<code>
+ % diff -q dir1 dir2 | grep -v "^Only in "
+</code>
+
+See https://stackoverflow.com/questions/30446490/diff-only-compare-files-and-ignore-subdirectories/ for some sample tests using this idea.
+
 ==== diff word by word ====
 <code>
 git diff --word-diff --no-index -- foo bar

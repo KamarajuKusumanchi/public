@@ -1,5 +1,15 @@
 tags | stocks to watch for next month, companies I came across
 
+==== 2024-05-01 ====
+  * L - Loews Corp
+    * It is a conglomerate.
+    * Looks somewhat similar to Berkshire.
+    * Seems to maintain a very low profile.
+    * I came across it in https://www.barrons.com/amp/articles/joe-rosenberg-dies-loews-strategist-9d033987 where the author, Andrew Bary was talking about Joe Rosenberg, who was a CIO at Loews.
+    * Per https://finviz.com/quote.ashx?t=L&p=d
+      * Market Cap = \$16.90 B; Sales = \$15.86 B; P/E = 12.10; EPS (ttm) = 6.29
+      * LT Debt / EQ = 0.53
+
 ==== 2024-04-17 ====
   * WU - Western Union
     * Per https://finviz.com/quote.ashx?t=WU&p=d

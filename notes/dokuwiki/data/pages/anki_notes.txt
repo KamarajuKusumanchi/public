@@ -1,3 +1,4 @@
+===== dummy =====
 ==== urls I came across ====
   * https://github.com/ankitects/anki - repository for Anki on desktop computers.
 
@@ -36,3 +37,8 @@ today | 2020-11-09
 ==== AnkiDroid vs. Anki Desktop Vs. AnkiWeb ====
   * AnkiDroid is not affiliated with Anki Desktop or AnkiWeb. AnkiDroid is based on Anki Desktop but it is developed by an entirely separate community of volunteers.
     * Ref:- https://docs.ankidroid.org/#AnkiDesktop
+
+===== trouble shooting =====
+==== AnkiDroid directory is inaccessible ====
+
+Settings -> Security & privacy -> Privacy -> Permission manager -> Files -> "See more apps that can access all files" -> AnkiDroid.A -> Allow access to manage all files -> drag to the right.

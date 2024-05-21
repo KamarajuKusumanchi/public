@@ -1,0 +1,7 @@
+==== algorithms ====
+  * ''Binary GCD algorithm''
+    * https://en.algorithmica.org/hpc/algorithms/gcd/
+      * describes this algorithm in an easy to understand way. It first talks about the ''Euclid's algorithm'' and how ''binary GCD algorithm'' does it better.
+    * https://en.wikipedia.org/wiki/Binary_GCD_algorithm
+      * The algorithmica link is better than this.
+    * also known as ''Stein's algorithm'' or the ''binary Euclidean algorithm''

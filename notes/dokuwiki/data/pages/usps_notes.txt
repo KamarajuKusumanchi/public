@@ -1,0 +1,9 @@
+==== Informed delivery ====
+today | 2024-04-25
+
+The "informed delivery" is a free service provided by USPS wherein they email a picture of your mail ahead of time. This way, you will know ahead of time whether you are getting something junk or something important. Very useful if you are expecting some important documents. Saves you time/anxiety from checking mailbox every day!
+
+I did this a long time ago and find it very useful.
+
+Ref:
+  * https://www.usps.com/manage/informed-delivery.htm - Informed Delivery by USPS

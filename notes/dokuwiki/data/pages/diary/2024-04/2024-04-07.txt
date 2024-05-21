@@ -1,9 +1,15 @@
 ==== 2024-04-07 ====
-  * Started using chessli (https://github.com/pwenker/chessli) to learn from the mistakes in games played on lichess using the power of anki.
+  * Started using chessli (https://github.com/pwenker/chessli) from 2024-04-07 to learn from the mistakes in games played on lichess using the power of anki.
 
   * current lichess stats <WRAP>
 ^ asof ^ game type ^ rating ^ games ^
-| 2024-04-07 2:21 pm | 10+0 Rapid | 1633 | 8,114 |
+| 2024-04-07  2:21 pm | 10+0 Rapid | 1633 | 8,114 |
 </WRAP> url = https://lichess.org/@/kamaraju
 
   * Todo: check if there is any improvement in lichess rating due to this.
+
+  * Updated lichess stats <WRAP>
+^ asof ^ game type ^ rating ^ games ^
+| 2024-04-07  2:21 pm | 10+0 Rapid | 1633 | 8,114 |
+| 2024-04-27 10:02 pm | 10+0 Rapid | 1611 | 8,220 |
+</WRAP> url = https://lichess.org/@/kamaraju

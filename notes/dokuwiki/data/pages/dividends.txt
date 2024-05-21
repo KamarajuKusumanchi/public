@@ -1,3 +1,7 @@
 ==== useful links ====
   * https://money.stackexchange.com/questions/150203/does-the-term-ordinary-dividends-include-qualified-dividends - Does the term "ordinary dividends" include qualified dividends?
   * https://money.stackexchange.com/questions/144755/why-qualified-dividends-are-taxed-differently-from-current-income - Why [qualified] dividends are taxed differently from current income?
+
+==== to verify ====
+  * Qualified dividends are taxed at the long-term capital gains rate, which is 0%, 15% or 20%, depending on investor's income level.
+  * Nonqualified dividends or ordinary dividends are taxed at investor's ordinary income tax rate, which can range between 10% and 37%, depending on the income level.

@@ -1,0 +1,5 @@
+==== historical data of pe ratio ====
+  * https://fullratio.com/stocks/nasdaq-cost/pe-ratio
+    * shows a chart of P/E, eps, price for the past
+      * 10 years for each year
+      * 4 years for each quarter
