@@ -1,3 +1,12 @@
+
+==== Missing features ====
+  * It is not possible to
+    * enable Money Transfer Lockdown (MTL) on 529 accounts [(https://www.reddit.com/r/fidelityinvestments/comments/1bkji5f/money_transfer_lockdown_on_529_account/)] .
+    * generate month to date statements
+    * see [Beginning portfolio value, Additions, Subtractions, Change in investment value, Ending portfolio value] for month to date at the "Portfolio" level.
+
+~~REFNOTES~~
+
 ==== equity market hours ====
   * pre-market session: 7 am - 9:28 am
   * regular session: 9:30 am - 4 pm
@@ -128,12 +137,6 @@ From https://www.bogleheads.org/forum/viewtopic.php?p=7555257#p7555257
 >> The big difference is in how cash is handled - the CMA keeps your uninvested cash in FDIC insured bank accounts while the brokerage account puts it in money market funds that are covered by SIPC. Also, CMA accounts qualify for ATM fee reimbursement; with the brokerage account that's an optional perk depending on your account status. And the CMA has the Cash Manager feature that will let you pull cash from other accounts automatically when your CMA balance gets low, the brokerage account doesn't have that.
 >> 
 >> On the investing side, you can't trade on margin in the CMA.
-
-==== Missing features ====
-  * It is not possible to enable Money Transfer Lockdown (MTL) on 529 accounts. [1]
-
-Ref:-
-  * [1] - https://www.reddit.com/r/fidelityinvestments/comments/1bkji5f/money_transfer_lockdown_on_529_account/
 
 ==== endorsing checks ====
   * Write "For deposit only to Fidelity", sign it and write date.

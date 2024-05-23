@@ -6,6 +6,18 @@ Policy:
 Why:
   * Goodreads assumes that you read from beginning to end. But I tend to read couple of pages here and there. This is my naive way to keep track of the progress.
 
+==== Right Kind of Wrong ====
+Book details:
+  * title: Right Kind of Wrong: The Science of Failing Well
+  * author: Amy C. Edmondson
+  * published: 2023-09-05
+  * pages: 350
+  * will be using the page numbers in the book to track progress.
+
+^ date ^ pages ^ overall progress ^ notes ^
+| 2024-05-21 | [1-2] | [1-2] | |
+| 2024-05-22 | [3-6] | [1-6] | |
+
 ==== Python for Finance Cookbook ====
 Book details:
   * Python for Finance Cookbook - Eryk Lewinson - 2nd edition - 2022

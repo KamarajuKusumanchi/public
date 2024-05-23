@@ -96,6 +96,7 @@ My favorite configuration
 <code>
 release_date, version
 2022-10, 0.75.1
+2023-07, 0.75.2
 </code>
 
 Ref:- https://zim-wiki.org/downloads.html

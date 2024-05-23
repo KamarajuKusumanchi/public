@@ -1,0 +1,11 @@
+==== 2024-05-22 ====
+:?: What are the net profit margins in the retail / grocery business?
+
+:!:
+<WRAP group><WRAP column>
+^ ticket ^ net profit margin pct ^ asof ^
+| COST |  2.73 | 2024-05-22 |
+| WMT |  2.88 | 2024-05-22 |
+| DG |  4.29 | 2024-05-22 |
+| TGT |  3.87 | 2024-05-22 |
+</WRAP></WRAP>

@@ -262,6 +262,7 @@
   * [[gcd notes]]
   * [[linkedin notes]]
   * [[pe ratio]]
+  * [[hamsini's bookmark]]
 
 ==== by date ====
   * [[reading journal 2023]]

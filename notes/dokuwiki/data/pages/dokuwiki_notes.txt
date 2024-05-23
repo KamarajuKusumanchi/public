@@ -106,6 +106,15 @@ fixed the issue
   * https://forum.dokuwiki.org/d/17750-struct-plugin-how-to-use-page-schemas/4
     * Andi's post helps in how to think about the struct plugin
 
+==== refnotes plugin ====
+google search | citing sources
+
+  * syntax: https://www.dokuwiki.org/plugin:refnotes:syntax
+  * plugin: https://www.dokuwiki.org/plugin:refnotes
+
+related links
+  * https://en.wikipedia.org/wiki/Wikipedia:Citing_sources
+
 ==== table with minimum column width ====
 Use
 <code>

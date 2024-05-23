@@ -949,6 +949,22 @@ tags | to_csv files have an extra line ending character at the end, to_csv line 
 
 Ref:- https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_csv.html
 
+==== openpyxl vs. xlrd ====
+context | read excel files, pd.read_excel
+
+openpyxl supports newer Excel file formats. xlrd supports old-style Excel files (.xls) [(pandas_read_excel_engine>https://pandas.pydata.org/docs/reference/api/pandas.read_excel.html -> engine)].
+
+xlrd used to support .xlsx files at some point. But it dropped the support starting from 2.0.0 (2020-12-11) [(https://xlrd.readthedocs.io/en/latest/changes.html)].
+
+When calling pd.read_excel(), if engine=None then a waterfall logic is used to determine the engine. This logic is described in https://pandas.pydata.org/docs/reference/api/pandas.read_excel.html .
+
+~~REFNOTES~~
+
+Ref:
+  * https://www.python-excel.org/
+    * This site contains pointers to the best information available about working with Excel files in the Python programming language.
+  * https://xlrd.readthedocs.io/en/latest/index.html
+
 ===== Missing values =====
 
 ==== number of missing values in a dataframe ====

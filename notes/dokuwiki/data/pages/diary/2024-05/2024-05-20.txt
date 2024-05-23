@@ -1,0 +1,10 @@
+==== 2024-05-20 ====
+----
+  * https://www-cs-faculty.stanford.edu/~knuth/news08.html - Financial Fiasco
+    * Referred in https://money.stackexchange.com/questions/4350/cant-the-account-information-on-my-checks-be-easily-used-for-fraud
+    * tags | Donald Knuth on check fraud
+
+----
+  * https://en.wikipedia.org/wiki/Financial_Times_Business_Book_of_the_Year_Award - Financial Times Business Book of the Year Award
+
+----

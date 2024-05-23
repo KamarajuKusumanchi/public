@@ -1,4 +1,8 @@
-==== dokiwikis I came across ====
+==== dokiwiki wikis I came across ====
+  * https://www.fangfufu.co.uk/wiki/doku.php
+    * https://www.fangfufu.co.uk/wiki/doku.php?id=public:backing_up_dokuwiki
+    * https://www.fangfufu.co.uk/wiki/doku.php?id=public:sky_broadband_user_credential_extraction
+      * shows how he is using refnotes plugin to organize the references
   * https://paulsammut.com/doku.php/start
     * <- https://paulsammut.com/doku.php/dokuwiki
 
