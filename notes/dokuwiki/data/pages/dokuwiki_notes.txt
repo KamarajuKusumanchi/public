@@ -191,6 +191,61 @@ use
 
 Ref: https://forum.dokuwiki.org/d/19773-how-can-a-table-be-indented-within-a-list
 
+==== remove extra line in lists inside table cells ====
+tags | lists inside table cells wrap plugin
+
+When the WRAP plugin is used to create lists inside table cells, an extra line is added at the end of the list. To remove it, add the following to /etc/dokuwiki/userstyle.css .
+<code>
+div.plugin_wrap ul { margin-bottom: 0px; }
+</code>
+
+The new setting will be picked up automatically when the page is refreshed.
+
+==== multiple lines in table cell ====
+Install the wrap plugin and do something like
+
+<code>
+^ days ^ months ^
+| <WRAP>
+  * Sunday
+  * Monday
+</WRAP> | <WRAP>
+  * January
+  * February
+  * March
+</WRAP> |
+| <WRAP>
+  * Tuesday
+  * Wednesday
+</WRAP> | <WRAP>
+  * April
+  * May
+</WRAP> |
+</code>
+
+which will give
+
+^ days ^ months ^
+| <WRAP>
+  * Sunday
+  * Monday
+</WRAP> | <WRAP>
+  * January
+  * February
+  * March
+</WRAP> |
+| <WRAP>
+  * Tuesday
+  * Wednesday
+</WRAP> | <WRAP>
+  * April
+  * May
+</WRAP> |
+
+Ref:-
+  * https://www.dokuwiki.org/plugin:wrap
+  * https://forum.dokuwiki.org/d/9110-is-it-possible-to-use-list-or-carriage-return-inside-table-s-cell
+
 ==== indented paragraph ====
 If you only need one tab, install the "WRAP" Plugin (See http://dokuwiki.org/plugin:wrap), and then use the following syntax: <code><WRAP indent>your text</WRAP></code>
 
@@ -205,6 +260,7 @@ foo 2
 </WRAP>
 
 tags | insert tab
+
 ==== double dashes in monospaced text ====
 Use ''<nowiki>''%%--%%''</nowiki>'' to render ''%%--%%''.
 
@@ -306,16 +362,6 @@ Ref:- https://www.dokuwiki.org/plugin:info
 ==== issues reported by me ====
   * https://github.com/splitbrain/dokuwiki/issues/3531 - display section numbers in the page and table of contents
 
-==== remove extra line in lists inside table cells ====
-tags | lists inside table cells wrap plugin
-
-When the WRAP plugin is used to create lists inside table cells, an extra line is added at the end of the list. To remove it, add the following to /etc/dokuwiki/userstyle.css .
-<code>
-div.plugin_wrap ul { margin-bottom: 0px; }
-</code>
-
-The new setting will be picked up automatically when the page is refreshed.
-
 ==== include code in ordered lists ====
 Put the ''<nowiki><code></nowiki>'' tag on the same line of the item. For example
   * foo <code>
@@ -378,51 +424,6 @@ bar
   * https://namespace-cpp.de/std/doku.php/wiki/quicksyntax - cheatsheet on dokuwiki syntax
     * provides an example on how to put content into two or more columns.
   * https://www.dokuwiki.org/namespace_templates - Namespace Templates
-
-==== multiple lines in table cell ====
-Install the wrap plugin and do something like
-
-<code>
-^ days ^ months ^
-| <WRAP>
-  * Sunday
-  * Monday
-</WRAP> | <WRAP>
-  * January
-  * February
-  * March
-</WRAP> |
-| <WRAP>
-  * Tuesday
-  * Wednesday
-</WRAP> | <WRAP>
-  * April
-  * May
-</WRAP> |
-</code>
-
-which will give
-
-^ days ^ months ^
-| <WRAP>
-  * Sunday
-  * Monday
-</WRAP> | <WRAP>
-  * January
-  * February
-  * March
-</WRAP> |
-| <WRAP>
-  * Tuesday
-  * Wednesday
-</WRAP> | <WRAP>
-  * April
-  * May
-</WRAP> |
-
-Ref:-
-  * https://www.dokuwiki.org/plugin:wrap
-  * https://forum.dokuwiki.org/d/9110-is-it-possible-to-use-list-or-carriage-return-inside-table-s-cell
 
 ==== Questions to look into ====
   * Is it possible to persist the breadcrumbs across user sessions? For example, the breadcrumbs are lost if I close the chrome browser and reopen it. Is it possible to preserve them even in such cases?
