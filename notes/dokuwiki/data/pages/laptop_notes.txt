@@ -1,0 +1,53 @@
+===== Lenovo Flex 5 =====
+
+==== Update drivers ====
+
+Use Lenovo Vantage to update drivers.
+
+===== Dummy =====
+
+==== features I need ====
+
+  * When gmail is accessed, is there a "mark unread from here" option?
+<code>
+This option is not available in iphone, android.
+</code>
+  * Long battery life
+  * ssd hard drive
+  * Can we edit word documents?
+<code>
+This is not available in chromebook.
+</code>
+  * Can we fill pdf forms?
+
+  * Is there a way to access internet when wireless is not available?
+<code>
+Yes, you can use phone as a hotspot.
+</code>
+
+==== features needed in a laptop bag ====
+
+  * lightweight
+  * water resistant
+
+==== useful software ====
+
+  * notepad++
+  * pdftk
+  * gvim
+  * acroread
+  * miniconda
+
+==== docking ====
+
+When docking to an external monitor
+
+search for "lid" in the start menu -> choose "Change what closing the lid does"
+
+or go to "Control Panel\Hardware and Sound\Power Options\System Settings"
+<code>
+Power and sleep buttons and lid settings -> When I close the lid
+
+-> On battery = Do nothing
+-> Plugged in = Do nothing
+</code>

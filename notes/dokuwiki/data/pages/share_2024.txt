@@ -1,5 +1,9 @@
 ===== 2024 =====
 
+==== 2024-05-24 ====
+  * Stocks will be on a T+1 settlement cycle starting from Tue 2024-05-28.
+    * https://www.sec.gov/news/press-release/2024-62
+
 ==== 2024-02-29 ====
   * https://ciechanow.ski/airfoil/ - airfoil
     * Very well written; easy to follow along; interactive; high information density; lot of information.

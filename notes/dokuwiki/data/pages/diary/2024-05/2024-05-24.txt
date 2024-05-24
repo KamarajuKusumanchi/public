@@ -1,0 +1,36 @@
+==== 2024-05-24 ====
+----
+Notes from https://www.barrons.com/amp/articles/t-1-settlement-wall-street-b74fd6e2
+  * stocks, bonds, ETFs are moving to T+1 settlement
+  * Markets moved from T+3 to T+2 in 2017
+  * U.S. Treasuries have operated under T+1 since 1986.
+  * Options and many derivatives also already operate on T+1 and it is typical for mutual funds and CDs.
+
+----
+:?: Is there a reason why we don't have real time settlement in stocks?
+
+:!: It is answered in 
+  * https://www.dtcc.com/dtcc-connection/articles/2021/february/04/why-shortening-the-settlement-cycle-will-benefit-the-industry-and-investors -> "Are there disadvantages to real-time settlement?"
+  * https://www.dtcc.com/dtcc-connection/articles/2021/february/18/what-you-need-to-know-about-real-time-settlement
+    * -> "Q: How would the lack of netting in real-time settlement negatively impact investors and the markets?"
+    * -> "Q: Is the industry able to perform real-time reconciliation and create real-time stock records to comply with regulations?" <code>
+real-time settlement is technically possible but eliminates important netting and financing opportunities in the market.
+</code>
+
+----
+Notes from https://www.dtcc.com/dtcc-connection/articles/2021/february/04/why-shortening-the-settlement-cycle-will-benefit-the-industry-and-investors (published date: 2021-02-04)
+  * in early 2020, DTC reengineered its night cycle processing
+  * intraday settlement finality
+  * distributed ledger technology (DLT)
+  * predictive financing, real-time reconciliation
+  * market structure including derivatives, securities lending, cash borrowing, foreign exchange and collateral processing.
+  * “Steampunk Settlement,” a white paper published by Greenwich Associates in partnership with DTCC in September 2019
+
+Notes from https://www.dtcc.com/dtcc-connection/articles/2021/february/18/what-you-need-to-know-about-real-time-settlement (published date: 2021-02-18)
+  * a white paper, “Steampunk Settlement,” which Greenwich Associates and DTCC published in June 2019
+  * straight-through processing
+
+----
+:?: How to prevent brokers from lending your shares? In particular, how to do this for IBKR, Schwab, and Fidelity accounts?
+
+----
