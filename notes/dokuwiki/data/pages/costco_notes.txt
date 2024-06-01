@@ -13,6 +13,20 @@ Ref:-
     * Related: https://opendata.stackexchange.com/questions/16000/from-where-does-costco-get-data-correlating-license-plate-numbers-and-vehicle-ma
 
 ==== qna ====
+:?: On what days does Costco close? \\
+:!: 
+  * New Year’s Day
+  * Easter Sunday
+  * Memorial Day
+  * Independence Day
+  * Labor Day
+  * Thanksgiving Day
+  * Christmas Day
+
+Ref:- https://customerservice.costco.com/app/answers/answer_view/a_id/701/~/what-are-costco%E2%80%99s-holiday-closures
+
+tags | costco holidays
+
 ~~QNA~~
 
 ??? how many warehouses does costco have?

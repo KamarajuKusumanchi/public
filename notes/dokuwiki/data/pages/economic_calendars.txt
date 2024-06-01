@@ -1,6 +1,34 @@
-==== dummy ====
-asof | 2023-12-10
+==== the US Economic News Calendar ====
+asof | 2024-05-31
+
+  * https://tradingeconomics.com/united-states/calendar is pretty good . It  covers Fed's speeches. You can look at the historical trends by hovering the mouse over or by clicking into it. Better than finviz's economic calendar (https://finviz.com/calendar.ashx) but YMMV.
+
+==== trading economics calendar ====
+asof | 2024-05-31
 
   * https://tradingeconomics.com/united-states/calendar
-    * very good
-    * better than finviz's economic calendar (https://tradingeconomics.com/united-states/calendar)
+    * pretty good
+    * covers Fed's speeches
+    * can look at the historical trends by hovering the mouse over or by clicking into it
+    * better than finviz's economic calendar (https://finviz.com/calendar.ashx)
+    * You can filter events by impact. The 3 star ones are "high impact"; 1 star ones are "low impact" etc.,
+\\
+  * To filter events by impact, use
+    * High important events: https://tradingeconomics.com/united-states/calendar&importance=3
+    * Medium important events: https://tradingeconomics.com/united-states/calendar&importance=2
+    * Low important events: https://tradingeconomics.com/united-states/calendar&importance=1
+  * The default one (https://tradingeconomics.com/united-states/calendar) corresponds to the last one (importance = 1).
+\\
+  * You can also specify a range of dates. For example, to see all the high important events for June, you can do something like https://tradingeconomics.com/united-states/calendar/all/2024-06-01/2024-06-30&importance=3
+
+Ref:
+  * https://docs.tradingeconomics.com/ - Documentation
+  * https://docs.tradingeconomics.com/economic_calendar/snapshot/ - Economic Calendar
+    * You can also go there via https://docs.tradingeconomics.com/ -> "Economic Calendar"
+  * https://docs.tradingeconomics.com/economic_calendar/snapshot/#by-importance-and-date
+  * https://docs.tradingeconomics.com/economic_calendar/snapshot/#by-importance
+  * https://docs.tradingeconomics.com/economic_calendar/snapshot/#by-date
+
+Check later:
+  * https://github.com/OpenBB-finance/OpenBBTerminal/blob/develop/openbb_platform/providers/tradingeconomics/openbb_tradingeconomics/utils/url_generator.py
+  * https://github.com/tradingeconomics/tradingeconomics-python/blob/main/tradingeconomics/calendar.py

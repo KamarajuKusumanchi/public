@@ -1,0 +1,2 @@
+==== dummy ====
+  * You can use <nowiki>https://marketchameleon.com/Overview/<TICKER>/similar</nowiki> to get stocks similar to a given ticker. For example, https://marketchameleon.com/Overview/MCK/similar shows stocks similar to MKK.

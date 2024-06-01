@@ -1,3 +1,9 @@
+==== 2024-05-28 ====
+  * https://app.diagrams.net/ can be used to make application architecture diagrams. It is similar to Microsoft Visio but free.
+  * https://github.com/jgraph/drawio - the source code for https://app.diagrams.net
+  * https://excalidraw.com/ - sketch diagrams that have a hand-drawn feel to them
+  * https://github.com/excalidraw/excalidraw - the source code for https://excalidraw.com
+
 ==== 2024-02-09 ====
   * What is commonly referred to as "football" in the world, is called as "soccer" in America. But it is actually the English that started calling it that.
     * https://www.britannica.com/story/why-do-some-people-call-football-soccer

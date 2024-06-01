@@ -17,6 +17,8 @@ Book details:
 ^ date ^ pages ^ overall progress ^ notes ^
 | 2024-05-21 | [1-2] | [1-2] | |
 | 2024-05-22 | [3-6] | [1-6] | |
+| 2024-05-25 | [7-10] | [1-10] | |
+| 2024-05-26 8:54 pm | [11-12] | [1-12] | |
 
 ==== Python for Finance Cookbook ====
 Book details:

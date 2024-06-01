@@ -1,0 +1,32 @@
+==== difference between "du -sh * " vs "du -h *" ====
+<code>
+rajulocal@hogwarts ~/work/github/public
+ % ls
+address_book/  dotfiles/  exercises/  LICENSE  notes/  nutrition_facts/  playground/  products/  projects/  README.md  sandbox/  scripts/  workshop/
+
+rajulocal@hogwarts ~/work/github/public
+ % du -sh * | sort -h | tail
+8.0K    scripts
+12K     address_book
+16K     sandbox
+32K     nutrition_facts
+32K     products
+36K     exercises
+156K    workshop
+196K    projects
+264K    playground
+2.6M    notes
+
+rajulocal@hogwarts ~/work/github/public
+ % du -h * | sort -h | tail 
+196K    projects
+208K    playground/yahooquery
+236K    notes/dokuwiki/data/pages/public/sotm
+264K    playground
+284K    notes/dokuwiki/data/pages/public
+364K    notes/dokuwiki/data/pages/diary
+2.5M    notes/dokuwiki
+2.5M    notes/dokuwiki/data
+2.5M    notes/dokuwiki/data/pages
+2.6M    notes
+</code>

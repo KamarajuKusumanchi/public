@@ -1,0 +1,2 @@
+==== transfer out fees ====
+  * Starting from July 1, 2024 [(https://personal1.vanguard.com/pdf/v414.pdf -> pg 1)] Vanguard will charge \$100 [(https://personal1.vanguard.com/pdf/v414.pdf -> pg 7)] to transfer a Vanguard brokerage account to another firm if the AUM of the account is less than \$5 million. 

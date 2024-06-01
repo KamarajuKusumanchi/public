@@ -1,0 +1,28 @@
+==== 2024-05-31 ====
+tags | understanding market moves
+
+  * Today (2024-05-31) market was going down until 12:30 pm and then continuously went up till 4 pm
+  * Emini SP500 on previous day at 4 pm = 5251.50, today at 12:30 pm = 5208.75, today at 4 pm = 5296.75
+  * In terms of macro news <code>
+Friday May 31 2024                                  Actual    Previous    Consensus    Forecast
+08:30 AM US Core PCE Price Index MoM APR            0.2%      0.3%        0.3%         0.2%
+08:30 AM US Personal Income MoM APR                 0.3%      0.5%        0.3%         0.3%
+08:30 AM US Personal Spending MoM APR               0.2%      0.7%        0.3%         0.4%
+08:30 AM US PCE Price Index MoM APR                 0.3%      0.3%        0.3%         0.2%
+08:30 AM US PCE Price Index YoY APR                 2.7%      2.7%        2.7%         2.6%
+08:30 AM US Core PCE Price Index YoY APR            2.8%      2.8%        2.8%         2.7%
+09:45 AM US Chicago PMI MAY                         35.4      37.9        41           39
+01:00 PM US Baker Hughes Oil Rig Count MAY/31       496       497
+01:00 PM US Baker Hughes Total Rigs Count MAY/31    600       600
+06:15 PM US Fed Bostic Speech
+</code>
+
+:?: What drove the markets up today after 12:30 pm? It was going down till then. Just want to understand the move.
+
+:!: hypothesis
+  * people selling put options earlier in the morning and then buying them back later
+    * this requires market makers or dealers to buy put options earlier and then to sell them later
+    * market makers or dealers will hedge their position by selling stocks earlier and then buying them later
+  * month end
+    * automatic reinvestments of dividends from money market funds
+  * Friday

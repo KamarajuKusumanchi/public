@@ -163,6 +163,7 @@
   * [[words I came across]]
   * [[google pixel 6]]
   * [[toothpaste]]
+  * [[du usage]]
   * [[wordus]]
   * [[ublock origin]]
   * [[gitlab notes]]
@@ -265,6 +266,7 @@
   * [[hamsini's bookmark]]
   * [[DTCC notes]]
   * [[laptop notes]]
+  * [[vanguard notes]]
 
 ==== by date ====
   * [[reading journal 2023]]

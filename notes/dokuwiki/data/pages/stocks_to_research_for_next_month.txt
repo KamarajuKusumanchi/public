@@ -1,5 +1,17 @@
 tags | stocks to watch for next month, companies I came across
 
+==== 2024-05-28 ====
+  * MCK - Mckesson Corporation
+    * It is a distributor
+    * Came across it in one of the FDG weekly meetings
+    * Per https://finviz.com/quote.ashx?t=MCK&ty=c&ta=1&p=d
+      * Market Cap = \$71.27 B; Sales = \$308.95 B; P/S = 0.23
+      * P/E = 24.51; Forward P/E = 15.33
+      * EPS (ttm) = 22.37; EPS next Y = 35.77
+      * EPS this Y = 15.30%, EPS next Y = 13.06%, EPS next 5Y = 11.76%
+      * LT Debt / EQ = 0.0
+      * Dividend TTM = 2.40, Payout = 10.72%
+
 ==== 2024-05-01 ====
   * L - Loews Corp
     * It is a conglomerate.

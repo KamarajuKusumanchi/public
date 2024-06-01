@@ -1,0 +1,4 @@
+==== 2024-05-26 ====
+Notes from https://moneywise.com/retirement/retirement/a-50-year-old-man-used-an-obscure-irs-rule-to-withdraw-20k-a-year-from-his-retirement-savings-without-any-penalty
+  * Section 72(t)
+  * Substantially Equal Periodic Payments (SEPPs)
