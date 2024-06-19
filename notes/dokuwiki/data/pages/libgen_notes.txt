@@ -1,0 +1,12 @@
+==== limit search results by extension ====
+Enable the google mode
+  libgen.li -> Google mode -> drag to right
+search using the "ext" field. For example, to search for pdf files
+  query ext:pdf
+
+Notes:
+  * This works on libgen.li but not on libgen.rs
+
+Ref:
+  * https://www.reddit.com/r/libgen/comments/j9fjbo/can_you_search_for_books_of_a_certain_format/ - where I found the answer
+  * To see the "Google mode" syntax, click on the "?" after "Google mode" checkbox

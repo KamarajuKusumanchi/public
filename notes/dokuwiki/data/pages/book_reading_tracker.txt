@@ -13,12 +13,15 @@ Book details:
   * published: 2023-09-05
   * pages: 350
   * will be using the page numbers in the book to track progress.
+  * checkout due date: 2024-06-17
 
 ^ date ^ pages ^ overall progress ^ notes ^
 | 2024-05-21 | [1-2] | [1-2] | |
 | 2024-05-22 | [3-6] | [1-6] | |
 | 2024-05-25 | [7-10] | [1-10] | |
-| 2024-05-26 8:54 pm | [11-12] | [1-12] | |
+| 2024-05-26 | [11-12] | [1-12] | |
+| 2024-06-02 | [13-14] | [1-14] | |
+| 2024-06-19 1:02 am | [15-16] | [1-16] | |
 
 ==== Python for Finance Cookbook ====
 Book details:

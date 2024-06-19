@@ -1,0 +1,20 @@
+==== 2024-06-03 ====
+----
+
+Notes from https://www.fool.com/earnings/call-transcripts/2024/05/30/costco-wholesale-cost-q3-2024-earnings-call-transc/
+  * the acquisition of Innovel, Costco Logistics now
+  * Is there any way to tease that out?
+  * 3,600 - 3,700 SKUs
+  * infills
+
+----
+
+Notes from https://www.ft.com/content/034ee1bf-6363-4058-9851-ff406c9e7ae4
+  * The exchange’s rules allow traders to claim compensation for “clearly erroneous” trades
+  * limit up-limit down bands
+  * industry-wide price bands published by the //Consolidated Tape Association Security Information Processor//
+  * CTA = Consolidated Tape Association
+  * The CTA is an association of major exchanges that manages the dissemination of trading data between different venues. The CTA oversees the SIP, which processes and consolidates data.
+  * Stocks affected: BRK.A, Chipotle, and Barrick Gold, the mining group
+
+----

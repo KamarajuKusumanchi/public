@@ -5,6 +5,6 @@
     * tags | Donald Knuth on check fraud
 
 ----
-  * https://en.wikipedia.org/wiki/Financial_Times_Business_Book_of_the_Year_Award - Financial Times Business Book of the Year Award
+  * There is an award called "The Financial Times Business Book of the Year." It is given to the best business book in a given year. More info in https://en.wikipedia.org/wiki/Financial_Times_Business_Book_of_the_Year_Award . Last year (i.e. in 2023), this award was given to "Right Kind of Wrong" by Amy Edmondson.
 
 ----

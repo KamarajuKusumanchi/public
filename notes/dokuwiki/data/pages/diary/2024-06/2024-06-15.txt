@@ -1,0 +1,20 @@
+==== 2024-06-15 ====
+----
+Notes from https://www.space.com/voyager-1-fully-operational - Voyager 1 is back online! NASA's most distant spacecraft returns data from all 4 instruments
+  * Voyager 1
+    * It was launched in 1977.
+    * It is now 46 years old and 24 billion kilometers away from Earth.
+    * Its primary mission was to study Jupiter and Saturn and that was accomplished by 1980.
+  * Voyager 1's dogged team
+  * the flight data subsystem (FDS)
+    * used to "package" data to be sent to Earth
+  * sleuthing 
+  * Voyager 2
+    * went on to study Uranus and Neptune
+  * resynchronizing Voyager 1's timekeeping software
+  * the digital tape recorder that measures plasma waves
+
+----
+Notes from https://www.bloomberg.com/opinion/articles/2024-06-14/chatgpt-llm-could-bring-bill-james-style-to-stock-picking
+  * Bill James
+  * Ed Thorp

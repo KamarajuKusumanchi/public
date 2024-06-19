@@ -74,3 +74,20 @@ git push -v
 Ref:- https://stackoverflow.com/questions/14643308/how-can-i-force-user-and-password-prompt-when-pushing-to-my-git-repository - suggests to use "git pull -v". But in my case, I was trying to push my code out and wanted git to ask me for new credentials. So I tried 'git push -v' and it worked.
 
 tags | update github token in git bash, git config personal token
+
+==== copy the contents of a file to clipboard ====
+<code>
+ | clip
+</code>
+Sample commands:
+<code>
+git status | clip
+</code>
+
+<code>
+cat <file> | clip
+</code>
+
+The clip command just calls clip.exe from C:\Windows\System32\. Make sure you have clip.exe installed somewhere in your PATH.
+
+Ref: https://stackoverflow.com/questions/18880062/piping-output-from-git-bash-to-clipboard

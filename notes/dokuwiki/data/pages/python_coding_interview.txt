@@ -1,0 +1,63 @@
+policy:
+  * new entries go in the end
+
+==== What is the difference between big-Theta, big-O, big-Omega notation? ====
+context: growth rate of an algorithm
+
+  * big-Θ notation gives an asymptotically tight bound
+  * big-O notation gives an asymptotically upper bound
+  * big-Ω notation gives an asymptotically lower bound
+
+Ref:
+  * https://www.khanacademy.org/computing/computer-science/algorithms -> Asymptotic notation
+    * You can also go there directly via https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/asymptotic-notation
+    * High information density; Very easy to follow; Good explanation; Non trivial examples
+
+==== two sum challenge ====
+Q: Return the indexes of two numbers in an unsorted list that adds up to a target value.
+
+Assume that:
+  * only one pair adds up to the target number
+  * there are no duplicates in the list
+
+Example:
+
+Say the list is [7, 2, 4, 3, -1] and  the target value is 5.
+
+In this case, the numbers at index positions 1 and 3 add up to the target number (5), so the answer is (1, 3)
+
+Solution:
+<code>
+In [14]:
+def two_sum(a_list, target):
+    a_dict = {}
+    for index, value in enumerate(a_list):
+        reminder = target - value
+        if reminder in a_dict:
+            return [a_dict[reminder], index]
+        else:
+            a_dict[value] = index
+
+
+In [15]:
+a = [7, 2, 4, 3, -1]
+
+In [16]:
+two_sum(a, 5)
+Out[16]:
+[1, 3]
+</code>
+
+Ref:-
+  * This is discussed in <code>
+The Self-Taught Computer Scientist
+The Beginner's Guide to Data Structures & Algorithms
+By Cory Althoff
+2021
+</code> -> Chapter 13 Hash Tables -> Two Sum -> pages 143-144.
+    * The discussion is easy to follow; comprehensive.
+    * The input array given in the book is trivial in the sense that the numbers are sorted in ascending order. I just jumbled the entries to show that the algo works on unsorted lists as well.
+    * The book seems to have many mistakes. For example, 
+      * in pg-143 -> two_sum_brute() returns the values instead of indexes.
+      * the insert_left() in code snippet of pg-153 is not same as insert_left() in the first code snippet of pg-154.
+    * Todo: (1) How to report mistakes in this book? (2) Find a better reference.

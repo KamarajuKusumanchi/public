@@ -1,0 +1,31 @@
+==== 2024-06-11 ====
+:?: How much did Buffett pay on average for Chubb shares?
+
+tags | warren buffett chubb average cost
+
+:!: $220 as per https://stockcircle.com/portfolio/warren-buffett/cb/transactions
+
+Transaction history (as per the website):
+
+<code>
+quarter, shares, avg closing price
+Q3 2023,  8.14, 202.16
+Q4 2023, 12.00, 218.69
+Q1 2024,  5.82, 245.87
+</code>
+
+where shares is in millions and closing price is in USD.
+
+Total amount invested (as per the website): $5.69 billion
+
+Verify:
+<code>
+>>> round( (245.87 * 5.82 + 218.69 * 12 + 202.16 * 8.14) /1e3, 2)
+5.7
+</code>
+
+Verification of average cost:
+<code>
+>>> round( (245.87 * 5.82 + 218.69 * 12 + 202.16 * 8.14) / (5.82 + 12 + 8.14), 2)
+219.6
+</code>

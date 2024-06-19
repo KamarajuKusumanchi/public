@@ -63,3 +63,8 @@ print(interest)
 
 ==== fundamental data ====
 IBKR gets the fundamental data from GFIS (Global Financial Information Services)
+
+==== order types I came across ====
+  * One-Cancels-All (OCA) Orders
+    * https://www.interactivebrokers.com/en/trading/orders/oca.php
+    * You can use the One-Cancels-All (OCA) order type to assign multiple orders to a group. If one of them gets executed, all the others will be cancelled automatically.

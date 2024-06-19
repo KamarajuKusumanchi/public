@@ -109,6 +109,8 @@ Settings -> Notifications -> App notifications -> Select Fidelity -> Slide right
 This information can be obtained by going to the fund's page (ex:- https://fundresearch.fidelity.com/mutual-funds/summary/316341304) -> Summary -> "Composition by Instrument" table
 
 ==== links I came across ====
+  * https://www.fidelity.com/customer-service/phone-numbers/overview
+    * Fidelity phone numbers
   * https://www.fidelity.com/trading/faqs-about-account
     * tags | core position
   * You can use https://accountmaint.fidelity.com/ftgw/Profile/custpref/divncapg/init to change how 'dividends and capital gains' are handled.
@@ -141,7 +143,7 @@ From https://www.bogleheads.org/forum/viewtopic.php?p=7555257#p7555257
 ==== endorsing checks ====
   * Write "For deposit only to Fidelity", sign it and write date.
 
-tags | check endorsement
+tags | endorse, check endorsement
 
 ==== qna ====
 -----
