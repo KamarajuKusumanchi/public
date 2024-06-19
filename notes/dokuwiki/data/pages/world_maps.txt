@@ -29,3 +29,14 @@
   * https://www2.census.gov/geo/pdfs/maps-data/maps/reference/us_regdiv.pdf - Census region map
     * Shows which US states belong to which region
     * There are 4 regions in the maps - West, Midwest, South, Northeast
+
+==== Gulf ====
+  * Gulf of Khambhat
+    * https://cdn.britannica.com/67/243467-050-6C687461/Locator-map-Gulf-of-Khambhat.jpg
+    * You can also go there via
+      * https://www.britannica.com/place/Gulf-of-Khambhat -> click on the picture
+  * Persian Gulf
+    * https://iilss.net/about-gulf-of-oman-facts-and-maps/
+      * shows Persian Gulf and India in the same map
+
+

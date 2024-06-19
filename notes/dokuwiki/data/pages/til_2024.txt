@@ -1,3 +1,17 @@
+==== 2024-06-13 ====
+TIL: An earworm is a song that you keep hearing in your head
+
+Ref: https://dictionary.cambridge.org/us/dictionary/english/earworm
+
+==== 2024-06-07 ====
+TIL: In order to be listed on Nasdaq, companies need to have a woman, “underrepresented minority” or “LGBTQ+” member in their board - or publicly explain why they don’t. If it is a big company, they require two such candidates.
+
+Ref: https://www.wsj.com/articles/texas-stock-exchange-txse-new-york-blackrock-citadel-securities-james-lee-bb72c36c?mod=hp_opin_pos_1
+
+==== 2024-06-02 ====
+  * Octopuses have 3 hearts, 9 brains, and blue blood.
+    * https://apnews.com/article/ba6e3fa5bb804565b9d6d666b6d40a73
+
 ==== 2024-05-28 ====
   * https://app.diagrams.net/ can be used to make application architecture diagrams. It is similar to Microsoft Visio but free.
   * https://github.com/jgraph/drawio - the source code for https://app.diagrams.net

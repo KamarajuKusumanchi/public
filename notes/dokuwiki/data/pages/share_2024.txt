@@ -1,8 +1,18 @@
 ===== 2024 =====
 
+==== 2024-06-15 ====
+  * Voyager 1 is back online! NASA's most distant spacecraft returns data from all 4 instruments - https://www.space.com/voyager-1-fully-operational
+
+==== 2024-06-06 ====
+  * https://www.construction-physics.com/p/how-to-build-a-20-billion-semiconductor - How to Build a $20 Billion Semiconductor Fab
+    * This is a fascinating read. For comparison, the cost to build WTC is $2 billion. This article goes into why it is so expensive to build a fab and the incredible amount of engineering that goes into it.
+
 ==== 2024-05-24 ====
   * Stocks will be on a T+1 settlement cycle starting from Tue 2024-05-28.
     * https://www.sec.gov/news/press-release/2024-62
+
+==== 2024-05-19 ====
+  * https://tactiq.io/ - It can produce a summary, highlights, transcript of meeting held on Google Meet, Zoom, and Microsoft Teams. The summary was pretty impressive (blown away would be the correct phrase... but I do not want to exaggerate). Try it out if you get a chance.
 
 ==== 2024-02-29 ====
   * https://ciechanow.ski/airfoil/ - airfoil

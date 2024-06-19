@@ -10,6 +10,9 @@ Tested using
 pdftk port to java 3.3.2 a Handy Tool for Manipulating PDF Documents
 </code>
 
+If the input file has spaces in its name
+  pdftk A="foo bar.pdf" cat A2-3 output baz.pdf
+
 ==== replace a page with another pdf ====
 To replace pg-16 of a pdf with another pdf. Assume that the later consists of only one single page.
 

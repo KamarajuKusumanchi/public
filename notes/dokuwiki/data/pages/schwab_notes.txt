@@ -4,3 +4,5 @@
 
 ==== why not schwab ====
   * no automatic sweep of uninvested cash into money market funds
+  * "Remember Login ID" does not work. Every time I login, it does 2-factor authentication (sends a text message with a code that I have to manually enter.).
+    * Compare this to Fidelity where the website logs you in for a while without requiring 2-factor authentication every time.
