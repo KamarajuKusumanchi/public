@@ -1,3 +1,8 @@
+==== fast forward a youtube video ====
+You can fast forward a youtube video in 2x speed on the desktop by holding either the spacebar or the left mouse button. To achieve the same on the mobile, hold anywhere on the video.
+
+See also: https://support.google.com/youtube/answer/7631406?hl=en-GB
+
 ==== do not show ads ====
 <code>
 https://www.youtube.com/watch?v=DuB8VUICGqc // will occasionally show ads

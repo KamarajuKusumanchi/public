@@ -1,0 +1,6 @@
+==== dummy ====
+A Waffle slab is a type of reinforced concrete flooring system. It is recommended for buildings that require minimal vibration. \\
+[1] - https://en.wikipedia.org/wiki/Waffle_slab
+
+For example, the floor of a cleanroom in a semiconductor fab is typically built as a deep concrete waffle slab two to four feet thick! \\
+[2] - https://www.construction-physics.com/p/how-to-build-a-20-billion-semiconductor

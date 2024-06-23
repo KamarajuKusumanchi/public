@@ -1,3 +1,21 @@
+===== favorite configuration =====
+
+==== switch to advanced toolbar ====
+Issue: \\
+'Label as' is hidden under "More'
+
+Fix: \\
+More -> Switch to advanced toolbar
+
+Ref: https://support.google.com/mail/answer/2473038?hl=en
+
+==== turn off hover actions ====
+Settings gear icon -> See all settings -> Hover actions -> select "Disable hover actions"
+
+Ref: https://support.google.com/mail/answer/2473038?hl=en
+
+===== dummy =====
+
 ==== filter on multiple from addresses ====
 When creating the filter, use something like below in the "From" field
 <code>
