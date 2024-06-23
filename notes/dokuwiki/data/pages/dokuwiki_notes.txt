@@ -1,6 +1,11 @@
 ==== tasks ====
   * [[random_page#generate_a_random_page | generate a random page]]
 
+==== search the wiki ====
+Install ShortcutKey plugin (https://www.dokuwiki.org/plugin:shortcutkey). Then use 's' to focus on search box.
+
+tags | search field, put the curson on the search bar
+
 ==== how to write question and answers ====
 tags | qna, Q&A
 
