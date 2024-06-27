@@ -1,2 +1,26 @@
+==== dummy ====
+  * The single-stock levered and/or inverse exchange-traded funds were introduced on 2022-07-08.
+    * Ref:- https://www.investor.gov/statement-single-stock
+
 ==== etf screener with top holdings ====
 You can use https://etfdb.com/tool/etf-stock-exposure-tool/ to find etfs that have a given stock as a top holding.
+
+==== links I came across ====
+  * https://www.sec.gov/investor/pubs/leveragedetfs-alert -> "How can this apparent breakdown between longer term index returns and ETF returns happen?" gives an example where the performance of levered etfs differs from the unlevered etfs over long horizons.
+    * For example, if a stock goes down 10% one day and then goes up 10% the second day. The unlevered etf return over two days is -1% but the 2x levered etf return over the same period is -4%.
+
+<code>
+In [1]:
+def two_day_return(r1, r2):
+  total_return = ((1+r1)*(1+r2) - 1)
+  return total_return
+
+In [2]:
+r1 = -0.1; r2 = 0.1
+print(round(two_day_return(r1, r2), 2))
+-0.01
+
+In [3]:
+print(round(two_day_return(2*r1, 2*r2), 2))
+-0.04
+</code>

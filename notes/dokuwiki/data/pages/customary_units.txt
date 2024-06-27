@@ -1,0 +1,24 @@
+==== Length ====
+<code>
+1 ft = 12 in
+1 yd = 36 in
+1 yd = 3 ft
+1 mi = 5,280 ft
+1 mi = 1,760 yd
+</code>
+
+==== Capacity ====
+<code>
+1 tbsp = 3 tsp
+1 fl oz = 2 tbsp
+1 c = 8 fl oz
+1 pt = 2 c
+1 qt = 2 pt
+1 fal = 4 qt
+</code>
+
+==== Weight ====
+<code>
+1 lb = 16 oz
+1 T = 2,000 lb
+</code>

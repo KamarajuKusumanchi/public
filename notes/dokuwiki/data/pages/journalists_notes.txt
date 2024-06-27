@@ -20,6 +20,11 @@
 http://jsomers.net/ - contains all of his work.
 </WRAP>
 
+==== good reporting ====
+  * John Carreyrou \\ He reported in 2015 that Theranos is a fraud - https://www.wsj.com/articles/theranos-has-struggled-with-blood-tests-1444881901 . It was mentioned in Matt Levine's https://www.bloomberg.com/view/articles/2018-03-14/theranos-misled-investors-and-consumers-who-used-its-blood-test
+
+  * Noah Cohen at <nowiki>http://connect.nj.com/staff/noahcohen/posts.html</nowiki> \\ positives: articles are succinct, provide full information, no hype, have relevant images. \\ How I came across it: <nowiki>http://www.nj.com/bergen/index.ssf/2016/03/3_treated_for_smoke_inhalation_after_apartment_fir.html</nowiki>
+
 ==== space filling journalism ====
   * Claire Ballentine at <nowiki>https://www.bloomberg.com/authors/ATR8P7ZTClE/claire-ballentine</nowiki> \\ See for example: <nowiki>https://www.bloomberg.com/news/articles/2022-02-15/will-interest-rates-on-savings-accounts-go-up-marcus-ally-bank-keep-levels-low</nowiki> . Very low information density.
   * Tasos Vossos at <nowiki>https://www.bloomberg.com/authors/ATluWOJkzQs/tasos-vossos</nowiki> \\ See for example: <nowiki>https://www.bloomberg.com/news/articles/2021-10-07/blackrock-alumni-want-to-shake-up-world-of-junk-debt-investing?srnd=markets-vp</nowiki> . The title mentions BlackRock Alumni but there were no names in the first 6 paragraphs of the article. Probably writes submarine articles. Ignore articles written by him.
@@ -28,11 +33,6 @@ http://jsomers.net/ - contains all of his work.
     * Here is one more example: <nowiki>https://www.bloomberg.com/news/articles/2022-06-30/sec-rejects-grayscale-bid-to-turn-biggest-bitcoin-fund-into-etf</nowiki>. The article is probably a submarine article for Grayscale Investments.
   * Josh Robinson at <nowiki>http://www.bloomberg.com/authors/APYZa-30CgQ/josh-robinson</nowiki> \\ Here is an example <nowiki>http://www.bloomberg.com/news/articles/2015-06-30/economists-say-greece-will-cling-to-euro</nowiki> . The article talks about the results from a survey but fails to mention how the survey is conducted, how the participants were paid (if any), number of people who took the survey etc., I find this type of articles incomplete, misleading and utterly useless.
   * Jonathan D. Rockoff and Michael Rothfeld at <nowiki>http://www.wsj.com/articles/biggest-valeant-holder-plumbed-philidor-ties-1447202547</nowiki> \\ Basically they wrote 1000+ article which can be summed up in one sentence - "Ruane, Cunniff & Goldfarb Inc., manager of Sequoia Fund Inc., and the biggest shareholder of Valeant is inquiring abut Ties between Valeant and Philidor". I find reading this type of articles a waste of time.
-
-==== good reporting ====
-  * John Carreyrou \\ He reported in 2015 that Theranos is a fraud - https://www.wsj.com/articles/theranos-has-struggled-with-blood-tests-1444881901 . It was mentioned in Matt Levine's https://www.bloomberg.com/view/articles/2018-03-14/theranos-misled-investors-and-consumers-who-used-its-blood-test
-
-  * Noah Cohen at <nowiki>http://connect.nj.com/staff/noahcohen/posts.html</nowiki> \\ positives: articles are succinct, provide full information, no hype, have relevant images. \\ How I came across it: <nowiki>http://www.nj.com/bergen/index.ssf/2016/03/3_treated_for_smoke_inhalation_after_apartment_fir.html</nowiki>
 
 ==== submarine ====
   * Silla Brush writes submarine articles for Blackrock. \\ See for example: <nowiki>https://www.bloomberg.com/news/articles/2022-01-14/blackrock-s-sustainable-investment-funds-surge-to-509-billion?srnd=markets-vp</nowiki> . \\ Ignore articles written by him/her.

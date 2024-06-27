@@ -1,3 +1,6 @@
+==== owner information ====
+asof 2024-06-23 , owner information is redacted in njparcels website. If you want to find the owner of a property, use https://www.njtaxrecords.net/
+
 ==== urls I came across ====
 ^ address ^ url ^ owner ^ notes ^
 | Marlboro self storage \\ 30 Tennent Rd \\ Morganville, NJ 07751 | https://njparcels.com/property/1330/122/39 | 70 GREENWOOD ROAD LLC \\ 40 WILLOW STREET \\ RED BANK, NJ, 07701 |  |

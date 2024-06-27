@@ -1,4 +1,5 @@
 ==== funny xkcd cartoons I came across ====
+  * https://xkcd.com/1570/ - math and trading
   * https://xkcd.com/605/ - extrapolating
   * https://xkcd.com/1172/ - spacebar heating
   * https://xkcd.com/149/ - sudo make me a sandwich

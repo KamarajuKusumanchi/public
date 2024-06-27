@@ -8,8 +8,9 @@
   * Voyager 1 is back online! NASA's most distant spacecraft returns data from all 4 instruments - https://www.space.com/voyager-1-fully-operational
 
 ==== 2024-06-06 ====
-  * https://www.construction-physics.com/p/how-to-build-a-20-billion-semiconductor - How to Build a $20 Billion Semiconductor Fab
-    * This is a fascinating read. For comparison, the cost to build WTC is $2 billion. This article goes into why it is so expensive to build a fab and the incredible amount of engineering that goes into it.
+  * The following article is a fascinating read. It explains why it is so expensive to build a fab and the incredible amount of engineering that goes into it.
+    * https://www.construction-physics.com/p/how-to-build-a-20-billion-semiconductor - How to Build a $20 Billion Semiconductor Fab
+    * For comparison, the cost to build WTC is $2 billion.
 
 ==== 2024-05-24 ====
   * Stocks will be on a T+1 settlement cycle starting from Tue 2024-05-28.
