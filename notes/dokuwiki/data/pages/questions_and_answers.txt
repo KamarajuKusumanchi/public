@@ -1,0 +1,19 @@
+===== Count flamingos ======
+==== question ====
+:?: Flamingos Fanny and Freddy have three offspring: Happy, Glee, and Joy. These five
+flamingos are to be distributed to seven different zoos so that no zoo gets both a
+parent and a child :(. It is not required that every zoo gets a flamingo. In how many
+different ways can this be done?
+
+==== answer ====
+:!:
+There are two disjoint (mutually exclusive) cases we can consider that cover every possibility. We can use the //sum rule// to add them up since they don’t overlap!
+
+  - **Case 1: The parents end up in the same zoo.** There are 7 choices of zoo they could end up at. Then, the three offspring can go to any of the 6 other zoos, for a total of $7 · 6 · 6 · 6 = 7 · 6^3$ possibilities (by the //product rule//).
+  - **Case 2: The parents end up in different zoos.** There are 7 choices for Fanny and 6 for Freddy. Then, the three offspring can go to any of the 5 other zoos, for a total of $7 · 6 · 5^3$ possibilities.
+
+The result, by the //sum rule//, is $7 · 6^3 + 7 · 6 · 5^3$ .
+
+==== notes ====
+  * I found the above problem in "Probability & Statistics with Applications to Computing" book by Alex Tsun -> Chapter 1. Combinatorial Theory -> 1.1.2 Product Rule -> pg-22 .
+    * This book is well written, well formatted. The examples are non-trivial. All the examples come with solutions. The text is easy to understand and follow along. Highly recommended.

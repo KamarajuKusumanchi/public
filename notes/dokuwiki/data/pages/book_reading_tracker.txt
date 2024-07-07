@@ -6,6 +6,19 @@ Policy:
 Why:
   * Goodreads assumes that you read from beginning to end. But I tend to read couple of pages here and there. This is my naive way to keep track of the progress.
 
+==== Probability and statistics with applications to computing ====
+Book details:
+  * Probability and statistics with applications to computing - Alex Tsun
+  * published: 2020
+  * Pages: {total in pdf: 383, front matter: 1-6, content: 7-366, back matter: 367-383}
+  * Will be using the pages in the book (and not pdf) to track the progress.
+
+^ date ^ pages ^ overall progress ^ notes ^
+| 2024-07-07 | [7-26] | [7-26] | <WRAP>
+  * Well written; well formatted; easy to understand and follow along.
+  * The examples are non-trivial and all the examples come with solutions.
+</WRAP> |
+
 ==== Right Kind of Wrong ====
 Book details:
   * title: Right Kind of Wrong: The Science of Failing Well

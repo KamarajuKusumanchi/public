@@ -18,6 +18,7 @@
   * [[python coding interview]]
   * [[waffle slab]]
   * [[customary units]]
+  * [[questions and answers]]
 
 ==== lines ====
   * A milliliter is about 20 drops from an eyedropper.
