@@ -1,4 +1,13 @@
 
+==== 2024-07-06 ====
+  * The frequency illusion (also known as the Baader–Meinhof phenomenon) is a cognitive bias in which a person notices a specific concept, word, or product more frequently after recently becoming aware of it.
+    * Ref:- https://en.wikipedia.org/wiki/Frequency_illusion
+
+==== 2024-07-04 ====
+  * Shatapawali is a Marathi term which refers to an age-long Indian custom of taking a stroll after a meal. 
+    * https://en.wikipedia.org/wiki/Shatapawali
+      * Walking at least 100 steps after lunch or dinner improves overall wellbeing.
+
 ==== 2024-06-13 ====
 TIL: An earworm is a song that you keep hearing in your head
 

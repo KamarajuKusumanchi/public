@@ -1,3 +1,10 @@
+==== pandas-datareader vs. yfinance ====
+asof | 2024-07-04
+  * I prefer using yfinance to pandas-datareader.
+  * The latest release of pandas-datareader was ~3 years ago; 0.10.0 on 2021-07-13 .
+    * This release has issues such as https://github.com/pydata/pandas-datareader/issues/970
+    * We can't expect a new release anytime soon.
+      * See https://github.com/pydata/pandas-datareader/issues/977 for more details.
 
 ==== links I came across ====
   * https://github.com/pydata/pandas-datareader

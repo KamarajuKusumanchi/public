@@ -1,0 +1,3 @@
+==== clean up disk space ====
+  * https://one.google.com/u/2/storage/management/photos?g1_landing_page=0
+  * https://one.google.com/u/2/storage/management?g1_landing_page=0

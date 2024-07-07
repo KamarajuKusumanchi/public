@@ -1,3 +1,11 @@
+==== monthly market commentary ====
+  * for the previous month
+    * https://get.ycharts.com/resources/blog/monthly-market-wrap/ - latest month
+  * for months before the previous month
+    * https://get.ycharts.com/resources/blog/monthly-market-wrap-march-2024/
+    * https://get.ycharts.com/resources/blog/monthly-market-wrap-april-2024/
+    * https://get.ycharts.com/resources/blog/monthly-market-wrap-may-2024/
+
 ==== calendars ====
   * https://tradingeconomics.com/united-states/calendar
     * +1 - Their calendar covers speeches from important people like President Biden etc.,

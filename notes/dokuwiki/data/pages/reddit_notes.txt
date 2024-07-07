@@ -1,3 +1,8 @@
+===== configuration =====
+==== Do not show recommendations in home feed ====
+https://www.reddit.com/settings/preferences -> Content -> Show recommendations in home feed -> drag it to turn it off.
+
+===== dummy =====
 ==== links I came across ====
   * https://www.reddit.com/r/StockMarket/
 

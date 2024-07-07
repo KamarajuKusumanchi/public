@@ -1,7 +1,6 @@
 ==== links I came across ====
   * repo of yfinance - https://github.com/ranaroussi/yfinance
 
-
 ==== alternatives ====
   * yahooquery
   * yahoofinancials - the biggest difference from yfinance is that all the downloaded data is returned as JSON

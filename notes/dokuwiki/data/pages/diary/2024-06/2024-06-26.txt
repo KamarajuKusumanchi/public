@@ -1,0 +1,6 @@
+==== 2024-06-26 ====
+Notes from https://www.bbc.com/news/technology-52724062
+  * DoorDash is backed by Softbank
+
+Reading journal:
+  * https://finance.yahoo.com/news/interactive-brokers-says-lost-48-130021999.html?ref=biztoc.com - Interactive Brokers reveals $48 million loss from NYSE glitch

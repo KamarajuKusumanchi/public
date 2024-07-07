@@ -1,0 +1,5 @@
+==== public companies ====
+  * GEO Group Inc (ticker: GEO)
+    * From https://www.bloomberg.com/news/articles/2024-07-03/wall-street-on-alert-for-biden-exit-as-trump-win-trades-mount?srnd=homepage-americas <code>
+Private prison stocks like GEO Group Inc.
+</code>

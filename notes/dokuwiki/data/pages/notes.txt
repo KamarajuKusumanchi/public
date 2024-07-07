@@ -1,4 +1,3 @@
-
 ===== =====
 {{page>python_pages&nofooter}}
 
@@ -80,6 +79,7 @@
   * [[iPhone notes]]
   * [[krusader notes]]
   * [[google notes]]
+  * [[google photos]]
   * [[google drive notes]]
   * [[google assistant notes]]
   * [[google speaker notes]]
@@ -164,6 +164,7 @@
   * [[links I came across]]
   * [[words I came across]]
   * [[private companies I came across]]
+  * [[public companies I came across]]
   * [[toothpaste]]
   * [[du usage]]
   * [[wordus]]
