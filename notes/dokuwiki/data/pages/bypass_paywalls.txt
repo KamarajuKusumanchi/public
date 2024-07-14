@@ -1,3 +1,10 @@
+==== links I came across ====
+  * https://github.com/bpc-clone/bypass-paywalls-chrome-clean
+  * https://github.com/bpc-clone/bpc_updates/releases
+    * https://github.com/bpc-clone/bypass-paywalls-chrome-clean/blob/master/README.md#installation
+    * https://github.com/bpc-clone/bypass-paywalls-firefox-clean/blob/master/README.md#installation
+
+
 ==== bypass paywalls clean on android phone ====
   * Install 'Firefox Nightly For Developers' from the playstore
   * Create a firefox account (accounts.firefox.com) and signin into it

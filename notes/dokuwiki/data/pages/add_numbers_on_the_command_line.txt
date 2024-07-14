@@ -46,4 +46,4 @@ Ref:-
   * https://stackoverflow.com/questions/450799/shell-command-to-sum-integers-one-per-line
   * https://stackoverflow.com/questions/3096259/bash-command-to-sum-a-column-of-numbers/22630224
 
-tags | add a bunch of numbers on command line pipe
+tags | add a bunch of numbers on command line pipe, add all the numbers on the command line

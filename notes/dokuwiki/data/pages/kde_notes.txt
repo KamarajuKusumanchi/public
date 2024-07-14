@@ -1,3 +1,57 @@
+===== KDE configuration 2024-07-09 =====
+The KDE version is obtained by running kinfocenter -> "Copy to Clipboard"
+
+<code>
+Operating System: Debian GNU/Linux 12
+KDE Plasma Version: 5.27.5
+KDE Frameworks Version: 5.103.0
+Qt Version: 5.15.8
+Kernel Version: 6.1.0-17-amd64 (64-bit)
+Graphics Platform: X11
+Processors: 2 × Intel® Xeon® CPU W3503 @ 2.40GHz
+Memory: 23.5 GiB of RAM
+Graphics Processor: NV98
+Manufacturer: Dell Inc.
+Product Name: Precision WorkStation T3500
+</code>
+
+==== move window to next desktop ====
+<code>
+K Menu
+-> search for "system settings" -> click on "System Settings"
+-> Workspace -> Shortcuts
+-> System Settings -> KWin
+</code>
+
+<code>
+Switch to Next Desktop     -> Ctrl+Alt+Right
+Window to Next Desktop     -> Ctrl+Alt+Shift+Right
+Switch to Previous Desktop -> Ctrl+Alt+Left
+Window to Previous Desktop -> Ctrl+Alt+Shift+Left
+</code>
+
+Notes:
+
+I am not sure whether to use
+
+<code>
+Switch to Next Desktop     -> Ctrl+Alt+Shift+Right
+Window to Next Desktop     -> Ctrl+Alt+Right
+Switch to Previous Desktop -> Ctrl+Alt+Shift+Left
+Window to Previous Desktop -> Ctrl+Alt+Left
+</code>
+
+or
+
+<code>
+Switch to Next Desktop     -> Ctrl+Alt+Right
+Window to Next Desktop     -> Ctrl+Alt+Shift+Right
+Switch to Previous Desktop -> Ctrl+Alt+Left
+Window to Previous Desktop -> Ctrl+Alt+Shift+Left
+</code>
+
+Afterwards see which operation you do most and then assign Ctrl+Alt+<Right|Left> to that as it involves pressing less number of keys.
+
 ===== KDE configuration 2023-02-18 =====
 The KDE version is obtained by running kinfocenter -> "Copy to Clipboard"
 

@@ -149,14 +149,18 @@ From https://www.bogleheads.org/forum/viewtopic.php?p=7555257#p7555257
 tags | endorse, check endorsement
 
 ==== qna ====
------
 :?: Can I buy treasuries in fidelity brokerage account?
 
 :!: Yes, you can. There are positives and negatives between buying at TreasuryDirect vs. a brokerage account like Fidelity. TreasuryDirect allows you to buy in increments of \$100 vs. \$1,000 at Fidelity. You can sell them before maturity at Fidelity which is not possible in TreasuryDirect. More details at 
 https://thefinancebuff.com/treasury-bills-cd-money-market.html . FWIW, I use Fidelity but I suggest you to go through the above link and decide yourself.
-----
+
+\\
+
+:?: Why buy treasuries directly instead of a money market fund such as FZFXX or SPAXX?
+
+:!: State tax. Any income earned from Treasuries is exempt from state taxes. But if you buy FZFXX or SPAXX, only a portion of the income will be exempt from state taxes.
 
 ==== sweep in CMA account ====
-  * From June 15, 2024, Fidelity CMA accounts will have an option to sweep to SPAXX
+  * Starting from June 15, 2024, Fidelity CMA accounts will have an option to sweep to SPAXX
   * This was announced in the March 2024 statement of the Fidelity CMA account.
 

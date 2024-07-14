@@ -85,6 +85,17 @@ Out[4]:
 [2021, 8, 14]
 </code>
 
+==== get current time as YYYYMMDD_HHMMSS ====
+<code>
+from datetime import datetime
+datetime.now().strftime("%Y%m%d_%H%M%S")
+</code>
+
+Code snippet:
+<code>
+run_time_stamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+</code>
+
 ==== iterate over a range of dates ====
 To iterate on all days including weekends
 <code>

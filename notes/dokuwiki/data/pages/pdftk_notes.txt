@@ -31,6 +31,12 @@ This is free software; see the source code for copying conditions. There is
 NO warranty, not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 </code>
 
+==== cut two pages and reverse their order ====
+Grab the first two pages in a pdf and reverse their order
+<code>
+pdftk A=inverted.pdf cat A2 A1 output corrected.pdf
+</code>
+
 ==== rotate pages by 180 degrees ====
 <code>
 pdftk in.pdf cat 1-endsouth output out.pdf
