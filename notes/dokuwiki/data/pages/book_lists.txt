@@ -1,0 +1,6 @@
+==== dummy ====
+tags | books, book lists
+
+  * https://en.wikipedia.org/wiki/Financial_Times_Business_Book_of_the_Year_Award
+    * Financial Times Business Book of the Year Award is an annual award given to the best business book of the year as determined by the Financial Times.
+    * It aims to find the book that has "the most compelling and enjoyable insight into modern business issues".
