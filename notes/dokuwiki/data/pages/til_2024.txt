@@ -1,4 +1,7 @@
 
+==== 2024-07-12 ====
+  * There is a fruit called Durian (https://www.google.com/search?q=durian+fruit&tbm=isch). It looks similar to jack fruit but is an unrelated species (https://en.wikipedia.org/wiki/Durian). It is in huge demand in China (https://www.nytimes.com/2024/06/16/business/durian-china-malaysia-thailand.html).
+
 ==== 2024-07-06 ====
   * The frequency illusion (also known as the Baader–Meinhof phenomenon) is a cognitive bias in which a person notices a specific concept, word, or product more frequently after recently becoming aware of it.
     * Ref:- https://en.wikipedia.org/wiki/Frequency_illusion

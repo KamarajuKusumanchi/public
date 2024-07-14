@@ -129,6 +129,28 @@ tags | equivalent of foo in windows
 ==== clear recent files list ====
 https://www.businessinsider.com/how-to-clear-recent-files-windows-10
 
+==== formatted date and time ====
+Get the date and time information in YYYYMMDD_HHMMSS format
+<code>
+>echo %date:~6,4%%date:~3,2%%date:~0,2%_%time:~0,2%%time:~3,2%%time:~6,2%
+</code>
+Sample output
+<code>
+20180205_154243
+</code>
+
+==== extract a page from PDF ====
+Option 1: Use pdftk
+
+Option 2: Use chrome and print those specific page(s) to pdf. Chrome has print to pdf by default.
+<code>
+open the pdf in chrome
+click on print icon
+Destination = "Save as PDF"
+Pages: e.g. 1-5, 8, 11-13
+Save
+</code>
+
 ===== batch script ====
 ==== batch file calling another batch file ====
 <code>

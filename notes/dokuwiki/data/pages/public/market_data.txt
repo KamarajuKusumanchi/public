@@ -21,3 +21,13 @@ tags | aum history of money market funds
   * https://fred.stlouisfed.org/series/MMMFFAQ027S shows the level of total financial assets in in money market funds over time. 
     * For example, asof Q3 2023, \$6.1 trillion is in money market funds.
     * Data is updated quarterly.
+
+==== github projects I came across ====
+  * https://github.com/maread99/market_prices - market_prices
+    * Is this better than yfinance?
+    * How is it different from yfinance?
+  * https://github.com/gerrymanoim/exchange_calendars - exchange_calendars
+    * {asof | 2024-07-14} Fork of https://github.com/quantopian/trading_calendars, which is no longer maintained.
+    * referenced in https://github.com/maread99/market_prices
+  * https://github.com/rsheftel/pandas_market_calendars - trading_calendars
+    * Was mentioned in https://github.com/quantopian/trading_calendars
