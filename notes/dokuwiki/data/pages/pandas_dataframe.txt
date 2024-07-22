@@ -59,6 +59,78 @@ Ref:-
   * https://www.geeksforgeeks.org/add-column-names-to-dataframe-in-pandas/ - got the idea on zip from here.
 
 tags | row by row
+
+==== Create a data frame from two lists ====
+On the interpreter
+<code>
+>>> import pandas as pd
+>>> df = pd.DataFrame({'letters': ['a', 'b', 'c', 'd'], 'numbers': [1,2,3,4]})
+>>> df
+  letters  numbers
+0       a        1
+1       b        2
+2       c        3
+3       d        4
+</code>
+
+In the code
+<code>
+% cat create_df_from_lists.py
+import pandas as pd
+letters = ['a', 'b', 'c']
+words = ['apple', 'ball', 'cat']
+df = pd.DataFrame(
+    {'letter': letters,
+     'word': words})
+
+print("letters:\n", letters, "\n")
+print("words:\n", words, "\n")
+print("df:\n", df, "\n")
+</code>
+
+Sample run:
+<code>
+ % python3 -u create_df_from_lists.py
+letters:
+ ['a', 'b', 'c'] 
+
+words:
+ ['apple', 'ball', 'cat'] 
+
+df:
+   letter   word
+0      a  apple
+1      b   ball
+2      c    cat
+</code>
+==== Create a dataframe using StringIO ====
+<code>
+In [1]: 
+import pandas as pd
+import io
+data = """
+Date,Open,High,Low,Close,Adj Close,Volume
+2024-01-02,472.16,473.67,470.49,472.65,469.67,123623700
+2024-01-03,470.43,471.19,468.17,468.79,465.84,103585900
+2024-01-04,468.3,470.96,467.05,467.28,464.33,84232200
+2024-01-05,467.49,470.44,466.43,467.92,464.97,86060800
+2024-01-08,468.43,474.75,468.3,474.6,471.61,74879100
+"""
+df = pd.read_csv(io.StringIO(data))
+
+In [2]: 
+df
+Out[2]: 
+         Date    Open    High     Low   Close  Adj Close     Volume
+0  2024-01-02  472.16  473.67  470.49  472.65     469.67  123623700
+1  2024-01-03  470.43  471.19  468.17  468.79     465.84  103585900
+2  2024-01-04  468.30  470.96  467.05  467.28     464.33   84232200
+3  2024-01-05  467.49  470.44  466.43  467.92     464.97   86060800
+4  2024-01-08  468.43  474.75  468.30  474.60     471.61   74879100
+</code>
+
+Tested with Python 3.12.3, IPython 8.25.0
+
 ==== Create a dataframe by splitting strings ====
 Given a list of strings, the idea here is to create a data frame by splitting them into multiple columns.
 
@@ -1229,3 +1301,44 @@ table.to_csv('out.csv', index=False)
 ==== user guide ====
 ^ url ^ title ^ notes ^
 | https://pandas.pydata.org/pandas-docs/stable/user_guide/reshaping.html | Reshaping and pivot tables | tags: stacked or record format, denormalized to normalized data |
+
+===== difference between =====
+==== What is the difference between read_table and read_csv? ====
+<WRAP group><WRAP column>
+^ ^ read_csv ^ read_table ^
+| default separator | "," | "\t" |
+</WRAP></WRAP>
+
+The code for read_csv() and read_table() is in https://github.com/pandas-dev/pandas/blob/main/pandas/io/parsers/readers.py . The functions are all same except for the default separator.
+
+<WRAP group><WRAP column>
+^ ^ read_csv ^ read_table ^
+| relevant code | <code>
+    kwds_defaults = _refine_defaults_read(
+        dialect,
+        delimiter,
+        engine,
+        sep,
+        on_bad_lines,
+        names,
+        defaults={"delimiter": ","},
+        dtype_backend=dtype_backend,
+    )
+    kwds.update(kwds_defaults)
+</code> | <code>
+    kwds_defaults = _refine_defaults_read(
+        dialect,
+        delimiter,
+        engine,
+        sep,
+        on_bad_lines,
+        names,
+        defaults={"delimiter": "\t"},
+        dtype_backend=dtype_backend,
+    )
+    kwds.update(kwds_defaults)
+</code> |
+</WRAP></WRAP>
+
+last checked | 2024-07-20
+

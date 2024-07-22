@@ -1,0 +1,3 @@
+==== 2024-07-17 ====
+Notes from https://www.bloomberg.com/news/articles/2024-07-15/apple-sales-in-india-surge-33-to-8-billion-as-chinese-market-slows?srnd=homepage-americas
+  * Apple's India sales: {yyyy-mm-dd: billion_dollars, 2022-03-01: 4.1, 2023-03-01: 6.0, 2024-03-01: 8.0}

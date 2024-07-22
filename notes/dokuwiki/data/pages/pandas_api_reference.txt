@@ -1,0 +1,8 @@
+==== links I came across ====
+Policy:
+  * Most recently used at the top
+
+^ ^ url ^ notes ^ 
+| pandas.to_datetime | https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html | |
+| pandas.DataFrame.set_index | https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.set_index.html | |
+| pandas.read_csv | https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html | |

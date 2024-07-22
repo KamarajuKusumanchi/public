@@ -1,4 +1,11 @@
 
+==== 2024-07-21 ====
+  * The trailing 'i' in a Roman numeral used to be written as a 'j' . For example 1, 2, 3, 6, 7, and 8 are rendered as j, ij, iij, vj, vij, and viij. This is (1) to make it clear that the number has ended and (2) to make it harder to alter the numeral by adding more i's on the end.
+
+Ref:
+  * [1] https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral
+  * [2] https://blog.plover.com/2024/06/23/#script-potpourri
+
 ==== 2024-07-12 ====
   * There is a fruit called Durian (https://www.google.com/search?q=durian+fruit&tbm=isch). It looks similar to jack fruit but is an unrelated species (https://en.wikipedia.org/wiki/Durian). It is in huge demand in China (https://www.nytimes.com/2024/06/16/business/durian-china-malaysia-thailand.html).
 

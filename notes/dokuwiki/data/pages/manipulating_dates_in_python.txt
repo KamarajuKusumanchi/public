@@ -2,6 +2,75 @@
   * [[Add dates]]
     * uses | strptime
   * [[Convert string to date]]
+  * [[https://github.com/KamarajuKusumanchi/market_data_processor/blob/master/src/notebooks/convert%20yyyy-mm-dd%20to%20datetimeindex.py | convert yyyy-mm-dd to datetimeindex]] (github.com/KamarajuKusumanchi)
+    * uses | pd.to_datetime, set_index
+
+
+
+===== today related =====
+==== get today's date as YYYYMMDD ====
+Approach 1:
+<code>
+from datetime import date
+date.today().strftime('%Y%m%d')
+</code>
+
+Approach 2:
+<code>
+from datetime import datetime
+datetime.today().strftime('%Y%m%d')
+</code>
+
+I prefer the first approach.
+
+Experiments on the first approach:
+<code>
+ % ipython
+In [1]: 
+from datetime import date
+date.today().strftime('%Y%m%d')
+Out[1]: 
+'20240720'
+
+In [2]: 
+date.today().strftime('%Y-%m-%d')
+Out[2]: 
+'2024-07-20'
+
+In [3]: 
+date.today().isoformat()
+Out[3]: 
+'2024-07-20'
+
+In [4]: 
+date.today()
+Out[4]: 
+datetime.date(2024, 7, 20)
+</code>
+
+Experiments for approach 2:
+<code>
+In [5]: 
+from datetime import datetime
+datetime.today()
+Out[5]: 
+datetime.datetime(2024, 7, 20, 21, 30, 45, 642791)
+
+In [6]: 
+datetime.today().strftime('%Y%m%d')
+Out[6]: 
+'20240720'
+
+In [7]: 
+datetime.today().strftime('%Y-%m-%d')
+Out[7]: 
+'2024-07-20'
+
+In [8]: 
+datetime.today().isoformat()
+Out[8]: 
+'2024-07-20T21:31:14.587349'
+</code>
 
 ===== Dummy =====
 

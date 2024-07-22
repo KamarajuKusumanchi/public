@@ -3,6 +3,7 @@
   * [[pandas series]]
   * [[pandas groupby]]
   * [[pandas notes]]
+  * [[pandas api reference]]
   * [[python notes]]
   * [[ipython notes]]
   * [[numpy notes]]
