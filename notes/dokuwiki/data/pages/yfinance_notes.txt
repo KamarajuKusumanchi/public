@@ -1,3 +1,36 @@
+==== convert daily ohlcv data to monthly ====
+code snippet:
+<code>
+def daily_ohlcv_to_month_end_ohlcv(daily):
+    monthly = daily.resample("ME").agg(
+        {
+            "Open": "first",
+            "High": "max",
+            "Low": "min",
+            "Close": "last",
+            "Adj Close": "last",
+            "Volume": "sum",
+        }
+    )
+    return monthly
+</code>
+
+used it in https://github.com/KamarajuKusumanchi/market_data_processor/blob/master/tests/src/utils/test_yfinance_utils.py -> test_daily_ohlc_to_month_end_ohlc()
+
+See also:
+  * https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.resample.html - documentation on pandas.DataFrame.resample
+  * http://pandas.pydata.org/pandas-docs/stable/timeseries.html
+    * https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html#offset-aliases - Offset aliases
+    * https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html#anchored-offsets - Anchored offsets
+    * https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html#resampling - Resampling
+    * https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html#dateoffset-objects - DateOffset objects
+      * tags | "Frequency String"
+  * https://stackoverflow.com/questions/17001389/pandas-resample-documentation
+  * ISO8601 has a way to represent durations - https://en.wikipedia.org/wiki/ISO_8601#Durations
+  * https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.tseries.offsets.MonthEnd.html
+    * used it in https://github.com/KamarajuKusumanchi/market_data_processor/blob/master/tests/src/utils/test_yfinance_utils.py -> test_daily_ohlc_to_month_end_ohlc()
+
+
 ==== links I came across ====
   * repo of yfinance - https://github.com/ranaroussi/yfinance
 
