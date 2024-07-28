@@ -1,4 +1,8 @@
 
+==== 2024-07-28 ====
+  * Caesar salad originated from Tijuana, Mexico.
+    * https://en.wikipedia.org/wiki/Caesar_salad
+
 ==== 2024-07-27 ====
   * There are two ways to write the numbers in Chinese and Japanese. One is used in everyday writing and the other is used in commercial, accounting or financial contexts. The latter have more strokes and so can't be forged. For example, the number 1 is normally written as 一 but in commercial records it is written as 壹.
 

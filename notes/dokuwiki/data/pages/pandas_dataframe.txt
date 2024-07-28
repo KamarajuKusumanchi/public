@@ -423,6 +423,7 @@ s.apply(type).unique()
   * [[Convert a dictionary of dataframes to a big dataframe]]
   * [[Convert string to date]]
   * [[print hundredths]]
+  * [[swap columns]]
 
 ===== data transformation related =====
 ==== matches to coplays ====

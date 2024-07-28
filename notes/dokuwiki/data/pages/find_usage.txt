@@ -52,7 +52,7 @@ done
 </code>
 
 tags | process the output of find
-==== dummy ====
+==== tasks ====
   * [[grep on find results]]
 
 ==== find and sort ====
@@ -133,4 +133,9 @@ $ tree
     └── file3.txt
 
 3 directories, 7 files
+</code>
+
+==== list a directory but exclude directories and vim swap files ====
+<code>
+find . -maxdepth 1 ! -type d ! -name "*.sw?"
 </code>
