@@ -1,4 +1,20 @@
 
+==== 2024-07-27 ====
+  * There are two ways to write the numbers in Chinese and Japanese. One is used in everyday writing and the other is used in commercial, accounting or financial contexts. The latter have more strokes and so can't be forged. For example, the number 1 is normally written as 一 but in commercial records it is written as 壹.
+
+Ref:
+  * [1] https://en.wikipedia.org/wiki/Chinese_numerals#Ordinary_numerals
+  * [2] https://en.wikipedia.org/wiki/Japanese_numerals#Formal_numbers
+
+
+==== 2024-07-26 ====
+  * An ij in Dutch is pronounced as <ay> in "p**ay**". For example, Dijkstra in "Edsger Dijkstra" is pronounced as daykstra.
+
+Ref:
+  * [1] [[https://en.wikipedia.org/wiki/IJ_(digraph)]]
+  * [2] https://en.wikipedia.org/wiki/Edsger_W._Dijkstra - has an audio file that shows how to say the name.
+
+
 ==== 2024-07-21 ====
   * The trailing 'i' in a Roman numeral used to be written as a 'j' . For example 1, 2, 3, 6, 7, and 8 are rendered as j, ij, iij, vj, vij, and viij. This is (1) to make it clear that the number has ended and (2) to make it harder to alter the numeral by adding more i's on the end.
 

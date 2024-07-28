@@ -1,3 +1,10 @@
+==== gold vs sp500 ====
+In the last 10 years (June 2014 to June 2024), Gold was up ~75%, SP500 was up ~180%.
+
+{{:gold_vs_sp500_201406_202406.jpg?400|}}
+
+https://www.longtermtrends.net/stocks-vs-gold-comparison/
+
 ==== gold dashboard ====
   * https://www.marketwatch.com/investing/index/dxy - U.S. Dollar Index (DXY)
 

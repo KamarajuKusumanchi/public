@@ -273,6 +273,7 @@
   * [[laptop notes]]
   * [[vanguard notes]]
   * [[libgen notes]]
+  * [[turnpike notes]]
 
 ==== by date ====
   * [[reading journal 2023]]
