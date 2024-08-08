@@ -1,4 +1,14 @@
 
+==== 2024-08-04 ====
+The pressure at the bottom of the Mariana Trench is ~1000 times more than the pressure at the sea level. Even at these levels, the density of water goes up by just ~5%.
+
+I knew water is an incompressible fluid. But did not realize how hard it is to compress it!
+
+See also:
+    * https://en.wikipedia.org/wiki/Mariana_Trench -> 2nd paragraph.
+    * https://physics.nmu.edu/~ddonovan/classes/Nph201/Homework/CHFLD/CHFLDP09.pdf - shows that an underwater vehicle's observation window at the bottom of the Mariana Trench will experience forces on the order of the weight of a jetliner.
+
+
 ==== 2024-07-28 ====
   * Caesar salad originated from Tijuana, Mexico.
     * https://en.wikipedia.org/wiki/Caesar_salad

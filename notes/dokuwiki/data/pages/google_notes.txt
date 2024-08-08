@@ -1,3 +1,36 @@
+==== What is the capital expenditure of Alphabet in Q2 2024? ====
+tags | capex, capital spending
+
+Get the earnings report
+  * Go to https://abc.xyz/investor/
+    * You can also go there via https://abc.xyz/ -> Investors
+  * 2024 -> Q2 -> Earnings Release
+  * This will take you to https://abc.xyz/assets/19/e4/3dc1d4d6439c81206370167db1bd/2024q2-alphabet-earnings-release.pdf
+
+Go to the cash flow statement
+  * This is pg-6 in the above pdf
+  * It is titled "consolidated statements of cash flows"
+
+Search for "Purchases of property and equipment".
+
+The value in "Purchases of property and equipment" is the capital expenditure. For example, in the pdf it is shown as
+
+^ ^ Quarter ended June 30, 2023 ^ Quarter ended June 30, 2024 ^ Year to date June 30, 2023 ^ Year to date June 30, 2024 ^
+| ... | ... | ... | ... | ... |
+| **Investing activities** | | | | |
+| Purchases of property and equipment | (6,888) | (13,186) | (13,177) | (25,198) |
+| ... | ... | ... | ... | ... |
+
+So Alphabet's capital expenditure in Q2 2024 is \$13,186 millions, and in Q2 2023 it is \$6,888 millions.
+
+Ref:
+  * https://www.barrons.com/amp/articles/google-alphabet-earnings-stock-price-d05c4830 tells us that Alphabet spent \$13.2 billion in Q2 2024 (quarter ending in June 2024), \$12 billion in Q1 2024 (quarter ending in March 2024), \$7 billion in Q2 2023 (quarter ending in June 2023).
+    * The Q2 2024 and Q2 2023 values match with the above numbers (when rounded).
+    * The capex in Q1 2024 can be found using the above process.
+      * Q1 2024 results are in https://abc.xyz/assets/91/b3/3f9213d14ce3ae27e1038e01a0e0/2024q1-alphabet-earnings-release-pdf.pdf.
+      * Cash flow statement is in pg-7
+      * "Purchases of property and equipment" is \$12,012 millions which matches with the Barron's article.
+
 ==== Alternatives to google search ====
   * https://gigablast.com/
     * https://gigablast.com/about.html

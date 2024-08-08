@@ -1,0 +1,2 @@
+==== dummy ====
+  * Setup a timer on your fitbit before starting a task. This not only helps to stay focused on a task but also gives you an idea of whether you were able to finish it within a given time frame.

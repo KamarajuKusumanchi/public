@@ -1,0 +1,2 @@
+==== What to look for in earnings releases? ====
+  * How did (Revenue, net income, eps, number of employees, capex) change quarter over quarter?

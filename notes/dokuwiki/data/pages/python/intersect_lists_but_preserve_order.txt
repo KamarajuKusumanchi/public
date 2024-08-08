@@ -1,0 +1,12 @@
+==== Intersect lists but preserve the order ====
+{tags: intersection without changing order}
+<code>
+In [1]:
+required = ['c', 'b', 'a']; available = ['a', 'b', 'd']
+required_and_available = [x for x in required if x in available]
+
+In [2]:
+required_and_available
+Out[2]:
+['b', 'a']
+</code>

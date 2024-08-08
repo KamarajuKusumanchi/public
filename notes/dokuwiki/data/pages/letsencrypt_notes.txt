@@ -1,0 +1,34 @@
+==== create the cerificate ====
+Install the packages
+<code>
+sudo apt-get update
+sudo apt-get install certbot python3-certbot-nginx
+</code>
+
+Install the certificate
+<code>
+sudo certbot --nginx --email foo@bar.com --agree-tos --no-eff-email -d baz.com -d www.baz.com
+</code>
+
+The certicate will be saved at /etc/letsencrypt/live/baz.com/fullchain.pem
+
+Ref:-
+  * https://www.f5.com/company/blog/nginx/using-free-ssltls-certificates-from-lets-encrypt-with-nginx
+    * This site is more comprehensive. I just modified the command a little to suit my needs.
+
+==== automatically renew letsencrypt certificates ====
+Edit crontab
+<code>
+crontab -e
+</code>
+and add the following lines to it
+
+<code>
+# Everyday at noon, check if the certificates on the letsencrypt server will
+# expire within the next 30 days, and renew them if so. The --quiet directive
+# tells certbot not to generate output.
+# Ref:- https://www.nginx.com/blog/using-free-ssltls-certificates-from-lets-encrypt-with-nginx/
+0 12 * * * /usr/bin/certbot renew --quiet
+</code>
+
+Ref:- https://www.f5.com/company/blog/nginx/using-free-ssltls-certificates-from-lets-encrypt-with-nginx -> "4. Automatically Renew Let’s Encrypt Certificates"

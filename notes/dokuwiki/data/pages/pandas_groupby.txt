@@ -1,3 +1,6 @@
+==== tasks ====
+  * [[show_artists_multiple_albums | Show artists with multiple albums]]
+
 ==== preserve the highest value entries in each group ====
 tags | filter by value
 

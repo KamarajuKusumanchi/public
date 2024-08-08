@@ -31,3 +31,30 @@ tags | aum history of money market funds
     * referenced in https://github.com/maread99/market_prices
   * https://github.com/rsheftel/pandas_market_calendars - trading_calendars
     * Was mentioned in https://github.com/quantopian/trading_calendars
+
+==== consumer spending ====
+  * "Consumer spending" is same as "personal consumption expenditures (PCE)"
+  * I found three data sources for this:
+    * https://fred.stlouisfed.org/series/PCEC96 - Real Personal Consumption Expenditures (PCEC96)
+      * real = inflation-adjusted
+      * published monthly
+    * https://fred.stlouisfed.org/series/PCE - Personal Consumption Expenditures (PCE)
+      * published monthly
+    * https://tradingeconomics.com/united-states/consumer-spending
+      * published every quarter
+      * Is there a way to recon this with BLS or FRED data?
+      * data is not matching with either https://fred.stlouisfed.org/series/PCEC96 or https://fred.stlouisfed.org/series/PCE
+  * Is consumer spending same as consumer discretionary spending? What is the difference?
+
+  * https://maps.semcog.org/EconomicDashboard/chart/bc_per_cons.html
+    * Tells that https://fred.stlouisfed.org/series/PCEC96 is what we should look at.
+    * Consumer spending is broken into three categories
+      * durable goods
+        * have an average useful life of at least 3 years (e.g. motor vehicles)
+      * nondurable goods
+        * have an average useful life of less than 3 years (e.g. food)
+      * services
+        * commodities that cannot be stored or inventoried and are consumed at the time of purchase (e.g., dining out)
+
+See also:
+  * https://maps.semcog.org/EconomicDashboard/ -> chart on the bottom left

@@ -103,6 +103,34 @@ df:
 1      b   ball
 2      c    cat
 </code>
+==== Create a dataframe from a list of tuples ====
+
+<code>
+In [1]:
+import pandas as pd
+data = [(0, 1, 0, 1), (1, 0, 1, 1), (0, 1, 1, 1)]
+df = pd.DataFrame(data)
+df
+Out[1]:
+   0  1  2  3
+0  0  1  0  1
+1  1  0  1  1
+2  0  1  1  1
+</code>
+
+You can also specify a list of columns for the dataframe.
+<code>
+In [2]:
+columns=('a', 'b', 'c', 'd')
+df = pd.DataFrame(data, columns=columns)
+df
+Out[2]:
+   a  b  c  d
+0  0  1  0  1
+1  1  0  1  1
+2  0  1  1  1
+</code>
+
 ==== Create a dataframe using StringIO ====
 <code>
 In [1]: 
@@ -424,6 +452,18 @@ s.apply(type).unique()
   * [[Convert string to date]]
   * [[print hundredths]]
   * [[swap columns]]
+
+===== read_csv() =====
+==== read all columns as strings ====
+<code>
+# read_csv preserves the white space. So strip it out.
+df = pd.read_csv(file_name, dtype='str')\
+    .rename(columns=lambda x: x.strip())\
+    .apply(lambda x: x.str.strip())
+</code>
+
+[{demonstrates: strip spaces in the column names, strip all elements},\\
+ {tags: read_csv as all strings}]
 
 ===== data transformation related =====
 ==== matches to coplays ====

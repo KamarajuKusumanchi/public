@@ -59,6 +59,13 @@ script - [[https://github.com/KamarajuKusumanchi/rutils/blob/master/bin/windows/
 
 Ref - https://stackoverflow.com/questions/573817/where-are-environment-variables-stored-in-registry
 
+==== open explorer from git bash ====
+To open the current directory in explorer from git bash
+<code>
+explorer .
+</code>
+
+
 ==== refresh environment variables ====
 tags | git bash reread environment variables
 

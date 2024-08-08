@@ -66,12 +66,14 @@ Settings -> Notifications -> App notifications -> Select Fidelity -> Slide right
 ^ Fund ^ Name ^ url ^ notes ^
 | FZFXX | Fidelity Treasury Money Market Fund | https://fundresearch.fidelity.com/mutual-funds/ratings/316341304 | |
 | SPAXX | Fidelity Government Money Market Fund | https://fundresearch.fidelity.com/mutual-funds/summary/31617H102 | |
-| FZCXX | Fidelity Government Money Market Fund | https://fundresearch.fidelity.com/mutual-funds/summary/31617H706 | came across it from https://thefinancebuff.com/fidelity-cash-management-checking-savings.html |
+| FZCXX | Fidelity Government Money Market Fund Premium Class | https://fundresearch.fidelity.com/mutual-funds/summary/31617H706 | came across it from https://thefinancebuff.com/fidelity-cash-management-checking-savings.html |
+| FDLXX | Fidelity Treasury Only Money Market Fund | https://fundresearch.fidelity.com/mutual-funds/summary/31617H300 | |
 
 ^ Fund ^ 7-Day Yield (%) ^ Expense ratio (bps) ^ minimum investment ($) ^ asof ^
-| FZFXX | 4.97 | 42 |  0 | 2023-08-17 |
-| SPAXX | 4.97 | 42 |  0 | 2023-08-17 |
-| FZCXX | 5.07 | 36 |  100,000 | 2023-08-17 |
+| [[https://fundresearch.fidelity.com/mutual-funds/ratings/316341304 | FZFXX]] | 4.94 | 42 |  0 | 2024-08-03 |
+| [[https://fundresearch.fidelity.com/mutual-funds/summary/31617H102 | SPAXX]] | 4.98 | 42 |  0 | 2024-08-03 |
+| [[https://fundresearch.fidelity.com/mutual-funds/summary/31617H706 | FZCXX]] | 5.08 | 32 |  100,000 | 2024-08-03 |
+| [[https://fundresearch.fidelity.com/mutual-funds/summary/31617H300 | FDLXX]] | 4.95 | 42 |  0 | 2024-08-03 |
 
 ^ Fund ^ invests in ^ last checked |
 | FZFXX | <WRAP>
@@ -107,6 +109,10 @@ Settings -> Notifications -> App notifications -> Select Fidelity -> Slide right
 </WRAP> | 2023-08-18 |
 
 This information can be obtained by going to the fund's page (ex:- https://fundresearch.fidelity.com/mutual-funds/summary/316341304) -> Summary -> "Composition by Instrument" table
+
+See also:
+  * https://thefinancebuff.com/best-fidelity-money-market-fund-your-tax-rates.html
+  * https://www.fidelity.com/bin-public/060_www_fidelity_com/documents/TY23-GSE-Supplemental-Letter.pdf - 2023 Percentage of Income from U.S. Government Securities
 
 ==== links I came across ====
   * https://www.fidelity.com/customer-service/phone-numbers/overview

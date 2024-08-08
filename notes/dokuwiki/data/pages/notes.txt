@@ -274,6 +274,10 @@
   * [[vanguard notes]]
   * [[libgen notes]]
   * [[turnpike notes]]
+  * [[earnings releases]]
+  * [[letsencrypt notes]]
+  * [[productivity tips]]
+  * [[auto insurance]]
 
 ==== by date ====
   * [[reading journal 2023]]

@@ -32,6 +32,14 @@ See also:
   * https://forum.dokuwiki.org/d/3686-questions-and-answers-style - where I found this trick
   * https://www.dokuwiki.org/plugin:qna
 
+==== mediawiki vs. dokuwiki ====
+I miss the following features in dokuwiki when compared to mediawiki
+
+  - The sections are numbered in mediawiki but they are not numbered in dokuwiki.
+  - The edit button is at the bottom of the section in dokuwiki but it is at the top in mediawiki.
+  - When you edit a section in mediawiki, all the subsections will be part of the edit. But that is not the case in dokuwiki. This is useful if you want to rearrange subsections within a section
+  - You can't have links in section headings
+
 ==== convert mediawiki page to dokuwiki ====
 <code>
 pandoc -f mediawiki -t dokuwiki --shift-heading-level-by=-1 mw.txt -o dk.txt
@@ -330,6 +338,7 @@ https://www.dokuwiki.org/tips:book mentions two plugins that are useful for crea
   * https://www.dokuwiki.org/plugin:bookcreator
   * https://www.dokuwiki.org/plugin:dw2pdf
 \\
+  * https://www.dokuwiki.org/plugin:searchpattern
   * https://www.dokuwiki.org/plugin:iframe
   * https://www.dokuwiki.org/plugin:gh
   * https://www.dokuwiki.org/plugin:pycode

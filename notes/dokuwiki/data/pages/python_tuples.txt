@@ -1,0 +1,4 @@
+==== why tuples are needed? ====
+  * Tuples are hashable. Lists are not.
+  * In some places, we can only use hashable items. For example: "elements of a set", "keys of a dictionary" etc., have to be hashable.
+    * For example, we can have a set of tuples but we can't have a set of lists.

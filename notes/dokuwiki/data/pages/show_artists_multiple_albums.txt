@@ -1,0 +1,120 @@
+===== Show artists with multiple albums =====
+{tags: show duplicates in a particular column but print whole line, show duplicates in a particular column but print other columns, show groups with more than 1 count, uniq on a single column but print duplicate lines\\
+solution uses: do not display index, only read certain columns of a csv file}
+
+==== Task ====
+Given a csv file such as
+<code>
+$ cat album.csv
+Artist,AlbumId,TrackId
+A,201,1022
+A,201,3472
+A,451,9866
+B,390,6078
+B,390,2634
+C,272,3411
+C,272,8673
+C,698,2543
+C,698,5837
+D,235,9874
+E,312,1089
+</code>
+1) show artists that have multiple albums along with their album ids. That is print
+<code>
+Artist,AlbumId
+A,201
+A,451
+C,272
+C,698
+</code>
+2) show artists that have multiple albums along with their album ids and track ids. That is print
+<code>
+Artist,AlbumId,TrackId
+A,201,1022
+A,201,3472
+A,451,9866
+C,272,3411
+C,272,8673
+C,698,2543
+C,698,5837
+</code>
+
+==== Solution ====
+<code>
+In [6]:
+import pandas as pd
+coi = ['Artist', 'AlbumId']
+df = pd.read_csv('album.csv', usecols=coi).drop_duplicates()
+duplicates = df.groupby(['Artist']).filter(lambda grp: grp['AlbumId'].nunique() > 1).sort_values('Artist')
+print(duplicates.to_csv(index=False))
+Artist,AlbumId
+A,201
+A,451
+C,272
+C,698
+</code>
+
+To print other columns, change the coi (columns of interest) variable
+<code>
+In [7]:
+import pandas as pd
+coi = ['Artist', 'AlbumId', 'TrackId']
+df = pd.read_csv('album.csv', usecols=coi).drop_duplicates()
+duplicates = df.groupby(['Artist']).filter(lambda grp: grp['AlbumId'].nunique() > 1).sort_values('Artist')
+print(duplicates.to_csv(index=False))
+Artist,AlbumId,TrackId
+A,201,1022
+A,201,3472
+A,451,9866
+C,272,3411
+C,272,8673
+C,698,2543
+C,698,5837
+</code>
+
+==== How it works ====
+<code>
+$ ipython
+Python 3.11.8 | packaged by Anaconda, Inc. | (main, Feb 26 2024, 21:34:05) [MSC v.1916 64 bit (AMD64)]
+IPython 8.20.0 -- An enhanced Interactive Python. Type '?' for help.
+
+In [1]:
+import pandas as pd
+df = pd.read_csv('album.csv', usecols=['Artist', 'AlbumId']).drop_duplicates()
+df
+Out[1]:
+   Artist  AlbumId
+0       A      201
+2       A      451
+3       B      390
+5       C      272
+7       C      698
+9       D      235
+10      E      312
+
+In [2]:
+duplicates = df.groupby(['Artist']).filter(lambda grp: grp['AlbumId'].nunique() > 1).sort_values('Artist')
+duplicates
+Out[2]:
+  Artist  AlbumId
+0      A      201
+2      A      451
+5      C      272
+7      C      698
+
+In [3]:
+print(duplicates.to_csv(index=False))
+Artist,AlbumId
+A,201
+A,451
+C,272
+C,698
+</code>
+
+
+==== Ref ====
+  * https://stackoverflow.com/questions/70236139/pandas-groupby-select-groups-that-have-more-than-one-unique-values-in-a-column - this is where I found the sample data and the initial solution. I just modified it to fit my needs.
+  * https://stackoverflow.com/a/24646906 - shows how to display pandas dataframe without index
+  * https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html
+  * https://stackoverflow.com/questions/53979178/pandas-groupby-show-only-groups-with-more-than-one-unique-feature-value/ - similar question. My answer is in https://stackoverflow.com/a/78809363/6305733
+

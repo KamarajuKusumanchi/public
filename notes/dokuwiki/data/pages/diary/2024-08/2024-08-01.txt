@@ -1,0 +1,28 @@
+==== 2024-08-01 ====
+Notes from http://benjaminkeen.oucreate.com/MB%20Lect02.pdf
+
+----
+:?: What is the difference between money market and capital market?\\
+:!: Money market is a financial market in which short-term debt is traded. Capital market is a financial market in which equities and longer-term debt are traded.
+
+:?: What is "Commercial paper"?\\
+:!: It is short-term debt issued by large banks and well-known companies.
+
+:?: What are "repurchase agreements"?\\
+:!: They are short-term loans (less than 2 weeks) where T-bills serve as collateral.
+
+:?: What are negotiable CDs?\\
+:!: They are CDs in excess of $100,000 that are usually sold to institutional investors.
+
+:?: What are "Federal funds"?\\
+:!: They are typically overnight loans between banks with deposits at the Federal Reserve.
+
+:?: What is the "federal funds rate"?\\
+:!: It is the interest rate that banks charge each other for loans in the federal funds market.
+----
+----
+  - ''Foreign bonds'' are sold in a foreign country and denominated in that country’s currency.
+  - ''Eurobond'' is a bond denominated in a currency other than that of the country in which it is sold.
+  - ''Eurodollars'' are deposits of U.S. dollars in banks outside the U.S.
+
+----

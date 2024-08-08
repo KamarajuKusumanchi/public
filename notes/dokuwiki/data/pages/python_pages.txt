@@ -16,6 +16,7 @@
   * [[python cli]]
   * [[python strings]]
   * [[python lists]]
+  * [[python tuples]]
   * [[python dictionaries]]
   * [[python multiprocessing]]
   * [[python timeit]]

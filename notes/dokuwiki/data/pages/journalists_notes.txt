@@ -43,6 +43,8 @@ http://jsomers.net/ - contains all of his work.
 
   * Orla McCaffrey writes articles with sensational headlines. \\ See for example: <nowiki>https://www.wsj.com/articles/mortgage-rates-drop-after-three-weeks-of-increases-11656597927?mod=hp_lead_pos3</nowiki> . \\ Here the mortgage rates dropped from 5.81% (on 2022-06-23) to 5.7% (on 2022-06-30). A year ago, they were 2.98% (on 2021-07-01). So the 0.11% is not much... but the title of the article is "Mortgage Rates Drop After Three Weeks of Increases". Also, see the graphic in the article to see what a hyped up article this is.
 
+  * Steven M. Sears: [sensational headlines, low information density]. Examples: <nowiki>https://www.barrons.com/amp/articles/costco-e-commerce-play-options-f789d28b</nowiki>. The headline of the article is "Costco Is Hitting E-Commerce Harder. How to Play the Stock.". The strategy proposed by the author is to sell cash secured puts. This applies to any stock and has nothing to do with Costco. Ignore articles from this author going forward.
+
 ==== speculative headlines ====
   * Anjani Trivedi wrote articles with speculative headlines. \\ See for example: <nowiki>https://www.bloomberg.com/opinion/articles/2022-07-18/did-buffett-and-munger-see-byd-s-one-problem-lithium-supplies Did Buffett and Munger See BYD’s One Problem?</nowiki> . \\ Here she speculated that a big sell order in Hong Kong's clearing system was probably due to selling by Berkshire Hathaway and then went on to describe BYD's current problems. The article  is more about BYD's current problems than about Buffett and Munger. Ignore articles written by her.
 

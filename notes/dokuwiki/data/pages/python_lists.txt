@@ -1,5 +1,6 @@
 ===== dummy =====
 ==== tasks ====
+  * [[python/intersect lists but preserve order]]
   * [[check if two lists are equal]]
   * [[get unique items in a list]]
   * [[convert a string to a list]]
