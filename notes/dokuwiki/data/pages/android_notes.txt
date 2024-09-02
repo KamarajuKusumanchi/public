@@ -57,6 +57,10 @@ Ref:- https://support.google.com/android/answer/7680439?hl=en
     * reason: shows too many ads. They come up whenever you go up one level. All the Ads are repetitive, annoying, uninteresting, unskippable.
 
 ==== apps I came across ====
+  * Focus To-Do: Pomodoro & Tasks
+    * https://play.google.com/store/apps/details?id=com.superelement.pomodoro
+    * Try it and see if it is any useful.
+
   * MacroDroid - Device Automation
     * https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid
     * Can this be used to chime every half an hour?

@@ -1,4 +1,11 @@
 
+==== 2024-08-10 ====
+If you are going out of town for an extended period of time, you can ask USPS
+to hold your mail until you return by putting a "hold mail" request on their
+website.
+
+More info at https://www.usps.com/manage/hold-mail.htm
+
 ==== 2024-08-04 ====
 The pressure at the bottom of the Mariana Trench is ~1000 times more than the pressure at the sea level. Even at these levels, the density of water goes up by just ~5%.
 

@@ -1,7 +1,19 @@
+==== costco holidays ====
+:?: On what days does Costco close? \\
+:!: 
+  * New Year’s Day
+  * Easter Sunday
+  * Memorial Day
+  * Independence Day
+  * Labor Day
+  * Thanksgiving Day
+  * Christmas Day
+
+Ref:- https://customerservice.costco.com/app/answers/answer_view/a_id/701/~/what-are-costco%E2%80%99s-holiday-closures
+
 ==== people ====
   * Gary Millerchip - Executive Vice President, CFO
   * Ron Vachris - President and CEO
-
 
 ==== cash back rewards ====
   * [asof | 2024-02-01] If you earn \$300 or more in cash back rewards, you can deposit the reward certificate directly into your bank. [1]
@@ -18,19 +30,6 @@ Ref:-
     * Related: https://opendata.stackexchange.com/questions/16000/from-where-does-costco-get-data-correlating-license-plate-numbers-and-vehicle-ma
 
 ==== qna ====
-:?: On what days does Costco close? \\
-:!: 
-  * New Year’s Day
-  * Easter Sunday
-  * Memorial Day
-  * Independence Day
-  * Labor Day
-  * Thanksgiving Day
-  * Christmas Day
-
-Ref:- https://customerservice.costco.com/app/answers/answer_view/a_id/701/~/what-are-costco%E2%80%99s-holiday-closures
-
-tags | costco holidays
 
 ~~QNA~~
 

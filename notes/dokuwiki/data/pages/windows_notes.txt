@@ -1,4 +1,7 @@
 ===== dummy =====
+==== Fixed width fonts in outlook ====
+Use consolas or courier
+
 ==== search button in taskbar not working ====
 Symptom: The search button in the task bar does not respond to the keyboard.
 
@@ -165,3 +168,14 @@ call foo.bat
 call bar.bat
 </code>
 Ref:- https://stackoverflow.com/questions/1103994/how-to-run-multiple-bat-files-within-a-bat-file
+
+===== windows 10 =====
+==== disable news icon ====
+right click on the Taskbar -> News and interests -> Turn off
+
+tested on
+<code>
+$ winver
+Windows 10
+Version 22H2 (OS Build 19045.4651)
+</code>

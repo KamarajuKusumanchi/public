@@ -1,4 +1,16 @@
 ===== Configuration =====
+==== My Configuration ====
+  * File -> Options -> Mail -> Other -> After moving or deleting an open item -> open the previous item -> ok
+  * copy pasting related
+<code>
+File -> Options -> Mail -> Compose Messages -> Click "Editor Options" button
+-> Advanced -> Cut, copy, and paste -> Pasting from other programs:
+-> choose "Merge Formatting" in the dropdown
+-> OK -> OK
+</code>
+
+  * View -> Show as Conversations -> check the box -> All Folders
+  * View -> Conversation Settings -> Always Expand Conversations -> Check
 ==== Threaded display in Outlook 365 ====
 click on a folder -> View tab
 <code>
@@ -35,3 +47,14 @@ File -> Options -> Calendar
 </code>
 
 Found the answer in | <nowiki>https://answers.microsoft.com/en-us/msoffice/forum/msoffice_outlook-mso_other-mso_2016/outlook-calendar-view-how-limit-hours-shown/7c0524d8-3b03-4bc4-ac23-e21c872d9bbc</nowiki>
+
+===== Miscellaneous ====
+==== new appointment ====
+<code>
+ctrl+shift+q
+</code>
+
+In https://www.businessinsider.com/guides/tech/outlook-keyboard-shortcuts, there are two shortcuts
+  * ctrl+shift+q - create a meeting request
+  * ctrl+shift+a - schedule a new calendar appointment
+Afterwards, find out what the difference between the two is. This link also gives many shortcuts. Take a look at that as well.

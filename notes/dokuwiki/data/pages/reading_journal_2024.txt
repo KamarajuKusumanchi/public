@@ -1,0 +1,10 @@
+==== 2023-09-02 ====
+  * https://en.wikipedia.org/wiki/National_Change_of_Address - National Change of Address
+    * Costco uses it to update addresses of its members.
+      * Ref: https://customerservice.costco.com/app/answers/answer_view/a_id/846
+
+===== Policy =====
+  * Most recent first.
+  * Each year in its own page.
+  * Separate sections for each date.
+  * If an individual entry takes more than a line, add an extra line for readability.

@@ -52,6 +52,18 @@ Settings -> Notifications -> App notifications -> Select Fidelity -> Slide right
   * Fidelity offers true treasury autoroll with no time out of the market. Schwab keeps your money out of the market 1 week and gives no interest.
   * Fidelity will autoliquidate retail money market funds to settle withdrawals, ACH payments and security purchases. So you can keep money in a higher yielding money market fund instead of a settlement fund. Schwab does not offer this, and requires a manual sale of a money market fund.
 
+==== yield comparison ====
+
+^ Fund ^ Name ^ 7-Day Yield (%) ^ Expense ratio (bps) ^ minimum investment ($) ^ 2023 percentage of income \\ exempt from state taxes ^ is eligible for \\ NY state tax exemption ^ is eligible for \\ NJ state tax exemption ^ core position eligibility ^ asof ^
+| [[https://fundresearch.fidelity.com/mutual-funds/ratings/316341304 | FZFXX]] | Fidelity® Treasury Money Market Fund | 4.93 | 42 |  0 | 24.19 | No | Yes | non-retirement | 2024-08-05 |
+| [[https://fundresearch.fidelity.com/mutual-funds/summary/31617H102 | SPAXX]] | Fidelity® Government Money Market Fund | 4.96 | 42 |  0 | 41.18 | No | Yes | retirement, non-retirement | 2024-08-05 |
+| [[https://fundresearch.fidelity.com/mutual-funds/summary/31617H706 | FZCXX]] | Fidelity® Government Money Market Fund Premium Class | 5.06 | 32 |  100,000 | 41.18 | No | Yes | | 2024-08-05 |
+| [[https://fundresearch.fidelity.com/mutual-funds/summary/31617H300 | FDLXX]] | Fidelity® Treasury Only Money Market Fund | 4.93 | 42 |  0 | 90.39 | Yes | Yes | | 2024-08-05 |
+
+Ref:
+  * https://www.reddit.com/r/Bogleheads/comments/1b5uo1t/fidelity_bogleheads_fzfxx_vs_spaxx_state_taxes/
+    * https://www.fidelity.com/bin-public/060_www_fidelity_com/documents/TY23-GSE-Supplemental-Letter.pdf - gives the state tax exemption percentages
+
 ==== Core positions ====
 
 ^ Account ^ core positions available ^
@@ -68,12 +80,6 @@ Settings -> Notifications -> App notifications -> Select Fidelity -> Slide right
 | SPAXX | Fidelity Government Money Market Fund | https://fundresearch.fidelity.com/mutual-funds/summary/31617H102 | |
 | FZCXX | Fidelity Government Money Market Fund Premium Class | https://fundresearch.fidelity.com/mutual-funds/summary/31617H706 | came across it from https://thefinancebuff.com/fidelity-cash-management-checking-savings.html |
 | FDLXX | Fidelity Treasury Only Money Market Fund | https://fundresearch.fidelity.com/mutual-funds/summary/31617H300 | |
-
-^ Fund ^ 7-Day Yield (%) ^ Expense ratio (bps) ^ minimum investment ($) ^ asof ^
-| [[https://fundresearch.fidelity.com/mutual-funds/ratings/316341304 | FZFXX]] | 4.94 | 42 |  0 | 2024-08-03 |
-| [[https://fundresearch.fidelity.com/mutual-funds/summary/31617H102 | SPAXX]] | 4.98 | 42 |  0 | 2024-08-03 |
-| [[https://fundresearch.fidelity.com/mutual-funds/summary/31617H706 | FZCXX]] | 5.08 | 32 |  100,000 | 2024-08-03 |
-| [[https://fundresearch.fidelity.com/mutual-funds/summary/31617H300 | FDLXX]] | 4.95 | 42 |  0 | 2024-08-03 |
 
 ^ Fund ^ invests in ^ last checked |
 | FZFXX | <WRAP>
@@ -170,3 +176,9 @@ https://thefinancebuff.com/treasury-bills-cd-money-market.html . FWIW, I use Fid
   * Starting from June 15, 2024, Fidelity CMA accounts will have an option to sweep to SPAXX
   * This was announced in the March 2024 statement of the Fidelity CMA account.
 
+==== stock ratings ====
+Fidelity -> New & Research -> Stocks -> Login -> "Top rated by sector" -> "View more"
+
+You can also go there directly with https://research2.fidelity.com/pi/stock-screener#results
+
+sort stocks by "ESS from StarMine from Refinitiv" and look for the "Very Bullish" ones.

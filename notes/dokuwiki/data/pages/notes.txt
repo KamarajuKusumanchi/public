@@ -278,8 +278,10 @@
   * [[letsencrypt notes]]
   * [[productivity tips]]
   * [[auto insurance]]
+  * [[etihad airways]]
 
 ==== by date ====
+  * [[reading journal 2024]]
   * [[reading journal 2023]]
   * [[reading journal 2022]]
   * [[reading journal 2021]]
