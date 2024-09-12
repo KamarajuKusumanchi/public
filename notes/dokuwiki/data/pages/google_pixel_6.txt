@@ -21,3 +21,6 @@
   * Settings -> Notifications -> App settings -> Youtube -> All YouTube notifications -> uncheck
 
 tags | silent notifications
+
+==== turnoff autocorrect ====
+  * Bring up the keyboard -> four square button on the top left -> settings gear button -> Text correction -> Auto-correction -> turn off

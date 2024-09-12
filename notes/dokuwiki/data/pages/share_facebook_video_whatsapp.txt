@@ -1,0 +1,27 @@
+==== Share a facebook video on whatsapp ====
+
+Download the video:
+
+In facebook, right click on the video -> Copy video URL at current time \\
+-> paste it in fbdown.net (for public videos), fbdown.net/private-downloader.php (for private videos) \\
+-> remove ?t=NNN at the end -> Download
+
+For example, if you got
+<code>
+https://www.facebook.com/ubaid.hussain.507/videos/2580838562238346/?t=12
+</code>
+
+paste it and change it to
+<code>
+https://www.facebook.com/ubaid.hussain.507/videos/2580838562238346
+</code>
+
+Edit the video if necessary.
+
+For example, to copy the first 10.5 seconds of src.mp4 to dest.mp4
+
+<code>
+ffmpeg -ss 00:00:00 -i src.mp4 -to 00:00:10.5 -c copy dest.mp4
+</code>
+
+Upload the video to whatsapp.

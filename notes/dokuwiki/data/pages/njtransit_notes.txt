@@ -1,4 +1,7 @@
 ===== Morganville related =====
+==== bogo coupon codes ====
+  * 2024-09: NJTSEPT24
+
 ==== fares to travel between PABT and Texas Road stop on US 9 N ====
   * one way - $13.75
   * 10 trip - $118.50 . This is 13.82% discount (= round( (1 - (118.50 / 137.50))*100, 2)).

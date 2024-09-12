@@ -1,0 +1,38 @@
+==== 2024-09-07 ====
+Notes from \\
+https://www.wsj.com/articles/high-frequency-trader-hudson-river-to-execute-retail-stock-trades-11625047200?mod=itp_wsj&ru=yahoo \\
+High-Frequency Trader Hudson River to Execute Retail Stock Trades \\
+2021-06-30
+  * Hudson River Trading LLC
+    * one of the biggest high-frequency trading firms
+    * handles around 8% of daily U.S. stock-trading volume
+    * based in New York
+    * founded in 2002
+    * 500 employees around the world
+    * maintains a low profile
+    * a proprietary trading firm that manages its own money and doesn’t take outside capital
+    * active in stocks, options, futures, currencies, bonds and cryptocurrencies
+    * rivals: Citadel Securities, Virtu Financial Inc
+
+  * Hudson River Trading LLC is building a retail wholesaler business
+  * Citadel and Virtu handle more than 70% of individual investors’ stock orders
+
+  * major retail wholesalers: Citadel Securities, Virtu, Susquehanna, Two sigma, UBS, Jane Street
+
+  * Wolverine Holdings LP
+  * wholesaler business requires trading firms to set up sales relationships with brokerages and transact in a broad array of stocks and etfs favored by small investors
+
+Notes from https://www.sikorskaya.net/files/Bryzgalova_Pavlova_Sikorskaya_2023.pdf
+
+pg-3 (of pdf)
+  * although only a fraction of investors trade options, most of the PFOF received by retail brokerages comes from options, not equities
+  * For example, in 2021, U.S. brokerages received \$2.4 billion in PFOF for options and only \$1.3 billion for equities.
+  * The lion’s share of PFOF for options came from only three wholesalers: Citadel, Susquehanna, and Wolverine.
+
+pg-11 (of pdf)
+  * Figure 1 plots aggregate monthly payments for order flow received by U.S. retail brokerages.
+    * shows that the brokerages consistently received more PFOF from options than stocks
+  * Figure 2 shows the market concentration in PFOF for options as well as stocks. The top 5 have O(90%) share.
+
+pg-54 (of pdf)
+  * reports the total PFOF in stocks and options for each broker-firm pair in Q1/2020 - Q4/2021
