@@ -13,6 +13,9 @@
 # 3rd edition, published in 2013
 # Chapter 13, pg 539-540
 
+# See also:
+# * https://github.com/seanmcsIRL/cheat_sheets/blob/master/langs/python/pythonbooks/cookbook3rd/chap13/filein.py
+
 import fileinput
 
 with fileinput.input() as f_input:
