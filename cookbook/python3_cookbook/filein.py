@@ -11,7 +11,7 @@
 # Initial version is from
 # Python Cookbook by David Beazley, Brian K Jones
 # 3rd edition, published in 2013
-# Chapter 13, pg-539
+# Chapter 13, pg 539-540
 
 import fileinput
 
