@@ -1,5 +1,4 @@
 ===== dummy =====
-
 ==== useful links ====
   * [[https://tutswiki.com/python/exception-handling/ | exception handling in python]] (tutswiki.com)
     * very easy to follow; high information density; well thought out examples
@@ -11,6 +10,7 @@
 
   * os.path.basename - https://docs.python.org/3/library/os.path.html#os.path.basename
   * continue statement - https://docs.python.org/3/reference/simple_stmts.html#the-continue-statement
+
 ==== validate inputs ====
 Sample snippet:
 <code>
@@ -29,6 +29,7 @@ AssertionError                            Traceback (most recent call last)
 
 AssertionError: foo is not a valid day. It should be one of ['sun', 'mon', 'tue']
 </code>
+
 ==== where is a module imported from ====
 tags | module path
 

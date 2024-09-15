@@ -1,0 +1,55 @@
+===== Edit a whole section =====
+scope | dokuwiki
+
+Say you have some subsections in a given section and want to edit some or all of them together. Put them all into a <nowiki><WRAP></nowiki> container. You will then get a single edit button at the very end.
+
+For example, to edit the master section and subsections 1, 2, and 3 below, I did
+<code>
+<WRAP>
+==== section 1 ====
+I am in the first section.
+
+==== section 2 ====
+I am in the second section.
+
+==== section 3 ====
+I am in the third section.
+</WRAP>
+</code>
+
+To edit subsections 4 and 5 below, I did
+<code>
+==== section 4 ====
+<WRAP>
+I am in the fourth section.
+
+==== section 5 ====
+I am in the fifth section.
+</WRAP>
+</code>
+
+<WRAP>
+==== section 1 ====
+I am in the first section.
+
+==== section 2 ====
+I am in the second section.
+
+==== section 3 ====
+I am in the third section.
+</WRAP>
+
+==== section 4 ====
+<WRAP>
+I am in the fourth section.
+
+==== section 5 ====
+I am in the fifth section.
+</WRAP>
+
+==== section 6 ====
+I am in the sixth section.
+
+==== See also ====
+  * https://forum.dokuwiki.org/d/18016-include-lower-level-when-section-editing - found this tip here. I just added some examples to show how it works.
+

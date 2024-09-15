@@ -1,5 +1,6 @@
 ==== tasks ====
   * [[random_page#generate_a_random_page | generate a random page]]
+  * [[Edit whole section | Edit a whole section in dokuwiki]]
 
 ==== search the wiki ====
 Install ShortcutKey plugin (https://www.dokuwiki.org/plugin:shortcutkey). Then use 's' to focus on search box.
@@ -393,6 +394,8 @@ bar
   * https://www.dokuwiki.org/devel:vim - setup vim for dokuwiki development.
 
 ==== Useful documentation ====
+  * https://www.dokuwiki.org/wiki:syntax#basic_text_formatting - format text as bold, italic, underlined and monospaced
+
   * https://www.dokuwiki.org/config:useslash
     * tags | use slash instead of colon as namespace separator in URLs
 
@@ -407,8 +410,6 @@ bar
   * https://www.dokuwiki.org/namespaces has answers for
     * How to create new namespaces?
   * https://www.dokuwiki.org/wiki:syntax#quoting - quote some text. You can have other stuff like bold text, monospaced text etc., within the quoted text
-  * https://www.dokuwiki.org/wiki:syntax#basic_text_formatting - format text as bold, italic, underlined and monospaced
-
 
   * https://www.dokuwiki.org/wiki:syntax#lists
   * https://www.dokuwiki.org/wiki:syntax#headline_level_3
