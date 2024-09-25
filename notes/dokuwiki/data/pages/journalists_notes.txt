@@ -6,6 +6,10 @@
   * Josh Nathan-Kazis - https://www.barrons.com/authors/josh-nathan-kazis - writes {to the point; easy to read}. See for example https://www.barrons.com/amp/articles/bird-flu-virus-human-cow-cattle-texas-e4eaa491
 
 ==== authors I like ====
+  * [[https://www.wsj.com/news/author/jason-zweig | Jason Zweig]] (wsj.com) write very good investigative articles. See for example
+    * https://www.wsj.com/finance/investing/kenneth-boyle-paul-regan-next-level-yield-wealth-903910f9?mod=article_inline
+    * https://www.wsj.com/finance/investing/yield-term-deposits-paul-regan-8042122d
+
   * Jacob Sonenshine and Nicholas Jasinski - their articles have {good analysis; to the point; easy to read}. For example, see
     * https://www.barrons.com/articles/earnings-stocks-gains-rally-outlook-fff4ad0c
     * https://www.barrons.com/amp/articles/chubb-ceo-insurance-climate-china-warren-buffett-b4f435de

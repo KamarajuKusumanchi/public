@@ -16,3 +16,10 @@ Private prison stocks like GEO Group Inc.
   * Raymond James Financial
   * ticker: RJF
   * brokerage
+
+==== dummy ====
+  * VST - Vistra Corp
+  * VRT - Vertiv Holdings Co
+  * GEV - GE Vernova Inc.
+  * ABNB - Airbnd Inc
+  * ETN - Eaton Corporation plc

@@ -1,0 +1,3 @@
+==== links I came across ====
+  * https://www.isbn.org/faqs_formats_reprints_editions
+    * has answers for questions such as "Does isbn change with each edition of the book?"

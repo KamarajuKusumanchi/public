@@ -1,4 +1,9 @@
 
+==== 2024-09-25 ====
+There is a rule called "business judgement rule" which protects the Board of Directors from personal civil liability when they make business decisions for a company.
+
+Ref: https://www.investopedia.com/terms/b/businessjudgmentrule.asp
+
 ==== 2024-08-10 ====
 If you are going out of town for an extended period of time, you can ask USPS
 to hold your mail until you return by putting a "hold mail" request on their
@@ -49,6 +54,9 @@ Ref:
 ==== 2024-07-06 ====
   * The frequency illusion (also known as the Baader–Meinhof phenomenon) is a cognitive bias in which a person notices a specific concept, word, or product more frequently after recently becoming aware of it.
     * Ref:- https://en.wikipedia.org/wiki/Frequency_illusion
+
+==== 2024-07-05 ====
+  * pandas has a resample function (https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.resample.html) to change the frequency of timeseries. For example, let's say you have daily OHLC (open, high, low, close) data of a stock. You can use this function to convert it to monthly OHLC data. Very convenient!
 
 ==== 2024-07-04 ====
   * Shatapawali is a Marathi term which refers to an age-long Indian custom of taking a stroll after a meal. 

@@ -1,6 +1,7 @@
 Note:- My old blog is in http://raju.shoutwiki.com/wiki/Blog . I plan to migrate the articles from there to here as time permits.
 
 ==== 2024 ====
+  * 2024-09-16 [[https://stackoverflow.com/a/78991782 | python script to display the contents of a file to stdout]]
   * 2024-09-13 [[Edit whole section | Edit a whole section in dokuwiki]]
   * 2024-07-29 [[show_artists_multiple_albums | Show artists with multiple albums]]
   * 2024-01-23 [[blocked by barrons]]
