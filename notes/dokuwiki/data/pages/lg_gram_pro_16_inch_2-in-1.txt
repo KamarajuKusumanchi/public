@@ -1,0 +1,29 @@
+===== dummy =====
+==== product description ====
+  * https://www.costco.com/LG-gram-Pro-16%22-2-in-1-Touchscreen-Intel-EVO-Edition-Laptop-powered-by-Intel-Core-Ultra-7-Processor-155H---WQXGA-(2560-X-1600)---Windows-11.product.1825130.html
+  * LG gram Pro 16" 2-in-1 Touchscreen Intel EVO Edition Laptop powered by Intel Core Ultra 7 Processor 155H - WQXGA (2560 X 1600) - Windows 11
+  * short name = LG gram Pro 16 inch 2-in-1
+
+===== configuration =====
+==== How to Install Windows 11 Without a Microsoft Account ====
+tags | how to sign in without creating a microsoft account
+
+  * https://www.tomshardware.com/how-to/install-windows-11-without-microsoft-account contains instructions on how to install windows 11 without a microsoft account
+
+  * But in my case, when I started the installation/activation I did not know about this microsoft account requirement. So I entered the wifi credentials. Later it asked for microsoft account which I did not want to use/create. I followed the instructions in https://www.tomshardware.com/how-to/install-windows-11-without-microsoft-account . In particular, I tried <code>
+Shift + F10
+OOBE\BYPASSNRO
+Shift + F10
+ipconfig /release
+</code> but it was still asking for microsoft account. So I switched off my wifi (by removing the power plug of the router). Then it was not able to access the internet and gave me the "I don't have Internet" option which I then selected.
+    * Meta info: I started the installation/activation on 2024-09-29
+
+==== create a local account ====
+Windows button -> Settings -> Accounts -> Other users -> Add account -> "I don't have this person's sign-in information" ->  Add a user without a Microsoft account -> Enter the  user name, password
+
+system information: Windows 11 Home, 22 H2
+
+Ref: https://www.reddit.com/r/WindowsHelp/comments/1cgrzwt/comment/l1xotlh/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+
+==== change security questions and answers of a local account ====
+Win + r -> <nowiki>ms-cxh://setsqsalocalonly</nowiki>

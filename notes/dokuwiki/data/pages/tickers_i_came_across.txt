@@ -1,0 +1,6 @@
+===== tickers =====
+Policy:
+  * New entries go at the end by default.
+
+==== etfs ====
+  * NVDY - YieldMax NVDA Option Income Strategy ETF

@@ -1,0 +1,6 @@
+==== links I came across ====
+  * https://www.fidelity.com/webcontent/ap010098-etf-content/19.11.0/help/research/learn_er_quotes.shtml - Who is Recognia?
+  * https://www.ibkrguides.com/traderworkstation/recognia-technical-indicators.htm - Recognia Technical Indicators
+
+==== might be useful ====
+  * https://example.tradingcentral.com/documentation/api/overview.html - Recognia API Overview

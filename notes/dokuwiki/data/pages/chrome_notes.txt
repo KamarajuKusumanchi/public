@@ -75,6 +75,9 @@ Ref:- https://superuser.com/a/1309293/679081
 ==== links I came across ====
   * https://support.google.com/chrome/answer/157179 - chrome keyboard shortcuts
 
+==== dummy ====
+  * <nowiki>about://about</nowiki> redirects to <nowiki>chrome://about/</nowiki> . It shows all about urls.
+
 ===== Extensions =====
 ==== Install ublock origin ====
 Ref:- https://github.com/gorhill/uBlock/tree/master/dist#build-instructions-for-developers

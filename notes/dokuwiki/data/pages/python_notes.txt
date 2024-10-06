@@ -30,6 +30,22 @@ AssertionError                            Traceback (most recent call last)
 AssertionError: foo is not a valid day. It should be one of ['sun', 'mon', 'tue']
 </code>
 
+==== mod operator ====
+In Python, the mod operator returns a number with the same sign as the second argument:
+<code>
+>>> 10%3
+1
+>>> (-10)%3
+2
+>>> 10%(-3)
+-2
+>>> (-10)%(-3)
+-1
+
+>>> import sys; print(sys.version)
+3.11.9 (main, Apr 19 2024, 16:48:06) [GCC 11.2.0]
+</code>
+
 ==== where is a module imported from ====
 tags | module path
 

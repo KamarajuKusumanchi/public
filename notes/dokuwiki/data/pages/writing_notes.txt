@@ -1,0 +1,7 @@
+==== links I came across ====
+:?: Should the first paragraph of a chapter be indented?\\
+:!: From https://www.chicagomanualofstyle.org/qanda/data/faq/topics/ManuscriptPreparation/faq0223.html <WRAP>
+> the first paragraph in a chapter or other section normally begins flush left. This is a convention more than a rule (and not mentioned in CMOS), but most publishers today, including Chicago, tend to follow it.
+>
+> Such paragraphs usually follow a chapter or other title or a section heading. The first line would also begin flush left in a paragraph that follows a section break signaled by extra line space
+</WRAP>

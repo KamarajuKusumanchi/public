@@ -168,6 +168,7 @@
   * [[words I came across]]
   * [[private companies I came across]]
   * [[public companies I came across]]
+  * [[tickers I came across]]
   * [[toothpaste]]
   * [[du usage]]
   * [[wordus]]
@@ -271,6 +272,7 @@
   * [[pe ratio]]
   * [[DTCC notes]]
   * [[laptop notes]]
+  * [[LG gram Pro 16 inch 2-in-1]]
   * [[vanguard notes]]
   * [[libgen notes]]
   * [[turnpike notes]]
@@ -280,6 +282,11 @@
   * [[auto insurance]]
   * [[etihad airways]]
   * [[isbn notes]]
+  * [[cold notes]]
+  * [[food notes]]
+  * [[writing notes]]
+  * [[thinkorswim notes]]
+  * [[recognia notes]]
 
 ==== by date ====
   * [[reading journal 2024]]

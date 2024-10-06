@@ -463,3 +463,7 @@ Ref:- https://wiki.debian.org/DokuWiki#Specificities_of_the_Debian_package
 
 ==== pages in this wiki ====
   * [[dokuwiki farmer plugin]]
+
+==== dummy ====
+  * You can add <nowiki>?do=export_xhtmlbody</nowiki> to any DokuWiki link to view the body of a DokuWiki document as XHTML
+

@@ -115,3 +115,7 @@ conda install ncurses
 was not installing ncurses as it was already uptodate.
 
 Ref:- https://stackoverflow.com/questions/32798940/tput-unknown-terminal-xterm-256color
+
+==== Why is the shell called as such? ====
+From https://www.linuxdoc.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/running-programs.html
+> The shell is Unix's interpreter for the commands you type in; it's called a shell because it wraps around and hides the operating system kernel. It's an important feature of Unix that the shell and kernel are separate programs communicating through a small set of system calls. This makes it possible for there to be multiple shells, suiting different tastes in interfaces.

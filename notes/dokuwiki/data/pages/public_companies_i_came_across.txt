@@ -20,6 +20,13 @@ Private prison stocks like GEO Group Inc.
 ==== dummy ====
   * VST - Vistra Corp
   * VRT - Vertiv Holdings Co
-  * GEV - GE Vernova Inc.
+  * GEV - GE Vernova Inc
   * ABNB - Airbnd Inc
   * ETN - Eaton Corporation plc
+  * FSK - FS KKR Capital Corp
+  * SG - Sweetgreen Inc
+  * NKE - Nike Inc
+  * BMY - Bristol-Myers Squibb Co
+  * FSK - FS KKR Capital Corp
+  * TDG - Transdigm Group Incorporated
+  * MTN - Vail Resorts Inc

@@ -1,0 +1,11 @@
+==== 2024-09-25 ====
+Notes from https://www.wsj.com/tech/ai/noam-shazeer-google-ai-deal-d3605697?mod=wknd_pos1
+  * Noam Shazeer
+    * Google colleague, Daniel De Freitas
+  * In 2017, Shazeer published a paper with seven other Google researchers called “Attention is All You Need,” detailing a computer system that could reliably predict the next word in a sequence when prompted by humans. It became the underpinning of the generative AI technology that followed.
+  * Shazeer and De Freitas quit Google in 2021 to launch Character
+  * “The Aarthi and Sriram Show” podcast
+  * Google co-founder Sergey Brin played a key role in the deal to bring Shazeer back
+
+Notes from https://www.barrons.com/amp/articles/real-estate-reit-stocks-bc12f3ef
+  * Simon Property Group , Prologis , American Tower , and Crown Castle have largely diversified away from office buildings

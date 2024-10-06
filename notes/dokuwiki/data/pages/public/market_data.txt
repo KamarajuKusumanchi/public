@@ -62,3 +62,11 @@ See also:
 ==== stock research ====
   * https://www.nasdaq.com/publishers/zacks
     * See for example: https://www.nasdaq.com/articles/heres-why-you-should-retain-western-union-stock-now
+
+==== earnings call transcripts ====
+  * costco Q4 2024 Earnings Call transcript
+    * The earnings call was on 9/26/2024.
+    * The transcript was available at https://www.fool.com/earnings/call-transcripts/2024/09/26/costco-wholesale-cost-q4-2024-earnings-call-transc/ asof 9/27 . This webpage does not require a login.
+    * Other websites I came across but require a login. I did not test them.
+      * https://capedge.com/transcript/by/companyId/909832 - contains links to historical earnings call transcirpts
+      * https://www.gurufocus.com/stock/COST/transcripts/2536195

@@ -41,6 +41,8 @@ Policy:
     * Junk bonds are riskier cousins of Treasuries.
 \\
   * SPDR S&P Retail ETF (XRT)
+\\
+  * JPMorgan Nasdaq Equity Premium Income ETF (JEPQ)
 
 ==== home builders and related industries ====
   * XHB - SPDR S&P Homebuilders ETF
