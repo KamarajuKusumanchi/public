@@ -61,7 +61,17 @@ Remove it
 rajulocal@hogwarts /var/log % sudo apt-get remove --purge ntpsec
 </code>
 
-Todo: Check if the problem still persists.
+today | 2024-10-12
+The machine rebooted again unexpectedly. The /var/log/kern.log shows
 
-today | 2024-02-11
-Looks like it worked. So far the machine did not shutdown.
+<code>
+2024-10-12T19:20:34.777583-04:00 hogwarts kernel: [ 4568.756357] nouveau 0000:02:00.0: msvld: init failed, -19
+2024-10-12T19:20:36.657547-04:00 hogwarts kernel: [ 4570.638966] nouveau 0000:02:00.0: firmware: failed to load nouveau/nv98_fuc084 (-2)
+2024-10-12T19:20:36.661546-04:00 hogwarts kernel: [ 4570.639457] nouveau 0000:02:00.0: firmware: failed to load nouveau/nv98_fuc084 (-2)
+2024-10-12T19:20:36.661556-04:00 hogwarts kernel: [ 4570.639462] nouveau 0000:02:00.0: Direct firmware load for nouveau/nv98_fuc084 failed with error -2
+2024-10-12T19:20:36.661559-04:00 hogwarts kernel: [ 4570.639476] nouveau 0000:02:00.0: firmware: failed to load nouveau/nv98_fuc084d (-2)
+2024-10-12T19:20:36.661560-04:00 hogwarts kernel: [ 4570.639486] nouveau 0000:02:00.0: firmware: failed to load nouveau/nv98_fuc084d (-2)
+2024-10-12T19:20:36.661561-04:00 hogwarts kernel: [ 4570.639489] nouveau 0000:02:00.0: Direct firmware load for nouveau/nv98_fuc084d failed with error -2
+</code>
+
+How to fix this error?

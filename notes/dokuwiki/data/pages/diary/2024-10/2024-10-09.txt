@@ -1,0 +1,5 @@
+==== 2024-10-09 ====
+  * https://www.nobelprize.org/prizes/chemistry/2024/press-release/ - 2024 Nobel Prize in Chemistry
+    * One half awarded to Prof. David Baker for "computational protein design"
+    * Second half awarded jointly to Demis Hassabis, John M. Jumper for "protein structure prediction".
+  * Demis Hassabis - chess master at 13, founder of deep mind, creator of alphago that beat chess and go human champions.

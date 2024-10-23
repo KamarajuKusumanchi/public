@@ -1,3 +1,8 @@
+==== 2020-01-31 ====
+  * Pandas 1.0.0 was released on 2020-01-29 - https://pandas.pydata.org/pandas-docs/stable/whatsnew/v1.0.0.html
+
+They removed a lot of functionality that was deprecated in previous releases. It is recommended to first upgrade to pandas 0.25 and to ensure your code is working without warnings, before upgrading to pandas 1.0.
+
 ==== 2020-08-12 ====
 The ''<nowiki>..</nowiki>'' and ''<nowiki>...</nowiki>'' have different meanings in the context of ''git diff'' and ''git log''.
 

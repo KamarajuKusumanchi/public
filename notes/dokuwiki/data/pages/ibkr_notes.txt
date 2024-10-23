@@ -68,3 +68,27 @@ IBKR gets the fundamental data from GFIS (Global Financial Information Services)
   * One-Cancels-All (OCA) Orders
     * https://www.interactivebrokers.com/en/trading/orders/oca.php
     * You can use the One-Cancels-All (OCA) order type to assign multiple orders to a group. If one of them gets executed, all the others will be cancelled automatically.
+
+==== daily cash balance report ====
+Create a custom flex query
+
+<code>
+Login -> Performance & Reports -> Flex Queries -> '+' button
+-> Query Name = "cash balance history"
+-> Sections -> click on "Cash Report"
+-> Options -> select "Exclude segments and MTD/YTD breakout"
+-> Select From Date, To Date, Net Cash Balance (SLB), Commissions, Dividends, Deposit/Withdrawals
+-> Save
+-> Delivery Configuration
+--> Format = CSV
+--> Period = "Last 30 Calendar Days"
+-> General Configuration
+--> Breakout by Day = Yes
+-> Continue -> Create -> OK
+</code>
+
+Run the report
+<code>
+Period = Month to Date
+Run
+</code>

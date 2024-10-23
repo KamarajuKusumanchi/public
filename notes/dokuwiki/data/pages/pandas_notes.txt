@@ -27,7 +27,21 @@ Ref:- (Pandas 1.x Cookbook, by Matt Harrison and Theodore Petrou, second edition
     * https://duckdb.org/2021/06/25/querying-parquet.html - gives more details
     * tags | pandas, streaming
 
-==== EmptyDataError ====
+==== pandas.errors.EmptyDataError ====
+Sample code to generate EmptyDataError exception
+<code>
+>>> import pandas as pd
+>>> from io import StringIO
+>>> empty = StringIO()
+>>> pd.read_csv(empty)
+Traceback (most recent call last):
+...
+pandas.errors.EmptyDataError: No columns to parse from file
+</code>
+
+Ref: https://pandas.pydata.org/pandas-docs/dev/reference/api/pandas.errors.EmptyDataError.html - Got the initial version of the code from here.
+
+==== pandas.io.common.EmptyDataError is deprecated ====
 Instead of
   pandas.io.common.EmptyDataError
 use

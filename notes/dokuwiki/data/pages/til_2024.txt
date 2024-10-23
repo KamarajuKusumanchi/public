@@ -1,4 +1,23 @@
 
+==== 2024-10-20 ====
+TIL: The 'IN' in the output of 'dig' command is the “query class” and stands for “internet”. It is basically a relic from the 80s and 90s when there were other networks competing with the internet like “chaosnet”.
+
+Ref: https://jvns.ca/blog/2021/12/04/how-to-use-dig/
+
+==== 2024-10-17 ====
+TIL: The risk of down syndrome increases with maternal age.
+
+Ref: https://www.floridahealth.gov/diseases-and-conditions/birth-defects/_documents/Data_Report/_documents/Maternal_Age_and_Down_Syndrome.pdf 
+
+==== 2024-10-15 ====
+Qanat is an ancient system of water supply which allows water to be transported over long distances in hot dry climates without loss of much of the water to evaporation. Here is a fascinating video on it.
+  * https://www.youtube.com/watch?v=vH3crh44GQ4 - Qanat in Iran
+
+==== 2024-10-12 ====
+A polyester textile is the same PET material (polyethylene terephthalate) as a plastic soda bottle, only extruded into a filament rather than molded into a container. Like the bottle, the fiber repels water. It’s hydrophobic.
+
+https://worksinprogress.co/issue/how-polyester-bounced-back/
+
 ==== 2024-09-28 ====
 There is a special aircraft called "Airbus BelugaXL" which is used to transport very large aircraft components, such as aircraft wings.
 

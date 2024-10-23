@@ -1,0 +1,22 @@
+==== 2024-10-14 ====
+Update 1:
+  * I made the following notes while reading https://www.kiplinger.com/taxes/social-security-tax-limit-jumps-for-2025 but afterwards, I found 
+  * https://www.ssa.gov/news/press/factsheets/colafacts2025.pdf and
+  * https://www.ssa.gov/news/press/factsheets/colafacts2024.pdf
+which are more comprehensive and less wordy. It is better to go with https://www.ssa.gov/news/press/factsheets/colafacts2025.pdf than my notes here.
+
+Notes from https://www.kiplinger.com/taxes/social-security-tax-limit-jumps-for-2025
+  * The SSA sets two things every year - COLA, tax limit
+  * This tax limit is also known as "wage cap". It is the amount of income subject to Social Security payroll tax.
+
+  * <WRAP>
+^ year ^ COLA ^ tax limit ^
+| 2024 | 3.2 | \$168,600 |
+| 2025 | 2.5 | \$176,100 |
+</WRAP>
+
+  * <WRAP>
+^ name ^ employer contribution ^ employee contribution ^ total ^ subjected to income cap ^
+| Social Security tax rate | 6.2% | 6.2% | 12.4% | Yes |
+| Medicate tax rate | 1.45% | 1.45% | 2.9% | No |
+</WRAP>

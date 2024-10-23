@@ -164,7 +164,7 @@ related:
 */
 
 ==== Install bypass paywalls ====
-Note: on 2023-10-19, I decided to use https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean instead of https://github.com/iamadamdev/bypass-paywalls-chrome for reasons listed in https://www.kamaraju.xyz/dk/diary/2023-10-19 . But I am keeping these instructions for reference.
+Note: on 2023-10-19, I decided to use https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean instead of https://github.com/iamadamdev/bypass-paywalls-chrome for reasons listed in https://www.kamaraju.xyz/dk/diary/2023-10/2023-10-19 . But I am keeping these instructions for reference.
 
 Ref:- https://github.com/iamadamdev/bypass-paywalls-chrome
 

@@ -202,6 +202,22 @@ Ref:-
 </code>
 
 Ref:- https://docs.python.org/3/reference/expressions.html#comparisons
+
+==== n choose k ====
+<code>
+ % python
+>>> from math import comb
+>>> comb(10, 3)
+120
+
+>>> import sys
+>>> sys.version
+'3.9.16 (main, May 15 2023, 23:46:34) \n[GCC 11.2.0]'
+</code>
+
+See also:
+  * https://stackoverflow.com/questions/4941753/is-there-a-math-ncr-function-in-python - contains recipes for older versions of python
+
 ===== tasks =====
   * [[get urls in a url]]
   * [[find depth]]

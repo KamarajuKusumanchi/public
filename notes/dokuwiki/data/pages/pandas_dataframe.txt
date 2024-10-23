@@ -433,6 +433,32 @@ First, use the ''.apply'' method with the ''type'' function to get back a Series
 s.apply(type).unique()
 </code>
 
+===== Missing data =====
+==== stringify nans ====
+<code>
+>>> import pandas as pd
+>>> import numpy as np
+>>> a = pd.Series(['foo', np.nan, 'bar', np.nan])
+>>> a
+0    foo
+1    NaN
+2    bar
+3    NaN
+dtype: object
+>>> a.fillna('baz')
+0    foo
+1    baz
+2    bar
+3    baz
+dtype: object
+>>> a
+0    foo
+1    NaN
+2    bar
+3    NaN
+dtype: object
+</code>
+
 ===== Tasks =====
   * [[extract last field from each row of a column]]
   * [[map one column to another]]

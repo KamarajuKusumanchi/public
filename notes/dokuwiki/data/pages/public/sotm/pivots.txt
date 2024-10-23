@@ -16,3 +16,8 @@ Ref:-
 
 Ref:-
   * [1] - https://www.wsj.com/articles/u-s-government-to-backstop-mortgages-above-1-million-mark-for-first-time-11669740331
+
+==== 3blue1brown ====
+  * https://www.3blue1brown.com/
+  * https://github.com/3b1b/manim - Animation engine for explanatory math videos
+    * A python package created by 3blue1brown so he can make animations the way he wants.

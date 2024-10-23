@@ -1,10 +1,3 @@
-==== links I came across ====
-  * https://github.com/bpc-clone/bypass-paywalls-chrome-clean
-  * https://github.com/bpc-clone/bpc_updates/releases
-    * https://github.com/bpc-clone/bypass-paywalls-chrome-clean/blob/master/README.md#installation
-    * https://github.com/bpc-clone/bypass-paywalls-firefox-clean/blob/master/README.md#installation
-
-
 ==== bypass paywalls clean on android phone ====
   * Install 'Firefox Nightly For Developers' from the playstore
   * Create a firefox account (accounts.firefox.com) and signin into it
@@ -40,3 +33,9 @@ https://addons.mozilla.org/en-US/firefox/collections/<USER ID>/<COLLECTION NAME>
 ==== bypass paywalls on desktop ====
   * [[https://www.kamaraju.xyz/dk/chrome_notes#install_bypass_paywalls_clean | Install bypass paywalls clean on chrome running on a desktop]]
 
+==== links I came across ====
+  * https://archive.is/
+  * https://github.com/bpc-clone/bypass-paywalls-chrome-clean
+  * https://github.com/bpc-clone/bpc_updates/releases
+    * https://github.com/bpc-clone/bypass-paywalls-chrome-clean/blob/master/README.md#installation
+    * https://github.com/bpc-clone/bypass-paywalls-firefox-clean/blob/master/README.md#installation

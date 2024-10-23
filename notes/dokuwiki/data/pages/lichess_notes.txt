@@ -20,3 +20,7 @@ On the sidebar go to Community -> Players -> click the search button -> enter th
 
 ==== questions to explore ====
   * The "analysis board" in the desktop version of lichess.org shows "Recommended puzzle training" and gives an opening name. How to access this feature in the android mobile app?
+
+==== links I came across ====
+  * https://lichess.org/training
+  * https://lichess.org/training/themes

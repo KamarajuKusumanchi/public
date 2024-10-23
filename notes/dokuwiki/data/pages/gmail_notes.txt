@@ -14,6 +14,11 @@ Settings gear icon -> See all settings -> Hover actions -> select "Disable hover
 
 Ref: https://support.google.com/mail/answer/2473038?hl=en
 
+==== disable summary cards ====
+Settings gear icon -> See all settings -> General tab -> Smart features and personalization: -> uncheck
+
+Settings gear icon -> See all settings -> General tab -> Smart features and personalization in other Google products: -> uncheck
+
 ===== dummy =====
 
 ==== filter on multiple from addresses ====
