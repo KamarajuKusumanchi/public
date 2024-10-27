@@ -12,7 +12,8 @@ ZIP_DIR := ${SOFTWARE_DIR}/zipped/${PROGRAM}
 UNZIP_DIR := ${SOFTWARE_DIR}/unZipped/${PROGRAM}
 
 # VERSION := 2.1.66
-VERSION := 23.10.1
+# VERSION := 23.10.1
+VERSION := 24.06.3
 TAG := anki-$(VERSION)-linux-qt5
 FILE_NAME := $(TAG).tar.zst
 URL := https://github.com/ankitects/anki/releases/download/${VERSION}/${FILE_NAME}
