@@ -9,3 +9,17 @@
 ==== Roth 401k vs. Roth IRA ====
   * https://www.reddit.com/r/fidelityinvestments/comments/1bjstmf/roth_401k_or_roth_ira/
     * The reply from Fidelity_JennyK has lots of information.
+
+==== QnA ====
+:?: Can a retirement plan account from an employer be a Roth IRA?
+
+:!: No, it can't be. A Roth IRA is a personal account.
+
+Ref:- https://thefinancebuff.com/simple-ira-complicated-rollover.html
+
+==== links I came across ====
+  * https://www.irs.gov/retirement-plans/retirement-plans-faqs-regarding-simple-ira-plans - SIMPLE IRA plan FAQs
+
+==== types of IRA accounts ====
+  * Traditional IRA
+  * SIMPLE IRA

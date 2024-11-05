@@ -1,0 +1,10 @@
+===== 2024-11-03 =====
+==== /dev/full ====
+/dev/full, or the **always-full device**, is a special file that always returns the error code ENOSPC (meaning "No space left on device") on writing, and provides an infinite number of zero bytes to any process that reads from it (similar to /dev/zero). This device is usually used when testing the behaviour of a program when it encounters a "disk full" error.
+
+<code>
+$ echo "Hello world" > /dev/full
+bash: echo: write error: No space left on device
+</code>
+
+Ref: %%https://en.wikipedia.org/wiki//dev/full%%

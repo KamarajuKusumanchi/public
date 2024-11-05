@@ -1,0 +1,7 @@
+==== 2024-10-26 ====
+reading journal
+  * https://en.wikipedia.org/wiki/Inequality_of_bargaining_power - Inequality of bargaining power<WRAP>
+> Where bargaining power is persistently unequal, the concept of inequality of bargaining power serves as a justification for the implication of mandatory terms into contracts by law, or the non-enforcement of a contract by the courts.
+</WRAP>
+  * https://en.wikipedia.org/wiki/Proxy_firm - Proxy firm
+    * There are two main players - ISS and Glass Lewis. Together, they have 97% market share.

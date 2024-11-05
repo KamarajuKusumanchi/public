@@ -34,11 +34,14 @@ See also:
   * https://www.dokuwiki.org/plugin:qna
 
 ==== mediawiki vs. dokuwiki ====
+tags | missing features
+
 I miss the following features in dokuwiki when compared to mediawiki
 
   - The sections are numbered in mediawiki but they are not numbered in dokuwiki.
   - The edit button is at the bottom of the section in dokuwiki but it is at the top in mediawiki.
   - When you edit a section in mediawiki, all the subsections will be part of the edit. But that is not the case in dokuwiki. This is useful if you want to rearrange subsections within a section
+    - work around: [[edit whole section| edit a whole section]]
   - You can't have links in section headings
 
 ==== convert mediawiki page to dokuwiki ====

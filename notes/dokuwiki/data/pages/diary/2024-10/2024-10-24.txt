@@ -1,0 +1,8 @@
+==== 2024-10-24 ====
+Notes from https://www.barrons.com/amp/articles/goldman-sachs-stock-market-lost-decade-9c9fd595
+  * the cyclically-adjusted price/earnings ratio uses average trailing 10-year inflation-adjusted earnings
+  * CAPE ratio
+  * Robert Shiller
+    * Nobel Prize-winning economist
+    * popularized the CAPE ratio
+  * technology and communications services now make up about 40% of the S&P 500

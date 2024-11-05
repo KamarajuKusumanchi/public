@@ -106,3 +106,10 @@ as per
 
 as per
   * https://www.google.com/search?q=district%20hospital%20rajahmundry
+
+==== PreTeXt ====
+  * PreTeXt: Write Once Read Anywhere Authoring and Publishing System
+    * https://pretextbook.org/
+    * Used to write "Discrete Mathematics: An Open Introduction, 4th edition by Oscar Levin" book [(>https://discrete.openmathbooks.org/dmoi4/frontmatter-5.html)]
+
+~~REFNOTES~~

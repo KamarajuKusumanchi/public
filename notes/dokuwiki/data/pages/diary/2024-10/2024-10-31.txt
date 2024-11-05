@@ -1,0 +1,14 @@
+==== 2024-10-31 ====
+Reading journal
+  * https://en.wikipedia.org/wiki/Oblomov - Oblomov
+    * Oblomov is the central character in a Russian novel called Oblomov.
+    * He is a young, generous nobleman who seems incapable of making important decisions or undertaking any significant actions.
+    * Sample usage from https://bits.debian.org/2024/10/ada-lovelace-day-2024-interview-with-some-women-in-debian.html <WRAP>
+> I would like to do lots of things and at the same time I am too Oblomovian to do any.
+</WRAP>
+
+  * https://www.barrons.com/amp/articles/super-micro-stock-price-audit-crash-a6b85299
+    * Companies have had to disclose a change in auditors since the 1970s, and they have had to disclose accounting issues since the 1980s.
+    * E&Y resigned as auditor to Supermicro
+    * E&Y resigned as auditor of the solar panel maker SunPower in July 2024
+    * PricewaterhouseCoopers quit as auditor of chip maker Marvell Technology in 2015

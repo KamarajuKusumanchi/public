@@ -288,6 +288,7 @@
   * [[thinkorswim notes]]
   * [[recognia notes]]
   * [[Bengay notes]]
+  * [[database notes]]
 
 ==== by date ====
   * [[reading journal 2024]]

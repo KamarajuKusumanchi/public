@@ -1,3 +1,6 @@
 ==== links I came across ====
+  * https://chatgpt.com/?hints=search
+    * went live on 2024-10-31(?)
+  * https://chatgpt.com/
   * https://www.reddit.com/r/ChatGPT/comments/10kw29n/wife_is_always_correct/ - Wife is always correct
   * https://blog.plover.com/2023/02/22/#four-digit-numbers - ChatGPT on the subject of four-digit numbers

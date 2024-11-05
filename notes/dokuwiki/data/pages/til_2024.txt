@@ -1,4 +1,12 @@
 
+==== 2024-1104 ====
+TIL about Pyrosomes. They are free-floating colonial tunicates that live in the ocean. They are bioluninescent. Here is a nice video on them https://www.youtube.com/watch?v=qis_rfb7fnU .
+
+==== 2024-10-25 ====
+TIL: "Kentucky windage" refers to the practice of holding the aim to the upwind side of the target (also known as deflection shooting or "leading" the wind) to compensate for wind drift, without actually changing the existing adjustment settings on the gunsight.
+
+Ref: https://en.wikipedia.org/wiki/Windage#Ballistics -> 2nd paragraph
+
 ==== 2024-10-20 ====
 TIL: The 'IN' in the output of 'dig' command is the “query class” and stands for “internet”. It is basically a relic from the 80s and 90s when there were other networks competing with the internet like “chaosnet”.
 

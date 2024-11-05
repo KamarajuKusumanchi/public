@@ -1,0 +1,9 @@
+==== Definition ====
+Manipulating earnings to make poor results look even worse is called as "Big Bath". The idea is to ‘take one big bath’ in a single year so that future years will show increased net income.
+
+Ref: https://en.wikipedia.org/wiki/Big_bath
+
+==== Berksire Hathaway's stance on Big Bath ====
+From Berkshire's owner's manual (https://www.berkshirehathaway.com/owners.html) -> point 12
+
+> At Berkshire you will find no "big bath" accounting maneuvers or restructurings nor any "smoothing" of quarterly or annual results. We will always tell you how many strokes we have taken on each hole and never play around with the scorecard. When the numbers are a very rough "guesstimate," as they necessarily must be in insurance reserving, we will try to be both consistent and conservative in our approach.

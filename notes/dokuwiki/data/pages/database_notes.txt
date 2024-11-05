@@ -1,0 +1,6 @@
+==== begin tran, rollback tran, commit tran ====
+You can use 'begin tran' to check the impact of sql commands without actually modifying the db. If the results are as expected, use 'commit tran' to commit. Otherwise, use 'rollback tran' to undo the changes.
+
+Ref:-
+  * https://www.mssqltips.com/sqlservertutorial/3305/what-does-begin-tran-rollback-tran-and-commit-tran-mean/
+    * It is worth reading this article end to end. Good explanation; useful examples; has screenshots.

@@ -119,3 +119,23 @@ Ref:- https://stackoverflow.com/questions/32798940/tput-unknown-terminal-xterm-2
 ==== Why is the shell called as such? ====
 From https://www.linuxdoc.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/running-programs.html
 > The shell is Unix's interpreter for the commands you type in; it's called a shell because it wraps around and hides the operating system kernel. It's an important feature of Unix that the shell and kernel are separate programs communicating through a small set of system calls. This makes it possible for there to be multiple shells, suiting different tastes in interfaces.
+
+===== Tips =====
+
+==== cat show filename ====
+Use "tail -n +1" to show the filename when displaying its contents. For example
+<code>
+tail -n +1 file1.txt file2.txt file3.txt
+</code>
+
+Ouptut:
+<code>
+==> file1.txt <==
+<contents of file1.txt>
+
+==> file2.txt <==
+<contents of file2.txt>
+
+==> file3.txt <==
+<contents of file3.txt>
+</code>

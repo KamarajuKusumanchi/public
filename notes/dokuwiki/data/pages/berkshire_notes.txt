@@ -52,7 +52,7 @@ showing a 12.6% rise in operating profit, to $8.1 billion.
   * https://www.businesswire.com/news/home/20230506005003/en/ shows that the operating earnings are \$8,065 million and \$7,160 million in Q1 or 2023 and 2022 respectively. This matches with the above calculation.
     * This press release is a bit easier to understand about operating earnings compared to my approach. But I do not know how to generalize it for other quarters (ex:- how to get the corresponding businesswire link?).
     * I found businesswire link in https://www.barrons.com/articles/berkshire-hathaway-inc-first-quarter-2023-earnings-release-e6e998bf
-  * The operating income can get revised at a later point in time. For example, https://www.businesswire.com/news/home/20220430005003/en shows that the original operating income was \$7,040 million. But https://www.businesswire.com/news/home/20230506005003/en shows that it got revised to \$7,160 million.
+  * The operating income can get revised at a later point in time. For example, https://www.businesswire.com/news/home/20220430005003/en shows that the original operating income for Q1 2022 was \$7,040 million. But https://www.businesswire.com/news/home/20230506005003/en shows that it got revised to \$7,160 million.
 
 ===== How much cash does Berkshire hold at the end of year 2022? ====
 Go to the annual report https://www.berkshirehathaway.com/2022ar/2022ar.pdf . You can also go there via
@@ -104,8 +104,26 @@ See also:
   * https://github.com/KamarajuKusumanchi/market_data/blob/master/berkshire/cash.txt - Berkshire's cash by quarter.
 
 ===== dummy =====
+==== net earnings vs operating earnings ====
+When it comes to Berkshire, we should look at operating earnings instead of net earnings.
+
+Berkshire holds a lot of stocks in their portfolio. As per the new GAAP rules, the stock portfolio's performance should be included into the earnings (even if they are not realized). So pure earnings will be very volatile. Whereas the operating earnings tell how the business is doing (and does not take into account of their stock portfolio).
+
+As an example, consider their Q3 2024 earnings. https://www.berkshirehathaway.com/news/nov0224.pdf shows
+
+<WRAP indent>
+{{:brk_q3_2024_earnings.png|}}
+</WRAP>
+
+Net earnings went from -\$13 bln in Q3 2023 to \$26 bln in Q4 2023. Operating earnings went from \$11 bln to \$10 bln in the same period. So the business did slightly worse while the GAAP earnings paint a rosy picture.
+
+See also:
+  * I have not found a good data source for Berkshire operating earnings. So I update it manually in my github repo https://github.com/KamarajuKusumanchi/market_data/blob/master/berkshire/original_operating_income_by_quarter.txt
+
 ==== What are the holdings of Berkshire? ====
   * https://www.cnbc.com/berkshire-hathaway-portfolio/ - shows the holdings of Berkshire.
+    * update | asof 2024-10-27, the above link is not working.
+    * todo | find an alternative link
 
 ==== Board of directors ====
   * Ronald L. Olson
@@ -117,3 +135,7 @@ Ref:- Full list can be found at https://www.berkshirehathaway.com/2001ar/directo
     * Berkshire Hathaway
     * Western Asset Trusts
     * Provivi
+
+==== links I came across ====
+  * Berkshire's owner's manual - https://www.berkshirehathaway.com/owners.html
+    * In pdf format - https://www.berkshirehathaway.com/ownman.pdf

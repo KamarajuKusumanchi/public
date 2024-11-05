@@ -1,0 +1,19 @@
+===== 2024-11-01 =====
+==== the "Howey test" ====
+  * from https://www.bloomberg.com/opinion/articles/2021-07-21/jamie-dimon-got-a-bonus?srnd=undefined&embedded-checkout=true <WRAP>
+> the “Howey test” says that something is a security if “there is the investment of money in a common enterprise with a reasonable expectation of profits to be derived from the efforts of others.” The test comes from a 1946 Supreme Court case in which investors bought rows of orange trees in Florida and agreed to let the Howey Company manage the trees, harvest and sell the fruit, and give the investors a share of the proceeds. Oranges, and orange trees, and land, are not securities, but //that deal// is a security: You are buying orange trees, letting someone else manage them, and collecting a yield from their managerial efforts.
+</WRAP>
+
+See also:
+  * https://supreme.justia.com/cases/federal/us/328/293/ - SEC v. W.J. Howey Co., 328 U.S. 293 (1946)
+  * https://www.youtube.com/watch?v=RCzWX-uVvXo - Securities and Exchange Commission v. W. J. Howey Co. Case Brief Summary | Law Case Explained
+    * good explanation but it looks like the video covers only 98% of the story? In the end, it just mentioned that the supreme court granted the cert. It does not mention that SEC won the case?
+  * https://www.dailycommercial.com/story/news/2015/05/14/article-18b5129a-d203-5b30-acb6-b17c2c335981-html/64815854007/ <WRAP>
+> Howey began buying up huge tracts of land in the mid-1910s from the shores of Lake Harris to Lake Apopka, and included his beloved Sugarloaf Mountain. He began selling the tracts in 1916. Howey sold developed groves in units ranging from five to 100 acres. Land he purchased for \$8 to \$10 an acre was sold for \$800 to \$2,000 per acre.
+</WRAP>
+
+==== Heartland ====
+  * The heartland refers to the central land area of the US, usually the Midwestern United States or the states that do not border the Atlantic or Pacific oceans.
+
+Ref:-
+  * [[https://en.wikipedia.org/wiki/Heartland_(United_States)]]

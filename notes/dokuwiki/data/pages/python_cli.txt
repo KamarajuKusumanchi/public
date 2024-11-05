@@ -1,3 +1,6 @@
+==== tasks ====
+  * [[print_file_stdout_using_python | print a file to stdout using python]]
+
 ==== using python instead of tr ====
 <code>
 get_column_names.py $filename | grep -i coupon | \

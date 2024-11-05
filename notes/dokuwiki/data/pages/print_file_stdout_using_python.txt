@@ -1,0 +1,50 @@
+===== print a file to stdout using python =====
+
+==== task ====
+Write a python script to display the contents of a file to stdout
+
+==== solution ====
+You can do
+<code>
+import fileinput
+
+with fileinput.input() as f_input:
+    for line in f_input:
+        print(line, end='')
+</code>
+
+If you save this script as filein.py and make it executable, you can do all of the following and get the expected output:
+
+<code>
+$ ls | ./filein.py          # Prints a directory listing to stdout.
+$ ./filein.py /etc/passwd   # Reads /etc/passwd to stdout.
+$ ./filein.py < /etc/passwd # Reads /etc/passwd to stdout.
+</code>
+
+If you want to print the filename and line number along with the contents, you can use
+
+<code>
+import fileinput
+
+with fileinput.input() as f:
+    for line in f:
+        print(f.filename(), f.lineno(), line, end='')
+</code>
+
+Credits:- I found these two tips in Python Cookbook by David Beazley, Brian K Jones, 3rd edition, published in 2013 -> Chapter 13 -> pg 539-540.
+
+See also:
+  * https://stackoverflow.com/a/78991782 - my answer to the same question on stackoverflow.
+  * https://docs.python.org/3/library/fileinput.html
+
+==== one liner ====
+<code>
+python -c "import fileinput; print(''.join(fileinput.input()), end='')"
+</code>
+
+For example
+<code>
+$ ls | python -c "import fileinput; print(''.join(fileinput.input()), end='')"              # Prints a directory listing to stdout.
+$ python -c "import fileinput; print(''.join(fileinput.input()), end='')" /etc/passwd       # Reads /etc/passwd to stdout.
+$ python -c "import fileinput; print(''.join(fileinput.input()), end='')" < /etc/passwd     # Reads /etc/passwd to stdout.
+</code>

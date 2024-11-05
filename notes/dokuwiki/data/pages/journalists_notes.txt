@@ -99,3 +99,7 @@ Ref:- comments in https://news.ycombinator.com/item?id=18267460
 
 ==== difficult to read ====
   * Elizabeth O’Brien (convoluted; difficult to read). For example, https://www.barrons.com/amp/articles/401-k-confusion-workers-automatic-enrollment-savings-6c1a2d1d . Try to skip this author if possible.
+
+==== bloated but ok ====
+  * Ian Salisbury writes low information density but OK to read articles. For example https://www.barrons.com/amp/articles/goldman-sachs-stock-market-lost-decade-9c9fd595 . Try to find someone who writes more succinct articles but without losing important information.
+

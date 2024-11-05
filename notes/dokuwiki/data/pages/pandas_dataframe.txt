@@ -433,6 +433,44 @@ First, use the ''.apply'' method with the ''type'' function to get back a Series
 s.apply(type).unique()
 </code>
 
+===== a vs b =====
+
+==== shape vs size ====
+Shape gives the number of elements in each dimension. Size gives the total number of elements.
+
+<code>
+In [1]:
+import pandas as pd
+df = pd.DataFrame({'col1': [1, 2], 'col2': [3, 4],
+                   'col3': [5, 6]})
+
+In [2]:
+df
+Out[2]:
+   col1  col2  col3
+0     1     3     5
+1     2     4     6
+
+In [3]:
+df.shape
+Out[3]:
+(2, 3)
+
+In [4]:
+df.size
+Out[4]:
+6
+</code>
+
+using | pandas 1.1.2, python 3.8.18
+
+Ref:-
+  * https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.shape.html
+  * https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.size.html
+
+See also:
+  * https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.memory_usage.html
+
 ===== Missing data =====
 ==== stringify nans ====
 <code>
@@ -458,6 +496,33 @@ dtype: object
 3    NaN
 dtype: object
 </code>
+
+==== use values in another column as a fallback ====
+<code>
+$ ipython
+In [1]:
+import pandas as pd
+df = pd.DataFrame({'old' :['m', 'n', 'o', 'p'], 'new': ['a', None, 'b', None]})
+df
+Out[1]:
+  old   new
+0   m     a
+1   n  None
+2   o     b
+3   p  None
+
+In [2]:
+df['new'] = df['new'].fillna(df['old'])
+df
+Out[2]:
+  old new
+0   m   a
+1   n   n
+2   o   b
+3   p   p
+</code>
+
+using | Python 3.11.8, pandas 2.1.4
 
 ===== Tasks =====
   * [[extract last field from each row of a column]]
@@ -490,6 +555,37 @@ df = pd.read_csv(file_name, dtype='str')\
 
 [{demonstrates: strip spaces in the column names, strip all elements},\\
  {tags: read_csv as all strings}]
+
+===== check if =====
+==== check if some columns exist in a dataframe ====
+approach 1:
+<code>
+if set(['A', 'C']).issubset(df.columns):
+   df['sum'] = df['A'] + df['C']
+</code>
+
+approach 2:
+
+Instead of ''set([])'', you can also use ''{}'' to create sets
+<code>
+if {'A', 'C'}.issubset(df.columns):
+  ...
+</code>
+
+approach 3:
+
+You can also do this using a generator comprehension
+<code>
+if all(item in df.columns for item in ['A', 'C']):
+  ...
+</code>
+
+Ref:
+  * https://stackoverflow.com/a/39371897 - where I found the answer
+  * https://docs.python.org/3/library/stdtypes.html#frozenset.issubset
+  * https://docs.python.org/3/library/stdtypes.html#set-types-set-frozenset
+    * talks about creating sets using ''{}''
+  * https://docs.python.org/3.13/reference/expressions.html#set-displays
 
 ===== data transformation related =====
 ==== matches to coplays ====

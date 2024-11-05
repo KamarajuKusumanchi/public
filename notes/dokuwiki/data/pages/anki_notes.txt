@@ -38,6 +38,14 @@ today | 2020-11-09
   * AnkiDroid is not affiliated with Anki Desktop or AnkiWeb. AnkiDroid is based on Anki Desktop but it is developed by an entirely separate community of volunteers.
     * Ref:- https://docs.ankidroid.org/#AnkiDesktop
 
+==== anki addons I came across ====
+tags | plugins
+  * https://ankiweb.net/shared/info/1788670778 - CrowdAnki: JSON export&import. Edit history. Collaborate on deck creation.
+  * https://ankiweb.net/shared/info/877182321 - Enhance main window
+
+==== my anki flash card collection ====
+  * https://github.com/KamarajuKusumanchi/public_anki_deck
+
 ===== trouble shooting =====
 ==== AnkiDroid directory is inaccessible ====
 
