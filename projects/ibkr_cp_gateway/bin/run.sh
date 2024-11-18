@@ -13,8 +13,23 @@ config_file=$1
 config_path=$(dirname $1)
 name=$(basename $config_path)
 
-# export RUNTIME_PATH="$config_path:dist/ibgroup.web.core.iblink.router.clientportal.gw.jar:build/lib/runtime/*"
-export RUNTIME_PATH="$config_path;dist/ibgroup.web.core.iblink.router.clientportal.gw.jar;build/lib/runtime/*"
+# get the OS
+# Using the construct given in https://mac-blog.org.ua/ibkr-api/
+case "$(uname -s)" in
+    Linux*)     OS=linux;;
+    Darwin*)    OS=mac;;
+    CYGWIN*)    OS=windows;;
+    MINGW*)     OS=windows;;
+    *)          echo "Unsupported platform"; exit 1;;
+esac
+echo "OS: $OS"
+
+if [ "$OS" = "windows" ]; then
+  delim=";"
+else
+  delim=":"
+fi
+export RUNTIME_PATH="${config_path}${delim}dist/ibgroup.web.core.iblink.router.clientportal.gw.jar${delim}build/lib/runtime/*"
 
 echo "running $verticle "
 echo " runtime path : $RUNTIME_PATH"
