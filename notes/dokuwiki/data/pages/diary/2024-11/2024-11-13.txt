@@ -1,0 +1,4 @@
+==== 2024-11-13 ====
+Notes from https://finance.yahoo.com/news/amazon-set-introduce-ai-chips-163216196.html
+  * Amazon’s capital spending is expected to reach \$75 billion in 2024, ..., up from \$48.4 billion in 2023.
+

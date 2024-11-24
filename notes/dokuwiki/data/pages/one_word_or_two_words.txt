@@ -1,0 +1,3 @@
+==== dummy ====
+^ word ^ one word ^ two words ^ ref ^
+| trash bag | N | Y | https://dictionary.cambridge.org/us/dictionary/english/trash-bag |

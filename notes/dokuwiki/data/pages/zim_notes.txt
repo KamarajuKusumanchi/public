@@ -67,6 +67,7 @@ Ref:- https://zim-wiki.org/manual/Help/Links.html -> "File Links" section
 ==== links I came across ====
   * Releases - https://github.com/zim-desktop-wiki/zim-desktop-wiki/releases
   * zim wiki code repository - https://github.com/jaap-karssenberg/zim-desktop-wiki/
+  * WhyIsItNotDoneYet - https://github.com/zim-desktop-wiki/zim-desktop-wiki/wiki/WhyIsItNotDoneYet
 
   * http://zim-wiki.org/manual/Help/Key_Bindings.html - key board shortcuts in zim
 

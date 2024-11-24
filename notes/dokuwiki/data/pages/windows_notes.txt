@@ -179,3 +179,8 @@ $ winver
 Windows 10
 Version 22H2 (OS Build 19045.4651)
 </code>
+
+==== configuration settings I am trying out ====
+today | 2024-11-18
+
+Windows + i -> Accounts -> Sign-in Options -> Restart apps -> Automatically save my restartable apps when I sign out and restart them after I sign in -> on

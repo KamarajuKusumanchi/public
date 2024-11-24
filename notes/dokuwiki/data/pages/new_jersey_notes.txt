@@ -17,3 +17,7 @@ See also:
 </WRAP>
   * https://www.state.nj.us/treasury/taxation/realtytransfees.shtml -> "Additional Fee on Certain Transfers of Real Property Over $1,000,000" has some information on this.
   * https://www.state.nj.us/treasury/taxation/documents/pdf/guides/Buying-or-Selling-a-Home-in-New-Jersey.pdf mentions about this but does not go into details.
+
+==== links I came across ====
+  * https://nj.gov/treasury/taxation/njit6.shtml - Retirement Income
+  * https://nj.gov/treasury/taxation/njit7.shtml - Retirement Income Exclusions

@@ -1,6 +1,7 @@
 Note:- My old blog is in http://raju.shoutwiki.com/wiki/Blog . I plan to migrate the articles from there to here as time permits.
 
 ==== 2024 ====
+  * 2024-11-18 [[run_ibkr_cp_gateway_git_bash | Run ibkr cp gateway from git bash]]
   * 2024-10-24 [[print_file_stdout_using_python | print a file to stdout using python]]
   * 2024-09-13 [[Edit whole section | Edit a whole section in dokuwiki]]
   * 2024-07-29 [[show_artists_multiple_albums | Show artists with multiple albums]]

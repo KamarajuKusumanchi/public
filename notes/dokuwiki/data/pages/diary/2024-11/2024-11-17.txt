@@ -1,0 +1,12 @@
+==== 2024-11-17 ====
+:?: What is the difference between a Guassian distribution and a normal distribution?
+
+:!: They both are the same.
+
+Ref: https://en.wikipedia.org/wiki/Normal_distribution
+
+:?: What is a normal deviate?
+
+:!: A random variable with a Gaussian distribution is said to be normally distributed, and is called a normal deviate.
+
+Ref: https://en.wikipedia.org/wiki/Normal_distribution

@@ -1,5 +1,8 @@
 ===== 2024 =====
 
+==== 2024-11-23 ====
+  * Here is a good explanation of how the "Kalman filter" algorithm works - https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/
+
 ==== 2024-10-25 ====
   * https://www.youtube.com/watch?v=yCtAdgpW_Vs - This Doctor Won’t Take Health Insurance - and Charges Just $35 a Visit
     * Dr. Timothy Wong in Pittsburgh charges just $35 for most visits

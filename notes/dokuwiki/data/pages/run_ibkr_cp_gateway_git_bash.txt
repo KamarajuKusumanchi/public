@@ -1,0 +1,38 @@
+===== Run ibkr cp gateway from git bash =====
+==== background ====
+The ibkr cp gateway is available from
+https://www.interactivebrokers.com/campus/ibkr-api-page/cpapi-v1/#gw-step-one
+-> Download the Standard Release .
+
+==== problem ====
+After installing it, I tried to run it from git bash. It failed with the
+following error
+
+<code>
+raju@DESKTOP-CRLPVE5 MINGW64 ~/software/unzipped/ibkr_cp_gateway
+$ ./bin/run.sh ./root/conf.yaml
+running
+ runtime path : ./root:dist/ibgroup.web.core.iblink.router.clientportal.gw.jar:build/lib/runtime/*
+ config file  : ./root/conf.yaml
+Error: Could not find or load main class ibgroup.web.core.clientportal.gw.GatewayStart
+</code>
+
+tags | setup java in git bash, interactive brokers ibgroup.web.core.clientportal.gw.GatewayStart, git bash classpath
+
+==== solution ====
+The bin/run.sh script is doing something like
+  java -cp "${RUNTIME_PATH}"
+
+But it is using ':' as the path separator while initializing it. On windows, it should use ";" instead. So changing
+
+  export RUNTIME_PATH="$config_path:dist/ibgroup.web.core.iblink.router.clientportal.gw.jar:build/lib/runtime/*"
+
+to
+
+  export RUNTIME_PATH="$config_path;dist/ibgroup.web.core.iblink.router.clientportal.gw.jar;build/lib/runtime/*"
+
+will fix it. I made the fix a bit generic and added it in https://github.com/KamarajuKusumanchi/public/blob/master/projects/ibkr_cp_gateway/bin/run.sh
+
+==== see also ====
+  * https://mac-blog.org.ua/interactive-brokers-google-sheets/ - shows how to receive data from IBKR into Google sheets
+  * https://mac-blog.org.ua/ibkr-api/ - has some notes on how to setup IBKR api. Borrowed some code from here into my fix above.

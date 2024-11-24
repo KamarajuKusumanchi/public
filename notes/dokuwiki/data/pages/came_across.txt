@@ -1,3 +1,7 @@
+==== wikipedia articles I came across ====
+  * https://en.wikipedia.org/wiki/Natarajan_Chandrasekaran - Natarajan Chandrasekaran
+    * He is the chairman of Tata Sons and Tata Group.
+
 ==== dokiwiki wikis I came across ====
   * https://www.fangfufu.co.uk/wiki/doku.php
     * https://www.fangfufu.co.uk/wiki/doku.php?id=public:backing_up_dokuwiki

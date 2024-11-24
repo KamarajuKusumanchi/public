@@ -1,5 +1,43 @@
 tags | stocks to watch for next month, companies I came across
 
+==== 2024-11-24 ====
+  * GOOG - Alphabet Inc
+    * https://finviz.com/quote.ashx?t=GOOG&ty=c&ta=1&p=d
+      * Price = \$166.57
+      * Market Cap = \$1994.87 B; Sales = \$339.52 B; P/S = 5.88
+      * P/E = 22.10; Forward P/E = 18.53
+      * EPS (ttm) = 7.54; EPS next Y = 8.99
+      * EPS this Y = 38.06%, EPS next Y = 12.23%, EPS next 5Y = 15.85%
+      * LT Debt / EQ = 0.08
+      * Dividend TTM = 0.40, Payout = 0.00%
+      * Target Price = \$209.56
+
+  * ETN - Eaton Corporation plc
+    * https://finviz.com/quote.ashx?t=ETN&p=d
+      * Price = \$377.41
+      * Market Cap = \$151.75 B; Sales = \$24.61 B; P/S = 6.17
+      * P/E = 40.14; Forward P/E = 31.25
+      * EPS (ttm) = 9.40; EPS next Y = 12.08
+      * EPS this Y = 18.17%, EPS next Y = 12.08%, EPS next 5Y = 12.79%
+      * LT Debt / EQ = 0.49
+      * Dividend TTM = 3.76, Payout = 42.88%
+      * Target Price = \$378.19
+
+==== 2024-11-21 ====
+  * GNK - Genco Shipping & Trading Limited
+    * https://finviz.com/quote.ashx?t=GNK&p=d
+      * Price = \$16.73
+      * Market Cap = \$715.34 M; Sales = \$439.33 M; P/S = 1.63
+      * P/E = 10.63; Forward P/E = 9.18
+      * EPS (ttm) = 1.57; EPS next Y = 1.82
+      * EPS this Y = 157.13%, EPS next Y = 5.79%, EPS next 5Y = 36.21%
+      * LT Debt / EQ = 0.08
+      * Dividend TTM = 1.57, Payout = 0.00%
+      * Target Price = \$23.37
+    * Further research revealed that this used to be a O(\$200) stock back in 2015 [(https://finviz.com/quote.ashx?t=GNK&p=m)]. They had a massive loss in Sep 2014 [(https://www.macrotrends.net/stocks/charts/GNK/genco-shipping-trading/net-income)]. They issued lot of shares in Mar 2017 [(https://www.macrotrends.net/stocks/charts/GNK/genco-shipping-trading/shares-outstanding)].
+    * Decision: stay away from it.
+
+~~REFNOTES~~
 ==== 2024-07-08 ====
   * CROX - Crocs Inc
     * They make slippers
