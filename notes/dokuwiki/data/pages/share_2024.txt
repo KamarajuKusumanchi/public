@@ -1,5 +1,24 @@
 ===== 2024 =====
 
+==== 2024-12-10 ====
+  * https://sive.rs/dxb - I hated Dubai until I learned about it
+
+==== 2024-12-04 ====
+  * The 2024 version of FreeTaxUSA is now live: https://www.freetaxusa.com/
+
+==== 2024-12-02 ====
+  * https://thefinancebuff.com/rich-retirement-life-no-splurge.html - Retirees, a Rich Life Does Not Require Spending More Money
+
+==== 2024-11-29 ====
+  * https://x.com/PicturesFoIder/status/1849408261172109634 - How a baby grows inside a woman’s body!
+
+==== 2024-11-26 ====
+  * https://www.wired.com/story/22-year-old-builds-chips-parents-garage/ - This 22-Year-Old Builds Chips in His Parents’ Garage
+
+==== 2024-11-25 ====
+  * https://www.wsj.com/business/7-eleven-acquisition-japan-high-quality-food-437e1534?st=7g5io9&reflink=desktopwebshare_permalink
+    * The Japanese love their 7-Eleven stores. The way they operate reminds me of Costco.
+
 ==== 2024-11-23 ====
   * Here is a good explanation of how the "Kalman filter" algorithm works - https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/
 

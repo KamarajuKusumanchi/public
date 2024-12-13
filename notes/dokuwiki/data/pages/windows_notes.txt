@@ -2,6 +2,15 @@
 ==== Fixed width fonts in outlook ====
 Use consolas or courier
 
+==== take a screenshot ====
+Approach 1:
+You can use win+shift+s to take a screenshot and then paste it using ctrl+v .
+
+Approach 2:
+<code>
+Start Menu -> Snipping Tool
+</code>
+
 ==== search button in taskbar not working ====
 Symptom: The search button in the task bar does not respond to the keyboard.
 

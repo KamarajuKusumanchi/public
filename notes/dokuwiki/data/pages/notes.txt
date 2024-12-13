@@ -99,6 +99,7 @@
   * [[math]]
   * [[write math formulas]]
   * [[mathjax notes]]
+  * [[calculus notes]]
   * [[dmv notes]]
   * [[explorer++]]
   * [[recipes]]
@@ -291,6 +292,8 @@
   * [[database notes]]
   * [[rclone notes]]
   * [[sec notes]]
+  * [[pyarrow notes]]
+  * [[microsoft teams]]
 
 ==== by date ====
   * [[reading journal 2024]]

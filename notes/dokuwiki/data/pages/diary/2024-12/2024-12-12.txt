@@ -1,0 +1,24 @@
+==== 2024-12-12 ====
+reading journal
+  * https://www.britannica.com/technology/aqueduct-engineering - aqueduct engineering
+    * Aqueduct of Segovia
+    * Although the Romans are considered the greatest aqueduct builders of the ancient world, qanāt systems were in use in ancient Persia, India, Egypt, and other Middle Eastern countries hundreds of years earlier.
+
+  * https://www.britannica.com/place/Lake-Baikal - Lake Baikal
+    * Lake Baikal is the oldest existing freshwater lake on Earth. It is also the world’s largest freshwater lake by volume, containing about one-fifth of the fresh water on Earth’s surface.
+
+Notes from https://www.barrons.com/amp/articles/cvs-stock-breakup-walgreens-trump-pbm-44b468bb
+  * <WRAP>
+^ insurer ^ PBM owned by insurer ^
+| CVS | Caremark |
+| UnitedHealth | Optum |
+| Cigna | Express Scripts |
+</WRAP>
+
+  * insurers: {CVS, UnitedHealth, Humana , Cigna, and Anthem owner Elevance Health}
+  * David Joyner
+    * current CEO of CVS
+    * headed the chain’s pharmacy services division before becoming its CEO
+  * CVS owns Caremark, insurer Aetna, primary-care clinic operator Oak Street Health, and in-home healthcare services provider Signify Health
+  * enterprise value to Ebitda multiples
+  * Medicare Advantage program, offered by private companies as an alternative to original Medicare

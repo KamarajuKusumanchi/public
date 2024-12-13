@@ -1,0 +1,12 @@
+==== gamma function ====
+  * https://mathworld.wolfram.com/GammaFunction.html
+    * contains all the important formulas, uses notation that is commonly used, content is easy to follow and understand, contains derivations of important formulas.
+
+==== liate rule ====
+  * https://en.wikipedia.org/wiki/Integration_by_parts#LIATE_rule
+    * It is a rule of thumb to choose u when doing integration by parts.
+
+==== tabular integration ====
+  * https://en.wikipedia.org/wiki/Integration_by_parts#Tabular_integration_by_parts - shows how it works with a simple example
+  * http://ramanujan.math.trinity.edu/rdaileda/teach/s18/m3357/parts.pdf - more rigorous, generic, has a lot of examples and addresses corner cases. Go through the wikipedia link before reading this.
+    * Found this link in https://www.statisticshowto.com/tabular-integration-the-tabular-method/

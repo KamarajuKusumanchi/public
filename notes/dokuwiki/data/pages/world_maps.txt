@@ -1,6 +1,8 @@
 ==== dummy ====
   * china taiwan - https://geology.com/world/china-satellite-image.shtml
 
+  * https://www.middleeastbriefing.com/news/wp-content/uploads/2023/10/West-Asia-Map-768x849.jpg
+    * a map of Syria, Israel, Russia
 ==== Census regions of the United States ====
   * https://www.burningcompass.com/countries/united-states/regions/us-regions-map.html - shows a map with a breakdown of regions, divisions.
     * The names of the state are written in full.

@@ -497,6 +497,47 @@ dtype: object
 dtype: object
 </code>
 
+==== replace a string with NaN ====
+<code>
+% python3
+Python 3.5.3 (default, Jan 19 2017, 14:11:04)
+[GCC 6.3.0 20170118] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import pandas as pd
+>>> import numpy as np
+>>> a = pd.Series(['foo', np.nan, 'bar', np.nan])
+>>> a.isnull()
+0    False
+1     True
+2    False
+3     True
+dtype: bool
+>>> b = a.fillna('baz')
+>>> b
+0    foo
+1    baz
+2    bar
+3    baz
+dtype: object
+>>> c = b.replace('baz', np.nan, regex=True)
+>>> c
+0    foo
+1    NaN
+2    bar
+3    NaN
+dtype: object
+>>> c.isnull()
+0    False
+1     True
+2    False
+3     True
+dtype: bool
+</code>
+
+demonstrates | how to change a string to NaN
+
+See also:- https://stackoverflow.com/questions/13445241/replacing-blank-values-white-space-with-nan-in-pandas
+
 ==== use values in another column as a fallback ====
 <code>
 $ ipython
