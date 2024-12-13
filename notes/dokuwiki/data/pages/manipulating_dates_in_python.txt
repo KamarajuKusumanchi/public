@@ -75,6 +75,7 @@ Out[8]:
 ===== Dummy =====
 
 ==== date in isoformat ====
+tags | isodate, iso format
 
 <code>
 from datetime import date
@@ -99,6 +100,23 @@ print(now)
 
 Ref:- https://stackoverflow.com/questions/32490629/getting-todays-date-in-yyyy-mm-dd-in-python
 
+==== date and time in isoformat ====
+tags | isotime, iso format
+
+To display time up to milliseconds
+<code>
+In [9]:
+from datetime import datetime, timezone
+print(datetime.now(timezone.utc).isoformat(timespec='seconds'))
+2024-11-26T22:46:46+00:00
+
+In [10]:
+from datetime import datetime, timezone
+print(datetime.now().isoformat(timespec='seconds'))
+2024-11-26T17:46:48
+</code>
+
+So my timezone is GMT-5
 ==== extract date from datetime ====
 <code>
 $ ipython

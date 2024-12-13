@@ -1,11 +1,15 @@
 ===== Morganville related =====
 ==== bogo coupon codes ====
-  * 2023-05: VIBESMAY23
-  * 2023-12: DASHNJT23
-  * 2024-02: SWEETHEART24
-  * 2024-04: SPRING24
-  * 2024-09: NJTSEPT24
-  * 2024-10: FALLFRIENDS24
+<WRAP group><WRAP column>
+^ month ^ code ^ valid through ^
+| 2023-05 | VIBESMAY23 | |
+| 2023-12 | DASHNJT23 | |
+| 2024-02 | SWEETHEART24 | |
+| 2024-04 | SPRING24 | |
+| 2024-09 | NJTSEPT24 | |
+| 2024-10 | FALLFRIENDS24 | |
+| 2024-12 | SLEIGHRIDE24 | 2025-01-05 |
+</WRAP></WRAP>
 
 Ref:- https://www.njtransit.com/bogo
 
