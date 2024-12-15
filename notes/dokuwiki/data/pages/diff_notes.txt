@@ -35,6 +35,15 @@ To diff headers of two files without creating any temporary files
 </code>
 
 ==== ignore newline endings ====
+tags | ignore line endings
+
 <code>
 diff --strip-trailing-cr file1 file2
 </code>
+
+<code>
+$ diff --help | grep -i strip
+      --strip-trailing-cr         strip trailing carriage return on input
+</code>
+
+Ref:- https://stackoverflow.com/questions/40974170/how-can-i-ignore-line-endings-when-comparing-files

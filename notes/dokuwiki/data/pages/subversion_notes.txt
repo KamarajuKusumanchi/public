@@ -1,0 +1,69 @@
+==== filtering the log messages ====
+svn log between two dates 
+<code>
+svn log -r {2017-09-01}:{2017-10-31} | less
+</code>
+
+svn log between two dates by a particular author
+<code>
+svn log -r {2017-09-01}:{2017-10-31} --search author_foo | less
+</code>
+
+svn log by a particular user in the last N commits
+<code>
+svn log --search author_foo -l N | less
+</code>
+
+==== Increase the context when doing svn diff ====
+By default, svn diff shows three lines of context. To change it to 10
+<code>
+svn diff FILENAME --diff-cmd=diff -x -U10
+</code>
+
+See
+<code>
+svn help diff
+</code>
+for explanation of the arguments and generic use cases.
+
+Related Links:
+  * [[http://unix.stackexchange.com/questions/4820/what-is-the-difference-between-context-output-format-and-unicode-output-format-w | What is the difference between copied context and unified context?]] (stackexchange.com)
+
+tags | svn diff more context
+
+==== What files changed locally? ====
+List files that changed locally
+
+Most generic way
+  * Using perl <WRAP>
+<code>
+=> svn st | perl -ne '{ next if /^\?/; if (/(\S+)$/) {print "$1\n";} }' | xargs -r ls -al --time-style="+%Y%m%d_%H%M"
+</code>
+
+The -r argument to xargs tells not to run the command if there are no arguments. Useful in the corner case where no files tracked by svn are modified.
+</WRAP>
+
+Other possible ways
+
+
+  * Using grep and cut <WRAP>
+<code>
+=> svn st | grep -v '^?' | cut -c 9- | xargs -r ls -al --time-style="+%Y%m%d_%H%M"
+</code>
+
+This does not work if GREP_OPTIONS is set to display line numbers in the output of grep. In that case the filename may not start from 9th character.
+
+See the perl version above which does not have this issue.
+</WRAP>
+
+  * Using grep and awk <WRAP>
+<code>
+=> svn st | grep -v '^?' | awk '{print $2}' | xargs -r ls -al --time-style="+%Y%m%d_%H%M"
+</code>
+
+This does not work if the svn st output contains lines of the form
+<code>
+A  +    file.c
+</code>
+See the perl version above which does not have this problem.
+</WRAP>

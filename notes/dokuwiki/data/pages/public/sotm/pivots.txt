@@ -1,6 +1,12 @@
 ==== pages in this wiki ====
   * [[Big Bath]]
 
+==== dummies ====
+pages to be written and/or link them to corresponding wikipedia articles
+
+  * DeepMind’s AlphaStar
+  * the NeurIPS conference
+
 ==== PIPE ====
   * PIPE = private investment in public equity
 

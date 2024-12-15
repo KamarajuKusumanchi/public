@@ -294,6 +294,7 @@
   * [[sec notes]]
   * [[pyarrow notes]]
   * [[microsoft teams]]
+  * [[subversion notes]]
 
 ==== by date ====
   * [[reading journal 2024]]

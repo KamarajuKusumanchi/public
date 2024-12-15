@@ -1,5 +1,13 @@
 ===== 2024 =====
 
+==== 2024-12-15 ====
+  * https://www.murthy.com/2024/11/21/trump-administration-frequently-asked-questions/ - Trump Administration Frequently Asked Questions
+
+  * https://www.berkshirehathaway.com/news/nov2524.pdf<WRAP>
+> I have one further suggestion for all parents, whether they are of modest or staggering wealth. When your children are mature, have them read your will before you sign it. 
+> 
+> Be sure each child understands both the logic for your decisions and the responsibilities they will encounter upon your death. If any have questions or suggestions, listen carefully and adopt those found sensible. You don’t want your children asking “Why?” in respect to testamentary decisions when you are no longer able to respond. 
+</WRAP>
 ==== 2024-12-10 ====
   * https://sive.rs/dxb - I hated Dubai until I learned about it
 
@@ -19,8 +27,22 @@
   * https://www.wsj.com/business/7-eleven-acquisition-japan-high-quality-food-437e1534?st=7g5io9&reflink=desktopwebshare_permalink
     * The Japanese love their 7-Eleven stores. The way they operate reminds me of Costco.
 
+  * https://pmorissette.github.io/bt/examples.html - Examples – Bt 0.2.10 Documentation
+  * https://pmorissette.github.io/bt/ - Bt – Flexible Backtesting for Python – documentation
+  * https://github.com/pmorissette/bt - Bt – Flexible Backtesting for Python
+  * https://github.com/pmorissette/ffn - Ffn – a financial function library for Python
+
 ==== 2024-11-23 ====
   * Here is a good explanation of how the "Kalman filter" algorithm works - https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/
+
+==== 2024-11-19 ====
+  * https://mac-blog.org.ua/interactive-brokers-google-sheets/ - Interactive Brokers Google Sheets
+
+==== 2024-11-10 ====
+  * https://www.wsj.com/tech/ai/how-chatgpt-brought-down-an-online-education-giant-200b4ff2 - ChatGPT Brought Down an Online Education Giant
+
+==== 2024-11-01 ====
+  * https://chatgpt.com/?hints=search - ChatGPT Search
 
 ==== 2024-10-25 ====
   * https://www.youtube.com/watch?v=yCtAdgpW_Vs - This Doctor Won’t Take Health Insurance - and Charges Just $35 a Visit

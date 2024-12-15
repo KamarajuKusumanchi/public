@@ -5,5 +5,11 @@ Ans: Yes
 
 Ref: https://www.bogleheads.org/forum/viewtopic.php?t=415986 -> see raply from nalor511 on Sat Nov 04, 2023 6:07 pm
 
+2) When you are married and filing jointly is wife considered a dependent?
+
+Ans: No
+
+Ref: https://ttlc.intuit.com/community/taxes/discussion/why-is-my-spouse-not-showing-up-as-a-dependent-on-our-joint-tax-return-she-is-my-spouse-and-she/00/3126149
+
 ==== tax websites ====
   * https://www.freetaxusa.com/ - FreeTaxUSA
