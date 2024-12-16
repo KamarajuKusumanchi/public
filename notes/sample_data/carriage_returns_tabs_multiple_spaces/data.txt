@@ -1,0 +1,11 @@
+word
+multiple words
+
+	tab at the beginning
+tabs	in	between
+tab at the end	
+ space at the beginning
+space at the end 
+  multiple spaces at the beginning
+multiple spaces at the end  
+multiple  spaces  in  between
