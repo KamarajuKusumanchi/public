@@ -1,0 +1,44 @@
+===== read from stdin =====
+tags | read lines from stdin
+
+==== approach 1 ====
+using fileinput
+<code>
+$ cat count_lines.py
+import fileinput
+
+with fileinput.input() as f:
+    count = 0
+    for line in f:
+      count += 1
+
+print('counted ', count, ' lines.')
+</code>
+
+<code>
+$ python ./count_lines.py < ./count_lines.py
+counted  8  lines.
+</code>
+
+<code>
+$ wc -l ./count_lines.py
+8 ./count_lines.py
+</code>
+
+==== approach 2 ====
+using sys.stdin
+<code>
+$ cat count_lines.py
+import sys
+data = sys.stdin.readlines()
+print("Counted", len(data), "lines.")
+</code>
+
+<code>
+$ cat count_lines.py | python count_lines.py
+Counted 3 lines.
+</code>
+
+Ref:-
+  * https://stackoverflow.com/a/1450396
+  * Used this technique to answer https://unix.stackexchange.com/questions/743855/convert-only-all-uppercase-lines-to-lower-case

@@ -1,18 +1,2 @@
-==== read from stdin ====
-tags | read lines from stdin
-<code>
-$ cat count_lines.py
-import sys
-data = sys.stdin.readlines()
-print("Counted", len(data), "lines.")
-</code>
-
-<code>
-$ cat count_lines.py | python count_lines.py
-Counted 3 lines.
-</code>
-
-Ref:-
-  * https://stackoverflow.com/a/1450396
-  * Used this technique to answer https://unix.stackexchange.com/questions/743855/convert-only-all-uppercase-lines-to-lower-case
-
+==== pages in this wiki ====
+  * [[read from stdin]]

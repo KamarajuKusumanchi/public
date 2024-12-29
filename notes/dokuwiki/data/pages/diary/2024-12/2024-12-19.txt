@@ -1,0 +1,55 @@
+==== 2024-12-19 ====
+reading journal:
+
+Notes from https://www.barrons.com/amp/articles/bill-ackman-fund-trump-0a00d177
+  * some stocks mentioned: Canadian asset manager Brookfield, Nike, CMG, Restaurant Brands International, Fannie Mae
+
+Notes from https://www.barrons.com/amp/articles/real-estate-brokers-stock-cheap-douglas-elliman-74f3f15c
+  * Real estate broker Douglas Elliman
+    * 7,000 agents
+    * a spinoff from cigarette maker Vector Group at the end of 2021
+    * fifth-largest real estate broker nationwide
+    * the industry leader is Compass with a market cap of \$3.6 billion
+    * average selling price on homes it brokered was \$1.6 million this year
+    * CEO is Michael Liebowitz
+    * its competitors are Compass, Re Max Holdings
+  * Anywhere Real Estate , which owns Corcoran Group
+  * Berkshire operates Home Services of America, one of the largest residential real estate brokerage firms in the country
+
+Notes from https://www.barrons.com/amp/articles/microstrategy-bitcoin-buy-stock-63fdd9b3
+  * Asof 2024-11-18, MicroStrategy owns 51,780 bitcoins
+
+Notes from https://www.barrons.com/amp/articles/bitcoin-options-trading-ishares-etf-ibit-2cd823b1
+  * iShares Bitcoin Trust
+    * ticker: IBIT
+    * AUM: \$42 billion 
+    * started in Jan 2024
+    * competitors: the Grayscale Bitcoin Trust and Fidelity Wise Origin Bitcoin Fund
+  * Alison Hennessy, the director of exchange-traded products listings at Nasdaq
+  * The Options Clearing Corp. settles options trades
+
+Notes from https://www.barrons.com/amp/articles/bitcoin-etf-options-ibit-59de7627
+  * Chris Murphy, co-head of derivatives strategy at Susquehanna International Group
+
+Notes from https://www.barrons.com/amp/articles/microstrategy-bitcoin-stock-a1db95bb
+  * market cap: \$96 billion based on basic shares outstanding, \$110 billion using a fully diluted share count
+  * MicroStrategy is now one of largest U.S. companies not in the S&P 500 index. 
+  * leading gold miners, Barrick Gold and Newmont
+
+Notes from https://www.barrons.com/amp/articles/microstrategy-bitcoin-buys-bonds-570ae7f7
+  * asof 2024-11-20, MicroStrategy owns 331,200 bitcoin
+  * market cap: \$106 billion based on basic shares outstanding, \$120 billion using a fully diluted share count
+
+Notes from https://www.barrons.com/amp/articles/microstrategy-stock-price-bitcoin-holdings-4320f4cf
+  * asof 2024-11-25, MicroStrategy owns 386,700 Bitcoin
+
+Notes from https://www.barrons.com/amp/articles/microstrategy-stock-price-bitcoin-underwriters-9a2a8a20
+  * asof 2024-12-04, MicroStrategy owns 402,100 Bitcoin
+
+Notes from https://www.barrons.com/amp/articles/microstrategy-buys-bitcoin-holdings-49b697e3
+  * asof 2024-12-09, MicroStrategy owns 423,650 Bitcoin
+
+Notes from https://www.barrons.com/amp/articles/microstrategy-palantir-stock-nasdaq-100-2e0a7479
+  * Nasdaq 100 is composed of the 100 largest nonfinancial companies in the Nasdaq Composite index
+  * Nasdaq uses Industry Classification Benchmark (ICB), a product of FTSE International Limited, as the basis for its classifications.
+  * QQQ has about \$325 billion in AUM

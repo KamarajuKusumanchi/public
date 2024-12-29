@@ -1,0 +1,3 @@
+==== 2024-12-23 ====
+Notes from https://medicalxpress.com/news/2024-12-commercial-tea-bags-millions-microplastics.html
+  * To characterize the different types of particles present in the infusion, a set of advanced analytical techniques such as scanning electron microscopy (SEM), transmission electron microscopy (TEM), infrared spectroscopy (ATR-FTIR), dynamic light scattering (DLS), laser Doppler velocimetry (LDV), and nanoparticle tracking analysis (NTA) were used.

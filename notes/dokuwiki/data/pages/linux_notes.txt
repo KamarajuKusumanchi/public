@@ -139,3 +139,63 @@ Ouptut:
 ==> file3.txt <==
 <contents of file3.txt>
 </code>
+
+===== how to =====
+==== join multiple lines into a single line ====
+tags | concatenate multiple lines into a single line
+
+<code>
+tr -d "\n" < file
+</code>
+
+Consider for example https://github.com/KamarajuKusumanchi/public/blob/master/notes/sample_data/carriage_returns_tabs_multiple_spaces/data.txt
+<code>
+$ cat -t data.txt
+word
+multiple words
+
+^Itab at the beginning
+tabs^Iin^Ibetween
+tab at the end^I
+ space at the beginning
+space at the end
+  multiple spaces at the beginning
+multiple spaces at the end
+multiple  spaces  in  between
+</code>
+
+where
+<code>
+$ cat --help
+...
+  -t                       equivalent to -vT
+  -T, --show-tabs          display TAB characters as ^I
+  -v, --show-nonprinting   use ^ and M- notation, except for LFD and TAB
+</code>
+
+gives
+<code>
+$ tr -d "\n" < data.txt
+wordmultiple words      tab at the beginningtabs        in      betweentab at the end    space at the beginningspace at the end   multiple spaces at the beginningmultiple spaces at the end  multiple  spaces  in  between
+</code>
+
+Close but no cigar:
+
+You can't use
+<code>
+echo (cat file)
+</code>
+or 
+<code>
+echo $(<file)
+</code>
+
+since echo without quotes removes carriage returns, tabs and multiple spaces.
+
+<code>
+$ echo $(cat data.txt)
+word multiple words tab at the beginning tabs in between tab at the end space at the beginning space at the end multiple spaces at the beginning multiple spaces at the end multiple spaces in between
+
+$ echo $(< data.txt)
+word multiple words tab at the beginning tabs in between tab at the end space at the beginning space at the end multiple spaces at the beginning multiple spaces at the end multiple spaces in between
+</code>

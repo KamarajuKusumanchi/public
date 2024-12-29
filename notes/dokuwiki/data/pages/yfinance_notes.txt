@@ -33,8 +33,84 @@ See also:
 
 ==== links I came across ====
   * repo of yfinance - https://github.com/ranaroussi/yfinance
+  * https://github.com/ranaroussi/yfinance/discussions/1084 - tells how to contribute to yfinance code repo.
+
 
 ==== alternatives ====
   * yahooquery
   * yahoofinancials - the biggest difference from yfinance is that all the downloaded data is returned as JSON
   * yahoo_earnings_calendar - a small library to download the earnings calendar.
+
+==== Search attribute ====
+:?: From which version onwards is the Search attribute available in yfinance?
+
+:!: From 0.2.51.
+
+Consider the following environment files
+
+<code>
+ % stuff.py env_test_yfinance_0.2.50.yml 
+name: test_yfinance_0.2.50
+channels:
+  - defaults
+dependencies:
+  - python=3.13
+  - conda-forge::yfinance=0.2.50
+</code>
+
+<code>
+ % stuff.py env_test_yfinance_0.2.51.yml
+name: test_yfinance_0.2.51
+channels:
+  - defaults
+dependencies:
+  - python=3.13
+  - conda-forge::yfinance=0.2.51
+</code>
+
+where stuff.py is a python script that prints a file after removing comments and empty lines. It can by downloaded from https://github.com/KamarajuKusumanchi/rutils/blob/master/python3/stuff.py .
+
+Create the environments
+<code>
+ % conda env create -f env_test_yfinance_0.2.50.yml
+ % conda env create -f env_test_yfinance_0.2.51.yml
+</code>
+
+Conside the script
+<code>
+ % stuff.py search_attribute.py 
+import yfinance as yf
+if __name__ == "__main__":
+    news = yf.Search("declares special dividend", news_count=10).news
+    print('news fetched successfully.')
+</code>
+Make it executable
+<code>
+ % chmod +x search_attribute.py
+</code>
+
+The script throws an error with yfinance 0.2.50
+<code>
+ % conda activate test_yfinance_0.2.50
+
+ % ./search_attribute.py 
+Traceback (most recent call last):
+  File "/home/rajulocal/x/./search_attribute.py", line 6, in <module>
+    news = yf.Search("declares special dividend", news_count=10).news
+           ^^^^^^^^^
+AttributeError: module 'yfinance' has no attribute 'Search'
+</code>
+
+But works fine with yfinance 0.2.51
+<code>
+ % conda activate test_yfinance_0.2.51
+ % ./search_attribute.py              
+news fetched successfully.
+</code>
+
+Related links:
+  * https://ranaroussi.github.io/yfinance/reference/api/yfinance.Search.html
+  * https://github.com/ranaroussi/yfinance/releases/tag/0.2.51 - shows that yf.Search was added in 0.2.51
+  * https://github.com/ranaroussi/yfinance/pull/2160 - relevant merge request for this feature
+    * shows how to run the relevant unit tests ''python -m unittest tests.test_search''
+  * https://github.com/KamarajuKusumanchi/market_data_processor/blob/master/src/utils/special_dividends.py - Uses yf.Search() to get the special dividend announcements.

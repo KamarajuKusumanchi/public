@@ -1,5 +1,18 @@
 
 
+==== 2024-12-24 ====
+TIL about Charles Proteus Steinmetz: The Electrical Wizard of Schenectady from https://www.smithsonianmag.com/history/charles-proteus-steinmetz-the-wizard-of-schenectady-51912022
+
+==== 2024-12-20 ====
+TIL that you can use matrix notation and linear algebra to study conic sections.
+
+Ref:- https://en.wikipedia.org/wiki/Matrix_representation_of_conic_sections
+
+==== 2024-12-17 ====
+TIL that Grab designed a special camera called KartaCam in order to build their own maps in Southeast Asia. The camera is mounted on the motorbikes of their delivery drivers. The collected data is then added to OpenStreetMap.
+
+Ref:- https://restofworld.org/2024/grab-google-maps-southeast-asia/
+
 ==== 2024-12-12 ====
 TIL that ~20% of the fresh water on Earth's surface is in a single lake called Lake Baikal.
 

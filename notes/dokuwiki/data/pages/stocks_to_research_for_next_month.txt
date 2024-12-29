@@ -1,5 +1,15 @@
 tags | stocks to watch for next month, companies I came across
 
+==== 2024-12-28 ====
+  * <WRAP>
+^ ticker ^ price ^ hypothesis ^ auxilliary data ^ decision ^
+| WU  |  10.68 | [[https://ir.westernunion.com/news/archived-press-releases/press-release-details/2024/Western-Union-Announces-New-1-Billion-Share-Repurchase-Program-and-0.235-Quarterly-Dividend/default.aspx | Announced \$1 billion share repurchase program]] (ir.westernunion.com) | {market cap: \$3.6 B} | |
+| NKE  |  76.42 | brand; high quality products; loyal customer base | | |
+| SBUX  |  92.25 | loyal customer base; brand | | |
+| BRK.B  |  456.51 | | | |
+| COST  |  939.70 | | | No. P/E and Forward P/E is too high. |
+</WRAP> 
+
 ==== 2024-11-24 ====
   * GOOG - Alphabet Inc
     * https://finviz.com/quote.ashx?t=GOOG&ty=c&ta=1&p=d

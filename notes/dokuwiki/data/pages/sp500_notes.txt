@@ -20,6 +20,7 @@ https://www.wsj.com/market-data/stocks/peyields gives
 The same information is also available at https://www.barrons.com/market-data/stocks/us/pe-yields
 
 ==== links I came across ====
+  * https://www.slickcharts.com/sp500/performance - shows ytd returns of SP500 components.
   * https://ycharts.com/indicators/sp_500_monthly_return
   * https://ycharts.com/indicators/sp_500_monthly_total_return
   * https://ycharts.com/indicators/sp_500_pe_ratio

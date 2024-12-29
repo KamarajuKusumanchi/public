@@ -30,3 +30,6 @@ Ref:-
   * https://www.3blue1brown.com/
   * https://github.com/3b1b/manim - Animation engine for explanatory math videos
     * A python package created by 3blue1brown so he can make animations the way he wants.
+
+==== earnings yield ====
+  * earnings yield is the inverse of the PE ratio

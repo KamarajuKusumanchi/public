@@ -112,6 +112,16 @@ agate-sql                 0.5.8              pyhd3eb1b0_0    defaults
 | Show the channel urls | conda list --show-channel-urls |
 | Search packages available in Anaconda | conda search -f <package_name> |
 
+==== what version of a package is installed in all the environments? ====
+<code>
+conda info --envs | grep -v "^#" | cut -f 1 -d ' ' | xargs -I{} sh -c "conda list foo -n {}"
+</code>
+For example, to check what versions of pandas is installed in all the environments, do
+<code>
+conda info --envs | grep -v "^#" | cut -f 1 -d ' ' | xargs -I{} sh -c "conda list ^pandas$ -n {}"
+</code>
+Note:- We have to use ''^pandas$'' instead of ''pandas'' since the latter will show versions of other packages that have pandas in their name (ex:- pandas-datareader)
+
 ==== find the package version ====
 tags | check package version, list packages in environment, show the package version, conda list package exact match
 
@@ -157,15 +167,6 @@ pandas-market-calendars   3.2                      pypi_0    pypi
 
 Ref:- https://conda.io/docs/commands/conda-list.html
 
-==== what version of a package is installed in all the environments? ====
-<code>
-conda info --envs | grep -v "^#" | cut -f 1 -d ' ' | xargs -I{} sh -c "conda list foo -n {}"
-</code>
-For example, to check what versions of pandas is installed in all the environments, do
-<code>
-conda info --envs | grep -v "^#" | cut -f 1 -d ' ' | xargs -I{} sh -c "conda list ^pandas$ -n {}"
-</code>
-Note:- We have to use ''^pandas$'' instead of ''pandas'' since the latter will show versions of other packages that have pandas in their name (ex:- pandas-datareader)
 ==== list available package versions ====
 
 List all packages in the current environment

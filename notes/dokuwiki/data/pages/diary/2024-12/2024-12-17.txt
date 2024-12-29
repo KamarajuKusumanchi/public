@@ -1,0 +1,25 @@
+==== 2024-12-17 ====
+Notes from https://restofworld.org/2024/grab-google-maps-southeast-asia/ - Grab built its own map in Southeast Asia, and is now going after Google
+  * The alleys in South Jakarta are sometimes just 1 meter wide
+  * super-app Grab
+  * Grab
+    * Singapore based
+    * 5 million drivers
+  * Navigation platforms such as Google Maps and Here
+  * Sriram Iyer, product head at Grab
+  * hyperlocal landmarks
+  * GrabMaps
+    * began as a tool for internal use in 2017
+    * became Grab app's primary navigation tool in 2022
+    * KartaCam, a camera that Grab designed and built for mapping
+    * KartaDashcam for cars, a front-facing camera that can be attached to a car’s rear-view mirror to record street conditions in real time
+    * receives over 800 billion API requests in a month
+    * provides data to Bing and Amazon Location Service in Southeast Asia
+  * OpenStreetMap - the open-source mapping platform
+  * Grab’s hyperlocal focus sets it apart from the more car-centric Google Maps and Here
+  * companies that are building their own maps - Grab, Alibaba’s Amap, Baidu Maps, Ola Maps
+  * Baidu Maps are used by Tesla and Huawei
+  * Ola Maps is built on OpenStreetMap
+  * ride-hailing company Bolt
+  * Address verification company Loqate
+  * China’s tightly regulated market favors domestic mapping companies

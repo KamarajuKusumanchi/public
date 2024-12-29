@@ -1,0 +1,18 @@
+==== 2024-12-20 ====
+reading journal
+  * https://en.wikipedia.org/wiki/Matrix_representation_of_conic_sections - Matrix representation of conic sections
+  * https://en.wikipedia.org/wiki/Quadratic_form_(statistics) - Quadratic form (statistics)
+
+Notes from https://bits.debian.org/2024/11/openstreetmap-on-debian.html
+  * Grant Slater, the Senior Site Reliability Engineer for the OpenStreetMap Foundation
+  * packages mentioned: osm2pgsql, osmium-tool
+  * NVMe storage
+  * OpenStreetMap
+    * manages their server setup nearly completely with code using https://github.com/openstreetmap/chef
+    * they also use [[https://kitchen.ci/ | Test Kitchen]] with [[https://docs.chef.io/inspec/ | inspec]] to test this infrastructure code
+    * Tests run locally using Podman or Docker containers, but also run as part of our git code pipeline.
+  * netplan -> systemd-networkd
+  * 802.3ad bonded interfaces
+  * VLANs to segment traffic
+  * Personal Package Archives (PPA)
+  * manage our own deb repository using aptly
