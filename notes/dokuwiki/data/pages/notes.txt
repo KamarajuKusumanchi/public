@@ -301,6 +301,7 @@
   * [[reading journal 2023]]
   * [[reading journal 2022]]
   * [[reading journal 2021]]
+  * [[TIL 2025]]
   * [[TIL 2024]]
   * [[TIL 2023]]
   * [[TIL 2022]]

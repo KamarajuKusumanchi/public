@@ -1,0 +1,7 @@
+==== 2024-12-31 ====
+  * https://x.com/davidmarcus/status/1862654506774810641 - David Marcus on how Libra was killed.
+  * The timeline:
+    * June 2019: Facebook announced the Libra project. David Marcus was the lead.
+    * Jan 2022: Facebook shut it down and sold the technology to Silvergate bank.
+    * Jan 2023: Silvergate wrote it off.
+    * Mar 2023: Silvergate was shutdown.

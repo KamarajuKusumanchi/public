@@ -1,5 +1,19 @@
 tags | stocks to watch for next month, companies I came across
 
+==== 2025-01-03 ====
+  * <WRAP>
+^ ticker ^ price ^ hypothesis ^ auxilliary data ^ decision ^
+| UBER  |  64.59 | Solid business and execution. \\ They also made some strategic investments in places where they could not directly compete. | analyst target price = \$90.93, P/E = 31.61, Forward P/E = 27.15 \\ per https://finviz.com/quote.ashx?t=UBER&p=d | |
+</WRAP>
+
+==== 2025-01-02 ====
+  * <WRAP>
+^ ticker ^ price ^ hypothesis ^ auxilliary data ^ decision ^
+| MU  |  86.72 | 2025 estimated revenue change is 39% \\ as per https://www.bloomberg.com/features/companies-to-watch-2025/ | analyst target price = \$131.47 \\ per https://finviz.com/quote.ashx?t=MU&p=d | |
+| AVGO  |  232.94 | 2025 estimated revenue change is 16% \\ as per https://www.bloomberg.com/features/companies-to-watch-2025/ | P/E = 191.08, Forward P/E = 30.52 | No. Current P/E and forward P/E are very high. |
+| WMT  |  89.83 | good execution; produce quality is good | | |
+</WRAP>
+
 ==== 2024-12-28 ====
   * <WRAP>
 ^ ticker ^ price ^ hypothesis ^ auxilliary data ^ decision ^

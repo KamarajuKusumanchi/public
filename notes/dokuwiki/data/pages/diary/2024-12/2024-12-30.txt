@@ -1,0 +1,10 @@
+==== 2024-12-30 ====
+  * Subaru, Lexus, and Toyota are the top three reliable car brands as per Consumer Reports.
+    * Ref:- https://www.consumerreports.org/cars/car-reliability-owner-satisfaction/who-makes-the-most-reliable-cars-a7824554938/ -> "How the Brands Stack Up"
+
+  * China hacked Treasury and accessed some confidential documents.
+    * Ref: From https://legacy.www.documentcloud.org/documents/25472740-letter-to-chairman-brown-and-ranking-member-scott/ <WRAP>
+> With access to the stolen key, the threat actor was able override the service’s security, remotely access certain Treasury DO user workstations, and access certain unclassified documents maintained by those users.
+...
+> Based on available indicators, the incident has been attributed to a China state-sponsored Advanced Persistent Threat (APT) actor.
+</WRAP>
