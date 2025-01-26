@@ -1,0 +1,3 @@
+==== 2025-01-16 ====
+  * https://www.nbcnews.com/business/business-news/capital-one-acknowledges-outage-users-report-issues-accessing-deposits-rcna187966 - Capital One acknowledges 'outage' as users report issues accessing deposits
+    * One of Capital One's vendor, Fidelity Information Services (FIS) had a power outage which is affecting services such as direct deposit.

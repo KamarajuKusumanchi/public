@@ -1,3 +1,26 @@
+==== 2025-01-24 ====
+TIL that Bata is not actually an Indian company. It is a family owned private business headquartered in Switzerland and has been around for over 125 years.
+
+Ref: https://en.wikipedia.org/wiki/Bata_Corporation
+
+==== 2025-01-18 ====
+TIL that there was a bomb explosion at the United States Senate on November 7, 1983, as a protest against United States military involvement in Lebanon and Grenada.
+
+Ref: https://en.wikipedia.org/wiki/1983_United_States_Senate_bombing
+
+==== 2025-01-13 ====
+TIL that in the olden days (19th-century and early 20th-century) people harvested ice from lakes and rivers during the winter, stored it in special buildings called "ice houses", and then transported it all around the world.
+
+Ref:
+  * https://www.britannica.com/video/Hauling-Ice-Down-the-Illinois-River-history-ice-cutting-in-the-1900s/-247659
+  * https://en.wikipedia.org/wiki/Ice_trade
+  * https://en.wikipedia.org/wiki/Ice_cutting
+  * [[https://en.wikipedia.org/wiki/Ice_house_(building)]]
+
+==== 2025-01-10 ====
+TIL about https://educationalgames.nobelprize.org/educational/index.php - Educational Games
+  * educational games that help in understanding the work of the Nobel Laureates in a fun and interactive way!
+
 ==== 2025-01-02 ====
 TIL that 46 BC is the longest calendar year in recorded history. It had 445 days and was nicknamed the annus confusionis ("Year of Confusion").
 

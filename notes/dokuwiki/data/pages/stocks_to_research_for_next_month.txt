@@ -1,5 +1,17 @@
 tags | stocks to watch for next month, companies I came across
 
+==== 2025-01-12 ====
+  * <WRAP>
+^ ticker ^ price ^ hypothesis ^ auxilliary data ^ decision ^
+| REFI  |  15.17 | cheap at {P/E = 7.60, forward P/E = 7.18, dividend yield ttm = 12.39%}, profitable with low debt {operating margin = 72.56%, LT debt / equity = 0.18} | per https://finviz.com/quote.ashx?t=REFI&p=d | |
+</WRAP>
+
+==== 2025-01-10 ====
+  * <WRAP>
+^ ticker ^ price ^ hypothesis ^ auxilliary data ^ decision ^
+| BABA  |  81.49 | cheap at  P/E = 16.73, forward P/E = 8.65 | analyst target price = \$119.78, \\ per https://finviz.com/quote.ashx?t=baba&p=d | |
+</WRAP>
+
 ==== 2025-01-03 ====
   * <WRAP>
 ^ ticker ^ price ^ hypothesis ^ auxilliary data ^ decision ^

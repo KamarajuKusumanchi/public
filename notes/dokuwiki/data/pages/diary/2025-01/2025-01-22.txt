@@ -1,0 +1,6 @@
+==== 2025-01-22 ====
+  * Something wrong with Interactive Brokers and Fidelity's data today. Both are showing that BRK.B's market cap is \$663 bln. But Finviz is showing it as \$995 bln and Yahoo Finance is showing \$993 bln.
+    * Tried calling IBKR customer service. But I was unable to reach them.
+    * Called Fidelity customer service and explained the issue. They are looking into it. I also notified them about the issue using the "Feedback" button.
+
+Conclusion: Fidelity's customer service is awesome. +1 for Fidelity and -1 for IBKR.
