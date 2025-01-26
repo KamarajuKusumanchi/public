@@ -2,5 +2,9 @@
   * https://taxfoundation.org/publications/state-individual-income-tax-rates-and-brackets/ - State individual income tax rates and brackets for 2022
     * has details on state taxes.
 
+  * https://www.barrons.com/market-data/stocks/us/movers?mod=hp_stock_movers_full - U.S. Stock Movers
+    * shows which stocks have gone up the most and which went down the most
+    * there is no way to filter it on a universe (for example, in this screen, there is no way to see which sp500 stocks went up most or went down most)
+
 ==== 2023-07-11 ====
   * https://njscienceolympiad.org/tournaments/2023/njit/

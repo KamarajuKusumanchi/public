@@ -1,3 +1,63 @@
+==== get details of a book using isbn ====
+<code>
+ % isbn_meta 978-1032965529 wiki bibtex
+@book{9781032965529,
+     title = {Discrete mathematics: an open introduction},
+    author = {Oscar Levin},
+      isbn = {9781032965529},
+      year = {2025},
+ publisher = {C&H/CRC Press}
+}
+</code>
+
+I prefer to use the 'wiki' service which uses the wikipedia.org api [(isbnlib>https://pypi.org/project/isbnlib/ -> meta function)] instead of the default 'goob' service which uses the Google Books service[(isbnlib)] since the former has better coverage. For example, goob service does not give the publisher name for 978-1032965529 but wiki service does.
+
+| <code>
+ % isbn_meta 978-1032965529 goob bibtex   
+@book{9781032965529,
+     title = {Discrete Mathematics - An Open Introduction},
+    author = {Oscar Levin},
+      isbn = {9781032965529},
+      year = {2025},
+ publisher = {}
+} </code> | <code> % isbn_meta 978-1032965529 wiki bibtex
+@book{9781032965529,
+     title = {Discrete mathematics: an open introduction},
+    author = {Oscar Levin},
+      isbn = {9781032965529},
+      year = {2025},
+ publisher = {C&H/CRC Press}
+}
+</code> |
+
+The bibtex output format seems to be better than the default format. For example, when there are multiple authors involved, bibtex format lists all the authors in a single line.
+| <code>
+ % isbn_meta 978-1-1383-6991-7 wiki default
+Type:      BOOK
+Title:     Introduction to probability
+Author:    Joseph K Blitzstein
+Author:    Jessica Hwang
+ISBN:      9781138369917
+Year:      2019
+Publisher: CRC press Taylor & Francis group
+</code> | <code>
+ % isbn_meta 978-1-1383-6991-7 wiki bibtex
+@book{9781138369917,
+     title = {Introduction to probability},
+    author = {Joseph K Blitzstein and Jessica Hwang},
+      isbn = {9781138369917},
+      year = {2019},
+ publisher = {CRC press Taylor & Francis group}
+}
+</code> |
+
+~~REFNOTES~~
+
+See also:
+  * https://github.com/xlcnd/isbntools - the isbn_meta command is part of this package
+  * https://pypi.org/project/isbnlib/ - isbntools uses isbnlib to get the metadata
+  * https://isbnlib.readthedocs.io/en/latest/devs.html#api-s-main-namespaces
+
 ==== links I came across ====
   * https://www.isbn.org/faqs_formats_reprints_editions
     * has answers for questions such as "Does isbn change with each edition of the book?"

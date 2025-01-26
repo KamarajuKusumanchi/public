@@ -19,3 +19,8 @@ The following limits are effective as of January 1, 2024:
 The following limits are effective as of January 1, 2025:
   * The 2025 pretax contribution limit for transit is $325 per month.
   * The 2025 pretax contribution limit for parking is $325 per month.
+
+==== gift limits ====
+  * Annual exclusion for gifts increases to $19,000 for calendar year 2025, rising from $18,000 for calendar year 2024.
+
+Ref:- https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2025 -> search for gift

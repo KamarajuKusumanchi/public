@@ -8,12 +8,12 @@ reading journal
     * Lake Baikal is the oldest existing freshwater lake on Earth. It is also the world’s largest freshwater lake by volume, containing about one-fifth of the fresh water on Earth’s surface.
 
 Notes from https://www.barrons.com/amp/articles/cvs-stock-breakup-walgreens-trump-pbm-44b468bb
-  * <WRAP>
+  * <WRAP group><WRAP column>
 ^ insurer ^ PBM owned by insurer ^
 | CVS | Caremark |
 | UnitedHealth | Optum |
 | Cigna | Express Scripts |
-</WRAP>
+</WRAP></WRAP>
 
   * insurers: {CVS, UnitedHealth, Humana , Cigna, and Anthem owner Elevance Health}
   * David Joyner

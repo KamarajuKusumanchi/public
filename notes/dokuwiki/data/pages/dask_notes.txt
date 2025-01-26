@@ -1,0 +1,2 @@
+==== links I came across ====
+  * https://github.com/dask/dask/blob/2023.4.1/continuous_integration/environment-3.8.yaml

@@ -1,0 +1,36 @@
+===== 2025 =====
+
+==== 2025-01-25 ====
+  * https://simple.wikipedia.org/wiki/Monty_Hall_problem - Monty Hall problem
+    * The explanation is easy to follow.
+
+==== 2025-01-19 ====
+  * There is a sale on the TurboTax software sold by Costco. <WRAP group><WRAP column>
+^ Version ^ before discount ^ discount ^ after discount ^
+| Deluxe (with State) | 56 | 11 | 45 |
+| Premier | 83 | 18 | 65 |
+| Home & Business | 96 | 20 | 76 |
+| Business | 144 | 30 | 114 |
+| Deluxe (no State) | 48 | 11 | 37 |
+</WRAP></WRAP> Ref:- https://www.costco.com/tax-preparation-software.html
+
+  * https://www.reddit.com/r/OutOfTheLoop/comments/1i4qfyr/whats_going_on_with_trumps_crypto_coin_and_why_is/ - What's going on with Trump's crypto coin and why is it worth billions overnight?
+
+==== 2025-01-16 ====
+  * The 2024 MAD (machine learning, AI, and Data) landscape - https://mattturck.com/landscape/mad2024.pdf . There is also an interactive version - https://mad.firstmark.com/card .
+
+==== 2025-01-15 ====
+  * https://ciechanow.ski/moon/ - Moon
+    * This is an interactive article about the Moon. A bit lengthy read but very informative.
+    * He writes 2-4 articles every year and their quality is so good.
+
+  * https://hindenburgresearch.com/gratitude/<code>
+> I have made the decision to disband Hindenburg Research
+
+> over the next 6 months or so I plan to work on a series of materials and videos
+> to open-source every aspect of our model and how we conduct our investigations
+</code>
+===== Policy =====
+  * Most recent first
+  * Each year in its own page.
+  * If an individual entry takes more than a line, add an extra line for readability.

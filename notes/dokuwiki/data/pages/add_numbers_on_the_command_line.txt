@@ -13,6 +13,18 @@ For example
 55
 </code>
 
+In git bash, replace python with python.exe
+<code>
+$ seq 1 10 | python -c "import sys; print(sum(int(line) for line in sys.stdin))"
+stdin is not a tty
+
+$ seq 1 10 | python.exe -c "import sys; print(sum(int(line) for line in sys.stdin))"
+55
+
+$ git --version
+git version 2.47.0.windows.2
+</code>
+
 Approach 2: Use unix-only tools
 
   | paste -s -d + - | bc
@@ -47,3 +59,4 @@ Ref:-
   * https://stackoverflow.com/questions/3096259/bash-command-to-sum-a-column-of-numbers/22630224
 
 tags | add a bunch of numbers on command line pipe, add all the numbers on the command line
+

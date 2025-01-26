@@ -1,0 +1,11 @@
+==== How to abbreviate Pacific Standard Time? ====
+PST
+
+Per https://english.stackexchange.com/questions/88485/proper-timezone-acronym-usage-pt-vs-pdt-or-pst
+  * PDT = Pacific Daylight Time = fixed to UTC-7
+  * PST = Pacific Standard Time = fixed to UTC-8
+  * PT = Pacific Time = a general reference to the time zone, which alternates between PDT and PST depending on the time of year.
+
+See also:
+  * https://www.timeanddate.com/time/zones/ - the abbreviation chart of time zones.
+    * The abbreviation of a time zone can be ambiguous. For example, CST can mean Central Standard Time (UTC-6), China Standard Time (UTC+8), or Cuba Standard Time (UTC-5).

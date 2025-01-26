@@ -295,6 +295,10 @@
   * [[pyarrow notes]]
   * [[microsoft teams]]
   * [[subversion notes]]
+  * [[movies notes]]
+  * [[time zone]]
+  * [[song lyrics]]
+  * [[dask notes]]
 
 ==== by date ====
   * [[reading journal 2024]]
@@ -307,6 +311,7 @@
   * [[TIL 2022]]
   * [[TIL 2021]]
   * [[TIL 2020]]
+  * [[share 2025]]
   * [[share 2024]]
   * [[share 2023]]
   * [[share 2022]]
