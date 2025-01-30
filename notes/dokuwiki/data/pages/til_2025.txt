@@ -1,3 +1,11 @@
+==== 2025-01-28 ====
+TIL about https://en.wikipedia.org/wiki/Ashish_Vaswani - Ashish Vaswani
+
+==== 2025-01-26 ====
+TIL that the word "bit" is short for "binary digit".
+
+Ref:- https://discrete.openmathbooks.org/dmoi4/sec_counting-pascal.html#subsec-counting-binom-bitstrings
+
 ==== 2025-01-24 ====
 TIL that Bata is not actually an Indian company. It is a family owned private business headquartered in Switzerland and has been around for over 125 years.
 

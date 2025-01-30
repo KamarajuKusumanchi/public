@@ -1,0 +1,36 @@
+==== 2025-01-29 ====
+Notes from https://money.stackexchange.com/questions/21726/can-two-companies-own-stock-in-each-other
+  * cross-holding
+  * https://en.wikipedia.org/wiki/Cross_ownership
+  * http://en.wikipedia.org/wiki/Keiretsu - Keiretsu
+
+Reading journal
+  * VIRT Q4 2024 presentation - https://ir.virtu.com/static-files/3189e364-d286-46a7-8ae0-110ae8e680ff
+  * VIRT Q4 2024 press release - https://ir.virtu.com/static-files/fedaa682-aa64-4544-9af3-2b48a3cfcbdf
+
+Notes from https://seekingalpha.com/article/4753056-virtu-financial-inc-virt-q4-2024-earnings-call-transcript - VIRT Q4 2024 earnings call transcript
+  * Doug Cifu
+    * One of my New Year's resolutions was not to mention Gary Gensler's name again.
+    * Gary Gensler is a puppet
+    * Paul Atkins is experienced and thoughtful
+    * Hester Peirce has been appointed the head of crypto subcommittee at the SEC
+    * Congressman French Hill is the new chair of the House Financial Services Committee
+    * the only competitive advantage we have, because we don't have research, we don't have prime, we don't have IPO calendar, is performance
+    * Triton 
+    * Staff Accounting Bulletin 121
+    * in-kind creation redemption vs. cash creation redemptions
+    * we are a big market-maker on EDX
+    * listed betting markets
+    * You can't swing a dead cat these days without hitting a new crypto product, a new crypto ETF
+    * not having Lina Khan at the FTC, is a godsend
+    * Triton EMS product
+    * Virtu capital markets group, the at the money offering folks
+    * we look at market share, but we try to optimize P&L against market share
+    * Jane Street and Hudson River, two fantastic firms, great competitors, have joined the fray of wholesaling
+    * in the fourth quarter in US equities have been a little distorted by some of the gigantic volumes you'll see in low price names
+    * there's been some obvious fraud from Chinese companies, companies that do 1, 2, 3, 5, 7 reverse splits
+    * rates business - fewer CUSIPs
+    * gigantic asset managers that effectively have turned into global credit houses
+    * dozens of single name options
+    * We make money from single names
+    * Aries

@@ -6,6 +6,29 @@ Policy:
 Why:
   * Goodreads assumes that you read from beginning to end. But I tend to read couple of pages here and there. This is my naive way to keep track of the progress.
 
+==== Discrete mathematics: an open introduction ====
+Book details:
+^ key ^ value ^
+| title | Discrete mathematics: an open introduction |
+| author | Oscar Levin |
+| edition | 4 |
+| isbn | 9781032965529 |
+| year | 2025 |
+| publisher | C&H/CRC Press |
+| book website | https://discrete.openmathbooks.org/dmoi4.html |
+| ebook | https://discrete.openmathbooks.org/pdfs/dmoi4.pdf |
+| source code | https://github.com/oscarlevin/discrete-book/ |
+
+  * Pages: {total in pdf: 547, front matter: 1-20, content: 21-538, back matter: 539-547}
+  * Will be using the pages in the book (and not pdf) to track the progress.
+
+^ date ^ pages ^ overall progress ^ notes ^
+| 2025-01-26 7:30 pm | [191-197) | [191-197) | Easy to understand. Well written. |
+
+partially completed:
+  * pg-197 Have to start reading from section "3.1.3 bit strings" onwards
+
+
 ==== Poor Charlie's Almanack ====
 Book details:
   * title: Poor Charlie’s Almanack: The Essential Wit and Wisdom of Charles T. Munger

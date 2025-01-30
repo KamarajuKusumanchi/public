@@ -1,0 +1,5 @@
+==== 2025-01-27 ====
+Notes from https://www.bloomberg.com/news/articles/2025-01-27/asml-sinks-as-china-ai-startup-triggers-panic-in-tech-stocks?srnd=homepage-americas
+  * DeepSeek was founded by quant-fund chief Liang Wenfeng
+  * focusing on greater efficiency with limited resources
+
