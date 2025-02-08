@@ -35,6 +35,10 @@
 
   * Joe Mecane - heads execution services for Citadel Securities
 
+  * John Ratcliffe
+    * CIA Director during Trump's second term
+    * Director of National Intelligence during Trump's first term
+
 ==== Aaron Brown ====
 Aaron Brown  was Chief Risk Manager at AQR Capital Management. He was one of the original developers of value at risk and one of its strongest proponents.
 
@@ -64,6 +68,10 @@ Ref:- https://www.bloomberg.com/opinion/articles/2022-01-31/quant-strategies-hav
 
 ==== white house ====
   * White House chief of staff Susie Wiles
+  * White House Press Secretary Karoline Leavitt
 
 ==== US government ====
-  * US Secretary of State, Marco Rubio
+  * Secretary of State - Marco Rubio
+  * Treasury Secretary - Scott Bessent
+  * Commerce Secretary - Howard Lutnick
+

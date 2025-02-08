@@ -1,3 +1,4 @@
 ==== notes ====
   * Report any outages directly to JCP&L by calling 888-LIGHTSS (888-544-4877).
   * Set up JCP&L text reporting now by texting ‘REG’ to 544487 to get started. You will need your 12-digit account number and zip code.
+  * To report any street lights that may be out to JCPL, use https://www.firstenergycorp.com/outages_help/report-lighting-problem.html .

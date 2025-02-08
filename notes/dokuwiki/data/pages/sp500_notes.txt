@@ -19,6 +19,12 @@ https://www.wsj.com/market-data/stocks/peyields gives
 
 The same information is also available at https://www.barrons.com/market-data/stocks/us/pe-yields
 
+==== pe ratios of sp500 sectors ====
+tags | p/e ratio of XLE
+
+  * https://worldperatio.com/sp-500-sectors/ - gives p/e ratios of all the sp500 sectors
+  * https://worldperatio.com/sector/energy/ - gives current p/e ratio of sp500 energy sector
+
 ==== links I came across ====
   * https://www.slickcharts.com/sp500/performance - shows ytd returns of SP500 components.
   * https://ycharts.com/indicators/sp_500_monthly_return
@@ -29,3 +35,20 @@ The same information is also available at https://www.barrons.com/market-data/st
   * https://ycharts.com/indicators/sp_500_1_year_return
   * https://ycharts.com/indicators/sp_500_eps
   * https://ycharts.com/indicators/sp_500_earnings_per_share_forward_estimate
+
+==== sp500 sectors ====
+
+^ sector ^ type ^
+| Communication Services |non-defensive |
+| Consumer Discretionary | non-defensive |
+| Consumer Staples | defensive |
+| Energy | n/a |
+| Financials | n/a |
+| Health Care | defensive |
+| Industrials | n/a |
+| Information Technology | non-defensive |
+| Materials | n/a |
+| Real Estate | n/a |
+| Utilities | defensive |
+
+Ref:- https://worldperatio.com/sp-500-sectors/

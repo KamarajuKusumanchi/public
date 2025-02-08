@@ -1,3 +1,14 @@
+==== 2025-02-06 ====
+TIL that there is a country called Kiribati that is located in all four hemispheres: the Northern, Southern, Western, and Eastern hemispheres. Its name is actually pronounced as KIRR-i-bass. The demonym is I-Kiribati which is pronounced ee-KIRR-i-bass.
+
+Ref:
+  * https://en.wikipedia.org/wiki/Kiribati - Kiribati
+  * https://open.spotify.com/episode/2dNZaVjwdlVrfgZ5UhgeHy - everything everywhere daily podcase
+    * linked in https://www.reddit.com/r/geography/comments/wcmi83/why_is_kiribati_pronounced_kiribass/
+
+==== 2025-01-31 ====
+TIL that Microsoft Edge is available on Linux. You can download it from https://www.microsoft.com/en-us/edge/download?form=MA13FJ -> search for Linux -> .deb file .
+
 ==== 2025-01-28 ====
 TIL about https://en.wikipedia.org/wiki/Ashish_Vaswani - Ashish Vaswani
 

@@ -299,6 +299,8 @@
   * [[time zone]]
   * [[song lyrics]]
   * [[dask notes]]
+  * [[thoughts and opinions]]
+  * [[drugs notes]]
 
 ==== by date ====
   * [[reading journal 2024]]

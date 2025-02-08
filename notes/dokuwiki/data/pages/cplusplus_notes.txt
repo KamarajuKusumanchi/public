@@ -60,3 +60,12 @@ The vector class supports a random access iterator, the most general kind. The l
   * The size function on a list may take O(n) time, so if you want to do something simple such as test for an empty list, use the empty function instead of checking for a size of zero. If you want to guarantee that the list is empty, you can always use the clear function.
 
   * Searching for an element in a list will require O(n) time because it lacks support for random access
+
+==== Lists ====
+  * Lists can also be sorted using the sort function, which is guaranteed to take time on the order of O(n*log(n)). Note that the sort algorithm provided by the STL works only for random access iterators, which are not provided by the list container, which necessitates the sort member function:<code>
+instance_name.sort();
+</code>
+
+  * Lists can be reversed using<code>
+instance_name.reverse();
+</code>

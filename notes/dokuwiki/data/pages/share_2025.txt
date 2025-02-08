@@ -1,8 +1,19 @@
 ===== 2025 =====
 
+==== 2025-02-06 ====
+  * https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean - Bypass Paywalls Clean for Chrome
+    * found this from https://github.com/bpc-clone/bpc_chrome_support
+
+==== 2025-02-02 ====
+  * https://ourworldindata.org/scaling-up-ai - Scaling up: how increasing inputs has made artificial intelligence more capable
+    * well written; easy to understand
+    * cliff notes:
+      * Scaling in AI is about increasing three main things during training: compute, data and parameters.
+
 ==== 2025-01-30 ====
   * https://site.financialmodelingprep.com/market-news
     * very nice coverage of market news
+    * tags | financial market news
 
 ==== 2025-01-25 ====
   * https://simple.wikipedia.org/wiki/Monty_Hall_problem - Monty Hall problem

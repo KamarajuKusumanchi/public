@@ -1,6 +1,31 @@
+
 ===== public companies =====
 Policy:
   * New entries go at the end by default.
+
+==== dummy ====
+from | market news articles on financialmodelingprep.com
+
+policy | Here I am sorting by ticker ascending.
+
+todo | (1) move this to a file. (2) Write a program to sort the output by market cap descending
+
+  * Align Technology, Inc. (NASDAQ:ALGN) is a prominent player in the dental industry, best known for its Invisalign tooth-straightening system.
+
+  * Allstate Corporation (NYSE: ALL) is a leading insurance company in the United States, offering a range of products including auto, home, and life insurance. As a major player in the insurance industry, Allstate competes with other giants like State Farm and GEICO.
+
+  * CN (TSX: CNR) (NYSE: CNI) is a major player in the North American rail industry, providing freight transportation services across Canada and the United States. The company operates an extensive rail network, facilitating the movement of goods across the continent. CN competes with other rail giants like Canadian Pacific Railway and Union Pacific Corporation.
+
+  * Capital Southwest Corporation (NASDAQ:CSWC) is an internally managed business development company operating in the Zacks Financial - Investment Management industry. The company focuses on providing capital to middle-market companies, primarily through debt and equity investments. CSWC's competitors include other business development companies and investment management firms.
+
+  * Diageo PLC (NYSE:DEO), a leading player in the global alcoholic beverages industry, competes with major alcohol producers like Pernod Ricard and Anheuser-Busch InBev. The company's portfolio includes well-known brands such as Johnnie Walker, Smirnoff, and Guinness.
+
+  * Illumina Inc. (NASDAQ:ILMN) is a prominent player in the genomics industry, specializing in the development and manufacturing of tools for genetic analysis. The company is known for its innovative sequencing and array-based solutions, which are used in various fields such as research, clinical, and applied markets. Illumina faces competition from companies like Thermo Fisher Scientific and Agilent Technologies, which also operate in the life sciences sector.
+
+  * Moelis & Company (NYSE:MC) is a global investment bank that provides strategic advisory services to a diverse client base, including corporations, governments, and financial sponsors. The company is known for its expertise in mergers and acquisitions, capital markets, and restructuring. As a key player in the financial services industry, Moelis competes with other major investment banks like Goldman Sachs and Morgan Stanley.
+
+  * Xylem Inc. (NYSE:XYL) is a leading global water technology company that provides innovative solutions for water and wastewater management. The company operates in a competitive market, with key players like Danaher Corporation and Pentair plc. Xylem's focus on sustainable water solutions has positioned it as a significant player in the industry.
+
 
 ==== GEO Group Inc ==== 
   * GEO Group Inc (ticker: GEO)
@@ -30,3 +55,8 @@ Private prison stocks like GEO Group Inc.
   * FSK - FS KKR Capital Corp
   * TDG - Transdigm Group Incorporated
   * MTN - Vail Resorts Inc
+  * PVH Corp - Owner of Calvin Klein, Tommy Hilfiger.
+  * Illumina Inc - Biotechnology firm specializing in gene sequencing
+
+==== Merck ====
+  * based in Rahway, NJ

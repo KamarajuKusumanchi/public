@@ -1,5 +1,14 @@
 tags | stocks to watch for next month, companies I came across
 
+==== 2025-02-04 ====
+  * <WRAP>
+^ ticker ^ price ^ hypothesis ^ auxilliary data ^ decision ^
+| MRK  |  90.74 | fairly priced; estimated EPS next year = $9; estimated revenue next year = \$64 billion. TTM divedend is \$3.12. | Almost half the revenue (\$29.5 billion) is from a single cancer drug. | |
+</WRAP>
+Ref:-
+  * https://finviz.com/quote.ashx?t=MRK&p=d
+  * https://site.financialmodelingprep.com/market-news/fmp-merck-shares-plunge-8-as-weak-guidance-overshadows-strong-revenue-growth
+
 ==== 2025-01-12 ====
   * <WRAP>
 ^ ticker ^ price ^ hypothesis ^ auxilliary data ^ decision ^

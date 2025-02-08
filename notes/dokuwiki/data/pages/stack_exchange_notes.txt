@@ -12,3 +12,5 @@
   * https://cs.stackexchange.com/ - computer science
 
   * https://genealogy.stackexchange.com/ - genealogy & family history
+
+  * https://diy.stackexchange.com/ - Home Improvement

@@ -1,0 +1,5 @@
+==== 2025-02-04 ====
+Notes from https://site.financialmodelingprep.com/market-news/uschina-tariff-war-escalates-markets-react-as-beijing-strikes-back
+  * Financial Modeling Prep offers a range of APIs
+    * the Sector P/E Ratio API - https://site.financialmodelingprep.com/developer/docs#sector-pe-ratio-market-overview
+    * the Sector Historical Overview API - https://site.financialmodelingprep.com/developer/docs#sector-historical-market-overview

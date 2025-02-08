@@ -23,7 +23,7 @@ junk1.txt:4
 junk2.txt:7
 </code>
 
-tags | Number of matches per file
+tags | Number of matches per file, hits per file
 
 sample code demoes | cat with filename
 ===== Solution using git grep and awk =====

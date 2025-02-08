@@ -34,3 +34,9 @@ tags | fed minutes
 
 ==== economic projections ====
   * economic projections from the 2023 September 19-20 FOMC meeting - https://www.federalreserve.gov/monetarypolicy/files/fomcprojtabl20230920.pdf
+
+==== employment levels of native born vs. foreign born ====
+  * myf.red/g/XlMi
+    * redirects to https://fred.stlouisfed.org/graph/?g=XlMi&utm_source=direct&utm_medium=exported-chart&utm_campaign=myfred_referrer
+    * https://fred.stlouisfed.org/graph/?g=XlMi&utm_source=direct - seems to show the same information. What does "&utm_medium=exported-chart&utm_campaign=myfred_referrer" do? Are those options necessary?
+    * https://fred.stlouisfed.org/graph/graph-landing.php?g=XlMi - barebones; works fine
