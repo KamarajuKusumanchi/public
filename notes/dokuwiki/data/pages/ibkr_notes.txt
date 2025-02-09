@@ -92,3 +92,8 @@ Run the report
 Period = Month to Date
 Run
 </code>
+
+==== disable fractional shares trading feature ====
+  * web portal -> login -> head and shoulders icon -> Settings -> Trading -> Trading Permissions -> Stocks -> Edit -> Scroll down ->
+    * All Global -> uncheck
+    * Global (Trade in Fractions) -> uncheck

@@ -69,3 +69,6 @@ instance_name.sort();
   * Lists can be reversed using<code>
 instance_name.reverse();
 </code>
+
+==== static variables ====
+  * [[returning a pointer to a local static variable]]

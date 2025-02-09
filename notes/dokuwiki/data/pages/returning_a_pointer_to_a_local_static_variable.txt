@@ -1,0 +1,49 @@
+==== C++ ====
+The code below demonstrates how you can return a pointer to a static variable and dereference it in another function.
+
+<code>
+[rajulocal@hogwarts]~/work/cpp% cat return_pointer_to_static_variable.cpp
+#include <iostream>
+
+using namespace std;
+
+int* foo()
+{
+    static int counter=0;
+    counter++;
+    return &counter;
+}
+
+void bar()
+{
+    for(int i=0; i< 10; i++)
+    {
+        int* n = foo();
+        if (*n == 1)
+            cout << "foo is called "<< *n << " time\n";
+        else
+            cout << "foo is called "<< *n << " times\n";
+    }
+}
+
+int main()
+{
+    bar();
+    return 0;
+}
+</code>
+
+<code>
+[rajulocal@hogwarts]~/work/cpp% g++ return_pointer_to_static_variable.cpp
+[rajulocal@hogwarts]~/work/cpp% ./a.out
+foo is called 1 time
+foo is called 2 times
+foo is called 3 times
+foo is called 4 times
+foo is called 5 times
+foo is called 6 times
+foo is called 7 times
+foo is called 8 times
+foo is called 9 times
+foo is called 10 times
+</code>
