@@ -1,6 +1,6 @@
 ==== 2025-02-13 ====
   * https://oeis.org/A008289 - shows the number of way to partition n into m distinct parts where n>=1, m>=1
-    * While doing a killer sudoku puzzle where I had to find 4 distinct numbers that sum up to 1. By trial and error, I found one such combination to be (1, 2, 3, 5). But I was not sure if that is the only possible combination or not. After a little bit of google search, I came across the above.
+    * I was doing a killer sudoku puzzle where I had to find four distinct numbers that add up to 11. By trial and error, I found one such combination - (1, 2, 3, 5). But I was not sure if that is the only possible combination or not. After a little bit of google search, I came across the above.
     * This problem is also discussed in [[https://archive.org/download/Comtet_Louis_-_Advanced_Coatorics/Comtet_Louis_-_Advanced_Combinatorics.pdf | Advanced Combinatorics]] by Comtet Louis -> p. 115 -> Supplement and exercises -> 2
 
 ==== 2025-02-11 ====
