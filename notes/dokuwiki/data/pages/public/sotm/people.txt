@@ -73,5 +73,6 @@ Ref:- https://www.bloomberg.com/opinion/articles/2022-01-31/quant-strategies-hav
 ==== US government ====
   * Secretary of State - Marco Rubio
   * Treasury Secretary - Scott Bessent
+    * the secretary of the Treasury
   * Commerce Secretary - Howard Lutnick
 

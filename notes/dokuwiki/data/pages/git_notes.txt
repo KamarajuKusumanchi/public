@@ -69,6 +69,21 @@ git show HEAD^:full/path/to/file/from/top/dir/of/the/repository
 See also:
   * https://stackoverflow.com/questions/1395445/viewing-a-deleted-file-in-git - I got the answer from here. It also contains a few other alternate solutions.
 
+==== create a git branch from an earlier commit ====
+<code>
+git checkout -b branch_name <commit_hash or HEAD~N>
+</code>
+
+For example
+<code>
+git checkout -b add_ballot_type cebf5c71c291d15189d7ad0cd1121624fedd8fa0
+</code>
+
+See also:
+  * https://stackoverflow.com/questions/2816715/branch-from-a-previous-commit-using-git
+    * found the solution here
+    * contains a lot more information besides the above solution
+
 ===== git grep commands =====
 ==== dokuwiki table syntax ====
 <code>

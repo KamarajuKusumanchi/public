@@ -1,3 +1,21 @@
+==== 2025-02-13 ====
+  * https://oeis.org/A008289 - shows the number of way to partition n into m distinct parts where n>=1, m>=1
+    * While doing a killer sudoku puzzle where I had to find 4 distinct numbers that sum up to 1. By trial and error, I found one such combination to be (1, 2, 3, 5). But I was not sure if that is the only possible combination or not. After a little bit of google search, I came across the above.
+    * This problem is also discussed in [[https://archive.org/download/Comtet_Louis_-_Advanced_Coatorics/Comtet_Louis_-_Advanced_Combinatorics.pdf | Advanced Combinatorics]] by Comtet Louis -> p. 115 -> Supplement and exercises -> 2
+
+==== 2025-02-11 ====
+TIL about Prof. Andrew Yao from https://amturing.acm.org/award_winners/yao_1611524.cfm
+
+==== 2025-02-09 ====
+TIL: "To ride shotgun" means to ride in a car’s front passenger seat
+
+Ref: https://ell.stackexchange.com/questions/72333/what-s-the-meaning-of-riding-shotgun-with-sb
+
+==== 2025-02-08 ====
+TIL about McLane Company. It is a wholesale supply chain services company that is fully owned by Berkshire Hathaway. Its customers include Walmart, Sam's Club, Target, Pilot Flying J, Wawa, ExxonMobil.
+
+Ref:- https://en.wikipedia.org/wiki/McLane_Company
+
 ==== 2025-02-06 ====
 TIL that there is a country called Kiribati that is located in all four hemispheres: the Northern, Southern, Western, and Eastern hemispheres. Its name is actually pronounced as KIRR-i-bass. The demonym is I-Kiribati which is pronounced ee-KIRR-i-bass.
 

@@ -1,4 +1,18 @@
+===== securing the account =====
+==== dummy ====
+  * Enable two factor authentication
+  * Turn on money transfer lockdown (MTL)
+    * https://digital.fidelity.com/ftgw/digital/security/dashboard/view
+    * https://digital.fidelity.com/ftgw/digital/security/lockdown/info
 
+See also:
+  * https://digital.fidelity.com/ftgw/digital/security/lockdown
+
+==== setup alerts ====
+  * Get notified when there is an ACH pull on your account
+    * login -> Messages -> Manage your alerts -> Cash Management -> Alert Setup -> Direct Debit Notifications -> Set Up Selected Alerts -> Update "Send emails to" or "Send text messages to" -> Complete Setup
+
+===== dummy =====
 ==== Missing features ====
   * It is not possible to
     * enable Money Transfer Lockdown (MTL) on 529 accounts [(https://www.reddit.com/r/fidelityinvestments/comments/1bkji5f/money_transfer_lockdown_on_529_account/)] .
@@ -23,14 +37,10 @@ Notes from https://www.fidelity.com/viewpoints/active-investor/extended-hours-tr
   * Treasuries can be automatically rolled over. [today | 2023-12-29]
   * [today | 2024-02-20] It has a cool feature called “Full View” wherein you can add all your other accounts (brokerage, 401k, bank accounts etc.,) and track your net worth for free.
     * https://www.fidelity.com/go/monitoring-your-financial-portfolio
+  * Money Transfer Lockdown (MTL) feature
 
-==== securing the account ====
-  * Enable two factor authentication
-  * Turn on money transfer lockdown (MTL)
-    * https://digital.fidelity.com/ftgw/digital/security/dashboard/view
-
-See also:
-  * https://digital.fidelity.com/ftgw/digital/security/lockdown
+==== money transfer lockdown ====
+  * does not stop ACH pulls (transactions initiated at another bank to pull money from Fidelity account)
 
 ==== View treasuries by maturity ====
 To view treasuries by maturity
@@ -182,3 +192,8 @@ Fidelity -> New & Research -> Stocks -> Login -> "Top rated by sector" -> "View 
 You can also go there directly with https://research2.fidelity.com/pi/stock-screener#results
 
 sort stocks by "ESS from StarMine from Refinitiv" and look for the "Very Bullish" ones.
+
+==== fdic insurance ====
+Fidelity customers can effectively get \$5 million of FDIC insurance. They do this by partnering with 20 different banks. The money is seamlessly distributed across the banks.
+
+Ref:- https://www.fidelity.com/why-fidelity/safeguarding-your-accounts

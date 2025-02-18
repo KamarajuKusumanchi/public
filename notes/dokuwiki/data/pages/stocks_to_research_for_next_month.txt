@@ -1,5 +1,18 @@
 tags | stocks to watch for next month, companies I came across
 
+==== 2025-02-12 ====
+  * ACGL, HOOD
+    * sharpe ratio from Jan 2022 to Jan 2025 = {ACGL: 0.96, VOO: 0.39, HOOD: 0.74}
+
+==== 2025-02-11 ====
+  * CVX or XOM
+    * Similar financials. Slight preference to XOM as it is little bit cheaper.
+  * XOM
+    * Cheap valuation (P/E = 14.23, forward P/E = 12.54), low debt (LT Debt/Eq = 0.14), reasonable growth rate (EPS ttm = 7.85, EPS next Y = 18.59%, EPS next 5Y = 9.80%), profit margin = 9.92%, dividend ttm = 3.44%, payout = 48.98%, price = \$111.67, market cap = \$490.80 B
+
+  * VIRT
+    * Cheap valuation (P/E = 12.62, forward P/E = 9.69), LT Debt/Eq = 1.32, EPS ttm = 2.98, EPS next Y = 4.47%, EPS next 5Y = 6.22%), profit margin = 9.59%, dividend ttm = 2.55%, payout = 32.32%, price = \$37.59, market cap = 5.81 B
+
 ==== 2025-02-04 ====
   * <WRAP>
 ^ ticker ^ price ^ hypothesis ^ auxilliary data ^ decision ^

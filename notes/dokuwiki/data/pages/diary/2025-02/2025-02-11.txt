@@ -1,0 +1,30 @@
+==== 2025-02-11 ====
+Notes from https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/ - Undergraduate shows that searches within hash tables can be much faster
+  * Andrew Krapivin
+    * was an undergraduate at Rutgers University
+    * now a graduate student at the University of Cambridge
+    * came up with a potential way to further miniaturize the pointers so they consumed less memory
+  * The “Tiny Pointers” paper
+    * Martín Farach-Colton, a co-author of the “Tiny Pointers” paper
+      * Krapivin’s former professor at Rutgers
+      * now at New York University
+    *  William Kuszmaul of Carnegie Mellon University, a co-author of the “Tiny Pointers” paper
+  * Alex Conway of Cornell Tech in New York City
+  * hash tables
+    * date back to the early 1950s
+    * Fullness of a hash table
+  * Andrew Yao
+    * https://dl.acm.org/doi/10.1145/3828.3836 - 1985 paper
+    * https://amturing.acm.org/award_winners/yao_1611524.cfm - won the A.M. Turing Award
+
+Notes from https://scijinks.gov/pressure/ - Why Does the Atmosphere Not Drift off Into Space?
+  * Mars
+    * is less than half Earth’s size
+    * is around one-tenth Earth’s mass.
+    * Its atmosphere is only about 1/100th as dense as Earth’s.
+    * Its atmosphere is mostly CO2.
+  * Earth's atmosphere
+    * Ninety-nine percent of the air is in the lowest 30 kilometers of the atmosphere.
+    * about 14.7 pounds of air is pressing down on every square inch of our bodies
+    * Even at 3,000 — 4,500 meters altitude, the air becomes thin enough that most people have trouble getting enough oxygen.
+  * If Earth were the size of a beach ball, the breathable atmosphere would be as thin as paper.

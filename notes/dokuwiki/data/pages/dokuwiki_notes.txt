@@ -2,6 +2,12 @@
   * [[random_page#generate_a_random_page | generate a random page]]
   * [[Edit whole section | Edit a whole section in dokuwiki]]
 
+==== pages in this wiki ====
+  * [[dokuwiki plugins]]
+  * [[dokuwiki farmer plugin]]
+  * [[dokuwiki tables]]
+
+
 ==== search the wiki ====
 Install ShortcutKey plugin (https://www.dokuwiki.org/plugin:shortcutkey). Then use 's' to focus on search box.
 
@@ -81,187 +87,6 @@ Ref:- https://www.dokuwiki.org/faq:version
 
 tags | check dokuwiki version running
 
-==== Tag plugin ====
-  * url: https://www.dokuwiki.org/plugin:tag
-
-  * The plugin version 2022-10-02 is incompatible with dokuwiki 0.0.20180422.a-2.1. For example, if I add the following line to the bill_pay_setup page<code>
-{{tag>tag1 tag2 tag3}}
-</code>
-I am getting<code>
-022/12/06 16:38:23 [error] 2076452#2076452: *82 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class 'dokuwiki\Extension\Event' not found in /var/lib/dokuwiki/lib/plugins/tag/helper.php:227
-Stack trace:
-#0 /var/lib/dokuwiki/lib/plugins/tag/helper.php(169): helper_plugin_tag->tagLink()
-#1 /var/lib/dokuwiki/lib/plugins/tag/syntax/tag.php(80): helper_plugin_tag->tagLinks()
-#2 /usr/share/dokuwiki/inc/parser/renderer.php(111): syntax_plugin_tag_tag->render()
-#3 /usr/share/dokuwiki/inc/parserutils.php(654): Doku_Renderer->plugin()
-#4 /usr/share/dokuwiki/inc/parserutils.php(130): p_render()
-#5 /usr/share/dokuwiki/inc/parser" while reading upstream, client: 68.198.191.3, server: www.kamaraju.xyz, request: "GET /dk/bill_pay_setup HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.4-fpm.sock:", host: "www.kamaraju.xyz", referrer: "https://www.kamaraju.xyz/dk/bill_pay_notes"
-2022/12/06 16:38:23 [error] 2076452#2076452: *82 FastCGI sent in stderr: "utils.php(83): p_cached_output()
-#6 /usr/share/dokuwiki/inc/html.php(293): p_wiki_xhtml()
-#7 /usr/share/dokuwiki/inc/Action/Show.php(33): html_show()
-#8 /usr/share/dokuwiki/inc/template.php(98): dokuwiki\Action\Show->tplContent()
-#9 /usr/share/dokuwiki/inc/events.php(111): tpl_content_core()
-#10 /usr/share/dokuwiki/inc/events.php(256): Doku_Event->trigger()
-#11 /usr/share/dokuwiki/inc/template.php(83): trigger_event()
-</code>
-
-Upgrading from <code>
-$ dpkg -l dokuwiki | grep ^ii
-ii  dokuwiki       0.0.20180422.a-2.1 all          standards compliant simple to use wiki
-</code>
-to
-<code>
-$ dpkg -l dokuwiki | grep ^ii
-ii  dokuwiki       0.0.20220731.a-1 all          standards compliant simple to use wiki
-</code>
-fixed the issue
-
-  * This plugin requires the pagelist plugin (https://www.dokuwiki.org/plugin:pagelist). But it is not pulled in automatically as part of the installation. So, install it manually.
-
-==== struct plugin ====
-  * source code: https://github.com/cosmocode/dokuwiki-plugin-struct
-  * https://forum.dokuwiki.org/d/17750-struct-plugin-how-to-use-page-schemas/4
-    * Andi's post helps in how to think about the struct plugin
-
-==== refnotes plugin ====
-google search | citing sources
-
-  * syntax: https://www.dokuwiki.org/plugin:refnotes:syntax
-  * plugin: https://www.dokuwiki.org/plugin:refnotes
-
-related links
-  * https://en.wikipedia.org/wiki/Wikipedia:Citing_sources
-
-==== table with minimum column width ====
-Use
-<code>
-<WRAP group><WRAP column>
-^ Heading ^ Heading ^
-| cell data | cell data |
-</WRAP></WRAP>
-</code>
-
-For example
-<code>
-<WRAP group><WRAP column>
-^ Heading ^ Heading ^
-| cell data | cell data |
-</WRAP></WRAP>
-</code>
-
-will render as
-<WRAP group><WRAP column>
-^ Heading ^ Heading ^
-| cell data | cell data |
-</WRAP></WRAP>
-
-while
-<code>
-^ Heading ^ Heading ^
-| cell data | cell data |
-</code>
-
-will render as
-
-^ Heading ^ Heading ^
-| cell data | cell data |
-
-Ref:- https://forum.dokuwiki.org/d/15099-creating-variable-width-shrink-to-fit-columns -> wizgeek's answer
-
-tags | reduce column width
-
-==== table as a list item ====
-tags | table inside a list
-
-To get
-  * tables
-    * table 1 <WRAP>
-^ foo ^ foo ^
-| foo | foo |
-</WRAP>
-    * tabel 2 <WRAP>
-^ bar ^ bar ^
-| bar | bar |
-</WRAP>
-    * <WRAP>
-^ blah ^ blah ^
-| blah | blah |
-</WRAP>
-
-use
-
-<code>
-  * tables
-    * table 1 <WRAP>
-^ foo ^ foo ^
-| foo | foo |
-</WRAP>
-    * tabel 2 <WRAP>
-^ bar ^ bar ^
-| bar | bar |
-</WRAP>
-    * <WRAP>
-^ blah ^ blah ^
-| blah | blah |
-</WRAP>
-</code>
-
-Ref: https://forum.dokuwiki.org/d/19773-how-can-a-table-be-indented-within-a-list
-
-==== remove extra line in lists inside table cells ====
-tags | lists inside table cells wrap plugin
-
-When the WRAP plugin is used to create lists inside table cells, an extra line is added at the end of the list. To remove it, add the following to /etc/dokuwiki/userstyle.css .
-<code>
-div.plugin_wrap ul { margin-bottom: 0px; }
-</code>
-
-The new setting will be picked up automatically when the page is refreshed.
-
-==== multiple lines in table cell ====
-Install the wrap plugin and do something like
-
-<code>
-^ days ^ months ^
-| <WRAP>
-  * Sunday
-  * Monday
-</WRAP> | <WRAP>
-  * January
-  * February
-  * March
-</WRAP> |
-| <WRAP>
-  * Tuesday
-  * Wednesday
-</WRAP> | <WRAP>
-  * April
-  * May
-</WRAP> |
-</code>
-
-which will give
-
-^ days ^ months ^
-| <WRAP>
-  * Sunday
-  * Monday
-</WRAP> | <WRAP>
-  * January
-  * February
-  * March
-</WRAP> |
-| <WRAP>
-  * Tuesday
-  * Wednesday
-</WRAP> | <WRAP>
-  * April
-  * May
-</WRAP> |
-
-Ref:-
-  * https://www.dokuwiki.org/plugin:wrap
-  * https://forum.dokuwiki.org/d/9110-is-it-possible-to-use-list-or-carriage-return-inside-table-s-cell
 
 ==== indented paragraph ====
 If you only need one tab, install the "WRAP" Plugin (See http://dokuwiki.org/plugin:wrap), and then use the following syntax: <code><WRAP indent>your text</WRAP></code>
@@ -305,78 +130,6 @@ will search for 'dividend yield' in the 'diary' namespace
 
 https://www.dokuwiki.org/search#search_within_a_namespace
 
-==== useful plugins ====
-  * https://www.dokuwiki.org/plugin:tag - add search tags to the wiki pages.
-    * favorite configuration:
-      * set tags_list_css to "optimized for tags list at top of page"
-    * Multiple tags are separated by spaces. If a tag itself contains a space, it should be in quotes. For example <code>
-{{tag>"foo bar" baz}}
-</code> will set two tags "foo bar" and "baz".
-  * https://www.dokuwiki.org/plugin:saveandedit - Adds a checkbox to continue editing after the page is saved.
-  * https://www.dokuwiki.org/plugin:nspages - to list all pages in a namespace
-  * https://www.dokuwiki.org/plugin:include - to transclude pages
-    * Using this to include [[python_pages]] as a section in [[notes]]
-  * https://www.dokuwiki.org/plugin:nodisp
-  * https://www.dokuwiki.org/plugin:wrap
-  * https://www.dokuwiki.org/plugin:qna
-  * https://www.dokuwiki.org/plugin:mathjax
-  * https://www.dokuwiki.org/plugin:move
-  * https://www.dokuwiki.org/plugin:yalist
-    * for | nested lists, definition lists etc.,
-  * https://www.dokuwiki.org/plugin:yearbox
-    * using this to maintain a journal in [[:diary:]]
-  * https://www.dokuwiki.org/plugin:const
-    * using this to parameterize the value of ''year'' in pages such as [[:diary:yearbox_2023]], [[:diary:yearbox_2024]]
-    * tags | variable in page content
-
-==== plugins I am exploring ====
-  * https://www.dokuwiki.org/plugin:tabbox
-  * https://www.dokuwiki.org/plugin:cli
-
-==== plugins I came across ====
-https://philip-p-ide.uk/doku.php/blog/articles_on_writing/wiki_farm_01 mentioned
-  * https://www.dokuwiki.org/plugin:indexmenu
-  * https://www.dokuwiki.org/plugin:toolbox
-\\
-https://www.dokuwiki.org/tips:book mentions two plugins that are useful for creating books.
-  * https://www.dokuwiki.org/plugin:bookcreator
-  * https://www.dokuwiki.org/plugin:dw2pdf
-\\
-  * https://www.dokuwiki.org/plugin:searchpattern
-  * https://www.dokuwiki.org/plugin:iframe
-  * https://www.dokuwiki.org/plugin:gh
-  * https://www.dokuwiki.org/plugin:pycode
-\\
-  * https://www.dokuwiki.org/plugin:publish
-\\
-https://diyfuturism.com/index.php/2018/01/01/how-to-set-up-a-personal-wiki-with-configuration-for-common-use-cases-like-recipes-and-journaling/ talks about TemplatePageName plugin
-  * https://www.dokuwiki.org/plugin:templatepagename
-    * https://www.dokuwiki.org/namespace_templates
-
-==== conflicting plugins ====
-  * https://www.dokuwiki.org/plugin:edittable - seems nice. But it is conflicting with https://www.dokuwiki.org/plugin:wrap . For example, if I have a cell with a list of items, and if I install the edittable plugin and then try to edit that table, the cell contents are not longer rendered as a list.
-    * Todo:- Try to come up with a small test case and report it upstream.
-
-==== buggy plugins ====
-  * https://www.dokuwiki.org/plugin:keywords - add keywords to the wiki pages
-    * The keywords are not rendered but you can search on them (expected behaviour).
-    * issues:
-      * https://github.com/i-net-software/dokuwiki-plugin-keywords/issues/1 - Key words with spaces are broken into individual words. For example "foo bar" will become "foo, bar".
-    * Use https://www.dokuwiki.org/plugin:tag instead. It populates the keywords meta field and does much more.
-
-  * https://www.dokuwiki.org/plugin:editsections2 is giving <code>
-startSectionEdit: $data "section" is NOT an array! One of your plugins needs an update.
-</code> on all the pages.
-    * Tested using 2012-10-13 version.
-
-==== list of installed plugins ====
-syntaxplugins
-~~INFO:syntaxplugins~~
-adminplugins
-~~INFO:adminplugins~~
-
-Ref:- https://www.dokuwiki.org/plugin:info
-
 ==== issues reported by me ====
   * https://github.com/splitbrain/dokuwiki/issues/3531 - display section numbers in the page and table of contents
 
@@ -395,6 +148,22 @@ bar
   * https://www.dokuwiki.org/irc
   * https://github.com/splitbrain/dokuwiki
   * https://www.dokuwiki.org/devel:vim - setup vim for dokuwiki development.
+
+==== documentation links I came across ====
+  * https://www.dokuwiki.org/template:dokuwiki#changing_the_logo has answers for
+    * how to change the default logo?
+  * https://www.dokuwiki.org/index
+  * https://www.dokuwiki.org/faq:lists has answers for
+    * How to put line breaks in lists?
+  * https://www.dokuwiki.org/faq:approval has answer for
+    * approve edits on dokuwiki
+
+  * struct plugin
+    * https://www.dokuwiki.org/plugin:struct:filters#value_placeholders
+
+==== pull requests I came across ====
+  * https://github.com/dokuwiki/dokuwiki/pull/3566/files - Enable to keep current page after logout instead of redirect to login
+    * was not merged asof 2025-02-17
 
 ==== Useful documentation ====
   * https://www.dokuwiki.org/wiki:syntax#basic_text_formatting - format text as bold, italic, underlined and monospaced
@@ -426,18 +195,6 @@ bar
 
   * https://wiki.chongtin.com/adding_google_adsense
 
-==== documentation links I came across ====
-  * https://www.dokuwiki.org/template:dokuwiki#changing_the_logo has answers for
-    * how to change the default logo?
-  * https://www.dokuwiki.org/index
-  * https://www.dokuwiki.org/faq:lists has answers for
-    * How to put line breaks in lists?
-  * https://www.dokuwiki.org/faq:approval has answer for
-    * approve edits on dokuwiki
-
-  * struct plugin
-    * https://www.dokuwiki.org/plugin:struct:filters#value_placeholders
-
 ==== useful links ====
   * https://namespace-cpp.de/std/doku.php/wiki/quicksyntax - cheatsheet on dokuwiki syntax
     * provides an example on how to put content into two or more columns.
@@ -464,8 +221,6 @@ my symlinks
 
 Ref:- https://wiki.debian.org/DokuWiki#Specificities_of_the_Debian_package
 
-==== pages in this wiki ====
-  * [[dokuwiki farmer plugin]]
 
 ==== dummy ====
   * You can add <nowiki>?do=export_xhtmlbody</nowiki> to any DokuWiki link to view the body of a DokuWiki document as XHTML

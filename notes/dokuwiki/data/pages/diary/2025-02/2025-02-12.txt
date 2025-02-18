@@ -1,0 +1,31 @@
+==== 2025-02-12 ====
+Notes from https://site.financialmodelingprep.com/market-news/markets-brace-for-tariffs-cpi-data-and-powell-testimony-this-week
+  * Key steel exporters to the U.S.: Canada, Brazil, Mexico, South Korea, Vietnam.
+
+Notes from https://site.financialmodelingprep.com/market-news/goldman-sachs-tariffs-pose-key-risk-to--sp--earnings-growth
+  * Goldman Sachs' Chief US Equity Strategist David J. Kostin
+  * Q4 2024 aggregate EPS grew by 12% YoY, surpassing expectations of 8% growth
+  * Every 5 pp (percentage point) increase in tariffs could cut S&P 500 EPS by 1-2%
+  * Industries with global supply chains—Tech, Autos, and Retail—are at highest risk
+  * Year-end 2025 price target: 6,500 (+7% from current levels).
+
+Notes from https://site.financialmodelingprep.com/market-news/deepseek-ai-controversy-market-disruption-or-shortselling-scheme
+  * Navellier & Associates
+  * DeepSeek's founder, Liang Wenfang, previously built High-Flyer, a quantitative hedge fund.
+  * China bans short-selling, making it impossible to bet against stocks locally.
+
+https://site.financialmodelingprep.com/market-news/sp--forecast-evercore-isi-projects--target-amid-trade-war-risks
+  * Evercore ISI Projects 6,800 for S&P 500
+
+https://site.financialmodelingprep.com/market-news/apple-partners-with-alibaba-for-ai-development-in-china-amid-sales-slump
+  * In China, regulatory policies mandate that foreign companies partner with domestic firms to develop AI models.
+  * Baidu (NASDAQ:BIDU)
+
+https://site.financialmodelingprep.com/market-news/super-micro-computer-faces-delays-in-filing-q--report
+  * On December 6, 2024, Nasdaq granted SMCI an extension until February 25, 2025, to comply with filing requirements
+
+https://site.financialmodelingprep.com/market-news/alibaba-stock-surges-on-ai-partnership-with-apple
+  * The Tongyi Qianwen AI framework, developed by Alibaba, is expected to help Apple Intelligence better understand Chinese users' requests and habits.
+
+Reading journal
+  * https://www.lingvano.com/asl/blog/thank-you-in-sign-language/ - How to say “thank you” in Sign Language

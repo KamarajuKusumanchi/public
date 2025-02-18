@@ -1,3 +1,23 @@
+==== only allow some values for a positional argument ====
+tags | valid values
+
+Example 1:
+
+<code>
+parser.add_argument("--model", required=True, choices=['slow', 'fast'], help='model specification.')
+</code>
+
+Example 2:
+
+<code>
+parser.add_argument("access", action='store',
+    choices=['allow', 'deny'], help='type of access')
+</code>
+
+Ref:-
+  * https://docs.python.org/library/argparse.html#choices
+  * https://stackoverflow.com/questions/15836713/allowing-specific-values-for-an-argparse-argument
+
 ==== --feature and --no-feature ====
 To do
 <code>
@@ -36,3 +56,41 @@ parser.set_defaults(header=True)
 Ref:-
   * https://stackoverflow.com/questions/15008758/parsing-boolean-values-with-argparse
   * https://docs.python.org/3/library/argparse.html#action -> search for ''<nowiki>--no-foo</nowiki>''
+
+==== extend arguments ====
+tags | add a variable to parsed arguments, add a variable to Namespace
+
+<code>
+$ cat extend_arguments.py
+#! /usr/bin/env python
+import argparse
+
+def create_parser():
+    parser = argparse.ArgumentParser(description="extend arguments")
+    parser.add_argument(
+        '-v', '--verbose', action='store_true', default=False, dest='verbose',
+        help='verbose output')
+    return parser
+
+def extend_args(args: argparse.Namespace, extra_args: dict) -> argparse.Namespace:
+    new_args = argparse.Namespace(**vars(args), **extra_args)
+    return new_args
+
+if __name__ == "__main__":
+    parser = create_parser()
+    args = parser.parse_args()
+    if args.verbose:
+        print(args)
+    args = extend_args(args, {'foo': 9})
+    if args.verbose:
+        print(args)
+</code>
+
+<code>
+$ ./extend_arguments.py -v
+Namespace(verbose=True)
+Namespace(verbose=True, foo=9)
+</code>
+
+See also:
+  * https://stackoverflow.com/questions/2597278/python-load-variables-in-a-dict-into-namespace

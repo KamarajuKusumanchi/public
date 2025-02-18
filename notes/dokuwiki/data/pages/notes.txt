@@ -267,7 +267,6 @@
   * [[dividends]]
   * [[usps notes]]
   * [[check printing]]
-  * [[dokuwiki farmer plugin]]
   * [[gcd notes]]
   * [[linkedin notes]]
   * [[pe ratio]]

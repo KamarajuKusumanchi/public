@@ -1,0 +1,130 @@
+==== table with minimum column width ====
+Use
+<code>
+<WRAP group><WRAP column>
+^ Heading ^ Heading ^
+| cell data | cell data |
+</WRAP></WRAP>
+</code>
+
+For example
+<code>
+<WRAP group><WRAP column>
+^ Heading ^ Heading ^
+| cell data | cell data |
+</WRAP></WRAP>
+</code>
+
+will render as
+<WRAP group><WRAP column>
+^ Heading ^ Heading ^
+| cell data | cell data |
+</WRAP></WRAP>
+
+while
+<code>
+^ Heading ^ Heading ^
+| cell data | cell data |
+</code>
+
+will render as
+
+^ Heading ^ Heading ^
+| cell data | cell data |
+
+Ref:- https://forum.dokuwiki.org/d/15099-creating-variable-width-shrink-to-fit-columns -> wizgeek's answer
+
+tags | reduce column width
+
+==== table as a list item ====
+tags | table inside a list
+
+To get
+  * tables
+    * table 1 <WRAP>
+^ foo ^ foo ^
+| foo | foo |
+</WRAP>
+    * tabel 2 <WRAP>
+^ bar ^ bar ^
+| bar | bar |
+</WRAP>
+    * <WRAP>
+^ blah ^ blah ^
+| blah | blah |
+</WRAP>
+
+use
+
+<code>
+  * tables
+    * table 1 <WRAP>
+^ foo ^ foo ^
+| foo | foo |
+</WRAP>
+    * tabel 2 <WRAP>
+^ bar ^ bar ^
+| bar | bar |
+</WRAP>
+    * <WRAP>
+^ blah ^ blah ^
+| blah | blah |
+</WRAP>
+</code>
+
+Ref: https://forum.dokuwiki.org/d/19773-how-can-a-table-be-indented-within-a-list
+
+==== remove extra line in lists inside table cells ====
+tags | lists inside table cells wrap plugin
+
+When the WRAP plugin is used to create lists inside table cells, an extra line is added at the end of the list. To remove it, add the following to /etc/dokuwiki/userstyle.css .
+<code>
+div.plugin_wrap ul { margin-bottom: 0px; }
+</code>
+
+The new setting will be picked up automatically when the page is refreshed.
+
+==== multiple lines in table cell ====
+Install the wrap plugin and do something like
+
+<code>
+^ days ^ months ^
+| <WRAP>
+  * Sunday
+  * Monday
+</WRAP> | <WRAP>
+  * January
+  * February
+  * March
+</WRAP> |
+| <WRAP>
+  * Tuesday
+  * Wednesday
+</WRAP> | <WRAP>
+  * April
+  * May
+</WRAP> |
+</code>
+
+which will give
+
+^ days ^ months ^
+| <WRAP>
+  * Sunday
+  * Monday
+</WRAP> | <WRAP>
+  * January
+  * February
+  * March
+</WRAP> |
+| <WRAP>
+  * Tuesday
+  * Wednesday
+</WRAP> | <WRAP>
+  * April
+  * May
+</WRAP> |
+
+Ref:-
+  * https://www.dokuwiki.org/plugin:wrap
+  * https://forum.dokuwiki.org/d/9110-is-it-possible-to-use-list-or-carriage-return-inside-table-s-cell
