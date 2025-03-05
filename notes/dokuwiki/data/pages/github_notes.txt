@@ -13,6 +13,11 @@
     * Beginning August 13, 2021, we will no longer accept account passwords when authenticating Git operations on GitHub.com.
   * [[https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork | Syncing a fork]] (docs.github.com)
 
+  * https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables
+    * tags | create a table in github issues
+
+  * https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github#enabling-fixed-width-fonts-in-the-editor
+    * answers | how to enable fixed with fonts in the editor
 
 ==== useful links ====
   * https://www.githubstatus.com/

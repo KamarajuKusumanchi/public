@@ -48,6 +48,27 @@ Ref:
   * ecosia.org
   * mojeek.com
 
+==== Alternatives to google products ====
+  * google search - [[google_notes#Alternatives_to_google_search|google notes#Alternatives to google search]]
+  * gmail - fastmail, protonmail
+  * google reader - inoreader, feedly
+  * google code - gitlab, github
+  * google docs - Dropbox Paper, iA Writer, Notion
+  * picasa - flickr
+  * google analytics - gaug.es
+  * google groups - discourse, slack, github issues
+  * google maps - https://www.bing.com/maps, https://wego.here.com/, https://openstreetmap.org/
+  * google chrome - firefox
+  * google chrome passwords - KeePass, 1Password, LastPass
+
+  * google images - pexels.com, 500px.com, tineye.com
+
+Currently no alternatives for
+  * youtube, maps, android
+  * google adwords - ??
+
+Ref:-
+  * https://tapmydata.com/how-to-quit-google/
 ==== compress existing photos & videos ====
 https://photos.google.com/quotamanagement -> Recover storage -> Convert existing photos & videos to Storage saver
 -> Learn more

@@ -300,6 +300,9 @@
   * [[dask notes]]
   * [[thoughts and opinions]]
   * [[drugs notes]]
+  * [[page stats]]
+  * [[phone notes]]
+  * [[indian food]]
 
 ==== by date ====
   * [[reading journal 2024]]

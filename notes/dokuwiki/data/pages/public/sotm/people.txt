@@ -66,13 +66,14 @@ Ref:- https://www.bloomberg.com/opinion/articles/2022-01-31/quant-strategies-hav
   * was global head of iShares and index investments at BlackRock [(https://www.bloomberg.com/opinion/articles/2021-07-12/goldman-doesn-t-want-mercenaries?srnd=undefined)]
 ~~REFNOTES~~
 
-==== white house ====
-  * White House chief of staff Susie Wiles
-  * White House Press Secretary Karoline Leavitt
-
 ==== US government ====
-  * Secretary of State - Marco Rubio
   * Treasury Secretary - Scott Bessent
     * the secretary of the Treasury
   * Commerce Secretary - Howard Lutnick
 
+==== the second Trump administration ====
+  * White House chief of staff - Susie Wiles
+  * White House Deputy Chief of Staff - Stephen Miller
+  * Secretary of State - Marco Rubio
+  * Border Czar - Tom Homan
+  * White House Press Secretary - Karoline Leavitt

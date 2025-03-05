@@ -1,0 +1,3 @@
+==== gold ====
+^ asof ^ who ^ target price (\$) ^ by ^ range (\$) ^ source ^
+| 2025-02-19 | Goldman Sachs | 3,100 | 2025-12-31 | 3,060 - 3,300 | https://site.financialmodelingprep.com/market-news/goldman-sachs-raises-gold-price-target-to-oz-for- |

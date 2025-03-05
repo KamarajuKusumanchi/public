@@ -176,3 +176,36 @@ type(s)
 Out[6]:
 str
 </code>
+
+==== parse curl output ====
+tags | curl dictionary get value of a key
+
+Given
+<code>
+$ cat data.txt
+{
+  "key1" : "val1",
+  "key2" : "val2",
+  "key3" : "val3",
+  "key4" : "val4",
+}
+</code>
+
+For a given key ''key3'', write a script to get the corresponding value. In the above example, the expected answer is ''val3''.
+
+Solution:
+<code>
+$ cat data.txt  | python -c "import sys, yaml; d=yaml.safe_load(sys.stdin); print(d['key3'])"
+val3
+</code>
+
+We can't use json.loads() in this case since there is an extra comma at the end.
+
+<code>
+$ cat data.txt  | python -c "import sys, json; d=json.load(sys.stdin); print(d['key3'])"
+...
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 6 column 1 (char 78)
+</code>
+
+related:
+  * https://stackoverflow.com/questions/63911610/python-difference-between-yaml-load-and-yaml-safe-load - difference between yaml.load and yaml.safe_load

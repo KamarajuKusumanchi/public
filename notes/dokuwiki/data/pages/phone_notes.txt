@@ -1,0 +1,11 @@
+===== Features I need in a phone =====
+===== LG stylo 3 plus =====
+===== Configure LG stylo 3 plus =====
+==== Manually installed apps ====
+  * Chess app from chess.com
+  * Apps from Google - google calendar
+  * whatsapp
+  * venmo
+  * Geico Mobile
+  * feedly
+  * RSA SecurID Software Token

@@ -114,3 +114,37 @@ Related links:
   * https://github.com/ranaroussi/yfinance/pull/2160 - relevant merge request for this feature
     * shows how to run the relevant unit tests ''python -m unittest tests.test_search''
   * https://github.com/KamarajuKusumanchi/market_data_processor/blob/master/src/utils/special_dividends.py - Uses yf.Search() to get the special dividend announcements.
+
+==== Failed to retrieve the news and received faulty response instead ====
+If you are getting this error, try using yfinance >= 0.2.54.
+
+For example, I was getting this error with yfinance 0.2.51
+<code>
+ % conda activate test_yfinance_0.2.51
+
+ % python                             
+Python 3.13.1 | packaged by conda-forge | (main, Dec  5 2024, 21:23:54) [GCC 13.3.0] on linux
+
+>>> import yfinance as yf
+>>> yf.__version__
+'0.2.51'
+>>> news = yf.Search("declares special dividend", news_count=10).news
+declares special dividend: Failed to retrieve the news and received faulty response instead.
+>>> len(news)
+0
+</code>
+
+but not with 0.2.54
+<code>
+ % conda activate test_yfinance_0.2.54
+
+ % python                             
+Python 3.13.2 | packaged by conda-forge | (main, Feb 17 2025, 14:10:22) [GCC 13.3.0] on linux
+
+>>> import yfinance as yf
+>>> yf.__version__
+'0.2.54'
+>>> news = yf.Search("declares special dividend", news_count=10).news
+>>> len(news)
+10
+</code>

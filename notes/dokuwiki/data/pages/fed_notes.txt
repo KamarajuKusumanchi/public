@@ -39,4 +39,7 @@ tags | fed minutes
   * myf.red/g/XlMi
     * redirects to https://fred.stlouisfed.org/graph/?g=XlMi&utm_source=direct&utm_medium=exported-chart&utm_campaign=myfred_referrer
     * https://fred.stlouisfed.org/graph/?g=XlMi&utm_source=direct - seems to show the same information. What does "&utm_medium=exported-chart&utm_campaign=myfred_referrer" do? Are those options necessary?
-    * https://fred.stlouisfed.org/graph/graph-landing.php?g=XlMi - barebones; works fine
+    * https://fred.stlouisfed.org/graph/graph-landing.php?g=XlMi - barebones; shows the graph but you can't edit it.
+  * https://fredblog.stlouisfed.org/2022/12/native-and-immigrant-employment-during-the-pandemic/
+    * last paragraph contains instructions on how to generate this graph.
+

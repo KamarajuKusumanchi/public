@@ -6,3 +6,8 @@ RMD = Required minimum distribution.
 
   * The IRS requires to start taking tax deferred retirement money out at the age of 72 (or 70.5 if you were born before July 1, 1949).
   * RMD is 3.9% at age 72, 8.8% at age 90.
+
+==== qna ====
+:?: Can we convert a traditional IRA to a roth IRA?
+
+:!: Yes. https://www.fidelity.com/retirement-ira/roth-conversion-checklists has some good information on this topic.

@@ -117,3 +117,12 @@ This will create pairs of files such as (equation.tex, equation.png), (equation0
 Ref:- https://zim-wiki.org/manual/Plugins/Equation_Editor.html - talks about this functionality. But it does not tell how to enable it in the first place.
 
 tags | zim math equations, equation editor, where is the equation editor plugin?
+
+==== verbatim ====
+
+<code>
+'''
+foo
+bar
+'''
+</code>

@@ -1,0 +1,3 @@
+==== sp500 predictions ====
+^ asof ^ who ^ target price ^ by ^ ref ^
+| 2025-02-25 | UBS | 6,600 | 2025-12-31 | https://site.financialmodelingprep.com/market-news/ubs-predicts-sp--to-hit--by-yearend-despite-recent-market-volatility |

@@ -209,6 +209,33 @@ related:
   * https://github.com/iamadamdev/bypass-paywalls-chrome/archive/v1.7.5.zip - link to download a specific version.
   * https://github.com/KamarajuKusumanchi/rutils/blob/master/python3/make_bkup.py - script to backup a directory or a file.
 
+==== install bypass paywalls chrome clean from gitflic.ru ====
+today | 2025-02-27
+
+Ref:- https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean
+
+<code>
+cd $software/zipped
+mkdir -p bypass_paywalls_clean
+cd bypass_paywalls_clean
+</code>
+
+Download the zip file from https://gitflic.ru/project/magnolia1234/bpc_uploads/blob/raw?file=bypass-paywalls-chrome-clean-master.zip and put it in $software/zipped/bypass_paywalls_clean. This file is called bypass-paywalls-chrome-clean-master.zip
+
+unzip it
+<code>
+cd ../../unZipped/
+unzip ../zipped/bypass_paywalls_clean/bypass-paywalls-chrome-clean-master.zip
+</code>
+
+This will unzip everything into $software/unZipped/bypass-paywalls-chrome-clean-master. Load the extension
+<code>
+chrome -> chrome://extensions/
+Enable Developer mode
+-> Load unpacked
+select $software/unZipped/bypass-paywalls-chrome-clean-master
+</code>
+
 ==== Input Cursor Focus ====
 Needed it for millionshort.com which does not focus the cursor in the search bar.
 

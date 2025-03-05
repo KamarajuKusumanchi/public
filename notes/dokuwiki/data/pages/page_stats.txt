@@ -1,0 +1,14 @@
+==== dummy =====
+TODO on 2025-02-21:- This plugin does not seem to work. Afterwards, figure out why.
+
+Stats generated using the page stats plugin (https://github.com/Hei3enberg/pagestats)
+
+~~NOCACHE~~
+
+~~PAGESTATSPAGE~~: Displays the total number of pages.
+
+~~PAGESTATSMB~~: Displays the total size of all pages in MB.
+
+~~MEDIASTATSPAGE~~: Displays the total number of media files.
+
+~~MEDIASTATSMB~~: Displays the total size of all media files in MB.

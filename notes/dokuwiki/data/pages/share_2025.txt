@@ -1,5 +1,31 @@
 ===== 2025 =====
 
+
+==== 2025-03-04 ====
+  * https://bogleheads.org/forum/viewtopic.php?t=448847 - ACAT fraud with a twist - Vanguard <WRAP>
+> I discovered that our taxable account at Vanguard had been slowly pilfered of approximately $100,000.00 in stocks transferred by ACATS to 2 different brokerage accounts that were not mine over a period of time.
+>
+> These stock transfers were taken out of our account each time we received a dividend beginning in May 2024.
+> ...
+> Every few months 750 shares of that fund were transferred to either Fidelity or Interactive Brokers. Transfers were made 3 times before I realized it was happening. 
+</WRAP>
+
+==== 2025-02-25 ====
+  * https://www.reuters.com/world/us/trump-end-eb-5-immigrant-investor-visa-program-2025-02-25/
+    * Looks like the net present value of a GC is $5 million.
+
+==== 2025-02-24 ====
+  * https://www.investopedia.com/terms/w/wisdom-crowds.asp - Wisdom of Crowds: Definition, Theory, and Examples
+
+==== 2025-02-20 ====
+  * https://apnews.com/article/world-cup-soccer-sports-international-qatar-65e268246fe35c989382104d6f798ece - ‘Normal thing to do': Japanese fans tidy up at World Cup <code>
+When you leave, you have to leave a place cleaner than it was before.
+</code> The same principle can be applied in software development. Whenever you touch a piece of code, make it cleaner than it was before.
+
+
+==== 2025-02-19 ====
+  * https://www.acadian-asset.com/investment-insights/owenomics/a-crypto-fairy-tale - A crypto fairy tale
+
 ==== 2025-02-06 ====
   * https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean - Bypass Paywalls Clean for Chrome
     * found this from https://github.com/bpc-clone/bpc_chrome_support

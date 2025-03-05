@@ -1,0 +1,9 @@
+==== 2025-02-20 ====
+reading journal:
+  * https://site.financialmodelingprep.com/market-news/apple-faces-potential-price-hikes-amid-tariff-uncertainty
+    * Apple sells approximately 50M iPhones, 15M iPads, and 10M Macs annually in the U.S.
+    * A 10% tariff could reduce Apple's EPS by up to 3% unless mitigated by price hikes.
+  * https://site.financialmodelingprep.com/market-news/fmp-alibaba-soars-11-on-strong-q4-earnings-and-ai-driven-growth
+    * Alibaba's core Taobao and Tmall Group, Cloud Intelligence Group
+  * https://www.wsj.com/buyside/personal-finance/mortgage/heloc-vs-home-equity-loan?mod=wsj_hp_buyside_pos1 - Heloc vs. Home Equity Loan: Which One Is Right for You?
+

@@ -72,6 +72,8 @@ related links
   * https://www.dokuwiki.org/plugin:const
     * using this to parameterize the value of ''year'' in pages such as [[:diary:yearbox_2023]], [[:diary:yearbox_2024]]
     * tags | variable in page content
+  * https://www.dokuwiki.org/plugin:tplmod
+    * You can use this to hide the "Media Manager" for people who do not have access to it.
 
 ==== plugins I am exploring ====
   * https://www.dokuwiki.org/plugin:tabbox

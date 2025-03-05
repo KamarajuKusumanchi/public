@@ -1,5 +1,18 @@
 tags | stocks to watch for next month, companies I came across
 
+==== 2025-02-24 ====
+  * <WRAP>
+^ ticker ^ price ^ hypothesis ^ auxilliary data ^ decision ^
+| TSM  |  191.65 | Bernstein projects TSMC's earnings per share to increase by 40% this year. | P/E = 27.24, Forward P/E = 17.65, Profit margin = 40.52%, Div yield ttm = 1.21% | |
+</WRAP>
+Ref:-
+  * https://finviz.com/quote.ashx?t=TSM&ty=c&ta=1&p=d
+  * https://site.financialmodelingprep.com/market-news/nvidia-to-match-apples-spending-on-tsmc-as-ai-drives-growth
+
+==== 2025-02-20 ====
+  * Toyota (ticker: TM), Sony corp (ticker: SONY), Sumitomo Mitsui (ticker: SMFG), Mizuho (ticker: MFG)
+    * mentioned in https://site.financialmodelingprep.com/market-news/bank-of-america-highlights-top-japanese-stocks-after-strong-q-earnings - BofA Highlights Top Japanese Stocks After Strong Q3 Earnings
+
 ==== 2025-02-12 ====
   * ACGL, HOOD
     * sharpe ratio from Jan 2022 to Jan 2025 = {ACGL: 0.96, VOO: 0.39, HOOD: 0.74}

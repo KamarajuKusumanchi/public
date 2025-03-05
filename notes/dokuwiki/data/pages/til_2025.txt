@@ -1,3 +1,34 @@
+==== 2025-03-02 ====
+  * TIL that our body fat is actually an active organ and not some passive tissue.
+
+Ref:
+  * https://www.pfizer.com/news/articles/the_skinny_on_body_fat
+
+==== 2025-02-28 ====
+  * TIL about a transaction type called "cash-rich split-off". Buffett uses this often to avoid capital gains taxes. For example, Berkshire bought P&G stock for \$336 million which grew to \$4.7 billion by 2014. He used those shares to buy Duracell for \$3 billion from P&G. P&G then added an additional \$1.7 billion into the new company before the closing. 
+
+Ref:
+  * https://bizneworleans.com/berkshire-buying-duracell-from-pg-in-3b-deal/ - talks about the deal but does not mention the type of transaction involved.
+  * https://macabacus.com/strategies/overview -> ctrl+f "cash-rich split-off"
+  * https://www.barrons.com/articles/berkshire-buffett-record-tax-payment-apple-d3bea956 - where I came across this first
+
+==== 2025-02-23 ====
+  * https://ourworldindata.org/cleanest-air-lessons - In many countries, people breathe the cleanest air in centuries. What can the rest of the world learn from this?
+    * One way to reduce air pollution is to reduce coal consumption. But TIL that China was able to reduce local air pollution while continuing to burn more coal by implementing "scrubber" technologies.
+
+==== 2025-02-20 ====
+Tribeca is a neighborhood in Lower Manhattan in New York City. TIL that it is an abbreviation of "Triangle Below Canal Street"
+
+Ref:- https://simple.wikipedia.org/wiki/Tribeca
+
+TIL that you can write comments within a python list. See for example https://github.com/ranaroussi/yfinance/pull/2277/files .
+
+==== 2025-02-19 ====
+TIL that there can be multiple deputy chiefs of staff with different duties. For example, there are six deputy chiefs of staff at the moment (second Trump administration; {asof: 2025-02-19}).
+
+Ref:- 
+[[https://en.wikipedia.org/wiki/White_House_Deputy_Chief_of_Staff#Second_Trump_Administration_(2025%E2%80%93present)]]
+
 ==== 2025-02-13 ====
   * https://oeis.org/A008289 - shows the number of way to partition n into m distinct parts where n>=1, m>=1
     * I was doing a killer sudoku puzzle where I had to find four distinct numbers that add up to 11. By trial and error, I found one such combination - (1, 2, 3, 5). But I was not sure if that is the only possible combination or not. After a little bit of google search, I came across the above.

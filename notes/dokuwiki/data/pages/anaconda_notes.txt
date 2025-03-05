@@ -1,3 +1,9 @@
+==== package update requests ====
+  * Direct them to https://github.com/ContinuumIO/anaconda-issues/issues . \\ Sample issue I submitted previously - https://github.com/ContinuumIO/anaconda-issues/issues/6629
+
+==== repository ====
+  * https://anaconda.org/anaconda/repo
+
 ==== links I came across ====
   * release history - https://docs.anaconda.com/free/anaconda/reference/release-notes/
 

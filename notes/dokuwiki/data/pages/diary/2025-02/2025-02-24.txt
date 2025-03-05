@@ -1,0 +1,13 @@
+==== 2025-02-24 ====
+reading journal
+  * https://site.financialmodelingprep.com/market-news/nvidia-to-match-apples-spending-on-tsmc-as-ai-drives-growth
+    * ASIC chips
+  * https://site.financialmodelingprep.com/market-news/apple-shifts-manufacturing-to-the-us-amid-tariff-pressures-says-trump
+    * Apple has halted construction of two plants in Mexico and plans to relocate these facilities to the U.S.
+    * reshoring = opposite of offshoring?
+  * https://site.financialmodelingprep.com/market-news/trump-administration-orders-federal-employees-to-detail-weekly-accomplishments
+    * the federal workforce is 2.3 million
+  * https://site.financialmodelingprep.com/market-news/berkshire-hathaway-posts-record-profits-and-cash-surge-buffett-warns-of-fiscal-folly
+    * Berkshire: {2024 operating income: \$47.44 bn, cash: \$334.2 bn}
+  * https://site.financialmodelingprep.com/market-news/berkshire-hathaway-reports-record-operating-earnings-in--key-takeaways-for-investors
+    * Berkshire paid \$26.8 bn in corporate income taxes
