@@ -303,6 +303,9 @@
   * [[page stats]]
   * [[phone notes]]
   * [[indian food]]
+  * [[trading economics]]
+  * [[json notes]]
+  * [[social security]]
 
 ==== by date ====
   * [[reading journal 2024]]

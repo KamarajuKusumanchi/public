@@ -1,0 +1,17 @@
+==== 2025-03-08 ====
+:?: What is the outstanding mortgage debt?
+
+:!: https://fred.stlouisfed.org/release/tables?rid=52&eid=1192326&od=# publishes this.
+
+For example, 
+  * https://fred.stlouisfed.org/release/tables?rid=52&eid=1192326&od=2024-07-01# - shows it for Q3 2024
+  * https://fred.stlouisfed.org/release/tables?rid=52&eid=1192326&od=2008-04-01# - shows it for Q2 2008
+
+<WRAP group><WRAP column>
+^ Asof ^ total mortgage debt ^ one-to four-family residences ^ multifamily residences ^ commercial ^ farm ^
+| Q2 2008 |  14.8 |  11.3 |  0.8 |  2.5 |  0.1 |
+| Q3 2024 |  20.7 |  14.2 |  2.3 |  3.8 |  0.4 |
+| | | | | | |
+| diff |  5.9 |  2.9 |  1.5 |  1.3 |  0.3 |
+</WRAP></WRAP>
+values in trillions of dollars

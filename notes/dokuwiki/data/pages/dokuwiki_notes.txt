@@ -161,6 +161,9 @@ bar
   * struct plugin
     * https://www.dokuwiki.org/plugin:struct:filters#value_placeholders
 
+  * https://www.dokuwiki.org/wiki:syntax#text_to_image_conversions
+    * You can do stuff like FIXME: DELETEME:
+
 ==== pull requests I came across ====
   * https://github.com/dokuwiki/dokuwiki/pull/3566/files - Enable to keep current page after logout instead of redirect to login
     * was not merged asof 2025-02-17

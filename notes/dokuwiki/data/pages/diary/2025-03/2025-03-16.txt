@@ -1,0 +1,35 @@
+==== 2025-03-16 ====
+reading journal:
+
+  * https://site.financialmodelingprep.com/market-news/fmp-costco-beats-revenue-expectations-but-falls-short-on-profit-in-q2
+    * Comparable sales, which account for fluctuations in gas prices and foreign currency
+
+  * https://site.financialmodelingprep.com/market-news/foxconn-unveils-foxbrain-taiwans-first-large-language-model-for-manufacturing
+    * Taiwan's Foxconn launched its first large language model, dubbed FoxBrain.
+    * Nvidia's H100 GPUs
+    * integrate AI into Fonconn's manufacturing processes, supply chain management, and intelligent decision-making
+    * Taipei-1
+      * is the largest supercomputer in Taiwan
+      * Located in Kaohsiung
+    * Nvidia's GTC developer conference
+
+  * https://www.honhai.com/en-us/press-center/press-releases/latest-news/1549 - Hon Hai Research Institute Launches Traditional Chinese LLM With Reasoning Capabilities
+    * Foxconn launched a traditional chinese LLM with reasoning capabilities. The model is called FoxBrain.
+
+  * https://site.financialmodelingprep.com/market-news/mantle-ridge-takes-b-stake-in-cognizant-sees-undervalued-shares
+    * Mantle Ridge, an activist hedge fund
+    * Mantle Ridge has acquired a stake exceeding $1 billion in Cognizant Technology Solutions (NASDAQ: CTSH)
+      * began accumulating shares in late 2022, when CTSH stock traded in the high $50s to low $60s range.
+    * Cognizant's CEO Ravi Kumar
+
+  * https://site.financialmodelingprep.com/market-news/hedge-funds-unwind-positions-at-record-levels-amid-market-turbulence
+    * overall hedge fund leverage in equity positions is now at a record 2.9 times their books
+    * James Koutoulas, CEO at hedge fund Typhon Capital Management
+    * steep moves seen in March 2020 and January 2021
+  * https://site.financialmodelingprep.com/market-news/goldman-sachs-projects--dividend-growth-for-the-sp--in--despite-market-volatility
+    * sp500 EPS grew by 10% YoY in 2024 and now projects EPS growth of 9% for 2025
+
+  * https://site.financialmodelingprep.com/market-news/goldman-sachs-lowers-sp--target-amid-market-pullback
+    * GS now dubs 'Magnificent 7' stocks as Maleficent 7'
+      * sp500 eps forecast = {2025: \$262, 2026: \$280}
+      * sp500 2025 year end target price is \$6,200

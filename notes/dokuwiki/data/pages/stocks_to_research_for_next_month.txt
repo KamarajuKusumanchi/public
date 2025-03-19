@@ -1,5 +1,29 @@
 tags | stocks to watch for next month, companies I came across
 
+==== 2025-03-16 ====
+
+  * <WRAP>
+^ ticker ^ price ^ hypothesis ^ auxilliary data ^ decision ^
+| TSM  |  174.09 | YoY revenue jumped 43.1% in Feb 2025. | P/E = 24.74, Forward P/E = 16.04, Profit margin = 40.52%, Div yield ttm = 1.33% | |
+</WRAP>
+
+Ref:-
+  * https://finviz.com/quote.ashx?t=TSM&ty=c&ta=1&p=d
+  * https://site.financialmodelingprep.com/market-news/tsmc-revenue-jumps--in-february-amid-robust-ai-demand-but-seasonal-adjustments-loom
+
+==== 2025-03-14 ====
+^ ticker ^ price ^ hypothesis ^ auxilliary data ^ decision ^
+| UBER  |  71.55 | <WRAP>
+pros:
+  * Solid business and execution.
+  * They made some strategic investments in places where they could not directly compete.
+  * CEO Dara Khosrowshahi is a rock star. Turned around a fledgling business into a profitable one.
+cons:
+  * For a market cap of ~\$150 bn, the operating profit is just ~\$3 bn.
+</WRAP> | <WRAP>
+  * analyst target price = \$90.18, P/E = 15.61, Forward P/E = 21.02 \\ per https://finviz.com/quote.ashx?t=UBER&p=d
+</WRAP> | No. Price is too high. |
+
 ==== 2025-02-24 ====
   * <WRAP>
 ^ ticker ^ price ^ hypothesis ^ auxilliary data ^ decision ^

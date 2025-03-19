@@ -1,3 +1,6 @@
+==== restart iphone ====
+  * https://support.apple.com/guide/iphone/force-restart-iphone-iph8903c3ee6/ios - Force restart iPhone
+
 ==== notes ====
   * Apple announced the first iPhone in 2007.\\ Ref:- https://en.wikipedia.org/wiki/IPhone
 

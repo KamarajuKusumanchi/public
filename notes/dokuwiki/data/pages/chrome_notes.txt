@@ -221,20 +221,38 @@ cd bypass_paywalls_clean
 </code>
 
 Download the zip file from https://gitflic.ru/project/magnolia1234/bpc_uploads/blob/raw?file=bypass-paywalls-chrome-clean-master.zip and put it in $software/zipped/bypass_paywalls_clean. This file is called bypass-paywalls-chrome-clean-master.zip
+<code>
+curl https://gitflic.ru/project/magnolia1234/bpc_uploads/blob/raw?file=bypass-paywalls-chrome-clean-master.zip -o bypass-paywalls-chrome-clean-master.zip
+</code>
 
 unzip it
 <code>
-cd ../../unZipped/
+cd ../../unzipped/
 unzip ../zipped/bypass_paywalls_clean/bypass-paywalls-chrome-clean-master.zip
 </code>
 
-This will unzip everything into $software/unZipped/bypass-paywalls-chrome-clean-master. Load the extension
+This will unzip everything into $software/unzipped/bypass-paywalls-chrome-clean-master.
+<code>
+$ pwd
+/c/Users/raju/software/unzipped
+
+$ ls bypass-paywalls-chrome-clean-master/
+allowlist/       changelog.txt              custom/      manifest.json  sites.js
+background.js    contentScript.js           lib/         options/       sites_updated.json
+bypass.png       contentScript_once.js      LICENSE      README.html    updates.xml
+bypass-dark.png  contentScript_once_var.js  LICENSE.txt  README.md
+</code>
+
+Load the extension
 <code>
 chrome -> chrome://extensions/
 Enable Developer mode
 -> Load unpacked
-select $software/unZipped/bypass-paywalls-chrome-clean-master
+select $software/unzipped/bypass-paywalls-chrome-clean-master
 </code>
+
+Notes:
+  * On 2025-03-15, barrons.com did not work with 3.5.9.7. But it worked with 4.0.7.2.
 
 ==== Input Cursor Focus ====
 Needed it for millionshort.com which does not focus the cursor in the search bar.
@@ -273,6 +291,11 @@ HTTP Error 400. A request header field is too long.
 I cleared the cache for the last 7 days. It started working after that.
 
 ===== How to =====
+==== duplicate current tab ====
+There are two ways to duplicate a tab: either middle-click on the refresh button, or right-click on a tab and choose "Duplicate" from the menu.
+
+Ref:- https://superuser.com/questions/284115/is-there-a-shortcut-key-to-duplicate-a-tab-in-google-chrome
+
 ==== set all websites to dark mode ====
 
 <nowiki>chrome://flags/</nowiki> -> enable “Auto Dark Mode for Web Contents”

@@ -1,0 +1,8 @@
+==== 2025-03-13 ====
+reading journal
+  * https://www.barrons.com/articles/irs-avoid-an-audit-47d169a1?mod=hp_WIND_B_1_2
+    * Every year, the IRS publishes a list of “dirty dozen” tax schemes to avoid. In past years, they have included offshore accounts, including individual retirement accounts in Malta or elsewhere, that are promoted as out of Uncle Sam’s reach. In reality, “the IRS can identify and track anonymous transactions of foreign financial accounts as a way to avoid taxes in the U.S.,” the agency says.
+    * For 2024, payment apps were required to send out a 1099-K form to users with payment transactions for goods and services sold exceeding $5,000, although some states have lower thresholds.
+    * Big charitable donations relative to income can also raise questions.
+    * a “chronically unprofitable” business invites scrutiny
+

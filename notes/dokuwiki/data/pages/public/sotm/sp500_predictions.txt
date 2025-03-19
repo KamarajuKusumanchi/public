@@ -1,3 +1,8 @@
 ==== sp500 predictions ====
+tags | sp500 price target
+
 ^ asof ^ who ^ target price ^ by ^ ref ^
 | 2025-02-25 | UBS | 6,600 | 2025-12-31 | https://site.financialmodelingprep.com/market-news/ubs-predicts-sp--to-hit--by-yearend-despite-recent-market-volatility |
+| 2025-03-04 | GS | 6,500 | 2025-12-31 | https://site.financialmodelingprep.com/market-news/goldman-sachs-warns-sp--rally-may-struggle-amid-market-rotation |
+| 2025-03-11 | Michael Wilson of MS | 6,500 | 2025-12-31 | https://site.financialmodelingprep.com/market-news/sp--support-at--amid-policy-uncertainty-and-fiscal-headwinds |
+| 2025-03-12 | GS | 6,200 | 2025-12-31 | https://site.financialmodelingprep.com/market-news/goldman-sachs-lowers-sp--target-amid-market-pullback |

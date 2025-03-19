@@ -1,3 +1,52 @@
+==== dummy =====
+<code>
+In [3]:
+import pandas as pd
+df = pd.DataFrame({
+"account_id": ['1001', '1001', '1001', '1002', '1002', '1002', '1002', '1002',
+               '1002', '1002', '1002', '1002', '1002', '1003', '1003', '1003',
+               '1003', '1003', '1003',],
+"data_type": ['payment', 'payment', 'payment', 'payment', 'payment', 'plan',
+              'payment', 'plan', 'plan', 'payment', 'payment', 'payment',
+              'payment', 'payment', 'plan', 'payment', 'payment', 'payment',
+              'payment',],
+"transaction_date": ['2022-04-01', '2022-04-12', '2022-05-02', '2022-02-02',
+                     '2022-03-01', '2022-03-15', '2022-04-01', '2022-04-01',
+                     '2022-04-13', '2022-04-26', '2022-05-01', '2022-05-04',
+                     '2022-05-10', '2022-03-10', '2022-03-25', '2022-04-05',
+                     '2022-04-16', '2022-04-24', '2022-05-05',],
+"amount": ['-50', '-40', '-60', '-30', '-25', '250', '-50', '200', '200',
+           '-25', '-25', '-25', '-25', '-20', '100', '-25', '-25', '-25',
+           '-25',],
+})
+
+In [4]:
+print(df)
+   account_id data_type transaction_date amount
+0        1001   payment       2022-04-01    -50
+1        1001   payment       2022-04-12    -40
+2        1001   payment       2022-05-02    -60
+3        1002   payment       2022-02-02    -30
+4        1002   payment       2022-03-01    -25
+5        1002      plan       2022-03-15    250
+6        1002   payment       2022-04-01    -50
+7        1002      plan       2022-04-01    200
+8        1002      plan       2022-04-13    200
+9        1002   payment       2022-04-26    -25
+10       1002   payment       2022-05-01    -25
+11       1002   payment       2022-05-04    -25
+12       1002   payment       2022-05-10    -25
+13       1003   payment       2022-03-10    -20
+14       1003      plan       2022-03-25    100
+15       1003   payment       2022-04-05    -25
+16       1003   payment       2022-04-16    -25
+17       1003   payment       2022-04-24    -25
+18       1003   payment       2022-05-05    -25
+</code>
+using | {python: 3.11.9, ipython: 8.27.0, pandas: 2.2.2}
+
+Ref:- https://stackoverflow.com/questions/72230445/adding-new-column-based-on-combined-criteria-in-pandas-groupby - where I found it
+
 ==== groups, random integers, and random floats ====
 <code>
 In [6]: 

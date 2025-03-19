@@ -1,0 +1,3 @@
+==== links I came across ====
+  * https://tradingeconomics.com/commodity/containerized-freight-index - Containerized Freight Index
+  * https://tradingeconomics.com/api/pricing.aspx - API pricing details

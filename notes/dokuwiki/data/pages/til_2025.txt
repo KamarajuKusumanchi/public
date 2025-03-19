@@ -1,3 +1,7 @@
+==== 2025-03-18 ====
+  * https://en.wikipedia.org/wiki/Material_nonimplication - Material nonimplication
+    * I did not know that A-B has such a fancy name in the context of Boolean Algebra.
+
 ==== 2025-03-02 ====
   * TIL that our body fat is actually an active organ and not some passive tissue.
 

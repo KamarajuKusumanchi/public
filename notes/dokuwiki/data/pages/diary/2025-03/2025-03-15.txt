@@ -1,0 +1,11 @@
+==== 2025-03-15 ====
+  * reading journal
+    * https://en.wikipedia.org/wiki/Exact_cover - Exact cover
+      * Given a collection S of subsets of a set X, an exact cover is a subselection S* of S such that each element in X is contained in exactly one subset in S*.
+      * The definition might be a bit confusing at first. But the idea becomes clear once you go through the examples - https://en.wikipedia.org/wiki/Exact_cover#Basic_examples, https://en.wikipedia.org/wiki/Exact_cover#Detailed_example .
+
+    * https://en.wikipedia.org/wiki/Pentomino - Pentomino
+      * idea is similar to domino. In domino, we join two squares edge to edge. But in a pentomino 5 squares are joined edge to edge.
+  * chrome tab dump
+    * https://en.wikipedia.org/wiki/Knuth%27s_Algorithm_X - Knuth's Algorithm X
+

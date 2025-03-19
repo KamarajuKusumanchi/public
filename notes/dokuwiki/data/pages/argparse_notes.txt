@@ -94,3 +94,4 @@ Namespace(verbose=True, foo=9)
 
 See also:
   * https://stackoverflow.com/questions/2597278/python-load-variables-in-a-dict-into-namespace
+  * https://docs.python.org/3/library/argparse.html

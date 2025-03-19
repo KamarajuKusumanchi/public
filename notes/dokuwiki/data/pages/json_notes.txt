@@ -1,0 +1,22 @@
+==== convert json to csv online ====
+
+https://konklone.io/json/
+
+==== dummy ====
+
+  * json examples - https://adobe.github.io/Spry/samples/data_region/JSONDataSetSample.html
+  * json does not allow multiline strings. You can
+    - use "\\n" instead.\\ See:- http:%%//%%stackoverflow.com/questions/2392766/multiline-strings-in-json
+    - put each line into different elements of an array.
+See:- https://gitlab.com/d3k2mk7/public/blob/master/health/tds.json
+
+FIXME:- The above statement should align with the bullet point.
+
+  * json does not allow comments. But you can have a designated data element called "_comment" (or something) and put your comments there. <code>
+{
+  "_comment": "comment text goes here...",
+  "foo": bar
+}
+</code>
+
+  * conversion of python data structure into json string - http://stackoverflow.com/questions/11977818/python-not-parsing-json-correctly-all-the-time/11994524#11994524
