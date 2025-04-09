@@ -19,6 +19,7 @@
 ==== news websites ====
   * https://www.statnews.com/
   * https://www.eenews.net/
+  * https://www.bnnbloomberg.ca/
 
 ==== food websites ====
   * https://www.eatingwell.com/ - avoid. See for example
@@ -61,3 +62,13 @@ Very high ad to content ratio. Use uBlock Origin to block the ads.
 Video spam. Avoid.
   * <nowiki>cbslocal.com</nowiki>
   * <nowiki>abc7ny.com</nowiki>
+
+==== explainers ====
+  * https://indianexpress.com/section/explained/explained-economics/
+    * (well written; easy to follow along; high information content; good quality) articles such as
+      * https://indianexpress.com/article/explained/explained-economics/how-did-the-us-calculate-reciprocal-tariffs-not-how-trump-said-it-would-9923586/ - How did the US calculate reciprocal tariffs? Not how Trump said it would
+        * by Udit Misra
+      * https://indianexpress.com/article/explained/how-smoot-hawley-tariff-act-deepened-the-great-depression-9923583/ - How Smoot-Hawley Tariff Act deepened the Great Depression
+        * by Anagha Jayakumar
+      * https://indianexpress.com/article/explained/explained-economics/explainspeaking-trump-reciprocal-tariffs-impact-india-9921436/ - ExplainSpeaking: Trump’s reciprocal tariffs — impact on India, rest of the world
+        *  by Udit Misra 

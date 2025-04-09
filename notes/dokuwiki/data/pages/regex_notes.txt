@@ -7,3 +7,5 @@ debian.txt:PDF Arranger was formerly known as PDF-Shuffler.
 ==== external links ====
   * https://amitness.com/regex/ - nice intro level tutorial on regex. It talks about regex first and then touches the functions in python's re module. Easy to read and follow along.
   * regex cheatsheet - http://www.rexegg.com/regex-quickstart.html
+  * https://regexone.com/ - interactive site to learn regex
+    * see for example: https://regexone.com/lesson/capturing_groups, https://regexone.com/lesson/nested_groups

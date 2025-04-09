@@ -1,3 +1,92 @@
+===== useful shortcuts =====
+
+==== go to the location of current file in the project tool window ====
+
+Alt+F1 -> 1
+
+Ref:- https://intellij-support.jetbrains.com/hc/en-us/community/posts/206737795-Show-current-file-in-Project-view-
+
+==== view just the functions ====
+
+Ctrl+F12
+
+Ref:- https://www.jetbrains.com/help/pycharm/viewing-structure-of-a-source-file.html
+
+tags | show code outline
+
+==== To go back after control clicking ====
+
+  * Ctrl+Alt+Left arrow, Ctrl+Alt+Right arrow - to go back and forward
+  * Ctrl+Tab - Switch to the last (most recent) tab -- similar to how Alt+Tab works
+
+Ref:- https://stackoverflow.com/questions/25103626/in-pycharm-how-to-go-back-to-last-location
+
+tags | coming back after navigating to a function
+
+==== Jump to next/previous function ====
+
+  * Alt+Down, Alt+Up
+  * https://www.jetbrains.com/help/pycharm/navigating-between-methods-and-tags.html
+
+==== Navigating between editor tabs ====
+
+  * Open a file already opened in another tab - Ctrl+Tab
+  * Go to the right or to the left tab - Alt+Right or Alt+Left
+  * Go back and forth through the history of visited tabs - Ctrl+Alt+Left, Ctrl+Alt+Right
+
+==== view function definition ====
+
+  * Ctrl+Shift+I
+  * Ctrl+left click
+  * https://www.jetbrains.com/help/pycharm/viewing-definition.html
+
+==== folding ====
+
+  * Ctrl+NumPad Plus - Expand the current fold
+  * Ctrl+NumPad - - Close the current fold
+  * Ctrl+Shift+Plus - open closed folds
+
+Ref: https://www.jetbrains.com/help/pycharm/code-folding.html
+
+tags | expand import stanza by keyboard
+
+==== editing ====
+
+  * duplicate current line - Ctrl+d . Documented in https://www.jetbrains.com/help/pycharm/adding-deleting-and-moving-code-elements.html#d1293e39
+
+==== switch between open projects ====
+
+  * Window | Next Project Window Ctrl+Alt+]
+  * Window | Previous Project Window Ctrl+Alt+[
+  * Window | <html><ProjectNameOrLocation></html>
+
+==== project tool window ====
+
+  * alt+1
+  * https://www.jetbrains.com/help/pycharm/project-tool-window.html
+
+==== formatting ====
+
+  * format the whole file - ctrl+alt+L
+  * format a selection - ctrl+alt+l
+
+Ref:- https://www.jetbrains.com/help/pycharm/reformat-and-rearrange-code.html
+
+tags | realign selected code
+
+==== change indentation ====
+
+  * https://www.jetbrains.com/help/pycharm/changing-indentation.html - indent or deindent a block
+  * indent/deindent selected code - tab/shift+tab
+
+==== multiple selections ====
+
+To select multiple blocks of text
+
+<code>
+select first block normally
+press ALT key for all the subsequent blocks.
+</code>
 ===== dummy =====
 ==== configure pycharm with pytest ====
 <code>

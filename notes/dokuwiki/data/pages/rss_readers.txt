@@ -10,3 +10,6 @@
 
 ==== what does not work ====
   * feedspot - no ability to export feeds.
+
+==== links I came across ====
+  * https://openrss.org/rss-feed-readers - feature comparison of RSS feed readers

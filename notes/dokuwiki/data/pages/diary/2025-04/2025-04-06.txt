@@ -1,0 +1,46 @@
+==== 2025-04-06 ====
+reading journal
+  * https://indianexpress.com/article/explained/explained-economics/how-did-the-us-calculate-reciprocal-tariffs-not-how-trump-said-it-would-9923586/
+    * India has a trade deficit of around $46 billion with the US.
+
+  * https://indianexpress.com/article/explained/among-tariffed-islands-where-only-penguins-us-military-live-9923584/ - Among those Trump tariffed: Heard and McDonald Islands, where only penguins and US military live
+    * Heard and McDonald Islands
+      * volcanic
+      * one of seven external territories belonging to Australia
+      * home to only penguins, seals, and seabirds
+    * home to only penguins, seals, and seabirds
+    * Norfolk Island
+      * around 2,000 permanent inhabitants
+    * the British Indian Ocean Territory (BIOT), which comprises the Chagos archipelago, a group of low-lying islands in the Indian Ocean, between the Maldives and Mauritius.
+    * The largest Chagossian island, Diego Garcia, is home to a strategic joint US-UK military base.
+
+  * https://indianexpress.com/article/explained/how-smoot-hawley-tariff-act-deepened-the-great-depression-9923583/ - How Smoot-Hawley Tariff Act deepened the Great Depression
+    * Smoot-Hawley Tariff Act
+      * passed in 1930
+      * bill sponsored by Senator Reed Smoot of Utah and Rep. Willis Hawley of Oregon
+      * President Herbert Hoover signed this into law
+      * raise import duties on 20,000 goods
+      * aggressive tariffs on roughly 25% of all imported goods to the US
+    * the Reciprocal Trade Agreements Act
+      * signed by President Franklin D Roosevelt in 1934
+      * transferred the authority for tariff policy from Congress to the White House
+    * the Cato Institute, a think tank promoting free markets
+    * US imports amounting to 14% of its GDP
+
+  * https://indianexpress.com/article/explained/explained-economics/explainspeaking-trump-reciprocal-tariffs-impact-india-9921436/ - ExplainSpeaking: Trump’s reciprocal tariffs — impact on India, rest of the world
+    * US trade deficit = \$1.2 trillion
+    * base tariff raised from 2.5% to 10% effective 2025-04-05
+    * country specific tariffs will be effective 2025-04-09
+    * If the value of the dollar relative to other currencies goes up by the degree to which the tariffs have been imposed, then US citizens can escape inflation. For example, if INR falls from 85 to 118 then the US consumer will not feel the pinch of tariffs.
+    * The US accounts for just 13% of the global trade while Europe accounts for almost 38%.
+
+  * https://cacm.acm.org/blogcacm/the-last-solo-programmers/ - The Last Solo Programmers
+    * barcodes and RFIDs
+    * IDEs in 1990s
+    * Stack Overflow - recipes
+    * Vibe Coding
+      * coined by Andrej Karpathy
+    * two types of programmers: Craftsmen and Vibe Coders
+    * The Coding with AI series by S. Sanfilippo
+    * skill sets often disappear faster than their relevance in deployed systems
+      * Example: Cobol code still in production

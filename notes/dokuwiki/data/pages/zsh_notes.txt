@@ -1,5 +1,17 @@
 ===== Sample scripts =====
 
+==== pass through ====
+Here is an example of a pass through shell script that calls a python program located in the same directory.
+
+<code>
+% cat myapp
+#! /bin/zsh -f
+DIR="$(dirname "$(which "$0")")"
+$DIR/myapp.py "$@"
+</code>
+
+I use this approach a lot. The idea is that all the heavy lifting is done by a script written in an appropriate language and the shell script just calls that. This way if we decide to use a different language to implement the feature or call a different script altogether, the end user will not notice a change.
+
 ==== backup a directory ====
 The idea here is to cd into a given directory and then backup a directory in it. The path names are hard coded to make things simple.
 <code>

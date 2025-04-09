@@ -1,0 +1,17 @@
+==== 2025-03-27 ====
+notes from https://www.barrons.com/articles/buy-ck-hutchison-stock-price-pick-1d09b75b
+  * CK Hutchison will get \$19 bln for the Panama Canal ports.
+  * The price is equal to about 85% of the company’s market value for a business that generated less than 15% of its profits.
+  * CK Hutchison market value on 2025-03-27 is \$22.31 bln.
+  * CK Hutchison owns extensive international infrastructure assets in everything from electric power and natural gas to renewable energy and water. It also controls a large group of retailers that sell health and beauty-care products throughout Asia, notably AS Watson.
+  * CK Hutchison founder is Li Ka-shing. He is 96 years old. He draws comparisons to Warren Buffett.
+  * Conglomerates often trade at a discount to their NAVs to reflect complexity
+
+
+reading journal:
+  * https://site.financialmodelingprep.com/market-news/india-ends--billion-manufacturing-incentive-scheme-what-it-means-for-investors
+    * India will not extend the \$23 billion Production-Linked Incentive (PLI) scheme, which aimed to boost domestic manufacturing.
+    * Manufacturing's share of GDP declined from 15.4% to 14.3% despite the scheme.
+
+  * https://site.financialmodelingprep.com/market-news/malaysia-tightens-semiconductor-regulations-amid-us-pressure
+    * Malaysia has attracted over \$25 billion in data center investments from NVDA, MSFT, ByteDance.

@@ -38,3 +38,6 @@ tags | vimdiff, sort
   * ctrl-g - shows file path relative to vim's current working directory
 
 Ref:- http://vi.stackexchange.com/questions/104/how-can-i-see-the-full-path-of-the-current-file
+
+==== input control characters ====
+Use ^Vnnn where nnn is the character value and 0 <= nnn <= 255. For example, ctrl-v65 will give A. For more details see http://vim.wikia.com/wiki/Entering_special_characters

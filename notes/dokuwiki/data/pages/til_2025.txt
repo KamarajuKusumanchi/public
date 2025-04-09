@@ -1,3 +1,31 @@
+
+==== 2025-04-02 ====
+  * A Kakistocracy is a government run by the worst, least qualified, or most unscrupulous citizens.
+
+Ref: https://en.wikipedia.org/wiki/Kakistocracy
+
+==== 2025-03-26 ====
+  * The "Made in Germany" label was introduced in Britain to protect their products from cheap knock offs from Germany.
+
+Ref:
+  * https://en.wikipedia.org/wiki/Made_in_Germany
+  * https://news.ycombinator.com/item?id=28574998
+
+==== 2025-03-20 ====
+  * The windshield wiper was invented by Mary Anderson in 1903.
+Ref:- [[https://en.wikipedia.org/wiki/Mary_Anderson_(inventor)]]
+
+  * Viticulture is the cultivation and harvesting of grapes. It is also known as viniculture, or winegrowing. A viticulturist is one who specializes in the cultivation of grapes, especially for winemaking.
+
+Ref:-
+  * https://en.wikipedia.org/wiki/Viticulture
+  * https://www.seedyourfuture.org/viticulturist
+  * [[https://en.wikipedia.org/wiki/Mary_Anderson_(inventor)]]
+    * Mary Anderson, the inventor of windshield wiper was a viticulturist.
+
+  * ordinary yellow pineapples were once so precious they were rented for display at dinner parties.
+
+Ref:- https://www.worksinprogress.news/p/king-of-fruits
 ==== 2025-03-18 ====
   * https://en.wikipedia.org/wiki/Material_nonimplication - Material nonimplication
     * I did not know that A-B has such a fancy name in the context of Boolean Algebra.

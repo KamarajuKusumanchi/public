@@ -5,3 +5,6 @@
 
 ==== links I came across ====
   * https://finviz.com/map.ashx
+
+==== limitations ====
+  * finviz website does not show ADRs. For example, it does not give any information on CKHUY.

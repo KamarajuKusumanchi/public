@@ -39,6 +39,11 @@
     * CIA Director during Trump's second term
     * Director of National Intelligence during Trump's first term
 
+  * Gary Millerchip
+    * CFO of Costco
+
+  * Mexican president Claudia Sheinbaum
+
 ==== Aaron Brown ====
 Aaron Brown  was Chief Risk Manager at AQR Capital Management. He was one of the original developers of value at risk and one of its strongest proponents.
 
@@ -61,6 +66,12 @@ Ref:- https://www.bloomberg.com/opinion/articles/2022-01-31/quant-strategies-hav
   * Paul Tagliabue
     * the former commissioner of the NFL
 
+  * Stan Druckenmiller
+    * Treasury Secretary Scott Bessent’s boss at Soros Fund Management
+
+  * Dan Loeb
+    * runs hedge fund firm Third Point
+
 ==== Salim Ramji ====
   * CEO of Vanguard from 2024-07-08 [(https://corporate.vanguard.com/content/corporatesite/us/en/corp/who-we-are/pressroom/press-release-vanguard-announces-appointment-salim-ramji-new-ceo-05142024.html)]
   * was global head of iShares and index investments at BlackRock [(https://www.bloomberg.com/opinion/articles/2021-07-12/goldman-doesn-t-want-mercenaries?srnd=undefined)]
@@ -77,3 +88,12 @@ Ref:- https://www.bloomberg.com/opinion/articles/2022-01-31/quant-strategies-hav
   * Secretary of State - Marco Rubio
   * Border Czar - Tom Homan
   * White House Press Secretary - Karoline Leavitt
+  * head of the Council of Economic Advisors - Stephen Miran
+  * National Economic Council director - Kevin Hassett
+  * Trade czar - Peter Navarro
+
+==== Howard Lutnick ====
+  * Currently: Trump’s commerce secretary
+  * formerly
+    * Wall Street executive
+    * head of brokerage Cantor Fitzgerald

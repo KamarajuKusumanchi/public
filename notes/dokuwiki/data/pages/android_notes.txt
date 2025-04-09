@@ -3,6 +3,14 @@
 
 Launch google photos -> profile picture -> photos settings -> Backup -> Back up photos & videos from this device to your Google Account -> slide to left.
 
+==== set time limits ====
+tags | limit time spent on whatsapp to 30 mins a day, app level timeouts
+
+You can set time limits per app in Android. For example, to limit Whatsapp usage to 30 minutes a day, you can do
+
+Settings -> Digital Wellbeing & parental controls -> App limits -> WhatsApp -> App timer -> 30 mins
+
+If you exceed the limit, you will not be able to make/receive calls on WhatsApp. It works nicely for instagram though.
 
 ===== dummy =====
 ==== what is my phone number ====

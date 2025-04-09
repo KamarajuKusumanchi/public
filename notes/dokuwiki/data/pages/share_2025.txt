@@ -1,6 +1,29 @@
 ===== 2025 =====
 
 
+==== 2025-04-08 ====
+  * https://xkcd.com/3073/ - Tariffs
+
+==== 2025-04-06 ====
+  * https://www.murthy.com/2025/04/04/f-1-student-visa-revocations-sevis-terminations/ - F-1 Student Visa Revocations / SEVIS Terminations <code>
+Some reasons we have seen for such revocations include:
+...
+  * political activity that the current administration views as a cause for concern
+  * social media or public behavior seen as potentially damaging to U.S. foreign policy
+</code>
+
+==== 2025-03-26 ====
+  * https://snarky.ca/why-i-wont-be-attending-pycon-us-this-year/ - Why I won't be attending PyCon US this year
+
+==== 2025-03-23 ====
+  * https://www.wsj.com/politics/policy/irs-nears-deal-to-share-data-for-immigration-enforcement-df60eaad?mod=hp_lead_pos2 - IRS Nears Deal to Share Data for Immigration Enforcement
+
+==== 2025-03-22 ====
+  * https://danielstone.substack.com/p/money-stuff-is-linear-ish - Money Stuff is Linear-ish
+
+==== 2025-03-21 ====
+  * https://gregmankiw.blogspot.com/2025/03/do-tariffs-cause-inflation.html - Do tariffs cause inflation?
+
 ==== 2025-03-18 ====
   * https://www.ssa.gov/news/press/releases/2025/#2025-03-03 - Social Security identified over $800 million in cost savings or cost avoidance for fiscal year (FY) 2025
 

@@ -1,3 +1,9 @@
+===== favorite configuration =====
+==== disable chat notifications ====
+using this asof | 2025-04-08
+
+Settings -> Notifications -> App notifications -> WhatsApp -> All "Chats" notifications -> off
+
 ==== format text ====
 ^ ^ ^
 | Monospace | <code>

@@ -1,3 +1,14 @@
+==== time in New York ====
+tags | daylight
+
+^ DST start ^ DST end ^
+| 2025-03-09 (forward 1 hour) | 2025-11-02 (back 1 hour) |
+
+^ time zone ^ date range ^ offset ^
+| EDT | 2025-03-09 - 2025-11-02 | GMT - 4 hours|
+
+Ref:- https://www.timeanddate.com/worldclock/usa/new-york
+
 ==== How to abbreviate Pacific Standard Time? ====
 PST
 

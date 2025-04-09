@@ -1,5 +1,15 @@
 tags | stocks to watch for next month, companies I came across
 
+==== 2025-03-21 ====
+  * CKHUY - CK Hutchison Holdings Ltd. ADR
+    * https://www.barrons.com/market-data/stocks/ckhuy
+    * https://www.barrons.com/market-data/stocks/1?countrycode=hk
+    * came across it in https://www.barrons.com/articles/buy-ck-hutchison-stock-price-pick-1d09b75b - This Company Is Stuck Between Donald Trump and Xi Jinping. Its Stock Could Rise Anyway.
+    * <WRAP>
+^ date ^ ticker ^ price ^ auxialliary data ^ decision ^
+| 2025-03-26 | CKHUY | 5.82 | P/E ttm = 10.17, EPS ttm = 0.57, div yield = 4.34%, market value = \$22.19 bln | |
+</WRAP>
+
 ==== 2025-03-16 ====
 
   * <WRAP>

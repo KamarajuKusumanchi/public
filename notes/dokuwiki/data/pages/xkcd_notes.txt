@@ -1,4 +1,6 @@
 ==== funny xkcd cartoons I came across ====
+  * https://m.xkcd.com/386/ - Duty Calls
+    * Someone is wrong on the internet
   * https://xkcd.com/1570/ - math and trading
   * https://xkcd.com/605/ - extrapolating
   * https://xkcd.com/1172/ - spacebar heating
@@ -6,7 +8,6 @@
   * https://xkcd.com/2757/ - Do you know how to land a plane that's towing a banner? Call 555-0127 now!
   * https://xkcd.com/1827/ - survivorship bias
   * https://m.xkcd.com/1618/ - Cold Medicine
-  * https://m.xkcd.com/386/ - Duty Calls
   * https://xkcd.com/803/ - airfoil
   * https://xkcd.com/1053/ - not everyone knows what you know
 

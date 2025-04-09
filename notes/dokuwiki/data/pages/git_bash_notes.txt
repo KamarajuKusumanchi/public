@@ -75,6 +75,44 @@ Ref:- https://stackoverflow.com/questions/14643308/how-can-i-force-user-and-pass
 
 tags | update github token in git bash, git config personal token
 
+==== stdout is not a tty ====
+While using {git bash: 2.47.0.windows.2} in {conemu: 230724}, I am getting
+
+<code>
+$ python -c "print('hello')" > /tmp/temp.txt
+stdout is not a tty
+</code>
+
+I am also not able to pipe the output to vim
+
+<code>
+$ python -c "print('hello')" | vim -
+stdout is not a tty
+</code>
+
+The solution is to use python.exe instead of python
+
+<code>
+$ python.exe -c "print('hello')" > /tmp/temp.txt
+
+$ cat /tmp/temp.txt
+hello
+</code>
+
+Piping the output to vim also works.
+<code>
+$ python.exe -c "print('hello')" | vim -
+</code>
+
+Ref:- https://superuser.com/questions/1011597/what-does-an-output-is-not-a-tty-error-mean - found the solution here.
+
+==== ctrl+alt+e ====
+If you type a command in console (for example, "winget") and hit ctrl+alt+e, it will expand the typed command to the actual command the console will execute. In {git bash: 2.47.0.windows.2, conemu: 230724}, this produces "winpty winget.exe".
+
+If you type python and then hit ctrl+alt+e, it produces "winpty python"
+
+Ref:- comment in https://superuser.com/a/1350903/679081
+
 ==== copy the contents of a file to clipboard ====
 <code>
  | clip

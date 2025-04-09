@@ -1,5 +1,8 @@
 ===== dummy =====
 ==== useful links ====
+  * [[https://trstringer.com/python-external-commands/ | Running External Commands in Python (Shell or Otherwise)]] (trstringer.com)
+    * very easy to follow; high information density; non trivial examples; useful code snippets
+
   * [[https://tutswiki.com/python/exception-handling/ | exception handling in python]] (tutswiki.com)
     * very easy to follow; high information density; well thought out examples
   * [[https://www.programiz.com/python-programming/online-compiler/ | Online python compiler]] (programiz.com)
@@ -217,6 +220,32 @@ Ref:- https://docs.python.org/3/reference/expressions.html#comparisons
 
 See also:
   * https://stackoverflow.com/questions/4941753/is-there-a-math-ncr-function-in-python - contains recipes for older versions of python
+
+==== find a python file but exclude files in __pycache__ ====
+<code>
+find . -iname '*foo*' -not -path "*/__pycache__/*"
+</code>
+
+For example
+<code>
+$ cd ~/work/github/market_data_processor/
+
+$ find . -iname '*project_root*'
+./src/eps/project_root.py
+./src/nasdaq/project_root.py
+./src/scripts/project_root.py
+./src/scripts/__pycache__/project_root.cpython-312.pyc
+./tests/src/nasdaq/project_root.py
+./tests/src/nasdaq/__pycache__/project_root.cpython-310.pyc
+./tests/src/nasdaq/__pycache__/project_root.cpython-311.pyc
+./tests/src/nasdaq/__pycache__/project_root.cpython-312.pyc
+
+$ find . -iname '*project_root*' -not -path "*/__pycache__/*"
+./src/eps/project_root.py
+./src/nasdaq/project_root.py
+./src/scripts/project_root.py
+./tests/src/nasdaq/project_root.py
+</code>
 
 ===== tasks =====
   * [[get urls in a url]]

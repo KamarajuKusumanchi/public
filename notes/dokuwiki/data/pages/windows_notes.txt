@@ -11,6 +11,12 @@ Approach 2:
 Start Menu -> Snipping Tool
 </code>
 
+==== edit files mapped via samba ====
+When Samba mapping is used to edit files on a windows machines that were originally stored on Linux machine, I faced the following problems.
+
+  * The executable bit is not set correctly. So, whenever a script is edited and saved on windows, I have to manually "chmod +x" it on Linux machine.
+  * If a softlink is edited and saved on windows, the changes do not propagate to the original file. Instead, it creates a totally new file with the softlink's name.
+
 ==== search button in taskbar not working ====
 Symptom: The search button in the task bar does not respond to the keyboard.
 

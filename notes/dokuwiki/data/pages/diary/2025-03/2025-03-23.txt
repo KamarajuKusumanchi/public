@@ -1,0 +1,12 @@
+==== 2025-03-23 ====
+reading journal
+  * [[https://en.wikipedia.org/wiki/Stratification_(clinical_trials)]] - Stratification (clinical trials)
+  * https://site.financialmodelingprep.com/market-news/foreign-investment-in-us-stocks-will-tariff-uncertainty-spark-an-outflow
+    * Overseas investors held 37% of all U.S. stocks in Q4 2024.
+    * This amounts to a collective value of $34.2 trillion. <code>
+$ python
+>>> round(34.2 / 0.37, 2)
+92.43
+</code>
+  * https://site.financialmodelingprep.com/market-news/tsmcs-historic--billion-bet-on-us-chip-production
+    * TSMC will invest \$165 billion to expand U.S. chip production. This is expected to shift 25-30% of TSMC's total revenue to U.S. operations by the early 2030s from the current single-digit percentages of revenue generated outside Taiwan.

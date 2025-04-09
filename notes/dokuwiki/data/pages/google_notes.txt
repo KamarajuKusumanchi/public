@@ -43,6 +43,7 @@ Ref:
   * yandex.ru
   * duckduckgo.com
   * startpage.com
+    * It doesn't maintain its own index of websites, but instead acts as an intermediary between you and Google and you and Bing.
   * searx - asciimoo.github.io/searx, https://searx.me/,  https://github.com/asciimoo/searx
   * bing.com
   * ecosia.org

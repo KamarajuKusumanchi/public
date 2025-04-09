@@ -1,0 +1,5 @@
+==== 2025-04-03 ====
+reading journal:
+  * https://en.wikipedia.org/wiki/First-order_logic - First-order logic
+    * First-order logic is also called predicate logic, predicate calculus, or quantificational logic
+  * https://en.wikipedia.org/wiki/Logical_connective - Logical connective
