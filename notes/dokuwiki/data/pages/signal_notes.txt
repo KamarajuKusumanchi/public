@@ -1,0 +1,3 @@
+==== links I came across ====
+  * [[https://en.wikipedia.org/wiki/Signal_(software)]]
+  * https://github.com/orgs/signalapp/repositories

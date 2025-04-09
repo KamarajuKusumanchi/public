@@ -1,0 +1,17 @@
+==== dummy ====
+  * The Comptometer was the first commercially successful key-driven mechanical calculator, patented in the United States by Dorr E. Felt in 1887 [(https://en.wikipedia.org/wiki/Comptometer)]. It can be used to add, subtract, multiply, and divide numbers.
+
+~~REFNOTES~~
+
+See also:
+  * https://www.youtube.com/watch?v=_WxJ3JYoOAM - A short history of the Comptometer
+    * first commercial version in 1888
+    * For subtractions, you add 10's complement
+    * Comptometer schools graduated more than 20,000 operators per year in the 1920s, those skills are now lost.
+
+  * https://www.youtube.com/watch?v=4S5uJ7VKsdE
+    * You can see how it works in this video
+
+  * https://cacm.acm.org/blogcacm/the-last-solo-programmers/ - The Last Solo Programmers
+    * Comptometers allow pressing multiple keys simultaneously using different fingers.
+    * Comptometer schools graduated more than 20,000 operators per year in the 1920s, those skills are now lost.

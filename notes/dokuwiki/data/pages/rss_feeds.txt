@@ -1,0 +1,4 @@
+==== dummy ====
+today | 2025-03-19
+  * The website https://www.ssa.gov/news/press/releases/ contains useful information updated on a frequent basis but does not have an rss feed. So I submitted it to https://openrss.org/ by going to https://openrss.org/www.ssa.gov/news/press/releases/ . Afterwards, check if this worked or not.
+

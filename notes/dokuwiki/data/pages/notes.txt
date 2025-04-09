@@ -247,6 +247,7 @@
   * [[retirement plans]]
   * [[medicines]]
   * [[taxes]]
+  * [[rss feeds]]
   * [[rss readers]]
   * [[inoreader notes]]
   * [[data sources]]
@@ -306,6 +307,9 @@
   * [[trading economics]]
   * [[json notes]]
   * [[social security]]
+  * [[signal notes]]
+  * [[comptometer]]
+  * [[recent sales in pdj]]
 
 ==== by date ====
   * [[reading journal 2024]]
