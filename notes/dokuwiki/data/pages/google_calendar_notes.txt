@@ -1,3 +1,16 @@
+==== keyboard shortcuts ====
+You can use keyboard shortcuts in Google calendar. It is a very useful feature. To enable it
+  * Settings -> General -> Keyboard shortcuts -> Enable keyboard shortcuts -> check
+
+Press question mark “?” to see some of them.
+
+Shortcuts that I found useful
+  * ctrl+s - to save an event
+  * e - to edit an event
+  * Esc - to return to calendar grid from an event details page
+
+The full list can be seen in https://support.google.com/calendar/answer/37034 .
+
 ==== dummy ====
   * When I edit a recurring event and save it, a window pops up with three options - ["This event", "This and following events", "All events"]. The default is "This event". Is there any way to change the default to "This and following events"?
     * asof | 2024-06-22

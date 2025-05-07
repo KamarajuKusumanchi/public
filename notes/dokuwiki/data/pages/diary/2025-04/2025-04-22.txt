@@ -1,0 +1,22 @@
+==== 2025-04-22 ====
+reading journal:
+  * https://www.bloomberg.com/news/articles/2025-04-22/nomura-s-biggest-deal-reflects-bet-on-us-to-rebound-from-chaos - Nomura Bets Big on US Market Rebound With \$1.8 Billion Deal
+    * Nomura purchased Macquarie Group
+      * \$180 billion AUM
+      * acquired for \$1.8 billion
+    * Chris Wilcox
+      * chief of the wholesale division that runs investment banking and trading
+
+  * https://www.barrons.com/articles/private-credit-market-investing-6a8bedc2 - Cracks Are Forming in the Private-Credit Market. What to Know.
+    * private credit
+      * key players: Ares Management, Apollo Global Management, Blue Owl Capital, Blackstone, and KKR
+    * business development companies, or BDCs
+    * Ares Capital (ARCC), Blue Owl Capital (OBDC), Blackstone Secured Lending (BXSL), and FS KKR Capital (FSK) - yield 10% to 15%
+    * Goldman Sachs BDC (GSBD) and Oaktree Specialty Lending (OCSL)
+    * junk-bond mutual funds and ETFs tend to use little or no leverage
+    * BDCs generally use a dollar of debt for every dollar of investor equity
+    * The safer ones concentrate on senior secured loans, which carry the least amount of risk. Subordinated debt, preferred stock, and equity would suffer more in a downturn.
+    * A good alternative to BDCs are junk-bond closed-end funds like BlackRock Corporate High Yield (HYT) which yields almost 11%.
+      * has a liquid portfolio of bonds from large companies like Charter Communications
+      * holdings are regularly valued based on market prices
+      * lower fees and leverage than most BDCs

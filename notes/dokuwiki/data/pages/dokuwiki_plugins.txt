@@ -78,6 +78,8 @@ related links
 ==== plugins I am exploring ====
   * https://www.dokuwiki.org/plugin:tabbox
   * https://www.dokuwiki.org/plugin:cli
+  * https://www.dokuwiki.org/plugin:secedit2head
+    * asof | 2025-05-02, it worked on www.wikifarm.xyz but not on kamaraju.xyz/dk . Need to figure out why.
 
 ==== plugins I came across ====
 https://philip-p-ide.uk/doku.php/blog/articles_on_writing/wiki_farm_01 mentioned

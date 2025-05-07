@@ -1,0 +1,15 @@
+==== 2025-04-17 ====
+reading journal:
+  * https://site.financialmodelingprep.com/market-news/deepmind-tightens-research-publication-a-strategic-pivot-toward-commercialization
+    * rivals: Google's Gemini AI model, OpenAI's GPT-4
+    * DeepMind
+      * led by Nobel Prize winner Sir Demis Hassabis
+
+  * https://site.financialmodelingprep.com/market-news/alphabet-reaffirms--billion-ai-investment-despite-tariff-concerns
+    * 2025 AI capex in billions: {Alphabet: \$75, Microsoft: \$80, Meta: \$65}
+
+  * https://site.financialmodelingprep.com/market-news/tsmc-revenue-soars--in-march-on-ai-chip-demand-shares-hit-daily-limit
+    * TSMC
+      * Q1 2025 revenue jumped 41.6% compared to Q1 2024
+      * key supplier to Apple, Nvidia
+      * Strength in advanced node manufacturing (such as 3nm and 5nm)

@@ -169,8 +169,6 @@ bar
     * was not merged asof 2025-02-17
 
 ==== Useful documentation ====
-  * https://www.dokuwiki.org/wiki:syntax#basic_text_formatting - format text as bold, italic, underlined and monospaced
-
   * https://www.dokuwiki.org/config:useslash
     * tags | use slash instead of colon as namespace separator in URLs
 
@@ -228,3 +226,14 @@ Ref:- https://wiki.debian.org/DokuWiki#Specificities_of_the_Debian_package
 ==== dummy ====
   * You can add <nowiki>?do=export_xhtmlbody</nowiki> to any DokuWiki link to view the body of a DokuWiki document as XHTML
 
+==== format text as bold, italic, underlined and monospaced ====
+<code>
+DokuWiki supports **bold**, //italic//, __underlined__ and ''monospaced'' texts.
+Of course you can **__//''combine''//__** all these.
+</code>
+will render as
+
+DokuWiki supports **bold**, //italic//, __underlined__ and ''monospaced'' texts.
+Of course you can **__//''combine''//__** all these.
+
+Ref:- https://www.dokuwiki.org/wiki:syntax#basic_text_formatting

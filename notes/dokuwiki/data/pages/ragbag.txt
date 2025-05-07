@@ -1,7 +1,8 @@
 
 ==== pages ====
-  * [[foo bar baz]]
   * [[book reading tracker]]
+  * [[youtube watch list]]
+  * [[foo bar baz]]
   * [[dilbert]]
   * [[list of all pages]]
   * [[wikipedia links I came across]]

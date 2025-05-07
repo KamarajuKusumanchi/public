@@ -1,0 +1,16 @@
+==== 2025-04-16 ====
+reading journal
+  * https://www.wsj.com/opinion/we-should-measure-prices-in-time-affordability-goods-standard-of-living-jobs-825b1144?mod=hp_opin_pos_6#cxrecs_s by George Gilder and Gale Pooley
+    * time price
+      * measure affordability by comparing the prices of goods and services to hourly compensation (wages and benefits)
+      * original proponent: Yale economist and Nobel laureate William Nordhaus
+      * If time prices decrease, it means that an hour of time now buys more products and services.
+    * whale oil
+    * TPI - time price index
+      * The CPI measures the purchasing power of a dollar. The TPI measures the purchasing power of an hour.
+    * production and nonsupervisory employees (blue-collar workers)
+    * Money is tokenized time.
+    * Every month, the BLS calculates average prices by tracking prices on around 80,000 specific products and services. The bureau reports the change in the CPI from the previous month and the previous 12 months. It also collects and reports information on hourly wage rates.
+
+  * https://en.wikipedia.org/wiki/Whale_oil - Whale oil
+  * https://en.wikipedia.org/wiki/Trench_foot - Trench foot

@@ -1,0 +1,6 @@
+==== 2025-04-30 ====
+reading journal
+  * https://site.financialmodelingprep.com/market-news/foreign-investors-extend-record-buying-spree-in-indian-equities
+    * Foreign portfolio investors (FPIs)
+  * https://fredblog.stlouisfed.org/2018/09/do-imports-subtract-from-gdp/ - Do imports subtract from GDP?
+    * Imports are in the GDP equation as an accounting variable. But it does not impact it.

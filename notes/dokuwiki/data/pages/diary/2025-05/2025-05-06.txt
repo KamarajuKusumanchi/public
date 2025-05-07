@@ -1,0 +1,13 @@
+==== 2025-05-06 ====
+reading journal
+  * https://docs.python.org/3/library/statistics.html
+    * <code>
+from decimal import Decimal as D
+</code>
+    * <code>
+from fractions import Fraction as F
+</code>
+    * statistics.quantiles()
+      * Divide data into n continuous intervals with equal probability. Returns a list of n - 1 cut points separating the intervals.
+      * Set n to 4 for quartiles (the default). Set n to 10 for deciles. Set n to 100 for percentiles which gives the 99 cuts points that separate data into 100 equal sized groups.
+

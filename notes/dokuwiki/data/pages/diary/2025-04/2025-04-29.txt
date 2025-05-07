@@ -1,0 +1,12 @@
+==== 2025-04-29 ====
+reading journal
+  * https://www.cnbc.com/2025/04/29/white-house-blasts-amazon-over-tariff-cost-report-hostile-and-political-act.html
+    * Amazon Haul store - Amazon's budget-focused shopping section
+    * Temu now includes a line on its checkout tally showing an “import charge” that adds around 145% for each item.
+    * 70% of Amazon goods are sourced from China
+  * https://en.wikipedia.org/wiki/Short_squeeze#Gamma_squeeze - Gamma squeeze
+  * https://site.financialmodelingprep.com/market-news/tsmc-nears-breakthrough-in-advanced-chip-packaging-for-ai-demand
+    * TSMC is developing a new chip packaging approach that replaces traditional round substrates with a square substrate.
+    * The technique builds on TSMC's existing advanced CoWoS (Chip-on-Wafer-on-Substrate) technology, which has become integral to AI chip manufacturing.
+    * TSMC aims to produce small volumes of these advanced packages by around 2027.
+    * A dedicated production line is currently being set up in Taoyuan, Taiwan.

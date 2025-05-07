@@ -130,6 +130,14 @@ See also:
   * https://thefinancebuff.com/best-fidelity-money-market-fund-your-tax-rates.html
   * https://www.fidelity.com/bin-public/060_www_fidelity_com/documents/TY23-GSE-Supplemental-Letter.pdf - 2023 Percentage of Income from U.S. Government Securities
 
+==== useful links ====
+  * https://www.fidelity.com/cash-management/information-needed-wire-to-fidelity-account - Information needed to wire transfer money into your Fidelity account
+
+  * https://www.fidelity.com/customer-service/bank-wire-instructions - Bank wire transfers to and from Fidelity
+    * Fidelity does not charge any fees for incoming wire transfers
+    * minimum wire transfer amount = \$100
+    * maximum wire transfer limit per day = \$1 mln
+
 ==== links I came across ====
   * https://www.fidelity.com/customer-service/phone-numbers/overview
     * Fidelity phone numbers
@@ -139,6 +147,7 @@ See also:
   * https://www.fidelity.com/learning-center/trading-investing/weekly-market-update - Weekly market update
   * https://www.fidelity.com/go/youth-account/overview - Fidelity Youth
     * fidelity youth account for teens of age 13-17
+  * https://www.fidelity.com/lending/securities-backed-line-of-credit - Line of credit
 
 
 ==== linking a bank account ====

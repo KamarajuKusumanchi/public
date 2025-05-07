@@ -1,0 +1,56 @@
+==== 2025-04-18 ====
+reading journal:
+  * https://news.weill.cornell.edu/news/2025/04/omega-6-fatty-acid-promotes-the-growth-of-an-aggressive-type-of-breast-cancer - Omega-6 Fatty Acid Promotes the Growth of an Aggressive Type of Breast Cancer
+    * Linoleic acid
+      * an omega-6 fatty acid
+      * found in soybean oil, safflower oil, pork and eggs
+    * hard-to-treat “triple negative” breast cancer subtype
+    * a protein called FABP5
+    * The term “triple negative” refers to the absence of three receptors
+    * omega-6-FABP5-mTORC1 signaling
+
+  * https://en.wikipedia.org/wiki/Protectionism_in_the_United_States - Protectionism in the United States
+    * the General Agreement on Tariffs and Trade (GATT)
+    * GATT became the World Trade Organization (WTO)
+
+  * https://en.wikipedia.org/wiki/Plaza_Accord - Plaza Accord
+    * was signed on September 22, 1985
+
+  * https://www.wsj.com/economy/central-banking/trump-has-for-months-privately-discussed-firing-fed-chair-powell-628d3d79?st=4RfoP9&reflink=article_whatsapp_share - Trump Has for Months Privately Discussed Firing Fed Chair Powell
+    * Kevin Warsh, a former Fed governor
+    * Scott Bessent
+      * is against firing Powell
+      * believes in Fed’s independence
+    * the case, known as “Humphrey’s Executor" 
+    * President Richard Nixon privately pressured his Fed chairman Arthur Burns, to ease policy ahead of the 1972 election
+    * a punishing recession in the early 1980s
+    * Fed's separate interest-rate setting body, the Federal Open Market Committee
+    * FOMC
+      * The FOMC is composed of the Fed’s seven Washington-based governors and a rotating group of presidents from the 12 Fed banks, which are quasi-private institutions. The Fed’s regional bank presidents are appointed not by the president but by the bank’s directors, who are generally local business or nonprofit executives. The FOMC elects its own chair at its first meeting of the year. 
+  * https://www.wfmz.com/news/area/lehighvalley/lehigh-county/mack-trucks-to-lay-off-up-to-350-workers-at-lehigh-county-plant/article_106d6029-fca8-4189-9f3d-97ebee2068a7.html
+    * Mack Trucks is laying off between 250 and 350 workers at its Lower Macungie Township facility
+    * Lehigh Valley workers
+    * Heavy-duty truck orders
+  * https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/a-supply-chain-quirk-helped-air-india-get-50-boeing-jets-made-for-chinese-carriers/articleshow/119899154.cms?from=mdr
+    * Air India’s low cost arm, Air India Express Ltd.
+    * white-tail planes
+    * 737 Max jets
+
+  * https://simpleflying.com/white-tail-aircraft/ - White Tail Aircraft: A Brief Guide
+    * White tail aircraft are planes built without customers, often due to cancelations or lack of certification.
+    * The term came from a light-colored primer on the aircraft's body.
+    * Offloading white tails can benefit airlines by offering a quicker way to add new aircraft to their fleet.
+    * 787 Dreamliners
+    * white tail "orphans"
+    * livery
+    * Hainan Airlines
+
+  * https://www.reuters.com/business/autos-transportation/tesla-speeds-up-odometers-avoid-warranty-repairs-us-lawsuit-claims-2025-04-17/ - Tesla speeds up odometers to avoid warranty repairs, US lawsuit claims
+    * The actual complaint: https://www.classaction.org/media/hinton-v-tesla-inc-et-al.pdf
+
+  * https://www.reuters.com/technology/artificial-intelligence/amd-ceo-says-ready-start-chip-production-arizona-make-more-ai-servers-us-2025-04-15/ - AMD set to produce its CPU chip at TSMC plant in Arizona
+    * TSMC fab in Arizona will be making them
+    * Decision pre-dates Trump taking office
+
+video journal
+  * https://www.youtube.com/watch?v=gNson4TqUO4 - Jeffrey Sachs Goes Off, Roasts Donald Trump’s Trade Talk, Says 'Mickey Mouse Is Smarter Than Him'

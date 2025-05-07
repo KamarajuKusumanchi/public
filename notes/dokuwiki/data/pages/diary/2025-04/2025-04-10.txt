@@ -1,0 +1,12 @@
+==== 2025-04-10 ====
+  * On 2025-04-10, I observed that SPY and VOO returns are different by almost a percentage point. AFAIK they both track the same index. So why is such large difference not arbed away?
+
+^ ticker ^ 20225-04-09 adj close ^ 2025-04-10 adj close ^ pct return ^
+| VOO | 499.10 | 482.06 | -3.41 |
+| SPY | 548.62 | 524.58 | -4.38 |
+
+Ref:
+  * https://ca.finance.yahoo.com/quote/VOO/history/
+  * https://ca.finance.yahoo.com/quote/SPY/history/
+  * https://ca.finance.yahoo.com/quote/VOO/performance/
+  * https://ca.finance.yahoo.com/quote/SPY/performance/

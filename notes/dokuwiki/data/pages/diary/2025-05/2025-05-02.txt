@@ -1,0 +1,8 @@
+==== 2025-05-02 ====
+reading journal
+  * https://christaylordeveloper.co.uk/git/git-diff/ - git diff
+    * contains many sample 'git diff' commands. Easy to follow. High information density.
+  * https://link.springer.com/article/10.1007/s10664-019-09772-z - How different are different diff algorithms in Git?
+    * Git offers four diff algorithms - Myers, Minimal, Patience, and Histogram.
+    * The default is Myers algorithm.
+    * The Minimal and the Histogram algorithms are the improved versions of the Myers and the Patience respectively.

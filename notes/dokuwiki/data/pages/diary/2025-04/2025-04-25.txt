@@ -1,0 +1,26 @@
+==== 2025-04-25 ====
+reading journal:
+  * https://aswathdamodaran.blogspot.com/2025/04/buy-dip-draw-and-dangers-of-contrarian.html
+    * Knee-jerk Contrarianism
+    * Technical Contrarianism
+      * relative strength - where you look at percentage price changes over a period
+      * marginal incremental returns (an academic code word for really small)
+      * returns may not survive transaction costs
+    * Constrained Contrarianism
+      * start with a list of beaten up stocks, and then screen them for high profitability, strong moats and low risk, hoping to separate companies that are cheap from those that deserve to be cheap
+      * operating/capital efficiency (margins and returns on capital)
+      * low risk (low debt ratios and volatility)
+      * Research Affiliates, an investment advisory service
+      * profitability (high returns on equity or capital)
+      * low risk (low debt ratios and volatility)
+      * 6,000 publicly traded US stocks
+      * firms with market cap < \$100 million may have more liquidity risk and transaction costs
+      * PE < 15, div yield > 1%, debt / EBITDA < 2
+      * In 2024, 60% of US stocks paid no dividend
+    * Opportunistic Contrarianism
+    * mindset, a time horizon and a stronger stomach
+    * your circumstances (age, health and cash needs)
+    * limit buys on
+      * BYD, the Chinese electric car maker - \$80
+      * Mercado Libre, the Latin American online retail/fintech firm
+      * Palantir, a company that I believe is closest to delivering on thee promise of AI products and services
