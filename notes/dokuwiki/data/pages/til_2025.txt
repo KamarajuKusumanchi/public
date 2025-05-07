@@ -1,4 +1,9 @@
 
+==== 2025-04-28 ====
+  * ''Google Panda'' is an algorithm used by Google to improve the quality of search results by lowering the rankings of websites with "low-quality content".
+
+Ref: https://en.wikipedia.org/wiki/Google_Panda
+
 ==== 2025-04-02 ====
   * A Kakistocracy is a government run by the worst, least qualified, or most unscrupulous citizens.
 

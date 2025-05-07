@@ -5,8 +5,6 @@
   * [[https://github.com/KamarajuKusumanchi/market_data_processor/blob/master/src/notebooks/convert%20yyyy-mm-dd%20to%20datetimeindex.py | convert yyyy-mm-dd to datetimeindex]] (github.com/KamarajuKusumanchi)
     * uses | pd.to_datetime, set_index
 
-
-
 ===== today related =====
 ==== get today's date as YYYYMMDD ====
 Approach 1:
@@ -181,6 +179,64 @@ datetime.now().strftime("%Y%m%d_%H%M%S")
 Code snippet:
 <code>
 run_time_stamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+</code>
+
+==== Get all weekdays between two dates ====
+tags | print weekdays in a range, print dates in a range, 
+
+  * If start and end dates are known
+<code>
+import pandas as pd
+week_days = [dt.strftime('%Y%m%d')
+             for dt in pd.date_range('20191225', '20200101')
+             if dt.weekday() < 5]
+print(week_days)
+
+['20191225', '20191226', '20191227', '20191230', '20191231', '20200101']
+</code>
+
+  * If start date and offset are known
+<code>
+import pandas as pd
+week_days = [dt.strftime('%Y%m%d')
+             for dt in pd.date_range('20191225', periods=8)
+             if dt.weekday() < 5]
+print(week_days)
+
+['20191225', '20191226', '20191227', '20191230', '20191231', '20200101']
+</code>
+
+  * If end date and offset are known
+<code>
+import pandas as pd
+week_days = [dt.strftime('%Y%m%d')
+             for dt in pd.date_range(end='20200101', periods=8)
+             if dt.weekday() < 5]
+print(week_days)
+
+['20191225', '20191226', '20191227', '20191230', '20191231', '20200101']
+</code>
+
+Ref:-
+  * https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.date_range.html
+
+see also:-
+  * http://www.kamaraju.xyz/dk/du_on_month_end_dates
+
+
+Solution without using list comprehension
+
+tags | join elements of a list
+
+<code>
+import pandas as pd
+x = []
+for dt in pd.date_range('20191225', '20200101'):
+  if (dt.weekday() < 5):
+    x.append(dt.strftime('%Y%m%d'))
+print(', '.join(x))
+
+20191225, 20191226, 20191227, 20191230, 20191231, 20200101
 </code>
 
 ==== iterate over a range of dates ====

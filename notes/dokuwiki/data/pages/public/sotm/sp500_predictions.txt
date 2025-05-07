@@ -7,3 +7,5 @@ tags | sp500 price target
 | 2025-03-11 | Michael Wilson of MS | 6,500 | 2025-12-31 | https://site.financialmodelingprep.com/market-news/sp--support-at--amid-policy-uncertainty-and-fiscal-headwinds |
 | 2025-03-12 | GS | 6,200 | 2025-12-31 | https://site.financialmodelingprep.com/market-news/goldman-sachs-lowers-sp--target-amid-market-pullback |
 | 2025-03-18 | RBC | 6,200 | 2025-12-31 | https://site.financialmodelingprep.com/market-news/rbc-revises-sp--yearend--target-to--amid-slower-growth-and-inflation-concerns |
+| 2025-04-07 | Julian Emanuel of Evercore ISI | 5,600 | 2025-12-31 | https://site.financialmodelingprep.com/market-news/evercore-isi-slashes-sp--target-amid-rising-stagflation-risks-and-trade-uncertainty |
+| 2025-04-08 | JPM | 5,200 | 2025-12-31 | https://site.financialmodelingprep.com/market-news/jpmorgan-lowers-sp--outlook-amid-tariff-shock-and-recession-fears |

@@ -1,6 +1,17 @@
 ===== 2025 =====
 
 
+==== 2025-05-02 ====
+  * https://www.reuters.com/sustainability/society-equity/trump-signs-order-that-aims-cut-funding-npr-pbs-2025-05-02/ - Trump signs order to cut federal funding for NPR, PBS broadcasters
+    * CPB (Corporation for Public Broadcasting)  distributes funding to the PBS television and NPR radio
+    * Congress allocated $535 million for the CPB for fiscal year 2025.
+    * Trump is cutting that $535 million.
+
+  * https://www.wsj.com/opinion/amazon-tariff-prices-karoline-leavitt-jeff-bezos-donald-trump-d085537c - Trump vs. Amazon’s Brilliant Tariff Idea
+
+==== 2025-04-12 ====
+  * In 1998, someone asked Warren Buffett about the threat of Japan selling their US bonds. See his reply in https://www.reddit.com/r/ValueInvesting/comments/1jw7m3i/warren_buffett_on_if_japan_divested_from_us_bonds/ . Same probably applies to the threat of China selling their Treasury holdings.
+
 ==== 2025-04-08 ====
   * https://xkcd.com/3073/ - Tariffs
 
@@ -14,6 +25,10 @@ Some reasons we have seen for such revocations include:
 
 ==== 2025-03-26 ====
   * https://snarky.ca/why-i-wont-be-attending-pycon-us-this-year/ - Why I won't be attending PyCon US this year
+
+  * "23 and me" filed for bankruptcy. It was valued \$6 bln at some point.
+  * Forever 21 filed for bankruptcy.
+  * Dollar Tree is selling Family Dollar for \$1 bln which it bought in 2015 for \$9 bln.
 
 ==== 2025-03-23 ====
   * https://www.wsj.com/politics/policy/irs-nears-deal-to-share-data-for-immigration-enforcement-df60eaad?mod=hp_lead_pos2 - IRS Nears Deal to Share Data for Immigration Enforcement

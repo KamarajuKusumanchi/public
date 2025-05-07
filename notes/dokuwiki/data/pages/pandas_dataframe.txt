@@ -1241,6 +1241,75 @@ Ref:
     * This site contains pointers to the best information available about working with Excel files in the Python programming language.
   * https://xlrd.readthedocs.io/en/latest/index.html
 
+==== iterate over each month ====
+<code>
+import pandas as pd
+
+from pandas.tseries.offsets import *
+for end_dt in pd.date_range('20160110', '20160920', freq='M'):
+    begin_dt = end_dt + MonthBegin(n=-1)
+    end_dt_yyyymmdd = end_dt.strftime('%Y%m%d')
+    begin_dt_yyyymmdd = begin_dt.strftime('%Y%m%d')
+    print(begin_dt_yyyymmdd, end_dt_yyyymmdd)
+</code>
+
+will produce
+<code>
+20160101 20160131
+20160201 20160229
+20160301 20160331
+20160401 20160430
+20160501 20160531
+20160601 20160630
+20160701 20160731
+20160801 20160831
+</code>
+
+Using
+<code>
+pd.date_range('20160110', '20160930', freq='M')
+</code>
+
+will produce
+<code>
+20160101 20160131
+20160201 20160229
+20160301 20160331
+20160401 20160430
+20160501 20160531
+20160601 20160630
+20160701 20160731
+20160801 20160831
+20160901 20160930
+</code>
+
+==== iterate over each quarter ====
+<code>
+import pandas as pd
+
+from pandas.tseries.offsets import *
+for end_dt in pd.date_range('20140101', '20160930', freq='Q')[::-1]:
+    begin_dt = end_dt + MonthBegin(n=-3)
+    end_dt_yyyymmdd = end_dt.strftime('%Y%m%d')
+    begin_dt_yyyymmdd = begin_dt.strftime('%Y%m%d')
+    print(begin_dt_yyyymmdd, end_dt_yyyymmdd)
+</code>
+
+will produce
+<code>
+20160701 20160930
+20160401 20160630
+20160101 20160331
+20151001 20151231
+20150701 20150930
+20150401 20150630
+20150101 20150331
+20141001 20141231
+20140701 20140930
+20140401 20140630
+20140101 20140331
+</code>
+
 ===== Missing values =====
 
 ==== number of missing values in a dataframe ====

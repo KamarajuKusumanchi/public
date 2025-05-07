@@ -420,6 +420,17 @@ Type "help", "copyright", "credits" or "license" for more information.
 C:\Users\kkusuman\AppData\Local\conda\conda\envs\py311\python.exe
 </code>
 
+==== pretty format list comprehension statements ====
+<code>
+import pandas as pd
+week_days = [dt.strftime('%Y%m%d') for dt
+             in pd.date_range(end='20200101', periods=8)
+             if dt.weekday() < 5]
+print(week_days)
+</code>
+
+Ref:- https://stackoverflow.com/questions/311588/how-to-indent-python-list-comprehensions
+
 ===== programming related =====
 ==== get the home directory ====
 <code>

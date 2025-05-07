@@ -76,4 +76,5 @@ See also:
       * https://capedge.com/transcript/by/companyId/909832 - contains links to historical earnings call transcirpts
       * https://www.gurufocus.com/stock/COST/transcripts/2536195
 
-
+==== household debt ====
+  * https://www.imf.org/external/datamapper/HH_LS@GDD/SWE/AUS/CAN/DEU/USA/GBR - breakdown of "Household debt, loans and debt securities as percent of GDP" for various countries.

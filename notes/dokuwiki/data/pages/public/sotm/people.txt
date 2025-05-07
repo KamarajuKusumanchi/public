@@ -67,7 +67,10 @@ Ref:- https://www.bloomberg.com/opinion/articles/2022-01-31/quant-strategies-hav
     * the former commissioner of the NFL
 
   * Stan Druckenmiller
+    * investor
     * Treasury Secretary Scott Bessent’s boss at Soros Fund Management
+    * a confidant and longtime mentor of Bessent
+    * Kevin Warsh worked with him
 
   * Dan Loeb
     * runs hedge fund firm Third Point
@@ -97,3 +100,6 @@ Ref:- https://www.bloomberg.com/opinion/articles/2022-01-31/quant-strategies-hav
   * formerly
     * Wall Street executive
     * head of brokerage Cantor Fitzgerald
+
+==== Larry Summers ====
+  * was the Treasury secretary under Bill Clinton

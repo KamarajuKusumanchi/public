@@ -43,6 +43,14 @@ Policy:
   * SPDR S&P Retail ETF (XRT)
 \\
   * JPMorgan Nasdaq Equity Premium Income ETF (JEPQ)
+\\
+  * VistaShares Target 15 Berkshire Select Income ETF (OMAH)
+\\
+  * BlackRock Corporate High Yield Fund, Inc. (HYT)
+\\
+  * ProShares S&P 500 Dividend Aristocrats ETF (NOBL)
+\\
+  * YieldMax Target 12 Big 50 Option Income ETF (BIGY)
 
 ==== home builders and related industries ====
   * XHB - SPDR S&P Homebuilders ETF

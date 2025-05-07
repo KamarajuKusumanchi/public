@@ -1,5 +1,33 @@
 tags | stocks to watch for next month, companies I came across
 
+==== 2025-04-25 ====
+  * BYD (ticker: BYDDF), Mercado Libre (ticker: MELI), Palantir (PLTR)
+    * mentioned in https://aswathdamodaran.blogspot.com/2025/04/buy-dip-draw-and-dangers-of-contrarian.html
+
+
+==== 2025-04-22 ====
+  * BlackRock Corporate High Yield (HYT)
+    * came across it in https://www.barrons.com/articles/private-credit-market-investing-6a8bedc2
+      * good alternative to BDCs
+        * liquid portfolio of bonds, holdings are regularly valued based on market prices
+        * lower fees and leverage than most BDCs
+    * junk-bond closed-end fund
+    * TTM dividend = \$0.93, price = 9.28
+
+==== 2025-04-18 ====
+  * NFLX
+    * solid earnings and positive guidance
+      * https://finance.yahoo.com/news/netflix-stock-rises-after-earnings-outlook-top-wall-street-forecasts-202118375.html?guccounter=1
+  * TSMC
+    * TSMC fab in Arizona will be making chips for AMD
+      * https://www.reuters.com/technology/artificial-intelligence/amd-ceo-says-ready-start-chip-production-arizona-make-more-ai-servers-us-2025-04-15/
+
+==== 2025-04-17 ====
+  * GOOG
+    * {price: \$153.71, P/E: 19.13, Forward P/E: 15.30, P/S: 5.32, Operating margin:32.46%}
+    * They are trying to commercialize research done in DeepMind.
+      * https://site.financialmodelingprep.com/market-news/deepmind-tightens-research-publication-a-strategic-pivot-toward-commercialization
+
 ==== 2025-03-21 ====
   * CKHUY - CK Hutchison Holdings Ltd. ADR
     * https://www.barrons.com/market-data/stocks/ckhuy

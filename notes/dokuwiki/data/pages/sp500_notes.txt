@@ -26,6 +26,9 @@ tags | p/e ratio of XLE
   * https://worldperatio.com/sector/energy/ - gives current p/e ratio of sp500 energy sector
 
 ==== links I came across ====
+  * https://www.slickcharts.com/sp500/drawdown
+    * shows a graph of the drawdown of sp500 for each year from 1928 through current year (intra year)
+    * the graph is useful, easy to follow
   * https://www.slickcharts.com/sp500/performance - shows ytd returns of SP500 components.
   * https://ycharts.com/indicators/sp_500_monthly_return
   * https://ycharts.com/indicators/sp_500_monthly_total_return

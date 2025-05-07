@@ -2,3 +2,4 @@
 ^ word ^ one word ^ two words ^ ref ^
 | screenshot | Y | N | https://dictionary.cambridge.org/us/dictionary/english/screenshot |
 | trash bag | N | Y | https://dictionary.cambridge.org/us/dictionary/english/trash-bag |
+| wildfire | Y | N | https://dictionary.cambridge.org/us/dictionary/english/wildfire |
