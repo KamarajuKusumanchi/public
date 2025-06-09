@@ -1,4 +1,11 @@
 ==== to watch ====
+tags | youtube tracker, video watching tracker
 
-^ url ^ title ^ source of recommendation ^ date added to watchlist ^ watched on ^ watched upto ^ notes ^
+policy:
+  * once a video is fully watched, take it out from here and move it to diary.
+
+^ url ^ title ^ source of recommendation ^ date added to watchlist ^ watched on ^ watch history asof ^ notes ^
 | https://www.youtube.com/watch?v=4EdMImlZE2s | How Hoover Dam Works | https://nathangrigg.com/2025/05/tqzfwx/ | 2025-05-06 | | | |
+| https://www.youtube.com/watch?v=VsvrJENks2s | Management Learnings with Jamie Dimon I JPMorganChase | Jamie Dimon mentioned it in https://www.youtube.com/live/V29xLoBFdUs @33:55 | 2025-05-31 | | | |
+
+

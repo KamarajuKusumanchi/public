@@ -44,3 +44,5 @@ reading journal
     * The Coding with AI series by S. Sanfilippo
     * skill sets often disappear faster than their relevance in deployed systems
       * Example: Cobol code still in production
+
+  * https://www.forexlive.com/news/japan-nikkei-225-topix-futures-halted-limit-down-first-domino-20250406/ - Japan - Nikkei 225, Topix futures halted, limit down - first domino?

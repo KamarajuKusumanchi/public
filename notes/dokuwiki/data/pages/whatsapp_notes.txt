@@ -16,5 +16,9 @@ Settings -> Notifications -> App notifications -> WhatsApp -> All "Chats" notifi
 See also:- 
   * https://faq.whatsapp.com/539178204879377/?cms_platform=web - got the above from here. It contains more info than summarized above.
 
+
+===== dummy =====
 ==== I could not find a way to ====
   * send a message / photo to myself.
+    * one work around is to create a group with another person and then immediately remove him/her. This will give you a group with just yourself and then you can send a message or photo to yourself.
+  * block messages from one person in a Whatsapp group chat.

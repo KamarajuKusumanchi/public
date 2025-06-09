@@ -1,0 +1,10 @@
+==== 2025-05-15 ====
+reading journal
+  * https://www.njtransit.com/railstoppage - Rail Service Stoppage Information
+    * There is a rail strike by NJT starting midnight. Its indefinite. This will cause a lot of chaos in traveling if not resolved over weekend.
+  * https://www.cnbc.com/2025/05/15/coinbase-says-hackers-bribed-staff-to-steal-customer-data-and-are-demanding-20-million-ransom.html - Coinbase says hackers bribed staff to steal customer data and are demanding $20 million ransom
+  * https://www.wsj.com/us-news/china-mexico-drug-money-laundering-banks-907f35f8?mod=lead_feature_below_a_pos2
+    * In 2024, TD Bank paid \$3 billion in penalties for lax internal systems that allowed a Chinese money-laundering operation based in the Flushing neighborhood of Queens in New York City to move more than \$470 million in illicit cash through TD branches in New York, New Jersey and Pennsylvania.
+    * China restricts its citizens from buying more than $50,000 a year in foreign currency.
+
+

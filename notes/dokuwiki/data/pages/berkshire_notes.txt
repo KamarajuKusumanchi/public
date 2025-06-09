@@ -135,6 +135,7 @@ Ref:- Full list can be found at https://www.berkshirehathaway.com/2001ar/directo
     * Berkshire Hathaway
     * Western Asset Trusts
     * Provivi
+  * Berkshire Hathaway class A shares cannot be traded in extended market hours. They can only be traded in regular market hours.
 
 ==== links I came across ====
   * Berkshire Hathaway Letters to Shareholders - https://www.berkshirehathaway.com/letters/letters.html
@@ -142,3 +143,32 @@ Ref:- Full list can be found at https://www.berkshirehathaway.com/2001ar/directo
     * In pdf format - https://www.berkshirehathaway.com/ownman.pdf
   * https://www.berkshirehathaway.com/subs/sublinks.html - list of Berkshire subsidiaries
   * https://en.wikipedia.org/wiki/List_of_assets_owned_by_Berkshire_Hathaway - List of assets owned by Berkshire Hathaway
+
+==== When did Berkshire introduce the class B shares? ====
+  * Berkshire class B shares were created in May 1996.
+  * The class B shares are also known as "the Baby B's"
+  * They are split 50-for-1 in 2010.
+
+Ref:-
+  * https://finance.yahoo.com/news/berkshire-a-shares-b-shares-difference-high-low-price-buffett-120901246.html
+
+==== When did Buffett took over Berkshire? ====
+  * Warren Buffett took over Berkshire in 1964.
+
+Ref:-
+  * https://finance.yahoo.com/news/berkshire-a-shares-b-shares-difference-high-low-price-buffett-120901246.html
+
+==== How many class A and class B Berkshire shares are outstanding? ====
+  * As of February 17 2016, there were 807,811 Class A shares outstanding and 1.25 billion Class B shares outstanding.
+    * Ref:- https://finance.yahoo.com/news/berkshire-a-shares-b-shares-difference-high-low-price-buffett-120901246.html
+  * As of April 21, 2025, there were 542,999 Class A shares outstanding and 1.34 billion Class B shares outstanding.
+    * Ref:- https://www.berkshirehathaway.com/qtrly/1stqtr25.pdf -> pg-1
+
+==== Berkshire holdings from 13F filings ====
+  * https://13f.info/manager/0001067983-berkshire-hathaway-inc - contains links to different quarters' 13F filings. For example
+    * Q1 2025 - https://13f.info/13f/000095012325005701-berkshire-hathaway-inc-q1-2025
+    * Q4 2024 - https://13f.info/13f/000095012325002701-berkshire-hathaway-inc-q4-2024
+  * In each quarter's link, for example, in https://13f.info/13f/000095012325005701-berkshire-hathaway-inc-q1-2025
+    * The data can be exported as a csv
+    * The data can be compared against another quarter. For example https://13f.info/13f/000095012325005701/compare/000095012325002701 compared Q1 2025 holdings against Q4 2024.
+  * https://13f.info/13f/000095012325005701/compare/000095012325002701 - Berkshire Hathaway Inc Q4 2024 vs. Q1 2025 13F Holdings Comparison

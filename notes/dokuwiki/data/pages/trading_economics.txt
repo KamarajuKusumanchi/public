@@ -1,3 +1,5 @@
 ==== links I came across ====
   * https://tradingeconomics.com/commodity/containerized-freight-index - Containerized Freight Index
   * https://tradingeconomics.com/api/pricing.aspx - API pricing details
+  * https://tradingeconomics.com/united-states/debt-balance-auto-loans - United States Debt Balance Auto Loans
+  * https://tradingeconomics.com/united-states/delinquency-rate-on-consumer-loans-all-commercial-banks-fed-data.html - United States - Delinquency Rate on Consumer Loans, All Commercial Banks2025

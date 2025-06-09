@@ -37,10 +37,12 @@ where environment.yml is the path of the environment file
 Ref:- https://conda.io/docs/commands/env/conda-env-update.html
 
 ==== update conda ====
+from | https://github.com/conda/conda/issues/12519
 <code>
 conda update -n base -c defaults conda --repodata-fn=repodata.json
 </code>
 
+Normal:
 <code>
 conda update -n <env_name> -c defaults --yes conda
 </code>
@@ -463,3 +465,13 @@ See also:
     * See for example https://github.com/KamarajuKusumanchi/rutils/blob/master/python3/envs/env_test_ibapi.yml
 
 tags | conda envrionment install package from zip file, conda install zip package, install zip file
+
+===== conda-forge =====
+==== report issues in conda-forge packages ====
+To report issues in conda-forge packages, you can open an issue at the package feedstock via <nowiki>https://github.com/conda-forge/<package-name>-feedstock/issues</nowiki>
+
+For example, to report an issue with yfinance, use https://github.com/conda-forge/yfinance-feedstock/issues
+
+Ref:
+  * https://conda-forge.org/docs/user/how_to_get_help/ - How to get help at conda-forge
+  * https://github.com/conda-forge/yfinance-feedstock/issues/96 - an issue I reported on yfinance package

@@ -485,3 +485,38 @@ tags | passing function, function as value in dictionary, dispatch
 ==== dummy ====
   * os.path.splitext(path) - Get the extension of a path
     * https://docs.python.org/3/library/os.path.html#os.path.splitext
+
+===== errors =====
+==== SSLError ====
+On Windows, I experienced errors such as
+
+<code>
+>>> import requests
+>>> requests.get('http://www.github.com', proxies={'https_proxy': 'myhttp.proxy.com', 'http_proxy': 'myhttps.proxy.com'})
+...
+requests.exceptions.SSLError: HTTPSConnectionPool(host='www.github.com', port=443): Max retries exceeded with url: / 
+(Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: 
+unable to get local issuer certificate (_ssl.c:1028)')))
+</code>
+
+Solution: install pip-system-certs from the conda-forge channel. Asof 2025-05-29, it is not available in the defaults channel.
+
+Run
+<code>
+conda install pip-system-certs -c conda-forge
+</code>
+or add the following to the conda environment file
+<code>
+  - conda-forge:pip-system-certs
+</code>
+
+Notes:
+  * There used to be a package called python-certifi-win32 that addressed the same issue. But that package is no longer (asof | 2025-05-29) maintained and is replaced by pip-system-certs.
+  * Between the two, pip-system-certs has a "cleverer" implementation using autowrapt and also has support for Linux.
+  * It is a bad idea to install both pip-system-certs and python-certifi-win32. You should install only one of them.
+
+related links:
+  * https://anaconda.org/search?q=pip-system-certs
+  * https://pypi.org/project/pip-system-certs/
+  * https://anaconda.org/search?q=python-certifi-win32
+  * https://pypi.org/project/python-certifi-win32/

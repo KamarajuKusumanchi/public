@@ -1,0 +1,10 @@
+==== 2025-05-21 ====
+reading journal
+  * https://www.wsj.com/finance/bloomberg-terminal-hit-by-outage-3a414ebe?mod=hp_listb_pos3
+    * Bloomberg terminal costs \$28,300 a year
+    * At the end of 2024, Bloomberg had more than 355,000 terminal users
+  * https://www.nyse.com/publicdocs/nyse/NYSE_Paper_on_Market_Making_Sept_2021.pdf - Market Makers in Financial Markets: Their Role, How They Function, Why They are Important, and the
+NYSE DMMDifference
+    * Some of the strategies that are employed by market participants of all types include volume-weighted average price (VWAP) strategies, time-weighted average price (TWAP) strategies, percent of volume (POV) strategies, momentum/trend following strategies, and arbitrage strategies.
+    * electronic market makers (EMMs)
+

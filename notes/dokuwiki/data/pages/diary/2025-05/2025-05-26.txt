@@ -1,0 +1,21 @@
+==== 2025-05-26 ====
+reading journal:
+  * https://www.bloomberg.com/news/articles/2025-05-26/china-raises-cross-border-yuan-use-requirement-for-major-banks?embedded-checkout=true - China Raises Cross-Border Yuan Use Requirement for Major Banks
+    * The People’s Bank of China increased the floor ratio for yuan-denominated trade transactions to 40% from 25%
+    * China’s imports and exports of goods amounted to 43.8 trillion yuan ($6.1 trillion) in 2024. The proportion of cross-border yuan payments in goods trade reached 30%, central bank Governor Pan Gongsheng said in January.
+    * My take: China seems to be aggressively moving away from US dollars.
+  * https://www.windowscentral.com/software-apps/sam-altman-ai-will-make-coders-10x-more-productive-not-replace-them
+    * NVIDIA CEO Jensen Huang recommended exploring alternative career paths in biology, farming, education, or manufacturing.
+  * https://en.wikipedia.org/wiki/Lesotho - Lesotho
+    * Lesotho is a landlocked country in Southern Africa.
+    * It is entirely surrounded by South Africa
+    * It is the largest of only three sovereign enclaves in the world, the others being San Marino and Vatican City, which are surrounded by Italy.
+  * https://en.wikipedia.org/wiki/San_Marino - San Marino
+    * San Marino is a landlocked country in Southern Europe, completely surrounded by Italy.
+    * It is the larger of two microstates within Italy, the other being Vatican City.
+  * https://www.cbsnews.com/newyork/news/nj-high-end-car-theft-ring/ - N.J. auto theft ring stole "millions of dollars worth" of vehicles, used Bronx garages as showrooms, authorities say - 2025-04-25
+    * a \$475,000 Rolls Royce
+    * automated license plate readers
+
+video journal:
+  * https://www.youtube.com/watch?v=1LWBphTImy4 - 2025 Berkshire Hathaway annual shareholder meeting

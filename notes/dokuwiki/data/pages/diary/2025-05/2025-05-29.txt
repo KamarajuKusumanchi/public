@@ -1,0 +1,9 @@
+==== 2025-05-29 ====
+reding journal
+  * https://restofworld.org/2025/uber-ola-copy-india-zero-commission-ride-hailing-app/ - The Indian company forcing Uber to change its business model
+    * Namma Yatri
+      * launched by a SoftBank-backed fintech firm, Juspay
+      * launched in 2022 as an auto-rickshaw aggregator
+      * developed in consultation with a drivers’ union in Bengaluru
+      * subscription-based model
+      * rivals — Ola, Rapido, Uber

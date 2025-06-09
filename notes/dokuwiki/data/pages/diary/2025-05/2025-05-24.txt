@@ -1,0 +1,5 @@
+==== 2025-05-25 ====
+video journal
+  * https://www.youtube.com/watch?v=r-TLSBdHe1A - "Performance Matters" by Emery Berger
+    * Emery Berger explains his new performance analyzer
+    * Great presentation, easy to follow along.

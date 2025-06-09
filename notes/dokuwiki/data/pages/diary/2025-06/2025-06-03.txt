@@ -1,0 +1,3 @@
+==== 2025-06-03 ====
+reading journal
+  * https://www.wsj.com/articles/how-morgan-stanley-tackled-one-of-codings-toughest-problems-4f465959 - How Morgan Stanley Tackled One of Coding’s Toughest Problems

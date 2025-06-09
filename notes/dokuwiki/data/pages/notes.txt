@@ -165,6 +165,7 @@
   * [[quotes]]
   * [[jcpl]]
   * [[came across]]
+  * [[websites I came across]]
   * [[links I came across]]
   * [[words I came across]]
   * [[private companies I came across]]
@@ -310,6 +311,7 @@
   * [[signal notes]]
   * [[comptometer]]
   * [[recent sales in pdj]]
+  * [[moisturizer notes]]
 
 ==== by date ====
   * [[reading journal 2024]]

@@ -1,5 +1,14 @@
 tags | stocks to watch for next month, companies I came across
 
+==== 2025-05-31 ====
+  * CROCS
+    * previous quarter earnings are good.
+    * price = \$102.00, P/E = 6.25, forward P/E = 7.78, P/S = 1.39, Operating margin = 24.84%
+
+==== 2025-05-20 ====
+  * WMT
+    * after reading https://www.retaildive.com/news/walmarts-plans-c-store-fuel-expansion/746173/ - Inside Walmart’s aggressive c-store growth plans
+
 ==== 2025-04-25 ====
   * BYD (ticker: BYDDF), Mercado Libre (ticker: MELI), Palantir (PLTR)
     * mentioned in https://aswathdamodaran.blogspot.com/2025/04/buy-dip-draw-and-dangers-of-contrarian.html

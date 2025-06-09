@@ -36,3 +36,10 @@ When playing a youtube video in a browser, you can type 0 through 9 to jump to 0
 
 ==== multiple channels ====
 You can create multiple youtube channels with one google account. Go to https://www.youtube.com/channel_switcher and click on "+ Create a new channel" button.
+
+==== video summary ====
+  * You can use AI to first read the summary of a YouTube video before listening to the whole video
+    * https://notegpt.io/youtube-video-summarizer
+      * Amit said it worked for https://www.youtube.com/watch?v=4EdMImlZE2s - How Hoover Dam Works. But I did not try it myself as it requires signup.
+    * https://krisp.ai/youtube-video-summarizer/
+      * did not work for https://www.youtube.com/watch?v=4EdMImlZE2s - How Hoover Dam Works

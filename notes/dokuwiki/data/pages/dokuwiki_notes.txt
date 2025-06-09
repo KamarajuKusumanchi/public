@@ -237,3 +237,9 @@ DokuWiki supports **bold**, //italic//, __underlined__ and ''monospaced'' texts.
 Of course you can **__//''combine''//__** all these.
 
 Ref:- https://www.dokuwiki.org/wiki:syntax#basic_text_formatting
+
+==== disable links ====
+Enclose it in <code><nowiki>...</nowiki></code>
+
+For example <code>https://www.google.com</code> will render as https://www.google.com .
+But <code><nowiki>https://www.google.com</nowiki></code> will render as <nowiki>https://www.google.com</nowiki> .

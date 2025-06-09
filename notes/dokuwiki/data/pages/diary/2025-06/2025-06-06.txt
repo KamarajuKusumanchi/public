@@ -1,0 +1,40 @@
+==== 2025-06-06 ====
+reading journal:
+  * https://www.barrons.com/articles/microstrategy-preferred-bitcoin-strd-yield-f71c8d83
+    * in a deal underwritten by a group led by Barclays, Morgan Stanley, Moelis, and TD Securities
+  * https://www.barrons.com/articles/microstrategy-bitcoin-preferred-stock-offering-yield-4071d169
+    * a price of \$85 as the pricing range. That would translate into a yield of 11.75% (calculated by dividing the 10% nominal yield by 0.85).
+    * Dividends on the new STRD preferred stock won’t be mandatory or cumulative—meaning the company doesn’t have to make up any missed quarterly dividends.
+
+  * https://www.barrons.com/articles/berkshire-hathaway-warren-buffett-companies-howard-hughes-loews-fairfax-financial-greenlight-capital-markel-white-mountains-e631c648 - Here Come the Berkshire Hathaway Wannabes
+    * tags | Berkshire like companies
+    * Buffett bought Berkshire in 1965
+    * Berkshire Hathaway stock has returned 20% annually over the past 60 years, far outpacing the S&P 500 index’s 10% yearly return.
+    * Similar approach is used by 
+      * Apollo Global Management
+        * insurance is now central to the firm’s growth
+      * KKR
+      * Howard Hughes Holdings
+        * Bill Ackman is trying to turn a real estate company into a "mini-Berkshire" with an insurance business
+      * Dan Loeb's Third Point Investors fund
+      * Markel Group
+        * CEO Tom Gayner, 63, is known as a shrewd investor and has many fans among Berkshire faithful
+      * Fairfax Financial Holdings
+        * its chairman and founder Prem Watsa, 74, has been called a Canadian Warren Buffett
+      * Loews
+        * a conglomerate controlled by the Tisch family for 65 years
+        * great long-term record, strong balance sheet
+        * three main assets:
+          * Boardwalk Pipelines
+            * interstate natural-gas pipeline operator
+          * Loews Hotels
+            * its flagship is the Regency, the longtime site of Manhattan power breakfasts
+          * a 91% stake in P&C insurer CNA Financial
+            * CNA Financial is solidly profitable
+      * White Mountains Insurance Group
+        * has a diverse portfolio of insurance and other businesses and trades cheaply around book value
+        * Bermuda domiciled
+    * Markel and Fairfax are closest to Berkshire structure, each has generated impressive returns since the mid 1980s.
+    * Greenlight Capital Re
+      * its biggest shareholder is hedge fund manager David Einhorn
+      * David Einhorn is a fan of Buffett

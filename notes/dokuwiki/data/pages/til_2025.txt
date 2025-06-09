@@ -1,4 +1,37 @@
 
+==== 2025-06-07 ====
+  * TIL that Vietnam is the second largest coffee producer in the world.
+
+Ref:- https://en.wikipedia.org/wiki/List_of_countries_by_coffee_production
+
+==== 2025-05-30 ====
+  * TIL that you can select the entire column in excel using ctrl+space.
+
+  * TIL about a Soviet biologist called "Trofim Lysenko" and his political campaign called Lysenkoism.
+    * Lysenko basically dismissed “Mendelian genetics” and science-based agriculture in favor of his own idiosyncratic, pseudoscientific ideas. Those ideas contributed to the famines that killed millions of people in USSR and in China.
+
+Ref:
+  * http://www.scientificintegrityinstitute.org/science071665.pdf - The Rise and Fall of Lysenko (1965) [pdf]
+    * easy to read and follow along
+  * https://en.wikipedia.org/wiki/Trofim_Lysenko - Trofim Lysenko
+    * difficult to read
+  * https://en.wikipedia.org/wiki/Lysenkoism - Lysenkoism
+    * difficult to read
+
+==== 2025-05-27 ====
+  * TIL that you can use the autocommand library to create a command-line program from a function.
+    * https://pypi.org/project/autocommand/
+
+==== 2025-05-23 ====
+  * https://github.com/mjdominus/util/blob/master/bin/menupick - a lovely little utility that reads lines from standard input, presents a menu, prompts on the terminal for a selection from the items, and then prints the selection to standard output
+    * I came across it in https://blog.plover.com/tech/gpt/claude-xar.html
+    * It is briefly described in https://github.com/mjdominus/util and fully described in in the usage() of https://github.com/mjdominus/util/blob/master/bin/menupick
+
+==== 2025-05-14 ====
+  * https://www.britannica.com/science/phagocytosis - phagocytosis <WRAP>
+> phagocytosis, process by which certain living cells called phagocytes ingest or engulf other cells or particles. The phagocyte may be a free-living one-celled organism, such as an amoeba, or one of the body cells, such as a white blood cell. In some forms of animal life, such as amoebas and sponges, phagocytosis is a means of feeding. In higher animals phagocytosis is chiefly a defensive reaction against infection and invasion of the body by foreign substances (antigens).
+</WRAP>
+
 ==== 2025-04-28 ====
   * ''Google Panda'' is an algorithm used by Google to improve the quality of search results by lowering the rankings of websites with "low-quality content".
 

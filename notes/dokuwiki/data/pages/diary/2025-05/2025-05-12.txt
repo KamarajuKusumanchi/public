@@ -1,0 +1,24 @@
+==== 2025-05-12 ====
+reading journal
+  * https://www.cnbc.com/2025/05/12/trump-china-trade-deal-tariff-pause-new-surge-in-freight-shipments.html
+    * ITS Logistics
+    * cleaning products company Casabella
+    * Freightos
+    * family-owned shoe retailer Deer Stags
+      * imports from China
+      * sells to Macy’s, Kohl’s, JCPenney, and on Amazon
+    * a bonded warehouse — a secure storage facility that is supervised by U.S. Customs without tariffs needing to be paid
+    * logistics company OL USA
+    * Blank sailings
+    * Steve Lamar, CEO of the American Apparel and Footwear Association
+    * Footwear Distributors and Retailers of America
+    * Eric Byer, CEO of the Alliance for Chemical Distribution
+    * phosphoric acid is used in detergents and cleaning products, in a wide range of drinks (like citric, soda, sports drinks, etc.), and in fertilizer
+    * sodium thiocyanate, a critical chemical for concrete used in construction
+    * TEUs
+    * the National Retail Federation
+  * https://news.research.stlouisfed.org/2025/04/fred-adds-new-home-purchase-sentiment-index-data/ - FRED Adds New Home Purchase Sentiment Index Data
+    * the Home Purchase Sentiment Index (HPSI)
+      * reported by Fannie Mae
+      * a composite index
+      * designed to track consumers’ housing-related attitudes, intentions, and perceptions, using six questions from the National Housing Survey (NHS)

@@ -46,6 +46,11 @@ git init
 
 Ref:- https://codemy.com/git
 
+==== What is the editor set to ====
+<code>
+git config --get-all --show-scope --show-origin core.editor
+</code>
+
 ===== dummy =====
 ==== git resources ====
   * https://learngitbranching.js.org/ - Very good resource to learn git branching.

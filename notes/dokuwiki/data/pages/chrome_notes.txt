@@ -303,3 +303,16 @@ Ref:- https://superuser.com/questions/284115/is-there-a-shortcut-key-to-duplicat
 found it in | https://frugalprofessor.com/financial-update-oct-2024/
 
 tags | experiments
+
+===== tips =====
+
+==== switch to tab ====
+tags | command line shortcut to "switch to this tab"
+
+To switch to a pre-existing tab from the list of suggestions, use ↓ to select the correct suggestion -> tab -> enter.
+
+You can also do (tab -> space) instead of (tab -> enter).
+
+Related: ctrl+shift+a opens a "Search Tabs" dialogue where you can start typing and your query is matched against the list of currently open tabs. Note that this shortcut may not work on all websites. For example, on Google Docs it gets captured by the web page itself.
+
+Ref:- https://superuser.com/questions/1505108/switch-to-this-tab-shortcut-in-chrome

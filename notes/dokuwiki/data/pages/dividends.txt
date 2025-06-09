@@ -5,3 +5,10 @@
 ==== to verify ====
   * Qualified dividends are taxed at the long-term capital gains rate, which is 0%, 15% or 20%, depending on investor's income level.
   * Nonqualified dividends or ordinary dividends are taxed at investor's ordinary income tax rate, which can range between 10% and 37%, depending on the income level.
+
+==== came across ====
+  * https://the-dividend-report.beehiiv.com/ - The Dividend Report Newsletter
+    * You get an email every Monday morning about
+      * Dividend Hikes
+      * Earnings Reports
+      * Dividend Stocks at 52 week lows

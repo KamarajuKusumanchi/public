@@ -1,5 +1,11 @@
 ==== dummy =====
-TODO on 2025-02-21:- This plugin does not seem to work. Afterwards, figure out why.
+TODO on 2025-05-15:- This plugin does not seem to work. It is giving the following errors
+<code>
+Creating directory /usr/share/dokuwiki/data/cache failed
+Writing /usr/share/dokuwiki/data/cache/pagestats.cache failed
+</code>
+
+Afterwards, figure out why and fix it. For now, disabling this plugin.
 
 Stats generated using the page stats plugin (https://github.com/Hei3enberg/pagestats)
 

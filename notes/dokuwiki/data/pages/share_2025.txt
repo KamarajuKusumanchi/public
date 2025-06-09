@@ -1,6 +1,23 @@
 ===== 2025 =====
 
 
+==== 2025-05-27 ====
+  * https://www.berkshirehathaway.com/letters/growing.pdf - America’s Growing Trade Deficit Is Selling the Nation Out From Under Us. Here’s a Way to Fix the Problem—And We Need to Do It Now - by Warren E. Buffett
+    * It was written in 2003 (more than 20 years ago) but is still relevant.
+
+tags | berkshire, tariffs, import certificates
+
+==== 2025-05-23 ====
+  * Trick to sew in a straight line - https://www.reddit.com/r/lifehacks/comments/1ktabxz/i_knew_grandmas_had_a_trick/
+
+==== 2025-05-20 ====
+  * The U.S. Bancorp Tower in Portland, Oregon is known as the "Big Pink" building. It was sold for \$372.5 million in 2015 [(https://en.wikipedia.org/wiki/U.S._Bancorp_Tower - U.S. Bancorp Tower)]. Now they are asking for \$70 million [(https://www.wsj.com/real-estate/commercial/a-fire-sale-of-portlands-largest-office-tower-shows-how-far-the-city-has-fallen-322e0f2d?mod=hp_lead_pos9 - A Fire Sale of Portland’s Largest Office Tower Shows How Far the City Has Fallen)], which is a haircut of 81%.
+
+~~REFNOTES~~
+
+==== 2025-05-13 ====
+  * https://ourworldindata.org/what-is-foreign-aid - What is foreign aid? How “Official Development Assistance” is measured
+
 ==== 2025-05-02 ====
   * https://www.reuters.com/sustainability/society-equity/trump-signs-order-that-aims-cut-funding-npr-pbs-2025-05-02/ - Trump signs order to cut federal funding for NPR, PBS broadcasters
     * CPB (Corporation for Public Broadcasting)  distributes funding to the PBS television and NPR radio

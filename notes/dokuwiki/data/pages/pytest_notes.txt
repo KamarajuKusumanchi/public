@@ -105,3 +105,23 @@ Links related to parameterization:
 
 ==== who wrote pytest ====
   * https://github.com/pytest-dev/pytest/blob/master/AUTHORS
+
+==== run a single test function ====
+You can test a single function using pytest by running
+<code>
+pytest <file_name.py>::<test_function_name>
+</code>
+
+Ref:- https://docs.pytest.org/en/stable/how-to/usage.html -> "Run tests by collection arguments" section
+  * goes over many other ways to select and run tests. Worth reading it end to end at least once.
+
+==== show all the test functions in a module ====
+<code>
+pytest --collect-only your_module_name.py
+</code>
+<code>
+pytest --collect-only -q your_module_name.py
+</code>
+<code>
+pytest --collect-only -v your_module_name.py
+</code>

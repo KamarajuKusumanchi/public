@@ -1,0 +1,10 @@
+==== 2025-05-19 ====
+reading journal:
+  * https://site.financialmodelingprep.com/market-news/fmp-visa-tops-q2-estimates-and-unveils-$30b-buyback-
+    * V announced \$30 billion share repurchase program.
+  * https://site.financialmodelingprep.com/market-news/tsmc-breaks-ground-on-third-arizona-fab-cementing-us-expansion
+    * TSMC kicked off construction on its third fabrication plant in Phoenix, Arizona
+    * TSMC CEO C.C. Wei
+  * https://site.financialmodelingprep.com/market-news/apples-india-shift-ambition-or-illusion-amid-us-tariff-threat
+    * In 2024 alone, Apple sold an estimated 65 million iPhones domestically, with nearly 60% of them being Pro or Pro Max models.
+    * Currently, just 15% of iPhones are assembled in India, mostly limited to lower-end variants like the base and Plus models.

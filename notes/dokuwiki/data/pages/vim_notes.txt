@@ -1,3 +1,18 @@
+===== Tips =====
+==== download gvim ====
+Official:
+  * https://ftp.nluug.nl/pub/vim/pc/gvim81.exe
+or
+
+https://www.vim.org/ -> click on the Download link in the left pane -> click on "PC: MS-DOS and MS-Windows" link -> click on gvim81.exe link
+
+alternate websites:
+  * https://fossies.org/windows/misc/gvim81.exe/
+
+Once you download the executable, compare its md5sum with that listed in http://ftp.vim.org/pub/vim/pc/MD5SUMS
+
+tags | checksum
+
 ===== How can I =====
 ==== vertical alignment of columns ====
   * [[pretty_print_csv_data#vim | pretty print csv data in vim]]

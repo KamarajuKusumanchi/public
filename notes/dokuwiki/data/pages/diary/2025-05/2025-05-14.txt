@@ -1,0 +1,9 @@
+==== 2025-05-14 ====
+reading journal
+  * https://en.wikipedia.org/wiki/Heron%27s_formula - Heron's formula
+    * Heron's formula (or Hero's formula) gives the area of a triangle in terms of the three side lengths.
+    * numerically unstable in the original form. But can be made stable by slight modifications as given in https://en.wikipedia.org/wiki/Heron%27s_formula#Numerical_stability
+  * https://en.wikipedia.org/wiki/Cyclic_quadrilateral - Cyclic quadrilateral
+    * a cyclic quadrilateral is a quadrilateral whose vertices all lie on a single circle.
+  * https://en.wikipedia.org/wiki/Shoelace_formula - Shoelace formula
+    * The shoelace formula is a mathematical algorithm to determine the area of a simple polygon whose vertices are described by their Cartesian coordinates in the plane.

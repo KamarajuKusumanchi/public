@@ -148,6 +148,9 @@ See also:
   * https://www.fidelity.com/go/youth-account/overview - Fidelity Youth
     * fidelity youth account for teens of age 13-17
   * https://www.fidelity.com/lending/securities-backed-line-of-credit - Line of credit
+  * https://www.fidelity.com/customer-service/investing/drs-faqs - Direct registration system (DRS) transfers
+    * has answers for questions like "how to direct register your shares in Fidelity account"
+
 
 
 ==== linking a bank account ====

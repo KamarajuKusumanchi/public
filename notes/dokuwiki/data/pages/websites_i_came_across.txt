@@ -1,0 +1,6 @@
+==== dummy ====
+  * https://search.worldcat.org/ - Find items in libraries near you
+    * worldcat probably stands for "world catalogue"
+    * sample links:
+      * https://search.worldcat.org/title/1473342305 - The Nvidia way : Jensen Huang and the making of a tech giant
+      * https://search.worldcat.org/title/1431034841 - The thinking machine : Jensen Huang, Nvidia, and the world's most coveted microchip

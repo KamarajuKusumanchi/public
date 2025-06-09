@@ -13,3 +13,7 @@ links I came across:-
   * https://github.com/lit26/finvizfinance/blob/master/example/example.ipynb
   * https://github.com/lit26/finvizfinance
   * https://github.com/lit26
+
+==== packages I came across ====
+  * https://pypi.org/project/autocommand/ - autocommand
+    * A library to automatically generate and run simple argparse parsers from function signatures.
