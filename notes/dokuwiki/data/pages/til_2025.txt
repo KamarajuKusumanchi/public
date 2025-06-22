@@ -1,4 +1,14 @@
 
+==== 2025-06-16 ====
+  * TIL about Kaliapparat. It is a ~200 year old device used for measuring carbon content in organic compounds.
+
+Ref:- https://cen.acs.org/articles/93/i35/Important-Artifact.html
+
+==== 2025-06-10 ====
+  * TIL that Reuters initially used carrier pigeons to deliver news and stock prices. From https://www.historyofinformation.com/detail.php?id=46 <WRAP>
+> In 1850 Paul Julius Reuter set up an information service, later called Reuters, using a "fleet of 45 carrier pigeons", to deliver news and stock prices between Brussels and Aachen — terminal points of the German and French-Belgian telegraph lines. Reuter's pigeons carried the messages between Brussels and Aachen within two hours, beating the railroad by six hours.
+</WRAP>
+
 ==== 2025-06-07 ====
   * TIL that Vietnam is the second largest coffee producer in the world.
 

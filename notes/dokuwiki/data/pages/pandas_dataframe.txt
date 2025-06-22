@@ -565,6 +565,34 @@ Out[2]:
 
 using | Python 3.11.8, pandas 2.1.4
 
+==== What strings are treated as NaNs? ====
+<code>
+default_pandas_read_csv_na_values = [
+    '',
+    '#N/A',
+    '#N/A N/A',
+    '#NA',
+    '-1.#IND',
+    '-1.#QNAN',
+    '-NaN',
+    '-nan',
+    '1.#IND',
+    '1.#QNAN',
+    '<NA>',
+    'N/A',
+    'NA',
+    'NULL',
+    'NaN',
+    'None',
+    'n/a',
+    'nan',
+    'null'
+]
+
+print(default_pandas_read_csv_na_values)
+</code>
+
+Ref:- https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html -> section on na_values
 ===== Tasks =====
   * [[extract last field from each row of a column]]
   * [[map one column to another]]

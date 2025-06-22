@@ -1,3 +1,70 @@
 ==== string concatenation ====
   * https://waymoot.org/home/python_string/ - Efficient String Concatenation in Python
     * It talks about various ways of doing string concatenation and then shows which approach is better.
+
+==== capitalize words on spaces ====
+Use string.capwords()
+<code>
+>>> from string import capwords
+>>> capwords("they're bill's friends from the UK")
+"They're Bill's Friends From The Uk"
+</code>
+
+Note: str.title() does not work in this case since it gives a different result.
+<code>
+>>> "they're bill's friends from the UK".title()
+"They'Re Bill'S Friends From The Uk"
+</code>
+
+Alternatively, a workaround for apostrophes can be constructed using regular expressions:
+
+<code>
+In [1]:
+import re
+def titlecase(s):
+    return re.sub(r"[A-Za-z]+('[A-Za-z]+)?",
+                  lambda mo: mo.group(0).capitalize(),
+                  s)
+
+titlecase("they're bill's friends.")
+Out[1]:
+"They're Bill's Friends."
+</code>
+
+Ref:-
+  * https://docs.python.org/3/library/string.html#string.capwords
+  * https://docs.python.org/3/library/stdtypes.html#str.title
+    * https://docs.python.org/3/genindex-T.html
+      * https://docs.python.org/3/genindex.html
+  * https://docs.python.org/3/library/stdtypes.html#str.capitalize
+
+==== debugging operator (=) in f-strings ====
+In Python >= 3.8, you can use the debugging operator <nowiki>(=)</nowiki> to see both the expression and its value but type it only once. For example
+
+<code>
+def area(length, width):
+    return length*width
+
+l = 8
+w = 6
+print(f"{area(l, w) = }")
+</code>
+
+gives
+<code>
+area(l, w) = 48
+</code>
+
+This is much better than doing
+<code>
+In [7]:
+f"area(l, w) = {area(l, w)}"
+Out[7]:
+'area(l, w) = 48'
+</code>
+
+Ref:- 
+  * https://docs.python.org/3/library/stdtypes.html#formatted-string-literals-f-strings - Formatted String Literals (f-strings)
+
+tags | replacement fields
+

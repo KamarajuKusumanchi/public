@@ -40,5 +40,5 @@
   * Persian Gulf
     * https://iilss.net/about-gulf-of-oman-facts-and-maps/
       * shows Persian Gulf and India in the same map
-
-
+  * https://www.britannica.com/place/Strait-of-Hormuz has a map of the Strait of Hormuz, Persian Gulf, and Arabian Sea
+    * The actual image link is https://cdn.britannica.com/22/187322-050-BC55D9EE/Strait-of-Hormuz.jpg

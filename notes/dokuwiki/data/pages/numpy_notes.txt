@@ -1,3 +1,27 @@
+==== numpy arrays as cells of a dataframe ====
+
+<code>
+>>> import numpy as np
+>>> import pandas as pd
+>>> x = np.array([2,3,1,0]); y = np.array([1,2,0,4])
+>>> df = pd.DataFrame({'a':[x,y], 'tradeid':['usd','eur']})
+
+>>> df
+              a tradeid
+0  [2, 3, 1, 0]     usd
+1  [1, 2, 0, 4]     eur
+
+>>> df.set_index('tradeid')
+                    a
+tradeid
+usd      [2, 3, 1, 0]
+eur      [1, 2, 0, 4]
+</code>
+
+demonstrates | how to create a numpy array
+
+tags | numpy array as element of a dataframe
+
 ==== dtype ====
 <code>
  % ipython            
