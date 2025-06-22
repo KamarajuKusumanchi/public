@@ -1,5 +1,5 @@
-==== sp500 predictions ====
-tags | sp500 price target
+==== sp500 price targets ====
+tags | sp500 predictions
 
 ^ asof ^ who ^ target price ^ by ^ ref ^
 | 2025-02-25 | UBS | 6,600 | 2025-12-31 | https://site.financialmodelingprep.com/market-news/ubs-predicts-sp--to-hit--by-yearend-despite-recent-market-volatility |
@@ -9,3 +9,11 @@ tags | sp500 price target
 | 2025-03-18 | RBC | 6,200 | 2025-12-31 | https://site.financialmodelingprep.com/market-news/rbc-revises-sp--yearend--target-to--amid-slower-growth-and-inflation-concerns |
 | 2025-04-07 | Julian Emanuel of Evercore ISI | 5,600 | 2025-12-31 | https://site.financialmodelingprep.com/market-news/evercore-isi-slashes-sp--target-amid-rising-stagflation-risks-and-trade-uncertainty |
 | 2025-04-08 | JPM | 5,200 | 2025-12-31 | https://site.financialmodelingprep.com/market-news/jpmorgan-lowers-sp--outlook-amid-tariff-shock-and-recession-fears |
+| 2025-06-03 | Deutsche Bank | 6,550 | 2025-12-31 | https://site.financialmodelingprep.com/market-news/deutsche-bank-raises-sp-yearend-target-to--on-eased-tariff-drag |
+| 2025-06-04 | Barclays | 6,050 | 2025-12-31 | https://site.financialmodelingprep.com/market-news/why-barclays-sees-the-sp-at--by-yearend |
+
+==== sp500 eps estimates ====
+^ asof ^ who ^ estimated eps ^ for year ^ ref ^
+| 2025-06-03 | Deutsche Bank | 267 | 2025 | https://site.financialmodelingprep.com/market-news/deutsche-bank-raises-sp-yearend-target-to--on-eased-tariff-drag |
+| 2025-06-04 | Barclays | 262 | 2025 | https://site.financialmodelingprep.com/market-news/why-barclays-sees-the-sp-at--by-yearend |
+| 2025-06-04 | Barclays | 285 | 2026 | https://site.financialmodelingprep.com/market-news/why-barclays-sees-the-sp-at--by-yearend |

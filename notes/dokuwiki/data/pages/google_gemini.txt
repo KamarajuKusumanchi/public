@@ -1,0 +1,6 @@
+==== missing features ====
+  * does not have a shareable link
+
+==== use cases ====
+  * can act as a rubber duck
+    * ref: https://shreevatsa.net/post/ai-for-writing-unexpected/

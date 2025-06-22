@@ -186,3 +186,27 @@ done
 Ref:-
   * https://linuxhint.com/bash_append_array/ - well written but the information density is low. So I just summarized the points here and renamed the variables a bit.
   * https://stackoverflow.com/questions/1951506/add-a-new-element-to-an-array-without-specifying-the-index-in-bash
+
+==== Using SECONDS variable to measure execution time ====
+Bash has a special shell variable ''SECONDS'' that contains the number of seconds since the shell was started. This is very convenient for measuring script execution time.
+
+Usage:
+<code>
+#!/bin/bash
+
+start_seconds=$SECONDS
+
+# Your script's commands go here
+echo "Running my script..."
+sleep 2
+echo "Script finished."
+
+duration=$((SECONDS - start_seconds))
+echo "Script took $duration seconds."
+</code>
+
+Ref:
+  * https://www.gnu.org/software/bash/manual/html_node/Bash-Variables.html#index-SECONDS
+
+Notes:
+  * No need to use \$ for variables inside <nowiki>$(( expression ))</nowiki>

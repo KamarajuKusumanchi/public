@@ -1,0 +1,7 @@
+==== 2025-06-11 ====
+reading journal:
+  * https://site.financialmodelingprep.com/market-news/interactive-brokers-stock-split-strong-performance - Interactive Brokers Group, Inc. (NASDAQ:IBKR) Announces Stock Split and Showcases Strong Performance
+    * Daily Average Revenue Trades (DARTs)
+    * The Electronic Brokerage segment of IBKR, responsible for trade clearance and settlement
+  * https://site.financialmodelingprep.com/market-news/alphabet-offers-voluntary-buyouts-in-search-and-ads-units-amid-competitive-legal-pressures - Alphabet Offers Voluntary Buyouts in Search and Ads Units Amid Competitive, Legal Pressures
+    * the Knowledge and Information organization, which houses Alphabet's flagship Search product and a significant portion of its ads operations.

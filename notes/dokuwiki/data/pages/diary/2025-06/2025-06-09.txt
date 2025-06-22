@@ -3,3 +3,12 @@ reading journal:
   * https://www.wsj.com/opinion/the-north-american-tariff-backfire-mexico-canada-trump-g7-2399bf01?mod=hp_opin_pos_5
     * Canada’s Prime Minister Mark Carney
     * Mexico’s President Claudia Sheinbaum
+  * https://www.cnbc.com/2025/06/09/amazon-to-spend-20-billion-on-data-centers-in-pennsylvania-including-one-next-to-a-nuclear-power-plant.html - Amazon to spend $20 billion on data centers in Pennsylvania, including one next to a nuclear power plant
+    * Amazon will spend \$20 billion on two data center complexes in Pennsylvania
+    * Since 2024 started, Amazon has committed to about $10 billion apiece to data center projects in Mississippi, Indiana, Ohio and North Carolina
+    * The majority owner of the Susquehanna nuclear power plant, Talen Energy (ticker: TLN)
+    * a “behind the meter” connection
+    * Federal Energy Regulatory Commission, FERC
+    * Three Mile Island nuclear power plant
+  * https://www.cnbc.com/2025/06/09/crypto-russia-laundering.html - Crypto CEO accused of laundering $500 million linked to sanctioned Russian banks
+    * Iurii Gugnin

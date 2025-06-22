@@ -1,0 +1,13 @@
+==== 2025-06-10 ====
+reading journal
+  * https://en.wikipedia.org/wiki/Plover - Plover
+  * https://en.wikipedia.org/wiki/Ward_Cunningham - Ward Cunningham
+    * Howard G. Cunningham developed the first wiki
+  * https://en.wikipedia.org/wiki/WikiWikiWeb - WikiWikiWeb
+    * The WikiWikiWeb is the first wiki. It was launched on 25 March 1995 by Ward Cunningham. It has been a read-only archive since 2015.
+  * https://site.financialmodelingprep.com/market-news/google-gemini-introduces-scheduled-actions-to-automate-daily-routines
+    * Google's AI assistant introduced a new feature called "Scheduled Actions" to automate recurring tasks
+    * proactive AI
+    * anticipatory action
+    * Google's AI-first strategy
+    * Competitors of Google's Gemini: OpenAI, Microsoft Copilot, and Amazon Q.
