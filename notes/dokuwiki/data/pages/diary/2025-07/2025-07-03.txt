@@ -1,0 +1,18 @@
+==== 2025-07-03 ====
+reading journal:
+  * https://www.wheresyoured.at/core-incompetency/ - CoreWeave Is A Time Bomb - 2025-03-17
+
+  * https://ustr.gov/countries-regions
+    * shows US trade deficit w.r.t. other countries. For example
+      * https://ustr.gov/countries-regions/china-mongolia-taiwan/peoples-republic-china shows how much US exported/imported to/from China in 2024.
+      * https://ustr.gov/countries-regions/south-central-asia/india same thing for India
+      * https://ustr.gov/countries-regions/southeast-asia-pacific/vietnam same thing for Vietnam
+    * answers questions such as "what is US trade deficit with country X?"
+
+  * https://en.wikipedia.org/wiki/Suchir_Balaji - Suchir Balaji
+    * AI researcher at OpenAI, died a few weeks after accusing them of violating US copyright law.
+
+video journal:
+  * https://charlierose.com/videos/31221 - Charlie Rose interview of Warren Buffett - 2022-04-14
+  * https://www.youtube.com/watch?v=Zf-jmTqe_c0 - Bob Mortimer: "I can break an apple in half with my bare hands." | Would I Lie To You?
+    * shows how to break an apple with bare hands

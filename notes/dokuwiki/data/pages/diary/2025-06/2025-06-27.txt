@@ -1,0 +1,43 @@
+==== 2025-06-27 ====
+reading journal:
+  * https://www.wsj.com/tech/ai/ai-prompt-video-energy-electricity-use-046766d6 - How Much Energy Does Your AI Prompt Use? I Went to a Data Center to Find Out.
+    * The model training happens earlier with Nvidia chips.
+    * Rival chips from companies like Amazon, Google or Groq are also starting to be used for inference.
+    * “SuperPod” of Nvidia H100 GPUs run by Equinix, one of the world’s largest operators of data centers that provide cloud infrastructure—and now, AI
+    * AI training can happen just about anywhere, inference is best done geographically closer to users to deliver the best speed and efficiency.
+    * the average ChatGPT query uses about 0.34 watt-hours of energy
+    * open-source AI platform Hugging Face
+    * smartphone uses around 10 watt-hours of energy
+    * Text queries: 0.17 to 1.7 watt hours, Images: 1.7 watt-hours, Video: 20 to 110 watt-hours for a 6 second SD video
+    * a thin, medium-well steak uses 220 watt-hours
+    * Nvidia’s last-generation Hopper chips
+    * Nvidia's latest Blackwell Ultra chips
+
+  * https://www.wsj.com/finance/investing/why-there-will-never-be-another-warren-buffett-2b5fa268?mod=author_content_page_1_pos_7 - Why There Will Never Be Another Warren Buffett - 2025-05-03
+    * the person, the period and the package
+    * tax-loss carryforwards and amortization schedules
+    * I estimate that Buffett has read more than 100,000 financial statements in his more-than-seven-decade career
+    * Warren Buffett
+      * prodigious memory
+      * his memory is almost supernatural
+      * a human form of artificial intelligence
+      * he won “the ovarian lottery” by being born when and where he was
+      * he took over Berkshire in 1965
+    * the kernel of significance
+    * Omsk 
+    * Trans-Siberian Railway
+    * Dempster Mill Manufacturing, a maker of agricultural equipment based in Beatrice, Neb.
+    * Sanborn Map, a New York-based cartography company
+    * "procyclicality"
+    * Pigs will sprout feathers before anybody has the daring to try truly emulating Warren Buffett.
+
+  * https://www.wsj.com/finance/investing/read-the-wsjs-early-coverage-of-warren-buffett-01b09b9c?mod=series_buffett - Read the WSJ’s Early Coverage of Warren Buffett - 2025-05-03
+    * “Whos News” article
+    * Seabury Stanton
+    * a New England textile company called Berkshire Hathaway
+    * A policy disagreement with “certain outside interests” who had just bought a controlling slice of the shares. 
+    * That outside interest was a 34-year-old Warren Buffett.
+    * a book called “Supermoney.”
+    * aw-shucks demeanor
+    * a curious mixture of the sophisticated and the homespun
+    * Buffett's talk is larded with sports imagery and Main Street colloquialisms, yet he frequently quotes Bertrand Russell.

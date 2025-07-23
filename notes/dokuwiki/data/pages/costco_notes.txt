@@ -47,7 +47,15 @@ https://investor.costco.com/stock-info/dividend-history/default.aspx -> "Dividen
     * Ref:- https://www.bloomberg.com/news/articles/2023-09-25/costco-offers-health-care-to-members-in-deal-with-sesame-cost?srnd=premium
   * Charlie Munger served on Costco’s board from 1997 until his death in 2023
 
-
+==== hours ====
+Executive member shopping hours from 2025-06-30:
+  * Mon - Fri: 9 am - 
+  * Sat: 9 am - 7 pm
+  * Sun - 9 am - 
+Gas station hours:
+  * Mon - Fri: 6 am - 10 pm
+  * Sat: 6 am - 8:30 pm
+  * Sun: 6 am - 7:30 pm
 ==== Morganville Costco ====
   * Costco does not do check printing anymore.
     * checked on | 2024-02-18

@@ -1,12 +1,27 @@
+==== 2025-07-21 ====
+  * TIL that Warfarin, the medication widely used to prevent dangerous blood clots in humans, was originally developed and is still used as rat poison. It's all about the dose! In tiny amounts, it helps stop human blood from clotting excessively, but in larger concentrations, it's lethal to rodents.
+
+Ref:-
+  * (The Medicine Book - Big Ideas Simply Explained - DK Publishing - 2021) -> pg-58
+  * https://www.nature.com/articles/nrcardio.2017.172 - Warfarin: from rat poison to clinical use
+
+==== 2025-07-04 ====
+  * TIL about Ian knot from https://www.youtube.com/watch?v=_O-xaJrao1w . It shows how to tie shoe laces quickly. It took me 5 minutes to learn it and I found it very useful.
 
 ==== 2025-06-16 ====
-  * TIL about Kaliapparat. It is a ~200 year old device used for measuring carbon content in organic compounds.
-
+  * TIL about Kaliapparat. It is a ~200 year old device used for measuring carbon content in organic compounds. <WRAP>
 Ref:- https://cen.acs.org/articles/93/i35/Important-Artifact.html
-
-==== 2025-06-10 ====
+</WRAP>
+==== 2025-06-12 ====
   * TIL that Reuters initially used carrier pigeons to deliver news and stock prices. From https://www.historyofinformation.com/detail.php?id=46 <WRAP>
 > In 1850 Paul Julius Reuter set up an information service, later called Reuters, using a "fleet of 45 carrier pigeons", to deliver news and stock prices between Brussels and Aachen — terminal points of the German and French-Belgian telegraph lines. Reuter's pigeons carried the messages between Brussels and Aachen within two hours, beating the railroad by six hours.
+</WRAP>
+
+==== 2025-06-10 ====
+  * TIL about Cunningham's Law. <WRAP>
+It states that "the best way to get the right answer on the internet is not to ask a question; it's to post the wrong answer."
+
+Ref:- https://meta.wikimedia.org/wiki/Cunningham%27s_Law
 </WRAP>
 
 ==== 2025-06-07 ====

@@ -9,3 +9,7 @@ Ref:- https://stackoverflow.com/questions/8197812/how-do-i-configure-notepad-to-
 ==== links I came across ====
   * Move a tab to new window
     * https://stackoverflow.com/questions/13252968/how-do-i-move-a-tab-in-notepad-to-a-new-window
+
+===== How to =====
+==== start a new instance of notepad++ ====
+  * If Notepad++ is already open, press Alt + F6. This will immediately open a new, blank instance of Notepad++.

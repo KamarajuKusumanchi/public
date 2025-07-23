@@ -9,6 +9,7 @@
   * [[https://www.wsj.com/news/author/jason-zweig | Jason Zweig]] (wsj.com) write very good investigative articles. See for example
     * https://www.wsj.com/finance/investing/kenneth-boyle-paul-regan-next-level-yield-wealth-903910f9?mod=article_inline
     * https://www.wsj.com/finance/investing/yield-term-deposits-paul-regan-8042122d
+    * https://www.wsj.com/finance/investing/these-funds-are-yield-magicians-how-do-they-do-it-ea63151a
 
   * Jacob Sonenshine and Nicholas Jasinski - their articles have {good analysis; to the point; easy to read}. For example, see
     * https://www.barrons.com/articles/earnings-stocks-gains-rally-outlook-fff4ad0c

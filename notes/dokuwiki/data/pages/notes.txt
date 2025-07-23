@@ -88,7 +88,8 @@
   * [[google speaker notes]]
   * [[google pixel 6]]
   * [[google calendar notes]]
-  * [[google gemini]]
+  * [[gemini notes]]
+  * [[one drive notes]]
   * [[confluence notes]]
   * [[regex notes]]
   * [[corona virus]]
@@ -313,6 +314,11 @@
   * [[comptometer]]
   * [[recent sales in pdj]]
   * [[moisturizer notes]]
+  * [[knots]]
+  * [[cnbc notes]]
+  * [[health notes]]
+  * [[sql notes]]
+  * [[Warfarin]]
 
 ==== by date ====
   * [[reading journal 2024]]

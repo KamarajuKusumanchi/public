@@ -1,5 +1,8 @@
+tags | google gemini
+
 ==== missing features ====
   * does not have a shareable link
+  * there isn't a "copy all sources" or "export citations" feature that automatically gathers all the source links from a Gemini answer
 
 ==== use cases ====
   * can act as a rubber duck

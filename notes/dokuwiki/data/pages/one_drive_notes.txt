@@ -1,0 +1,3 @@
+==== issues in one drive ====
+  * In onedrive.com, the previous and next buttons are not appearing when browsing a folder of pdfs
+    * faced this issue on 2025-07-19

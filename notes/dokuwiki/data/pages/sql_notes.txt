@@ -1,0 +1,4 @@
+==== useful links ====
+  * https://sql-bits.com/the-difference-between-where-and-having/ - The difference between WHERE and HAVING
+    * Written very well. Short and to the point. Easy to understand.
+    * It is worth reading this page in its entirety.

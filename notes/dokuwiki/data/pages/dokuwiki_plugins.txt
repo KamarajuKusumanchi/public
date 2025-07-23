@@ -49,6 +49,16 @@ google search | citing sources
 related links
   * https://en.wikipedia.org/wiki/Wikipedia:Citing_sources
 
+==== plugins for definition lists ====
+  * https://www.dokuwiki.org/plugin:yalist - yalist Plugin
+    * aka Simple universal list plugin
+    * versatile and powerful
+    * using asof 2025-07-17
+  * https://www.dokuwiki.org/plugin:definitionlist - Definition List Plugin
+    * Outdated. Asof 2025-07-17, this was last updated on 2017-08-17
+  * https://www.dokuwiki.org/plugin:extlist - Extended List Syntax Plugin
+    * yalist seems to be more comprehensive than this. But I have not tried it.
+
 ==== useful plugins ====
   * https://www.dokuwiki.org/plugin:tag - add search tags to the wiki pages.
     * favorite configuration:

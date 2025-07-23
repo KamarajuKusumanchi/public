@@ -1,0 +1,18 @@
+==== 2025-06-26 ====
+reading journal:
+  * https://www.bloomberg.com/news/articles/2025-06-25/google-debuts-gemini-ai-coding-tool-in-bid-to-entice-developers - Google Debuts Gemini AI Coding Tool in Bid to Entice Developers
+    * Gemini CLI
+      * Google's AI coding assistant
+      * use ordinary language to work with AI
+      * open source
+      * rival products: OpenAI’s Codex and Anthropic’s Claude Code
+    * Taylor Mullen, a Google senior staff software engineer
+  * https://www.cnbc.com/2025/06/26/ai-salesforce-benioff.html
+    * Bloomberg’s Emily Chang
+    * Salesforce
+      * software giant
+      * cut 1,000 positions earlier this year as it restructured around AI
+    * cybersecurity giant CrowdStrike
+  * https://www.entrepreneur.com/business-news/amazon-tells-employees-to-relocate-to-main-hubs-or-resign/493594 - Amazon Tells Thousands of Employees to Relocate or Resign
+    * Summary: Amazon is currently requiring some corporate employees to relocate closer to their team hubs, such as Seattle, Arlington, Virginia, and Washington D.C. This directive is being communicated through individual meetings and town halls, and affected employees are reportedly given a short timeframe (e.g., 30 days) to decide whether to move or resign. Those who choose to resign may not receive severance packages.
+

@@ -13,6 +13,33 @@ Once you download the executable, compare its md5sum with that listed in http://
 
 tags | checksum
 
+==== Move a file from vim to gvim ====
+Say you are editing a file in vim and would like to open it in a gvim window of its own
+
+<code>
+:execute 'bdelete | silent !gvim' shellescape(expand('%:p'), 1) | redraw!
+</code>
+
+To launch a gvim instance from vim
+
+<code>
+:execute 'silent !gvim' | redraw!
+</code>
+
+See also:
+
+  * <nowiki>http://malayamaarutham.blogspot.com/2008/10/open-new-gvim-window-from-gvim.html</nowiki>
+  * <nowiki>http://stackoverflow.com/questions/19553342/gvim-move-tab-to-new-window</nowiki>
+===== Plugins =====
+==== NrrwRgn ====
+A Narrow Region Plugin for vim (like Emacs Narrow Region). The development version is at https://github.com/chrisbra/NrrwRgn . The stable version can be found at http://www.vim.org/scripts/script.php?script_id=3075.
+
+Using the stable version 32, I encountered some problems with highlighting - https://groups.google.com/forum/#!topic/vim_use/WFheSJa8_Wo (Last checked 2014-12-21). The issue is present even in the development version but I am unable to reproduce it (last checked 2015-01-24). It is suggested to upgrade to vim 7.4 in order to use the dev version.
+
+==== plugins I came across ====
+  * [[https://github.com/preservim/vim-pencil | vim-pencil]] (github.com/preservim)
+  * [[https://github.com/ycm-core/YouCompleteMe | YouCompleteMe]] (github.com/ycm-core)
+
 ===== How can I =====
 ==== vertical alignment of columns ====
   * [[pretty_print_csv_data#vim | pretty print csv data in vim]]

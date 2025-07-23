@@ -44,6 +44,14 @@ tags | berkshire, tariffs, import certificates
 ==== 2025-04-08 ====
   * https://xkcd.com/3073/ - Tariffs
 
+==== 2025-04-07 ====
+  * https://aswathdamodaran.blogspot.com/2025/03/investing-politics-globalization.html - Investing Politics: Globalization Backlash and Government Disruption!
+    * Has a [[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjCkCZazznFUhzWX0YA3VBtHg7NYXaKYvvSLqS9ft7oUU8mlr_dc9fLymrx1yiIt8MAxcl8kuXYa1qIuyvb8hdLzMqYbz70vIi1UgvgP2VHUmm1IgrnrYDfzbGa7jikDP0XkIXCl2lVfhyRLAsGnx4fIq2czEPlysqYlTMk5lbhbbo4dulMlcQpbqe6mI/s2374/GDPPieCharts.jpg | picture]] that breaks down global GDP into different regions in 1995 and in 2023 from which the author concludes <code>
+While not all growth from globalization is zero-sum, a significant portion
+during this period was, with economic power and wealth shifting from Europe
+and Japan to newly ascendant economies.
+</code>
+
 ==== 2025-04-06 ====
   * https://www.murthy.com/2025/04/04/f-1-student-visa-revocations-sevis-terminations/ - F-1 Student Visa Revocations / SEVIS Terminations <code>
 Some reasons we have seen for such revocations include:

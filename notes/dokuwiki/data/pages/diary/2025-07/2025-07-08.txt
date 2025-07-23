@@ -1,0 +1,43 @@
+==== 2025-07-08 ====
+reading journal
+  * https://www.janestreet.com/puzzles/ - puzzles intro
+    * https://www.janestreet.com/puzzles/current-puzzle/ - current puzzle
+    * https://www.janestreet.com/puzzles/archive/ - puzzles archive
+
+  * https://www.wsj.com/finance/regulation/india-cracks-down-on-jane-streets-lucrative-derivatives-trades-b59b0c17?mod=finance_lead_pos3 - India Cracks Down on Jane Street’s Lucrative Derivatives Trades - 2025-07-04
+    * India accounts for around 80% of equity options contracts traded worldwide by daily turnover, according to industry data. SEBI said nine out of 10 individual traders were registering losses.
+    * Jane Street
+      * founded in New York by four partners around 2000
+      * now has around 3,000 employees
+      * trades in 45 countries
+    * SEBI said it started its probe after reading media reports on Jane Street’s April 2024 lawsuit against rival Millennium Management and two Jane Street employees who went to work there.
+
+  * https://www.bloomberg.com/news/articles/2025-07-04/india-bars-jane-street-from-accessing-its-securities-market
+    * Ananth Narayan, a board member at SEBI
+    * India, the world’s largest derivatives market by contracts traded
+    * Tejas Shah, head of derivatives trading at Equirus Securities Pvt.
+    * Nuvama Wealth Management Ltd., Jane Street’s local trading partner
+    * Charu Chanana, chief investment strategist at Saxo Markets in Singapore
+    * Optiver
+
+  * https://www.ft.com/content/41c4789a-afa6-462c-a6ea-9704c2ba78a7 - The details of Jane Street’s alleged ‘sinister scheme’ in India
+    * the BANKNIFTY [Indian bank stocks] index level
+    * https://d1e00ek4ebabms.cloudfront.net/production/uploaded-files/1751584518593-219afcc4-a953-4940-b810-934df0c131a9.pdf
+    * Basically, SEBI alleges that Jane Street went long the Indian bank equity index BANKNIFTY through futures and the stocks themselves, but much shorter through options — with positions over seven times larger than the long position. It then allegedly dumped nearly all its long positions in BANKNIFTY stocks, hammering the stocks and lifting the value of the larger put option position.
+    * Jane Street
+      * net trading revenue: {2023: \$10.5 bn, 2024: \$20.5bn}
+      * Asia as a whole accounted for 14 per cent of net trading revenues in 2023
+
+  * https://www.cnbc.com/2025/07/08/jane-street-to-challenge-india-ban-says-it-engaged-in-basic-arbitrage.html
+    * SEBI widened its investigation to include other indexes and exchanges
+    * the Securities Appellate Tribunal
+    * India accounted for roughly 60% of global equity derivative trading volume in May 2025
+    * SEBI Chairman Tuhin Kanta Pandey
+    * Other overseas proprietary trading firms that are active in India include Citadel Securities, IMC Trading, Millennium and Optiver
+
+  * https://www.cnbc.com/2025/07/08/elon-musk-lashes-out-at-dan-ives-over-tesla-board-proposals-shut-up.html - Elon Musk lashes out at Dan Ives over Tesla board proposals: 'Shut up'
+    * Wedbush Securities’ Dan Ives
+    * the Delaware Court of Chancery
+    * Trump supporter James Fishback, CEO of hedge fund Azoria Partners
+    * the Azoria Tesla Convexity ETF
+    * Tesla’s board chair Robyn Denholm and investor relations representative Travis Axelrod

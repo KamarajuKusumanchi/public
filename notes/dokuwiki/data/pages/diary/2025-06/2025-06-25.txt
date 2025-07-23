@@ -1,0 +1,21 @@
+==== 2025-06-25 ====
+reading journal:
+  * https://www.barrons.com/articles/smuckers-hostess-merger-writedown-fb7e1b16 - Smucker’s \$5.6 Billion Purchase of Twinkies Maker Hostess Is Melting Down
+    * J.M. Smucker acquired Hostess Brands
+      * for \$5.6 billion in 2023
+      * paid ~30 times after-tax earnings and 17 times Ebitda
+        * Food stocks then traded ~15 times after-tax earnings
+      * wrote down (noncash impairment charge) \$2 billion
+    * Hostess is the maker of Twinkies, Donettes, cupcakes, and other treats sold in grocery and convenience stores.
+    * Novo Nordisk's GLP-1 diet drug Wegovy
+    * J.M. Smucker
+      * maker of Folgers coffee, Smucker’s jam, and Milk-Bone dog biscuits
+    * Health and Human Services Secretary Robert F. Kennedy Jr
+    * Hostess Cupcakes
+
+  * https://www.barrons.com/articles/fed-eslr-bank-capital-rule-0f6fb86c
+    * published 2025-06-12
+    * the enhanced supplementary leverage ratio, or eSLR
+      * measures a bank’s Tier 1 capital relative to its exposure to leverage
+
+  * https://www.barrons.com/articles/fed-eslr-bank-capital-rule-0f6fb86c - Why Berkshire Hathaway Class A Stock Is a Better Bet Than Class B—If You Can Afford It - 2025-06-25

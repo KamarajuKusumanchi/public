@@ -1,0 +1,4 @@
+==== ethymology ====
+  * The name "warfarin" stems from the acronym WARF, for Wisconsin Alumni Research Foundation + the ending "-arin" indicating its link with coumarin. Warfarin was first registered for use as a rodenticide in the US in 1948, and was immediately popular. Although warfarin was developed by Link, the Wisconsin Alumni Research Foundation financially supported the research and was assigned the patent.
+
+Ref:- https://en.wikipedia.org/wiki/Warfarin

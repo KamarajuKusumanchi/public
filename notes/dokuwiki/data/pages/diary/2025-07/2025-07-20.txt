@@ -1,0 +1,11 @@
+==== 2025-07-20 ====
+reading journal:
+  * https://www.wsj.com/finance/currencies/tether-stablecoin-genius-act-e403a59b - Stablecoin Giant Tether Is the ‘Genius Act’s Big Loser - WSJ - 2025-06-25
+    * Tether, the No. 1 player in stablecoins
+    * The Genius Act would require stablecoin issuers to underpin the value of their tokens with reserves of cash, short-term Treasurys and similarly safe assets.
+    * Larger issuers would be required to publish annual, audited financial statements.
+    * Tether Chief Executive Paolo Ardoino
+    * One of the Genius Act’s biggest beneficiaries is Tether’s homegrown U.S. rival Circle, which went public on the New York Stock Exchange this month and is the issuer of the second-largest stablecoin.
+    * Under the Genius Act, stablecoin issuers must register with U.S. regulators—unless they are regulated by a foreign country whose rules are deemed to be similar to those of the U.S.
+    * Tether recently moved its headquarters to El Salvador. The firm was previously domiciled in the British Virgin Islands.
+    * El Salvador's president is Nayib Bukele

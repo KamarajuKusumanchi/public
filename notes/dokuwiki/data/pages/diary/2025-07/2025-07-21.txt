@@ -1,0 +1,54 @@
+==== 2025-07-21 ====
+reading journal:
+  * https://www.cnbc.com/2025/07/21/insider-report-these-stocks-had-the-biggest-sales-by-executives-in-the-past-week.html - Insider report: These stocks had the biggest sales by executives in the past week
+    * The data is from VerityData
+    * Heico
+      * executive chairman Laurans Mendelson
+      * jet engine and airplane component maker
+    * AeroVironment
+      * CEO Wahid Nawabi
+      * drone maker
+    * Costco officer Yoram Rubanenko
+    * Morgan Stanley CFO Sharon Yeshaya
+    * John Reed, Johnson & Johnson’s executive vice president
+    * Paychex
+      * CEO John Gibson
+      * HR firm
+    * Dream Finder Homes
+      * William Radford Lovett II, an investor in it
+      * homebuilder
+
+  * https://www.barrons.com/articles/trade-desk-stock-sp-500-addition-fa4470ea - Trade Desk Stock Jumps After S&P 500 Addition - July 15, 2025
+    * Trade Desk (ticker: TTD)
+      * will be added to the S&P 500 index on 2025-07-18 before market open
+      * provides a platform for advertising buyers
+    * TTD now becomes the 13th ‘Net company added to the index,”
+    * Ansys, which is being purchased by S&P 500 constituent Synopsys
+
+  * https://www.barrons.com/articles/john-malone-gci-liberty-spinoff-c79b4971 - Media Mogul John Malone Is Upbeat on Alaskan Telecom Spinoff. The Stock Debuted Cheaply. - July 15, 2025
+    * the media mogul John Malone
+      * The 84-year-old Malone, who is chairman and controlling shareholder of GCI Liberty
+      * is also the chairman of Liberty Media
+    * GCI Liberty, an Alaskan telecom and broadband spinoff
+    * Spinoffs are a fertile area for investors to find bargains.
+    * They often emerge cheaply as holders of stock in the corporate parent dump shares they receive via the deals, and Wall Street takes its time to understand the stories of the newly independent companies.
+    * Spinoff winners have included GE Vernova, cereal maker W.K. Kellogg, and Millrose Properties, which emerged from home builder Lennar earlier this year.
+    * GCI Liberty’s nonvoting stock, with the ticker GLIBK
+    * peers in cable, broadband, and telecom
+    * annual operating income before interest, depreciation and amortization. That metric, known as Oibda, is similar to earnings before interest, taxes, depreciation, and amortization, or Ebitda.
+    * two largest cable and broadband companies, Comcast and Charter Communications
+    * the Atlanta Braves baseball team
+    * Sirius XM Holdings
+    * Liberty Media’s chief asset now is the Formula One racing business, traded with the ticker FWONK
+    * Liberty Broadband
+    * GCI Liberty is Alaska’s largest telecom company, having operated in the state for more than 40 years. It provides data, wireless, and phone services across a vast, lightly populated area with a harsh climate and few connecting roads. The company has sometimes been referred to as a cable provider, but it no longer has video subscribers.
+    * One competitor is Elon Musk’s Starlink, which provides satellite-based internet services, though the company doesn’t view Starlink as a serious threat outside the most remote parts of the state.
+    * CEO Ron Duncan, GCI Liberty
+    * the federal Universal Service Fund, which offers subsidies to telecom and broadband customers in underserved areas
+
+  * https://www.cnbc.com/2025/07/21/youtube-channels-propaganda-china-russia.html - YouTube wipes out propaganda channels linked to China, Russia, others
+    * Jul 21 2025
+    * Google removed nearly 11,000 YouTube channels
+    * RT, the Russian state-controlled media outlet
+    * Google took down more than 23,000 accounts in the first quarter.
+    * Meta removed about 10 million profiles last week

@@ -1,3 +1,19 @@
+==== create parser ====
+<code>
+import argparse
+
+def create_parser():
+    parser = argparse.ArgumentParser(description='Get list of elements')
+    parser.add_argument('elements', nargs='+', help="list of elements")
+    return parser
+
+if __name__ == '__main__':
+    parser = create_parser()
+    args = parser.parse_args()
+</code>
+
+  * http://dustinrcollins.com/testing-python-command-line-apps - shows how to test command line python apps. Notice how he breaks up the code. The function create_parser() only initializes the parser and adds arguments. The actual parsing is done after calling the create_parser() function. This way we can use create_parser() in unit tests and modify it as needed.
+
 ==== only allow some values for a positional argument ====
 tags | valid values
 

@@ -17,6 +17,16 @@ When Samba mapping is used to edit files on a windows machines that were origina
   * The executable bit is not set correctly. So, whenever a script is edited and saved on windows, I have to manually "chmod +x" it on Linux machine.
   * If a softlink is edited and saved on windows, the changes do not propagate to the original file. Instead, it creates a totally new file with the softlink's name.
 
+==== move windows ====
+
+Press alt+<space>m and then use arrow keys
+
+tested on | windows 10 enterprise
+
+google search | command line shortcut to move windows
+
+  ? Situation
+  : I did not find the symphony chat window when I remoted into my work desktop that had two monitors. I used this shortcut to move the chat window to the active monitor.
 ==== search button in taskbar not working ====
 Symptom: The search button in the task bar does not respond to the keyboard.
 

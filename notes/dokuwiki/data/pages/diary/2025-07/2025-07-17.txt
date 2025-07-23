@@ -1,0 +1,34 @@
+==== 2025-07-17 ====
+reading journal:
+  * https://www.wsj.com/opinion/florida-tomatoes-mexico-tariffs-donald-trump-protectionism-53573698?mod=hp_opin_pos_2 - The Tomato Tariff Racket - 2025-07-17
+    * Florida's nickname is the "Sunshine State"
+    * The Commerce Department imposed a 17% duty on fresh Mexican tomatoes Monday
+    * Mexican fresh tomatoes rising to about 60% of the U.S market
+    * the U.S. International Trade Commission
+    * the suspension agreement
+    * Mexico’s tomato boom is driven by technology
+    * adopted greenhouses that carefully control water, temperature and nutrition, usually located at high altitudes
+    * Much of this tech was developed in Canada, but American growers have been slow to deploy it.
+    * Florida, which is the top U.S. producer of fresh tomatoes
+    * The new import duty will raise fresh tomato prices by 7%
+
+  * https://www.federalreserve.gov/newsevents/pressreleases/monetary20250618a.htm - Federal Reserve issues FOMC statement - 2025-06-18
+    * unemployment rate remains low
+    * labor market conditions remain solid
+    * Inflation remains somewhat elevated
+    * 4-1/4 to 4-1/2 percent
+    * will continue reducing its holdings of Treasury securities and agency debt and agency mortgage‑backed securities
+
+  * https://www.heart.org/en/news/2024/03/18/time-restricted-eating-may-raise-cardiovascular-death-risk-in-the-long-term - Time-restricted eating may raise cardiovascular death risk in the long term - 2024-03-18
+    * A popular weight loss strategy that limits the hours during which calories can be consumed may nearly double a person's long-term risk of dying from cardiovascular disease, new research finds, especially among people with underlying cardiovascular disease or cancer.
+    * it is too soon to conclude that people should avoid time-restricted eating if it helps them meet their weight loss goals
+    * People who restricted their eating to a period of less than eight hours each day were nearly twice as likely to die of cardiovascular disease, which included heart disease and stroke, within a median follow-up of eight years, compared to those who ate their meals over a 12- to 16-hour period. The eight-hour eating window was associated with higher cardiovascular mortality in the general population as well as those who had pre-existing cardiovascular disease or cancer.
+
+  * https://www.cnbc.com/2025/07/17/high-fructose-syrup-producer-adm-stock-falls-after-trump-says-coca-cola-to-use-real-cane-sugar.html - High fructose syrup producer ADM stock falls after Trump says Coca-Cola to use real cane sugar
+    * high fructose corn syrup producer Archer-Daniels-Midland (ADM)
+    * Global ingredients provider Ingredion
+    * the Corn Refiners Association, an industry trade group
+    * PepsiCo
+      * CEO Ramon Laguarta
+      * 60% of the company’s U.S. beverages don’t have corn syrup and instead either have sugar or no sugar
+      * plans to remove artificial ingredients from its Lays and Tostitos brands by the end of the year

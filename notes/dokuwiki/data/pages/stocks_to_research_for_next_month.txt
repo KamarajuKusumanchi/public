@@ -1,5 +1,37 @@
 tags | stocks to watch for next month, companies I came across
 
+==== 2025-07-07 ====
+  * PLNT
+    * price: \$106.90
+    * Operating margin: 27.87%, P/S: 7.44
+    * P/E: 50.69, Fwd P/E: 31.05
+
+==== 2025-07-05 ====
+  * GOOG - Google's gemini is super useful and a wonderful tool.
+
+==== 2025-07-03 ====
+  * SMH - VanEck Semiconductor ETF
+    * price on 2025-07-02 = \$281.25
+    * Per https://www.vaneck.com/us/en/investments/semiconductor-etf-smh/performance/, as of 2025-06-30
+      * its NAV has increased at an annual rate of 27.56% for the past 10 years.
+      * price = P/E = 36.75, P/B = 6.50
+      * beta = 1.29, corr vs. sp500 = 0.91, vol = 31.74, sharpe ratio = 1.10
+
+==== 2025-06-28 ====
+  * Cloudflare
+    * Does not have any earnings over the last years. Do not buy it. <code>
+Fiscal Year End, Revenue, GAAP Net Income (Loss)
+Dec 31, 2024, $1.67 Billion, -$78.8 Million
+Dec 31, 2023, $1.30 Billion, -$183.9 Million
+Dec 31, 2022, $975.24 Million, -$193.4 Million
+Dec 31, 2021, $656.43 Million, -$260.3 Million
+Dec 31, 2020, $431.06 Million, -$119.4 Million
+</code>
+
+Ref:-
+  * https://macrotrends.net/stocks/charts/NET/cloudflare/revenue
+  * https://macrotrends.net/stocks/charts/NET/cloudflare/net-income
+
 ==== 2025-06-12 ====
   * Fairfax Financial Holdings Limited (FRFHF)
     * https://finance.yahoo.com/quote/FRFHF/

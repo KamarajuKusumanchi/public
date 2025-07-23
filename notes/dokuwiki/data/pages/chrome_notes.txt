@@ -272,6 +272,32 @@ https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbh
       - Hold Ctrl and press the left mouse button
     * https://chrome.google.com/webstore/detail/autoscroll/occjjkgifpmdgodlplnacmkejpdionan?hl=en
 
+  * super-simple-highlighter
+    * quickly highlight things as you read along
+    * export notes in a markdown format
+    * no fremium nonsense
+    * no need to create an account
+    * https://chromewebstore.google.com/detail/super-simple-highlighter/hhlhjgianpocpoppaiihmlpgcoehlhio
+    * https://github.com/dexterouslogic/super-simple-highlighter
+      * This repository was archived by the owner on May 8, 2023. It is now read-only.
+      * The last release, v4.0.3 was created on 2023-05-07
+      * The code uses Manifest V2 format.
+      * Instead of this repo, use the link from chrome web store. It has a newer version (2025.04.27) and uses Manifest V3 format.
+    * https://www.dexterouslogic.com/supersimplehighlighter/changelog/
+    * https://www.dexterouslogic.com/supersimplehighlighter/help/
+
+==== download an extension as a zip file ====
+Assumption:
+  * The chrome extension is available on the chrome web store.
+Requirement:
+  * Download the extension as a zip file without actually installing it.
+Solution:
+  * Use https://robwu.nl/crxviewer/
+
+Steps:
+  * Get the chrome web store link (ex:- https://chromewebstore.google.com/detail/super-simple-highlighter/hhlhjgianpocpoppaiihmlpgcoehlhio)
+  * paste it in https://robwu.nl/crxviewer/ -> "Open in this viewer" -> click on the Download link in the top right.
+
 ===== bookmarks related =====
 ==== bookmarks file ====
 C:\Users\<username>\AppData\Local\Google\Chrome\User Data\Default\Bookmarks

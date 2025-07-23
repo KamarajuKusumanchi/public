@@ -1,0 +1,22 @@
+==== 2025-07-14 ====
+reading journal:
+  * https://www.cnbc.com/2025/07/14/starbucks-to-require-employees-in-office-four-days-a-week-offer-payouts.html - Starbucks employees to return to the office four days a week — or take a payout
+
+  * https://www.cnbc.com/2025/07/14/gm-lg-ultium-spring-hill-tennessee-plant-ev-batteries.html - GM, LG to upgrade Tennessee plant to make low-cost EV batteries
+    * Ultium Cells — a joint venture between General Motors and LG Energy Solution
+    * Spring Hill, Tennessee
+    * expensive minerals like cobalt and nickel
+    * lithium iron phosphate (LFP) battery cells
+    * new battery development labs in Michigan
+
+  * https://www.cnbc.com/2025/07/14/many-us-ice-cream-producers-to-phase-out-artificial-food-dyes-by-2028.html - Many U.S. ice cream producers to phase out artificial food dyes by 2028
+    * the International Dairy Foods Association (IDFA)
+    * the U.S. Department of Agriculture
+    * FDA Commissioner Marty Makary
+    * Agriculture Secretary Brooke Rollins
+
+  * San Francisco rolls out Microsoft's Copilot AI for 30,000 city workers - https://www.cnbc.com/2025/07/14/san-francisco-ai.html
+     * San Francisco Mayor Daniel Lurie
+     * Microsoft 365 Copilot Chat, powered by OpenAI’s GPT-4o
+     * the 311 city services line
+     * homeless encampments
