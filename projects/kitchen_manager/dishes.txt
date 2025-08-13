@@ -1,0 +1,52 @@
+==== curries ====
+  * bobbarlu curry
+  * rajma
+  * kadai paneer
+  * aanabakaaya curry
+  * kabuli chana curry
+  * chana masala
+
+==== liquids ====
+  * sambar
+  * kandi kattu
+  * pesara kattu
+  * rasam
+  * chaaru
+
+==== sweets ====
+  * semya payasam
+  * semya halwa
+  * sweet pongal
+  * ravva laddu
+  * boorelu
+  * bobbatlu
+  * pootharekulu
+
+==== rice items ====
+  * curd rice
+  * gongura rice
+  * pulihora
+
+==== chutneys ====
+  * peanut tomato chutney
+  * peanut chutney
+  * aanabakaaya perugu pachadi
+  * beerakaaya pachadi
+
+==== dosas ====
+  * pesarattu
+
+==== batters ====
+  * pesaratuu pindi
+  * dosa batter
+
+==== breakfast items ====
+  * upma
+
+==== sides ====
+  * guacamole
+  * chips
+
+==== boiled items ====
+  * vudakapettina senagalu
+  * vudakapettina bataaneelu
