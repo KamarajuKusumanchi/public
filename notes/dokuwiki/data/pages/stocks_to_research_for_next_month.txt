@@ -1,5 +1,24 @@
 tags | stocks to watch for next month, companies I came across
 
+==== 2025-08-05 ====
+  * INCY - Incyte Corp
+    * price: \$78.04
+    * Operating margin: 21.69%, P/S: 3.32
+    * P/E: 17.74, Fwd P/E: 11.05
+    * came across it in: https://www.bloomberg.com/news/newsletters/2021-08-23/money-stuff-spac-suit-leads-to-sparcs?srnd=undefined
+
+  * GHC - Graham Holdings Co
+    * price: \$938.13
+    * Operating margin: 6.16%, P/S: 0.84
+    * P/E: 6.01, Fwd P/E: 14.48
+    * came across it in: https://www.barrons.com/articles/buy-graham-holdings-stock-price-pick-c3b18dbe
+      * the individual pieces, and the company is likely worth \$6.9 billion — \$2.7 billion more than its market value of \$4.2 billion.
+
+  * UNH - Unitedhealth Group Inc
+    * price: \$251.00
+    * Operating margin: 7.27%, P/S: 0.54
+    * P/E: 10.87, Fwd P/E: 13.07
+
 ==== 2025-07-07 ====
   * PLNT
     * price: \$106.90

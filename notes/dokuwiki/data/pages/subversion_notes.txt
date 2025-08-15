@@ -67,3 +67,22 @@ A  +    file.c
 </code>
 See the perl version above which does not have this problem.
 </WRAP>
+
+==== What changed in a version? ====
+What files changed in a revision?
+
+<code>
+% svn diff --summarize -c r297
+</code>
+
+What changes were made in a revision?
+
+<code>
+% svn diff -c r297
+</code>
+
+To show the files changed in a revision as well as the commit message
+
+<code>
+% svn log --verbose -r316
+</code>

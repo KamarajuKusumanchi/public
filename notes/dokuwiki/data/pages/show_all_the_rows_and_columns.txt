@@ -28,3 +28,55 @@ See also:
 
 ==== defaults ====
   * By default, pandas shows 60 rows and 20 columns.
+
+==== sample code ====
+
+<code>
+$ ipython
+
+In [1]:
+import pandas as pd
+
+# Create a sample DataFrame
+df = pd.DataFrame({'a': range(20), 'b': range(20)})
+
+# Check the default display.max_rows value
+default_max_rows = pd.get_option('display.max_rows')
+print(f"Default max_rows: {default_max_rows}")
+
+# Let's set a new value for display.max_rows
+pd.set_option('display.max_rows', 10)
+
+# Verify the new value has been set
+new_max_rows = pd.get_option('display.max_rows')
+print(f"New max_rows: {new_max_rows}")
+
+# Now, printing the DataFrame will only show 10 rows
+print(df)
+
+# Reset the option to its default value
+pd.reset_option('display.max_rows')
+
+# Check the value again to confirm it has been reset
+reset_max_rows = pd.get_option('display.max_rows')
+print(f"Reset max_rows: {reset_max_rows}")
+Default max_rows: 60
+New max_rows: 10
+     a   b
+0    0   0
+1    1   1
+2    2   2
+3    3   3
+4    4   4
+..  ..  ..
+15  15  15
+16  16  16
+17  17  17
+18  18  18
+19  19  19
+
+[20 rows x 2 columns]
+Reset max_rows: 60
+</code>
+
+using | python 3.8.18, pandas 1.1.2

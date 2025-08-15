@@ -1,0 +1,63 @@
+==== 2025-08-12 ====
+reading journal:
+  * https://www.barrons.com/articles/berkshire-hathaway-stock-sale-buffett-28571fc9 - Berkshire Hathaway Director’s Firm Sold Almost 30% of Its Berkshire Stake
+    * tl;dr - the Davis New York Venture Fund reduced Berkshire Hathaway class A stake from 2,000 shares to 1,434 shares
+    * Chris Davis
+      * Berkshire Hathaway director
+      * a value oriented investor
+      * the chairman and portfolio manager of the investment firm Davis Selected Advisors.
+      * runs Davis Selected Advisers
+        * runs the Davis New York Venture Fund
+      * personally owns 36 class A shares worth about \$25 million and Class B shares worth another \$1 million, according to the Berkshire Hathaway 2025 proxy.
+      * Bekshire’s one of the biggest champions in the investment community
+    * Davis New York Venture Fund
+      * Berkshire is their third-largest holding by dollar value behind Capital One Financial and Meta Platforms
+      * \$22 billion in total equity investments.
+      * Berkshire Hathaway is ~5% of the fund’s holdings, considerably more than the company’s weighting in the S&P 500 index.
+    * Davis Selected Advisors
+      * initiated a stake in Nvidia in the second quarter
+      * buyer of UnitedHealth Group, U.S. Bancorp, Taiwan Semiconductor, and MGM Resorts International.
+    * Per Chris Davis "The stewardship culture is really the essential value system of Berkshire Hathaway, and a big part of the board is just being watchdogs, vigilant, promoting, nurturing, doing anything we can not to interfere with that culture and to promote it"
+
+  * https://www.barrons.com/articles/big-bank-stocks-meta-berkshire-hathaway-a4dec8ab - This Pro Loves Bank Stocks. He Thinks Others Should, Too. - 2023-06-01
+    * pour-over coffee
+    * Blue Bottle grounds
+    * Davis Advisors
+      * the investment firm founded by Chris Davis's father in 1969
+      * AUM \$20 billion
+      * The company’s \$5.8 billion flagship, Davis New York Venture fund (ticker: NYVTX)
+        * underperformed the S&P 500 index in each of the past five years.
+    * Past isn’t prologue
+    * Rockefeller Center digs
+    * Chris Davis
+      * Joined the board of Berkshire Hathaway in 2021
+    * In his book about the history of interest, The Price of Time, Edward Chancellor presents a chart of interest rates going back to about 3,000 B.C. Other than very briefly in the 1920s, interest rates were never zero, let alone negative, until the past few years.
+    * stuck to your knitting
+    * We consider three factors: the nature of the business, the management, and the price.
+    * In the past five years [through March 31], companies owned by Davis New York Venture grew their earnings by 11.7%, versus 9.7% for the S&P 500. Yet, our companies sold for 10.1 times earnings, 44% less than the index’s 18.1 times.
+    * we own a lot of incumbents
+    * Capital One has been a fintech company since the start. It uses data science to market financial services. It is still run by its founder, Richard Fairbank. The bank pays a high rate on its deposit base. It is a big issuer of credit cards, primarily to working people, not big spenders. The best analogy is Progressive [PGR], a data-science company disguised as an insurer. Progressive realized early on that there is no bad risk; there is only bad pricing.
+    * Wells has been in regulators’ crosshairs for seven years or so.
+    * BNY Mellon is a processing and services provider. It has almost no credit or interest-rate exposure.
+    * Development Bank of Singapore
+      * It is known as the Fort Knox of Asia
+    * If we had a Latin motto in my family, it would be the Latin for work before play. Eat your vegetables, then you get dessert. Being on the board of Berkshire is a bit like getting dessert first: the chance to be with Warren and Charlie. The vegetables will come when they aren’t there, when the job of the board will be to protect this precious culture.
+
+  * # https://www.wsj.com/real-estate/zarna-garg-practical-people-win-hulu-5bb06b38?mod=hp_listb_pos1 - How ‘Family Ties’ and ‘Three’s Company’ Saved Zarna Garg From an Arranged Marriage
+    * bootleg copies of “Family Ties,” “Three’s Company” and “Growing Pains.”
+    * open-mic night at Manhattan’s West Side Comedy Club
+    * Carolines in New York held a “Made in India” comedy showcase
+    * Comedy mentor? Kevin Hart
+
+  * https://indiandefencereview.com/in-1978-chinese-engineers-visited-two-major-american-companies-on-their-return-they-founded-an-empire-rare-earths/ - In 1978, Chinese Engineers Visited Two Major American Companies. On Their Return, They Founded an Empire: Rare Earths
+  * rare earth elements — 17 minerals essential to everything from smartphones and electric motors to missile guidance systems and solar panels
+  * In 1978 a small group of Chinese engineers toured two major US aerospace companies, Lockheed Martin and McDonnell Douglas, and returned with insights that would quietly reshape global industry
+  * the Cultural Revolution
+  * Deng Xiaoping
+  * Fang Yi, then head of the State Science and Technology Commission
+  * The government quickly identified rich deposits in Baotou, Inner Mongolia, containing valuable minerals such as cerium, samarium, and lanthanum.
+  * plastic-lined facilities using hydrochloric acid instead of costly stainless steel and specialized acids
+  * Within a decade, China not only mined rare earths but also mastered the refining stage, the most technically demanding part of the supply chain
+  * “precision targeting”—limiting exports in ways that cripple specific sectors without triggering a full trade war
+  * For many nations, the lack of independent refining capacity remains the bottleneck
+  * China’s approach illustrates how long-term industrial strategy can outweigh reactive policy

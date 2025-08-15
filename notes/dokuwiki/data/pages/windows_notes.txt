@@ -27,6 +27,9 @@ google search | command line shortcut to move windows
 
   ? Situation
   : I did not find the symphony chat window when I remoted into my work desktop that had two monitors. I used this shortcut to move the chat window to the active monitor.
+
+==== default apps ====
+  * Open .xml, .txt, .log files in notepad++
 ==== search button in taskbar not working ====
 Symptom: The search button in the task bar does not respond to the keyboard.
 

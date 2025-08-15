@@ -1,7 +1,27 @@
+==== 2025-08-11 ====
+  * TIL that Alexander the great died at an age of 32.
+
+Ref:- https://en.wikipedia.org/wiki/Alexander_the_Great
+
+==== 2025-08-02 ====
+  * TIL about Marcello Malpighi.
+    * In 1628, William Harvey provided the first full and accurate description of blood circulation in the human body . But many people doubted his theory because he was not able to find the means by which blood passed from the arterial to the venous system. It was Marcello Malpighi that discovered the "missing link" in 1661. Using the newly invented microscope, he discovered the network of tiny capillaries that are 10 times thinner than human hairs and link arteries and veins.
+
+Ref: The Medicine Book: Big Ideas Simply Explained - DK - 2021 -> pg-66, 70-73.
+
+See also: https://www.ahajournals.org/doi/10.1161/CIRCRESAHA.119.314936 - Marcello Malpighi (1628–1694): The Revolution in Medicine
+
+==== 2025-07-24 ====
+  * TIL that chrome has a built-in "Reading list" feature that lets you save web pages and read later. To add a page
+    * right click on a tab -> Add tab to reading list or
+    * select the three dots button on the top right -> Bookmarks and lists and then Reading list -> Add tab to reading list
+
+Ref: https://support.google.com/chrome/answer/7343019?co=GENIE.Platform%3DDesktop&oco=1
+
 ==== 2025-07-21 ====
   * TIL that Warfarin, the medication widely used to prevent dangerous blood clots in humans, was originally developed and is still used as rat poison. It's all about the dose! In tiny amounts, it helps stop human blood from clotting excessively, but in larger concentrations, it's lethal to rodents.
 
-Ref:-
+Ref:
   * (The Medicine Book - Big Ideas Simply Explained - DK Publishing - 2021) -> pg-58
   * https://www.nature.com/articles/nrcardio.2017.172 - Warfarin: from rat poison to clinical use
 

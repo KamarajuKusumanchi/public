@@ -1,0 +1,15 @@
+==== 2025-08-11 ====
+reading journal:
+  * https://www.wsj.com/finance/investing/billions-flow-to-new-hedge-funds-focused-on-ai-related-bets-48d97f41?mod=hp_lead_pos4 - Billions Flow to New Hedge Funds Focused on AI-Related Bets - 2025-08-10
+    * Leopold Aschenbrenner
+      * Aschenbrenner’s San Francisco-based firm, Situational Awareness
+      * the 165-page essay
+    * Carl Shulman
+      * used to work at Peter Thiel’s macro hedge fund, as director of research.Advertisement
+    * Patrick and John Collison, the billionaire brothers who founded payments company Stripe
+    * Daniel Gross and Nat Friedman, whom Mark Zuckerberg recently recruited to help run Meta’s AI efforts
+    * Graham Duncan organizes the Sohn Investment Conference
+    * an AI-focused hedge fund from Value Aligned Research (VAR) Advisors, a Princeton, N.J.-based investment firm founded by former quants Ben Hoskin and David Field
+    * the philanthropic foundation of Facebook co-founder Dustin Moskovitz
+    * Steve Cohen tapped one of his portfolio managers at Point72 Asset Management, Eric Sanchez, to start an AI-focused hedge fund that Cohen planned to stake with \$150 million of his own money. Assets at the fund, called Turion—after AI theorist Alan Turing—now exceed \$2 billion
+    * Vistra, a power producer that supplies the juice to AI data centers
