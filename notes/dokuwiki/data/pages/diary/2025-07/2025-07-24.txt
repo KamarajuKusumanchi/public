@@ -1,0 +1,18 @@
+==== 2025-07-24 ====
+reading journal:
+  * https://www.cnbc.com/2025/07/24/nvidia-ai-chips-smuggling-china-trump.html - Nvidia AI chips smuggled into China after Trump restrictions
+    * at least \$1 billion worth of NVIDIA's artificial intelligence chips illegally entered China
+    * Nvidia’s B200 chips, which are prohibited from being sold to China
+
+  * https://www.wsj.com/finance/stocks/kohls-opendoor-meme-stocks-trends-c3df5d2d - Meme Stock Mania Returns. Meet the New Class
+  * Kohl’s, Opendoor, QuantumScape, MMQSMM a maker of batteries for electric vehicles, Rigetti Computing, MMRGTIMM a quantum-computing firm
+  * hedge-fund manager Eric Jackson
+    * his firm EMJ Capital
+    * 100-baggers
+  * meme stocks like AMC and Carvana
+  * firing of Kohl's CEO Ashley Buchanan
+  * GoPro
+  * Krispy Kreme
+  * SpotGamma data
+  * Opendoor market cap is around \$2 billion
+  * options-data platform Quant Data

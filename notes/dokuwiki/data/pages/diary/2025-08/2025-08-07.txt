@@ -1,0 +1,54 @@
+==== 2025-08-07 ====
+reading journal:
+  * https://www.cnbc.com/2025/08/07/trump-order-will-allow-alternative-assets-like-cryptocurrencies-private-equity-in-401ks.html - Trump order will allow alternative assets like cryptocurrencies, private equity in 401(k)s
+    * The executive order will direct the U.S. Secretary of Labor to review fiduciary guidance on private market investments in 401(k) and other defined-contribution plans that are governed by the Employee Retirement Income Security Act of 1974 (ERISA). The federal law sets minimum standards for most retirement plans.
+    * Private equity stocks such as Apollo Group
+    * Americans collectively hold roughly \$8.7 trillion in assets
+    * Empower, the country’s second-largest retirement plan provider
+    * asset managers such as Apollo
+
+  * https://www.barrons.com/articles/bitcoin-crypto-washington-economy-financial-system-c072e362 - Crypto: Everyone Is Along for the Ride, Even if It Ends Badly
+    * Coinbase Global, Kraken, and Ripple Labs
+    * the Indian Treaty Room in the Eisenhower Executive Office Building, an ornate former library adorned with French and Italian marble panels
+    * the failure of crypto exchange FTX in 2022
+    * Lee Reiners, a fellow at the Duke Financial Economics Center
+    * trading platforms like Coinbase
+    * ebullient
+    * Cantor Fitzgerald analysts
+    * a type of crypto called nonfungible tokens
+    * Trump Digital Trading Cards
+    * World Liberty Financial, which issues tokens and is creating a crypto borrowing and lending platform
+    * The Trump Media and Technology Group (ticker: DJT)
+      * owns \$2 billion in Bitcoin and Bitcoin-tied securities
+    * Trump
+      * the crypto president
+    * dropped cases and investigations against Coinbase, Kraken, and Robinhood
+      * Ripple for selling unregistered securities
+    * custodying digital assets
+    * digital-asset firms
+    * Bank of America CEO Brian Moynihan
+    * Citigroup CEO Jane Fraser
+    * “stablecoins,” a type of cryptocurrency pegged to the dollar
+    * Some banks have begun to offer loans to customers using Bitcoin exchange-traded funds as collateral.
+    * Amanda Fischer, who served as chief of staff for Biden SEC Chair Gary Gensler
+    * Circle Internet Group’s USDC, the biggest U.S.-based stablecoin
+    * Fischer, who is now policy director at Better Markets, a group that advocates for tighter financial regulation
+    * Circle's reserves now are housed in a government money market fund that holds Treasuries, Treasury repurchase agreements, and cash, as well as at banks.
+    * On Thursday (2025-08-07), Trump signed an order directing the Labor Department and SEC to reexamine their guidance and rules with an eye toward easing access to crypto and other alternative assets in 401(k) plans.
+    * Federal Housing Finance Agency Director Bill Pulte
+    * convert to cash at a good price to stave off a default
+    * In 2000, Congress passed the Commodity Futures Modernization Act. The law essentially prevented the Commodity Futures Trading Commission (CFTC) from overseeing over-the-counter derivatives, a move the White House supported to ensure that novel business remained in the U.S. Those derivatives, which included credit-default swaps, contributed significantly to the 2007-09 financial crisis.
+    * Brookings Institution fellow Tonantzin Carmona
+    * The SEC says it’s exploring ways to allow companies to quickly begin offering “tokenized securities”—essentially stocks that trade 24 hours a day, seven days a week, on blockchains.
+    * Kraken in May said it would begin offering tokenized stocks of companies including Apple, Tesla, and Nvidia to investors outside the U.S.
+    * Coinbase has said the SEC should offer regulatory relief, allowing it and other exchanges to offer tokenized securities quickly.
+    * trade groups representing traditional finance firms
+    * tokenized stocks could fragment the equities markets and circumvent securities rules that traditional players have to follow
+    * The Securities Industry and Financial Markets Association, a trade group including broker-dealers and investment managers
+    * The Healthy Markets Association, a trade group including major investors such as the California Public Employees’ Retirement System
+    * highly complex rules regulating order submissions, trade increments, fees, reporting
+    * Healthy Markets CEO Tyler Gellasch
+    * every financial crisis we’ve experienced in the U.S. in recent memory has been caused by two things: leverage and opacity
+    * Coinbase Chief Legal Officer Paul Grewal
+    * going to undergird
+    * SEC Chairman Paul Atkins

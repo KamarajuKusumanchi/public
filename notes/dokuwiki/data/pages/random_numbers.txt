@@ -1,0 +1,4 @@
+==== online random number generator ====
+  * https://www.calculatorsoup.com/calculators/statistics/random-number-generator.php - Random Number Generator
+    * what: generate random numbers in a range
+    * use case: jump to a random line in vim

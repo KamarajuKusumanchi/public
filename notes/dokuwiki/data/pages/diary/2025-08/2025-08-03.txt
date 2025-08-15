@@ -1,0 +1,6 @@
+==== 2025-08-03 ====
+reading journal:
+  * https://home.treasury.gov/data/treasury-international-capital-tic-system-home-page/description-of-TIC-system - Description of the Treasury International Capital (TIC) system
+    * The Treasury International Capital (TIC) reporting system
+    * the Bureau of Economic Analysis
+    * the quarterly Treasury Bulletin

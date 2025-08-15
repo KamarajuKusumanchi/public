@@ -1,0 +1,31 @@
+==== 2025-08-08 ====
+reading journal
+  * https://www.wsj.com/health/healthcare/measles-treatment-vaccine-infection-numbers-c8327637?mod=hp_listb_pos2 - The Race to Find a Measles Treatment as Infections Surge
+    * Invivyd
+      * biotech
+      * a Massachusetts-based drugmaker that started working on a monoclonal antibody for measles this spring
+    * Vanderbilt University Medical Center, Georgia State University
+    * the MMR vaccine, which is designed to train the body to make its own antibodies—proteins that help defeat specific pathogens—monoclonal antibodies are lab-made versions that can be delivered intravenously or as an injection and boost immunity immediately.
+    * the La Jolla Institute for Immunology, whose lab is developing its own monoclonal antibodies for measles
+    * a pediatric infectious-disease specialist
+    * Mennonite community hard-hit by a recent measles outbreak and where vaccination rates are low
+    * The MMR shot remains the best and only way to prevent measles
+    * Multiple large-scale studies conducted over decades have proven the MMR vaccine to be very safe and effective
+    * vitamin A supplements such as cod liver oil
+    * budesonide, an inhalable steroid medication used to treat asthma
+    * the Infectious Diseases Society of America
+    * Measles can cause severe acute disease and rarely death, but also “immune amnesia,” which causes the body to forget how to fight other infections
+    * Saravir Biopharma
+      * biotech
+      * to develop a measles monoclonal antibody
+
+  * https://www.apolloacademy.com/corporate-pension-funds-are-now-fully-funded/ - Corporate Pension Funds Are Now Fully Funded
+    * The Milliman 100 Pension Funding Index tracks the funded status of the 100 largest corporate defined benefit pension plans sponsored by US public companies.
+
+  * https://www.apolloacademy.com/understanding-the-hong-kong-dollar-peg/ - Understanding the Hong Kong Dollar Peg - Apollo Academy
+    * the Hong Kong dollar peg
+    * The Hong Kong Monetary Authority (HKMA)
+    * After Liberation Day, the US dollar depreciated significantly.
+    * the Fleming-Mundell policy trilemma, which says that a country cannot simultaneously have 1) a fixed exchange rate, 2) free capital movement and 3) an independent monetary policy.
+
+  * https://www.aap.org/en/news-room/fact-checked/fact-checked-hepatitis-b-vaccine-given-to-newborns-reduces-risk-of-chronic-infection/ - Fact Checked: Hepatitis B Vaccine Given to Newborns Reduces Risk of Chronic Infection

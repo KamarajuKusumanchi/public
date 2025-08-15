@@ -1,3 +1,32 @@
+==== generate N random strings of maximum length L ====
+<code>
+from random import randint,choice
+from string import ascii_letters
+
+def rand_string(L):
+    # return a string of L ascii letters [a..zA..Z]
+    return ''.join((choice(ascii_letters) for _ in range(L)))
+
+def rand_vstring(Lmax):
+    # return a string of variable length with maximum L characters
+    return rand_string(randint(1,Lmax))
+
+def rand_vstrings(N, Lmax):
+    # return N strings with maximum L characters in each
+    return [rand_vstring(Lmax) for _ in range(N)]
+</code>
+
+<code>
+In [2]: rand_vstrings(8, 3)
+Out[2]: ['mwO', 'CbW', 'Ac', 'HK', 'VU', 'js', 'A', 'RsD']
+
+In [3]: rand_vstrings(8, 4)
+Out[3]: ['g', 'UG', 'bETP', 'FB', 'RGg', 'Ehoh', 'HGMy', 'b']
+
+In [4]: rand_vstrings(10, 4)
+Out[4]: ['XBC', 'L', 'aKV', 'FQe', 'gnh', 's', 'BzXV', 'Jxr', 'bcQN', 'IcUz']
+</code>
+
 ==== string concatenation ====
   * https://waymoot.org/home/python_string/ - Efficient String Concatenation in Python
     * It talks about various ways of doing string concatenation and then shows which approach is better.

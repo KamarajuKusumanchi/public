@@ -1,0 +1,47 @@
+==== 2025-07-25 ====
+reading journal:
+  * https://www.wsj.com/us-news/jeffrey-epstein-birthday-album-included-letters-from-bill-clinton-leon-black-a7cd8cb1?mod=hp_lead_pos7 - Jeffrey Epstein’s Birthday Book Included Letters From Bill Clinton, Leon Black
+    * Wall Street billionaire Leon Black
+      * the co-founder of Apollo Global Management
+    * fashion designer Vera Wang
+    * media owner Mort Zuckerman
+      * was then an owner of the New York Daily News
+    * Leslie Wexner, the retail billionaire
+      * former Victoria’s Secret leader 
+    * attorney Alan Dershowitz
+    * U.K. politician Peter Mandelson
+    * the late Jean-Luc Brunel, who ran a modeling agency
+    * Epstein was at Bear Stearns, an investment bank in the 1970s
+    * anodyne birthday wishes
+    * bawdy
+    * Nathan Myhrvold, a billionaire and former Microsoft executive
+    * “V.F.P.C.” - “Vanity Fair Poster Child,”
+    * The letters were taken to a New York City bookbinder to create the calfskin album.
+    * Brad Edwards, a lawyer who has represented more than 200 of Epstein’s victims
+    * Jeffrey Epstein’s brother Mark Epstein
+    * At his Manhattan townhouse, Jeffrey Epstein hung a painting that depicted Clinton wearing a blue dress and red heels
+    * the Clinton Foundation’s work
+
+  * https://colipsecoffee.com/blogs/coffee/countries - Top 20 Coffee Producing Countries
+    * Kentucky, Virginia, Georgia, Illinois, Tennessee, or North Carolina due to their colder winters and occasional frosts
+
+  * https://www.man.com/technology/improving-python - Improving Python: How we made pip install twice as fast
+    * Use pip 24.2 or newer – it’s twice as fast!
+    * At Man Group over a third of our team are technologists, quants and data scientists
+    * Man Group is a global, alternative investment manager, with over 35 years of systematic trading experience
+    * Python Platform team
+    * We use Python as our main software development platform
+    * PyCharm Professional
+    * Torch/TensorFlow, essential ML packages for our research, are the two largest Python packages, 2 to 5 GB decompressed
+    * NumPy/Pandas
+    * 50 to 100 MB decompressed
+    * Plotly, a charting library, is the largest package when it comes to file count, about 15000 files
+    * Jupyter, essential for research, is a good use case to test installation of dependencies, about 80 transitive dependencies
+    * We gave the generated trace (.pstat file) to SnakeViz for further analysis at times. SnakeViz is a free open-source tool to visualize profile trace. It’s great to get a quick overview.
+    * The download and the dependency resolution are fully intertwined.
+    * What are tags in pip? Tags identify the running platform and ensure that only compatible packages are installed.
+    * At 2 GB to download, torch was the biggest package in the Python ecosystem, often bigger than every other package combined.
+    * It took 30 seconds to download at 60 MB/s.
+    * Rich is a framework to display progress bars. read() and stream() are I/O functions spread across openssl/urllib/requests/pip
+    * flush() was instantaneous while fsync() was always a few milliseconds (3 to 7 ms).
+    * “cd /tmp && pip download --no-deps --no-cache torch”

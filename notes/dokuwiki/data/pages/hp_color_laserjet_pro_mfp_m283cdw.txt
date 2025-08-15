@@ -73,3 +73,7 @@ page   num  type   width height color comp bpc  enc interp  object ID x-ppi y-pp
 
 ==== hplip ====
   * https://developers.hp.com/hp-linux-imaging-and-printing/news/hplip -> "HPLIP 3.19.12 Release Notes" section - shows that support for "HP Color LaserJet Pro MFP M283cdw" was added in hplip 3.9.12.
+
+==== setup printer on LG Gram 15 (raju's laptop) ====
+asof 2025-08-12, once the printer is setup, it is showing up as
+  * NPI5A50CC (HP Color LaserJet MFP M283cdw)

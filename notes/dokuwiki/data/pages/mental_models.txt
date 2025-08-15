@@ -2,3 +2,5 @@
   * earned in drops and lost in buckets
     * reputation, trust, respect
 
+==== AI ====
+  * It is like a co-worker that I can bug all the time!

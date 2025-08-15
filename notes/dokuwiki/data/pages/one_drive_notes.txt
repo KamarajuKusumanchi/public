@@ -1,3 +1,5 @@
 ==== issues in one drive ====
+  * Onedrive does not remember the sort order when I open a file and close it. This is very annoying when I have a folder of pdf files and want to browse them through the left/right buttons.
+    * faced this issue on 2025-08-05
   * In onedrive.com, the previous and next buttons are not appearing when browsing a folder of pdfs
     * faced this issue on 2025-07-19

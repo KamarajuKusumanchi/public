@@ -1,3 +1,63 @@
+===== replicate environment =====
+
+==== Method 1 ====
+Check the environments installed
+<code>
+conda info --envs
+</code>
+
+Export the environment
+<code>
+conda env export --name FOO | grep -v "^prefix: " > environment.yml
+</code>
+
+Note: By default, the output of "conda env export" contains a line
+<code>
+prefix: /path/to/the/environment
+</code>
+
+This line is not necessary in order to recreate the environment. Grepping it out so that the replicating user will not know what the original environment's path is.
+
+Another way
+  * On Windows <code>
+activate myenv
+conda env export | grep -v "^prefix: " > environment.yml
+deactivate
+</code>
+  * On Linux <code>
+source activate myenv
+conda env export | grep -v "^prefix: " > environment.yml
+source deactivate
+</code>
+
+To recreate it
+<code>
+conda env create -f environment.yml
+activate myenv
+</code>
+
+Ref:-
+  * https://conda.io/docs/user-guide/tasks/manage-environments.html
+  * https://stackoverflow.com/questions/41274007/anaconda-export-environment-file
+
+==== Method 2 ====
+Get the list of packages
+<code>
+$ conda list --export --name old_environment > req.txt
+</code>
+
+or
+<code>
+$ conda list -e -n old_environment > req.txt
+</code>
+
+Create a new environment using
+<code>
+$ conda create -n new_environment --file req.txt
+</code>
+
+Ref:- https://docs.conda.io/projects/conda/en/latest/commands/list.html
+
 ===== dummy =====
 ==== tasks ====
   * [[conda environment file to install different packages from different channels]]

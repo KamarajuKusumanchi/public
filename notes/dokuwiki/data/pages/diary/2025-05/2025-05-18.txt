@@ -5,5 +5,4 @@ links I came across:
   * https://fred.stlouisfed.org/series/DSPIC96 - Real Disposable Personal Income
   * https://fred.stlouisfed.org/series/MEPAINUSA672N - Real Median Personal Income in the United States
   * https://www.macrotrends.net/global-metrics/countries/USA/united-states/trade-balance-deficit - U.S. Trade Balance 1970-2025
-  * https://en.wikipedia.org/wiki/Stephen_Miran - Stephen Miran
   * https://en.m.wikipedia.org/wiki/The_Superinvestors_of_Graham-and-Doddsville - The Superinvestors of Graham-and-Doddsville

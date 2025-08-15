@@ -1,0 +1,17 @@
+==== dummy ====
+today | 2025-08-14
+
+tl;dr: The “Crest Pro-Health Advanced Complete Care” mouthwash from Costco seems to be the best mouthwash out there.
+
+The mouthwashes labelled "anticavity" have fluoride to strengthen enamel and prevent tooth decay.
+
+The mouthwashes labelled "antiseptic" or "antiplaque" or "antimicrobial" have ingredients like essential oils (eucalyptol, menthol, etc.) or cetylpyridinium chloride (CPC) to kill bacteria that cause plaque and gingivitis.
+
+There are mouthwashes that do both.
+
+Some mouthwashes have alcohol and some do not.
+
+^ Item ^ anticavity ^ antiseptic ^ alcohol free ^ bought from ^ notes ^
+| Crest Pro-Health Advanced Complete Care | Yes | Yes | Yes | Costco | |
+| Listerine Antiseptic Ultraclean | No | Yes | No | Costco | |
+| ACT Restoring Anticavity Fluoride Mouthwash | Yes | Yes | No | Walmart | Not marketed as "antiseptic" even though it has cetylpyridinium chloride (CPC) as one of the inactive ingredients. |

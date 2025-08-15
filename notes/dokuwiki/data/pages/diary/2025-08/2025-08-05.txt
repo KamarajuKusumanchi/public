@@ -1,0 +1,62 @@
+==== 2025-08-05 ====
+reading journal:
+  * https://nypost.com/2021/08/21/corsica-closes-beaches-after-rampaging-cows-hurt-tourists/ - Corsica closes beaches after rampaging cows hurt tourists
+    * The French-owned Mediterranean island
+    * have become unusually headstrong
+    * island’s famed beaches
+    * the bovine horde
+    * gored in the neck
+    * the femoral artery
+
+  * https://www.barrons.com/articles/buy-graham-holdings-stock-price-pick-c3b18dbe - Buy Graham Holdings Stock. Its Parts Are Worth More Than the Whole.
+    * Graham owns an array of businesses including Kaplan test prep, and has family ties to Berkshire Hathaway.
+    * Think of Graham as a small-scale version of Berkshire Hathaway
+    * Graham, which used to be known as the Washington Post Co. before it sold the former flagship newspaper to Jeff Bezos in 2013 for \$250 million, owns an array of businesses
+      * a for-profit education company, a group of TV stations, and healthcare services firms
+      * eight auto dealerships, several manufacturing businesses, a picture-framing company, and a group of restaurants in the Washington, D.C.
+        * the historic and high-grossing Old Ebbitt Grill near the White House
+      * Framebridge
+    * Graham also has an overfunded pension fund that is a valuable and underappreciated asset, even if it isn’t easy to monetize.
+    * CEO Tim O’Shaughnessy says the company’s goal is to boost cash flow and reduce the share count, while maintaining a strong balance sheet.
+    * the Graham family goes back decades with Berkshire, starting with Katharine Graham, who befriended Buffett in the 1970s
+    * O’Shaughnessy is married to a daughter of Don Graham, 80, the son of Kay Graham and the former CEO and chairman.
+    * It’s run like a private company, with the Graham family controlling it through supervoting shares—their economic interest is about 25%.
+    * the fragmented custom framing business
+    * Many conglomerates trade at discounts to the sum of their parts because of concern that value won’t be unlocked.
+    * In recent years, corporate giants ranging from General Electric to United Technologies, Danaher, and Johnson & Johnson have broken up or spun off businesses to simplify their structures.
+    * includes NBC affiliates in Houston and Detroit, the latter a big market for political advertising in national election years.
+    * There is a continuing consolidation among TV stations as federal rules about ownership of more than one station per market are getting relaxed.
+    * The education unit Kaplan is the largest business by revenue and profits. It includes the Purdue online university and its original test prep business.
+    * home health, hospices, and in-home infusion
+    * Barron’s Roundtable members Meryl Witmer and Henry Ellenbogen
+    * Ruane Cunniff and First Manhattan, investment firms with ties to Buffett
+
+  * https://www.barrons.com/articles/microstrategy-stock-price-bitcoin-earnings-603b10e4 - MicroStrategy Stock Drops 9%. New Equity Guidelines Could Be the Reason.
+    * MicroStrategy is the largest corporate Bitcoin holder with about 679,000 coins, roughly 3% of the Bitcoin outstanding.
+    * The company said it wouldn’t issue common shares to buy Bitcoin if its enterprise value divided by the dollar value of its Bitcoin is below 2.5 times. That ratio is now under 1.7
+    * Preferred stock is different than common equity.
+
+  * https://www.barrons.com/articles/berkshire-hathaway-earnings-stock-price-71306b7c - Berkshire Operating Profits Fall 4% in 2nd Quarter
+    * Berkshire Hathaway
+      * operating profits after taxes were down 4% in the second quarter to \$11.2 billion versus the same period a year ago
+      * hasn’t repurchased stock since May 2024
+      * cash balance declined slightly, falling to \$344 billion on June 30 from about \$348 billion at the end of March.
+      * carries the Kraft Heinz stake under the so-called equity method of accounting since it owns more than 20% of the company. That has meant the accounting value was often different from the market value of the investment.
+      * \$268 billion equity portfolio
+      * issued about \$14 billion of yen-denominated debt mostly to finance an equity investment in a group of Japanese trading companies.
+      * book value rose to \$464,000 per class A share on June 30 from about \$455,000 a share on March 31
+    * Book value, or shareholder equity per share
+    * There remains speculation that Berkshire may buy CSX, after BNSF’s chief rival, Union Pacific, reached a deal with Norfolk Southern, which is one of the two main Eastern railroads along with CSX.
+
+  * https://www.barrons.com/articles/berkshire-hathway-stock-buffett-buyback-de751b40 - Berkshire Stock Was Hammered Monday. It’s Like 1999 Again.
+    * Berkshire has one of the largest wind energy portfolios in the country
+    * Berkshire carries the Oxy investment for \$16.5 billion, about \$4 billion above its current market value. Berkshire owns over 25% of the energy company.
+
+  * https://www.wsj.com/finance/regulation/white-house-preps-order-to-punish-banks-that-discriminate-against-conservatives-8af18854?mod=hp_lead_pos1 - White House Preps Executive Order to Punish Banks That Discriminate Against Conservatives, Crypto Companies
+    * the Equal Credit Opportunity Act
+    * consent decrees
+    * Christian organization operating in Uganda
+    * The Journal reported in June that the administration was considering an executive order
+    * banks have moved to head off action by the federal government
+    * the Small Business Administration
+    * Under Trump, banking regulators have said they would stop assessing banks for what is called the reputational risk posed by their customers—a practice that banks have cited for their decisions to avoid certain customers or industries.

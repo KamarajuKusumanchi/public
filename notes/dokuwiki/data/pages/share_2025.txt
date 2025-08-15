@@ -1,6 +1,42 @@
 ===== 2025 =====
 
 
+==== 2025-08-08 ====
+The current measles outbreak is very sad. Scientists developed measles vaccine in 1963 and then MMR vaccine in 1971. These are proven very safe, effective. I don't understand why people don't take the vaccines. Now we have articles such as 
+
+https://www.wsj.com/health/healthcare/measles-treatment-vaccine-infection-numbers-c8327637?mod=hp_listb_pos2 - The Race to Find a Measles Treatment as Infections Surge
+
+Part of me thinks these biotechs that try to develop new treatment do not want people to believe in vaccines.
+
+The MMR vaccine is just extraordinary. It has been so effective at preventing widespread disease and its devastating consequences that people today often don't remember or even know how dangerous these viruses once were.
+
+==== 2025-08-07 ====
+https://www.cnbc.com/2025/08/07/trump-order-will-allow-alternative-assets-like-cryptocurrencies-private-equity-in-401ks.html - Trump order will allow alternative assets like cryptocurrencies, private equity in 401(k)s
+
+I think this is positive news for private equity companies like Apollo, crypto; and negative for stocks.
+
+==== 2025-08-06 ====
+https://www.indiamanufacturingreview.com/manufacturing/news/indian-electronics-exports-to-us-unharmed-despite-new-tariffs-nwid-9784.html - Indian Electronics Exports to US Unharmed Despite New Tariffs - 2025-08-01
+
+It looks like cellphones and other electronics imported from India are exempt from US tariffs. So iPhone prices may not go up?
+
+==== 2025-08-05 ====
+  * https://www.cnbc.com/2025/08/05/trump-jpmorgan-chase-bank-of-america-rejected-bank-customer.html - Trump says JPMorgan Chase, Bank of America rejected him as a customer
+
+==== 2025-07-27 ====
+  * https://www.apolloacademy.com/comparing-wage-growth-for-job-stayers-and-job-switchers/ - Comparing Wage Growth for Job Stayers and Job Switchers - 2025-07-18
+    * When the labor market is hot, wage growth for job switchers is higher than wage growth for job stayers, see chart below.
+    * Today, wage growth for job switchers is lower than wage growth for job stayers, suggesting that the labor market is cooling down.
+
+==== 2025-07-25 ====
+  * https://www.man.com/technology/improving-python - Improving Python: How we made pip install twice as fast
+    * great article; easy to understand; worth reading from top to bottom
+
+==== 2025-07-24 ====
+  * The latest closing stock price for AMC Entertainment Holdings as of July 23, 2025 is 3.47. The all-time high AMC Entertainment Holdings stock closing price was 625.48 on June 02, 2021.
+
+Ref: https://www.macrotrends.net/stocks/charts/AMC/amc-entertainment-holdings/stock-price-history
+
 ==== 2025-06-19 ====
   * https://corporatefinanceinstitute.com/resources/economics/ism-manufacturing-index/ - ISM Manufacturing Index
 

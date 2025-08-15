@@ -319,6 +319,8 @@
   * [[health notes]]
   * [[sql notes]]
   * [[Warfarin]]
+  * [[random numbers]]
+  * [[mouthwash]]
 
 ==== by date ====
   * [[reading journal 2024]]

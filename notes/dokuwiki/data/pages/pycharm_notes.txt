@@ -87,6 +87,10 @@ To select multiple blocks of text
 select first block normally
 press ALT key for all the subsequent blocks.
 </code>
+
+==== detach a tab ====
+Shift + F4
+
 ===== dummy =====
 ==== configure pycharm with pytest ====
 <code>

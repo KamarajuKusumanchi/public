@@ -1,0 +1,19 @@
+==== 2025-08-06 ====
+reading journal:
+  * https://www.cnbc.com/2025/08/06/trump-trade-india-tariffs-russia.html - Trump raises India tariffs to 50% over Russian oil purchases
+    * articles of India imported into the customs territory of the United States shall be subject to an additional ad valorem rate of duty of 25 percent
+    * it is revealing that the very nations criticizing India are themselves indulging in trade with Russia
+
+  * https://www.indiamanufacturingreview.com/manufacturing/news/indian-electronics-exports-to-us-unharmed-despite-new-tariffs-nwid-9784.html - Indian Electronics Exports to US Unharmed Despite New Tariffs
+    * Indian electronics exports to the U.S. remain tariff exempt until at least August 14.
+    * Smartphones from India now represent 44% of U.S. imports as production shifts from China.
+    * Apple’s India-based iPhone manufacturing continues unaffected due to cost and policy edge.
+
+  * https://www.wsj.com/tech/apple-invest-american-manufacturing-trump-5c2c35a7?mod=hp_lead_pos4 - Apple Announces Additional $100 Billion Investment in American Manufacturing
+    * "we’re in a pay-to-play world where companies can buy their way into tariff exemptions by making commitments to invest in the U.S."
+    * News Corp, owner of The Wall Street Journal, has a commercial agreement to supply news through Apple services.
+    * Apple is buying some lower-value chips for its devices from a new TSMC chip factory in Arizona.
+    * the Chamber of Progress, a tech trade group
+
+  * https://en.m.wikipedia.org/wiki/Madhava_of_Sangamagrama - Madhava of Sangamagrama
+    * Madhava made pioneering contributions to the study of infinite series, calculus, trigonometry, geometry and algebra. He was the first to use infinite series approximations for a range of trigonometric functions, which has been called the "decisive step onward from the finite procedures of ancient mathematics to treat their limit-passage to infinity".

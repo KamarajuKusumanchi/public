@@ -5,6 +5,10 @@
 
 ==== links I came across ====
   * https://finviz.com/map.ashx
+  * https://finviz.com/bubbles.ashx
+  * https://finviz.com/map.ashx?t=etf
+  * https://finviz.com/map.ashx?t=crypto
+
 
 ==== limitations ====
   * finviz website does not show ADRs. For example, it does not give any information on CKHUY.

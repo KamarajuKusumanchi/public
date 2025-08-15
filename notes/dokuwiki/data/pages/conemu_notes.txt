@@ -1,4 +1,8 @@
 ===== favorite configuration =====
+==== git bash colors in conemu ====
+
+Settings -> Features -> Colors -> Schemes -> <xterm> -> Save settings
+
 ==== disable warning when pasting multiple lines ====
 Copy pasting multiple lines in vim gives the following warning
 <code>

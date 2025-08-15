@@ -80,6 +80,9 @@ Ref:- https://superuser.com/a/1309293/679081
 
 ===== Extensions =====
 ==== Install ublock origin ====
+Note:
+  * asof 2025-07-22, I switched from uBlock Origin to uBlock Origin Lite after reading https://github.com/uBlockOrigin/uBlock-issues/wiki/About-Google-Chrome's-%22This-extension-may-soon-no-longer-be-supported%22
+
 Ref:- https://github.com/gorhill/uBlock/tree/master/dist#build-instructions-for-developers
 
 <code>
@@ -329,6 +332,11 @@ Ref:- https://superuser.com/questions/284115/is-there-a-shortcut-key-to-duplicat
 found it in | https://frugalprofessor.com/financial-update-oct-2024/
 
 tags | experiments
+
+==== open a pdf file directly without explicitly downloading it ====
+<nowiki>chrome://settings/downloads</nowiki> (you can also go there via <nowiki>chrome://settings</nowiki> -> Downloads) -> "Ask where to save each file before downloading" -> turn it off
+
+Once you download a pdf -> click on the download icon -> right click on the pdf file -> Always open with system viewer -> check
 
 ===== tips =====
 

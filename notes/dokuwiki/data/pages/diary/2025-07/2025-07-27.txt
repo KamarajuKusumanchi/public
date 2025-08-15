@@ -1,0 +1,116 @@
+==== 2025-07-27 ====
+reading journal:
+  * https://www.jalopnik.com/1920220/telsa-warranty-complaints-biggest-issue/ - Tesla Owners Say This Is The Worst Part Of The Warranty
+    * In 2023, Tesla paid \$1.23 billion in warranty claims. In 2024, it paid \$1.45 billion.
+    * Tesla's vehicles are covered by its Basic Vehicle Limited Warranty for four years or 50,000 miles
+    * The EV battery and drive unit are covered for a minimum of 8 years or 100,000 miles
+    * Water damage isn't covered by Tesla's warranty
+    * Tesla's lists several limitations and items that are not covered. This includes damage caused by "animal or insect droppings," "tree sap," and even "water,"
+    * The wording in the warranty regarding water is vague enough to give Tesla an out from covering a variety of repairs.
+    * Tesla refused to pay for the \$7,900 replacement of the rear drive unit — a repair normally covered by the warranty — because water was found in the high voltage harness cover
+    * Simply taking a Cybertruck through a car wash has caused it to stop working in some cases, and may even void the warranty
+    * In fact, the owner's manual of Cybertruck discourages using automatic car washes at all.
+    * problems with the steering suspension in the Model S and Model X have been blamed for multiple accidents
+    * Tesla has been overestimating odometer mileages in order to end the warranty period prematurely
+    * It seems Tesla may be using a patented algorithm that uses charging data and driving patterns, instead of wheel rotation, to measure mileage.
+
+  * https://www.barrons.com/articles/healthcare-stocks-cheap-30-year-low-87618ecc - Looking for Cheap Stocks? Healthcare Shares Haven’t Looked This Good in 30 Years.
+    * Healthcare stocks now trade for 16 times forward earnings, compared to 30 for technology and 22 for the S&P 500 index.
+    * UnitedHealth is down 44% this year
+    * Industrials ae led by General Electric, RTX, Caterpillar, and Uber Technologies.
+    * GE and RTX are benefiting from strength in commercial aircraft manufacturing, Caterpillar for its tech innovations in farming, and Uber for its exposure to ride hailing and robotaxies.
+
+  * https://www.barrons.com/articles/berkshire-hathaway-stock-rail-mergers-29bb5628 - Berkshire Hathaway May Have Stepped Up Its Role in Potential Railroad Mergers
+    * Burlington Northern Santa Fe, BNSF
+    * Union Pacific has made preliminary overtures to Norfolk Southern for a possible deal that would create a transcontinental railroad
+    * there are two major railroads operating west of the Mississippi River: Union Pacific and BNSF
+    * there are two big railroad companies in the East: Norfolk Southern and CSX(?)
+    * Union Pacific, BNSF’s chief rival
+    * Greg Abel
+      * heads the company’s non-insurance businesses including BNSF
+      * due to succeed Buffett as CEO at the start of 2026
+    * potential rail-merger scrum
+    * CSX now trading for about 20 times forward earnings before any takeover premium
+    * Buffett generally likes to pay no more than 15 times earnings for acquisitions and equity investments
+    * Canadian National Railway
+    * Berkshire
+      * \$34 billion BNSF deal in 2010
+      * \$11.6 billion purchase of insurer Alleghany in 2022
+    * Buffett cut the price of the Alleghany offer by nearly \$2 a share to \$848.02 from his original offer of \$850 because Alleghany insisted on hiring an investment banker, and Buffett deducted that estimated fee of more than \$25 million from the deal price. Alleghany’s board accepted the price of \$848.02 despite some misgivings.
+
+  * https://www.barrons.com/articles/sarepta-convertible-bond-stock-biotech-05695c3d - Sarepta’s Troubles Show Risk, Investor Opportunity in Biotech Convertible Bonds
+    * Biotechs like to issue convertible bonds, but unlike equity, they need to be repaid.
+    * Convertible bonds can be enticing for biotech companies since they offer less dilutive financing than equity offerings and often carry low interest rates.
+    * there are about \$10.5 billion of biotech convertibles outstanding, roughly 3% of the \$305 billion market
+    * Sarepta Therapeutics’s recent problems with a gene therapy for Duchenne muscular dystrophy
+    * Unlike an equity offering, a convertible bond needs to be paid back.
+    * Sarepta’s voluntarily paused sales of its gene therapy Elevidys, its largest drug by revenues
+    * Biotechs are sensitive to dilution since they can go for years without revenues or profits and often tap the equity markets to fund their operations.
+    * Alnylam Pharmaceuticals
+    * BridgeBio Pharmaceuticals and Halozyme Therapeutics
+
+  * https://www.barrons.com/articles/microstrategy-bitcoin-preferred-stock-yield-6c46f52e - MicroStrategy to Offer Preferred Stock With a Twist That Could Yield 10%
+    * MicroStrategy is planning to price its fourth preferred offering of 2025 late Thursday that is designed to be a Bitcoin-backed version of U.S. Treasury bills.
+    * The new \$500 million (face value) preferred stock is expected to carry an initial yield of 9.5% to 10%
+    * ticker: STRC, “Stretch.”
+      * perpetual and does not carry a credit rating
+    * MicroStrategy
+      * holds more than 600,000 Bitcoin worth \$72 billion
+      * has sold \$3.5 billion of preferred stock this year
+      * owns 3% of the world’s Bitcoin
+      * Executive Chairman Michael Saylor controls about 44% of the company’s voting power
+      * has \$8 billion of convertible-debt outstanding
+    * perpetual preferred
+
+  * https://www.barrons.com/articles/berkshire-buffett-csx-merger-bnsf-1ae24485 - Odds of Berkshire Hathaway Bid for CSX Are Rising; How Buffett Might Try to Pull It Off
+    * CSX’s CEO Joseph Hinrichs
+    * Union Pacific and BNSF dominate freight traffic West of the Mississippi River and Norfolk Southern and CSX in the East.
+    * When Alleghany told Berkshire that it wouldn’t evaluate Berkshire’s offer without consulting its bankers at Goldman Sachs, Buffett cut the price that Berkshire would pay for Alleghany by over \$25 million to account for the fee.
+    * Buffett also doesn’t like deal terms to leak publicly and he is willing to scotch a deal if that happens.
+    * So if Berkshire does make a move on CSX, look for an all-cash offer that includes a go-shop period that would allow the railroad to consider other offers. That’s what happened with Alleghany.
+    * it could cost over \$80 billion to buy CSX
+    * Berkshire is sitting on over \$300 billion of cash including about \$90 billion at its holding company that doesn’t carry any potential regulatory restriction on usage that occur with the larger amount of cash at its insurance units.
+    * CFRA analyst Cathy Seifert
+    * CSX shares now trade for about 20 times projected 2026 earnings
+    * Assume a 25% premium and Berkshire would pay about 25 times earnings
+    * Berkshire paid a multiple of around 15 when it purchased BNSF in 2010.
+
+  * https://www.barrons.com/articles/microstrategy-bitcoin-stock-preferred-eebb190c - MicroStrategy Sells \$2.5 Billion of Preferred Stock. What to Know About the Complicated Bitcoin Play.
+    * MicroStrategy has priced nearly \$2.5 billion of variable-rate preferred stock with an initial dividend yield of 10%
+    * original planned amount was \$500 million 
+    * The dividend can change monthly, and dividends will be paid monthly, unlike most preferred stock that pay dividends quarterly.
+    * raising \$2.474 billion after fees and expenses
+    * The securities are called Variable-Rate Perpetual Stretch preferred stock.
+    * MicroStrategy
+      * now owns about 608,000 coins, or about 3% of the Bitcoin outstanding—a stash now worth about \$71 billion
+      * had sold three other preferred-stock deals this year totaling about \$3.5 billion. Those three deals are known by their ticker symbols STRF, STRK, and STRD. Those fixed-rate issues now yield from 7% to more than 11%.
+      * will now have about \$6 billion of preferred stock outstanding in addition to around \$8 billion of convertible debt
+    * a Bitcoin-backed Treasury Bill
+    * The STRC issue will be a senior preferred stock—ranking above the STRD and STRK deals.
+    * The new preferred stock isn’t rated
+    * Total annual preferred dividends could run at \$500 million a year
+
+  * https://www.barrons.com/articles/buy-berkshire-stock-price-pick-0e03cd23 - Buy Berkshire Hathaway Stock Even Though It’s Losing Warren Buffett
+    * Berkshire Hathaway stock has been in a funk since Warren Buffett said he would step down as CEO at the end of the year
+    * shares of Berkshire have declined over 10% since the meeting, trailing the S&P 500 index by more than 20 percentage points
+    * Berkshire
+      * has over \$330 billion in cash
+      * Class A shares, at around \$725,000, trade for less than 1.6 times the consensus estimate of the company’s June 30 book value of $461,140
+      * Class B shares recently traded at \$480
+      * 24 times projected 2025 earnings
+      * price/earnings ratio is even lower, at around 20, if earnings are adjusted upward to account for the profits of Berkshire’s equity portfolio companies
+        * This non-GAAP measure, called look-through earnings, has been endorsed by Buffett
+      * generating about \$45 billion in annual operating earnings
+      * its utility business known as Berkshire Hathaway Energy
+      * \$300 billion equity portfolio
+      * holds 27% Occidental
+      * owns 27% of Kraft Heinz stock
+      * hasn’t done any share repurchases since May 2024
+
+    * Mac Sykes, a portfolio manager at Gamco Investors
+    * auguring well for future results
+    * Geico, the No. 3 auto insurer
+    * A major acquisition - CSX or Occidental Petroleum
+    * Occidental
+      * CEO Vicki Hollub
+    * Grep Abel, owns \$167 million worth of Berkshire shares. His last buy came in March 2023, when the A shares traded around \$450,000
