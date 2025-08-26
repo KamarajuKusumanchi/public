@@ -5,6 +5,11 @@
   * aanabakaaya curry
   * kabuli chana curry
   * chana masala
+  * egg curry
+  * chana patoli
+  * poori koora
+  * bendakaya curry
+  * gongura chana curry
 
 ==== liquids ====
   * sambar
@@ -21,11 +26,17 @@
   * boorelu
   * bobbatlu
   * pootharekulu
+  * cupcakes
+  * gulab jamun
 
 ==== rice items ====
   * curd rice
   * gongura rice
   * pulihora
+  * egg biryani with raita and schwarma
+  * pulao with raita
+  * veg biryani with raita and schwarma
+  * bisibille bath
 
 ==== chutneys ====
   * peanut tomato chutney
@@ -46,7 +57,31 @@
 ==== sides ====
   * guacamole
   * chips
+  * raita
+  * schwarma
+
+==== appetizers ====
+  * steamed dumplings
+  * spring rolls
 
 ==== boiled items ====
   * vudakapettina senagalu
   * vudakapettina bataaneelu
+
+==== fries ====
+  * potato fry
+  * vankaaya fry
+
+==== fruits ====
+  * apple
+
+==== main courses ====
+  * veg noodles
+
+==== pappu ====
+  * tomato pappu
+  * aanapakaaya pappu
+  * mudda pappu
+
+==== snacks ====
+  * pakodi
