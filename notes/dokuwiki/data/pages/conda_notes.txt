@@ -131,6 +131,16 @@ Ref:-
 ==== command cheat sheet ====
 
 ^ purpose ^ command ^
+| List versions of a few packages | <WRAP>
+<code>
+$ conda list "^(jupyter_core|jupyter_client|jupyterlab)$"
+...
+# Name                    Version                   Build  Channel
+jupyter_client            8.6.3           py313haa95532_0    defaults
+jupyter_core              5.7.2           py313haa95532_0    defaults
+jupyterlab                4.3.4           py313haa95532_0    defaults
+</code>
+</WRAP> |
 | List all packages in the current environment | conda list | 
 | List the version of a package in all the conda environments | <WRAP>
 <code>

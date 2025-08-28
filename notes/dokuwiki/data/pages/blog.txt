@@ -1,5 +1,7 @@
 Note:- My old blog is in http://raju.shoutwiki.com/wiki/Blog . I plan to migrate the articles from there to here as time permits.
 
+==== 2025 ====
+  * 2025-08-27 [[pycharm_attributeerror_mainthread_isalive_alive | pycharm AttributeError _MainThread isAlive is_alive]]
 ==== 2024 ====
   * 2024-11-18 [[run_ibkr_cp_gateway_git_bash | Run ibkr cp gateway from git bash]]
   * 2024-10-24 [[print_file_stdout_using_python | print a file to stdout using python]]

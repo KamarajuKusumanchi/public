@@ -1,0 +1,34 @@
+===== pycharm AttributeError _MainThread isAlive is_alive =====
+==== problem ====
+I am getting the following error
+<code>
+-------------------------------------------------------------------------------
+pydev debugger: CRITICAL WARNING: This version of python seems to be incorrectly compiled (internal generated filenames are not absolute)
+pydev debugger: The debugger may still function, but it will work slower and may miss breakpoints.
+pydev debugger: Related bug: http://bugs.python.org/issue1666807
+-------------------------------------------------------------------------------
+Connected to pydev debugger (build 221.5080.212)
+Traceback (most recent call last):
+  File "C:\Program Files\JetBrains\PyCharm Community Edition 2022.1\plugins\python-ce\helpers\pydev\_pydevd_bundle\pydevd_trace_dispatch_regular.py", line 408, in __call__
+    if not is_thread_alive(t):
+           ~~~~~~~~~~~~~~~^^^
+  File "C:\Program Files\JetBrains\PyCharm Community Edition 2022.1\plugins\python-ce\helpers\pydev\_pydev_bundle\pydev_is_thread_alive.py", line 18, in is_thread_alive
+    return t.isAlive()
+           ^^^^^^^^^
+AttributeError: '_MainThread' object has no attribute 'isAlive'. Did you mean: 'is_alive'?
+</code>
+while trying to debug a simple hello world program
+<code>
+$ cat hello_world.py 
+print('hello world')
+</code>
+using pycharm 2022.1 (Community Edition), python 3.13.4.
+
+Tried upgrading to pycharm 2023.2.1 but that did not fix the issue.
+
+==== solution ====
+Upgrading to pycharm 2025.1.2 fixed the issue.
+
+==== see also ====
+  * https://youtrack.jetbrains.com/issue/PY-73047/Debugger-doesnt-work-with-Python-3.13-MainThread-object-has-no-attribute-isAlive
+    * Mentions that upgrading from 2024.1 to 2024.2 solves the issue.

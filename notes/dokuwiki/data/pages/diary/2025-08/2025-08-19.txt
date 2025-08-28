@@ -1,0 +1,20 @@
+==== 2025-08-19 ====
+reading journal:
+  * https://www.cnbc.com/2025/08/19/crypto-market-today.html - Crypto stocks tumble as investors go into risk-off mode
+    * crypto companies
+      * crypto exchanges: Coinbase, eToro, Robinhood, Bullish
+      * Crypto financial services firm Galaxy Digital
+      * crypto treasury firms: Strategy, SharpLink Gaming, Bitmine Immersion, DeFi Development
+      * Stablecoin issuer Circle
+    * Satraj Bambra, CEO of hybrid exchange Rails
+  * https://www.wsj.com/opinion/send-harvards-chinese-students-home-national-security-risk-research-2e43313d - Send Harvard’s Chinese Students Home - 2025-08-19
+    * Meta’s chief AI officer, Alexandr Wang
+    * The U.S. hosted 1.1 million international students last year. Of those, 25% came from China.
+    * In AI specifically, nearly 40% of top-tier researchers at U.S. institutions are of Chinese origin.
+    * Beijing is aggressively cultivating American-educated and American-employed researchers via the Thousand Talents program.
+    * Chinese students generally pay full freight, often subsidized by the Communist Party state
+    * the People’s Liberation Army
+    * the Seven Sons of National Defense universities
+    * Critics will trot out the old canard that we need to admit more Chinese students to spread freedom via cultural exchange.
+    * The Chinese Communist Party’s chief ideologist, Wang Huning
+    * Mr. Gallagher is head of defense for Palantir Technologies

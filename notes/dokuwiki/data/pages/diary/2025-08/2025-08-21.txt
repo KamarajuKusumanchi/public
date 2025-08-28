@@ -1,0 +1,18 @@
+==== 2025-08-21 ====
+reading journal:
+  * https://www.barrons.com/articles/berkshire-unitedhealth-lennar-nucor-stock-buys-cff2211f - Berkshire Buys UnitedHealth Shares, Lifts Veil on 3 Mystery Stocks
+    * Berkshire Hathaway by end of Q2 2025:
+      * bought some UnitedHealth Group, Lennar, D.R. Horton, Nucor
+        * Lennar, D.R. Horton: home builders
+        * Nucor: steel maker
+        * Nucor purchase is a bet in part that taxes on imports will bolster U.S. producers
+      * sold some Apple and Bank of America
+      * cash pile of \$344 billion
+    * Warren Buffett: net worth of about $140 billion
+    * David Tepper’s Appaloosa, Michael Burry bought UNH stock in the second quarter
+    * Jeffrey Smith’s Starboard Value bought Tripadvisor
+    * Bill Ackman’s Pershing Square bough Amazon
+  * https://www.barrons.com/articles/tech-energy-healthcare-stocks-markets-cf964dda - As Tech Stocks Rally, Risk Rises. Why Energy and Healthcare Could Be Options.
+    * The S&P 500 Information Technology Sector Index up 136% in the past five years, beating the entire S&P 500 index’s 92% gain
+    * managers increased their allocation to banks, energy, and utilities
+    * hospitals buy more supplies from companies such as Boston Scientific and Stryker

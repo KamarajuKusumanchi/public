@@ -1,0 +1,8 @@
+==== favorite configuration ====
+today | 2025-08-16
+  * pin the extension
+  * make yellow as the default highlight
+    * (pen icon -> burger menu -> Options -> click on Yellow -> scroll down -> click on "Make Defult" button) or
+    * (pen icon -> Options -> click on Yellow -> scroll down -> click on "Make Defult" button)
+  * In <nowiki>chrome://extensions/shortcuts</nowiki> assign the shortcut alt+h to Highlight #3 (yellow)
+  * <nowiki>chrome://extensions/</nowiki> -> Super Simple Highlighter -> Details -> Allow access to file URLs -> turn on.

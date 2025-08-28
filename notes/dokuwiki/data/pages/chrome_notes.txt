@@ -288,6 +288,7 @@ https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbh
       * Instead of this repo, use the link from chrome web store. It has a newer version (2025.04.27) and uses Manifest V3 format.
     * https://www.dexterouslogic.com/supersimplehighlighter/changelog/
     * https://www.dexterouslogic.com/supersimplehighlighter/help/
+    * more notes: [[super simple highlighter]]
 
 ==== download an extension as a zip file ====
 Assumption:

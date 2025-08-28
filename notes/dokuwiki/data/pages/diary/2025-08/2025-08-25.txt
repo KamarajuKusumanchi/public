@@ -1,0 +1,12 @@
+==== 2025-08-25 ====
+reading journal:
+  * https://www.wsj.com/opinion/chinas-nvidia-ban-is-a-win-for-the-u-s-332d3cfc?mod=hp_opin_pos_6 - China’s Nvidia Ban Is a Win for the U.S.
+    * Positron, Grok
+    * CUDA, a collection of lower-level software libraries that optimize AI hardware.
+    * Nvidia is more than hardware; it’s primarily a platform.
+    * Washington’s export hawks
+    * Hydra Host, a venture-backed AI data-center services and management company that is a Nvidia cloud partner
+  * https://www.businessinsider.com/jamie-dimon-jpmorgan-buffett-bezos-ceo-letters-regulation-economy-tariffs-2025-6 - Jamie Dimon calls out bland letters from CEOs — and reveals the 2 he always reads
+    * corporate pablum
+  * https://www.firstpost.com/world/india-to-suspend-all-parcel-services-to-us-from-august-25-amid-trumps-tariff-move-13927455.html - India to suspend all parcel services to US from August 25 amid Trump's tariff move
+    * the International Emergency Economic Powers Act (IEEPA)

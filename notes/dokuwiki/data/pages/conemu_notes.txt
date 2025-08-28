@@ -44,6 +44,37 @@ Settings -> General -> Update
   -> select Stable radio button
 </code>
 ===== dummy =====
+==== attach and detach terminals ====
+
+To detach a 'git bash' session
+<code>
+Right click on the tab -> Close or kill -> choose either Unfasten or Detach
+</code>
+
+Unfasten will detach the 'git bash' session to a new, separate ConEmu window. Detach will just detach the 'git bash' session from the conemu. The window will no longer managed by a ConEmu window.
+
+To fasten an unfastened session, first detach it
+
+<code>
+Right click on the tab -> Close or kill -> Detach
+</code>
+
+and then attach it back
+
+<code>
+Go to the original conemu session (the one where the terminal was unfastened from) ->
+right click -> Attach to -> select the appropriate entry
+</code>
+
+==== useful keyboard shortcuts ====
+  * move to next tab - win+shift+q, previous tab - win+q
+  * new console tab - win+x
+  * rename tab - apps+r
+  * move tab to right - win+alt+right, to left - win+alt+keft
+  * move between tabs - ctrl+tab
+
+==== block selection in vim ====
+Use ctrl+shift+v instead of the usual ctrl+v to select a block of text.
 ==== tasks ====
 tags | conemu star an ssh session, specify startup directory for ssh
 
