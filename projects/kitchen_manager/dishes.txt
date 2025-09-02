@@ -6,10 +6,14 @@
   * kabuli chana curry
   * chana masala
   * egg curry
+  * egg and drumsticks curry
   * chana patoli
   * poori koora
   * bendakaya curry
   * gongura chana curry
+  * cabbage potato curry
+  * mixed vegetable korma
+  * mixed vegetable and paneer korma
 
 ==== liquids ====
   * sambar
@@ -28,6 +32,7 @@
   * pootharekulu
   * cupcakes
   * gulab jamun
+  * boondi laddu
 
 ==== rice items ====
   * curd rice
@@ -41,8 +46,11 @@
 ==== chutneys ====
   * peanut tomato chutney
   * peanut chutney
+
+==== pachallu ====
   * aanabakaaya perugu pachadi
   * beerakaaya pachadi
+  * gongura pachadi
 
 ==== dosas ====
   * pesarattu
@@ -50,6 +58,7 @@
 ==== batters ====
   * pesaratuu pindi
   * dosa batter
+  * gaarela pindi
 
 ==== breakfast items ====
   * upma
@@ -71,6 +80,7 @@
 ==== fries ====
   * potato fry
   * vankaaya fry
+  * aratikaaya fry
 
 ==== fruits ====
   * apple
@@ -85,3 +95,9 @@
 
 ==== snacks ====
   * pakodi
+
+==== miscellaneous ====
+  * kudumulu
+
+==== podulu ====
+  * karivepaaku podi
