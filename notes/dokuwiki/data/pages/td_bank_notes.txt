@@ -46,3 +46,17 @@ The restrictions on the BofA side are
 It is not possible to do an ACH transfer from your account to an account owned by another person. The only option to do a third party transfer is to do it via Zelle or through wire transfer.
 
 Situation: I wanted to transfer money from wife's checking account to my daughter's 529 plan (owned by me). Using Zelle is not an option since my Zelle is associated with another bank account. Using wire transfer is not an option as there is a $30 fee for it.
+
+==== linking fidelity account ====
+today | 2025-08-25
+
+I added fidelity brokerage account to the td bank checking account. I successfully verified the Fidelity account by using the micro deposits method. But when I initiated a transfer, TD Bank has put it on hold and also blocked my online access to the TD bank account. I called the customer service and they said that I need to provide proof of ownership by submitting a physical statement or a voided check.
+
+I asked if they can remove the Fidelity account altogether in the list of banks added to the TD Bank account and restore my online account access. They said it is not possible since the hold is already in place. The only option is to go into a physical branch and get the issue resolved.
+
+Next, I got the account verification letter from Fidelity:
+  * sign in -> More -> Account features -> Direct Debit -> Save -> Account verification letter -> Download PDF
+
+This mentions "UMB Bank n.a." as the processing bank and it has Fidelity on its letter head. I submitted this letter in the physical branch and showed the fidelity account to the manager (via the Fidelity Mobile app) so that he can cross check the account/routing numbers in the "account verification letter" and in my "Fidelity account".
+
+The account was restored the next day. The original transfer was cancelled. So I had to submit the transfer request again.

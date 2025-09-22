@@ -1,0 +1,3 @@
+==== keyboard shortcuts ====
+  * alt+shift+d - input current date (example: 2025-08-29)
+  * alt+shift+t - input current time (example: 9:09 AM)

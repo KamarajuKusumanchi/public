@@ -168,6 +168,17 @@ Login into fidelity.com ->  search for 'forms' in the top right 'Search or get a
 Solution 2:
 Work around it by transferring money to a different bank (ex:- CFCU -> Capitalone -> Fidelity).
 
+==== balance letter ====
+To get the balance letter from Fidelity:
+  * sign in -> Balances -> traffic lights button on the top right -> Create balance letter
+
+The balance letter does not include the brokerage account. It only includes CMA, 529 accounts. It also does not say anything about "UMB Bank n.a.".
+
+==== account verification letter ====
+To get the account verification letter from Fidelity:
+  * sign in -> More -> Account features -> Direct Debit -> Save -> Account verification letter -> Download PDF
+
+This mentions "UMB Bank n.a." as the processing bank and it has Fidelity on its letter head.
 ==== videos I came across ====
   * https://www.youtube.com/watch?v=X7QR_zfdj8o - Why Fidelity Remains a Private Company
 

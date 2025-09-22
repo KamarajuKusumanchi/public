@@ -1,3 +1,39 @@
+===== duplicates related =====
+==== show distinct and total counts ====
+<code>
+select count(distinct username) as distinct_cnt,
+count(username) as total_cnt
+from users
+</code>
+
+==== show duplicate values and their count ====
+<code>
+select username, email, count(*)
+from users
+group by username, email
+having count(*) > 1
+</code>
+
+Here we use 'having' instead of 'where' because the former can filter on aggregate functions.
+
+Ref:- https://chartio.com/learn/databases/how-to-find-duplicate-values-in-a-sql-table/
+
+==== show duplicated records ====
+<code>
+SELECT a.*
+FROM users a
+JOIN (SELECT username, email, COUNT(*)
+FROM users 
+GROUP BY username, email
+HAVING count(*) > 1 ) b
+ON a.username = b.username
+AND a.email = b.email
+ORDER BY a.email
+</code>
+
+Ref:- https://chartio.com/learn/databases/how-to-find-duplicate-values-in-a-sql-table/
+
+===== dummy =====
 ==== useful links ====
   * https://sql-bits.com/the-difference-between-where-and-having/ - The difference between WHERE and HAVING
     * Written very well. Short and to the point. Easy to understand.

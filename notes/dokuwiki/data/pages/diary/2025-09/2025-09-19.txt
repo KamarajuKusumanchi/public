@@ -1,0 +1,28 @@
+==== 2025-09-19 ====
+reading journal:
+  * https://finance.yahoo.com/news/intels-biggest-problem-isnt-going-away-with-nvidias-5-billion-stake-204800300.html - Intel's biggest problem isn't going away with Nvidia's \$5 billion stake
+    * Pat Gelsinger
+      * former CEO of Intel
+      * was ousted by the company's board in December 2024
+    * Intel is the only large-scale, leading-edge US chipmaker and makes chips for the Department of Defense. Most of the world's most advanced chips are made by Taiwan's TSMC.
+
+  * https://www.barrons.com/articles/warren-buffett-birthday-lessons-ea9a69d3 - Warren Buffett Turns 95 Today. 10 of His Biggest Investing Lessons.
+    * Buffett generally doesn’t pay more than 15 times forward earnings for a stock
+    * The only “forever” stocks in the Berkshire portfolio could be Coke and American Express.
+    * Buffett retains a 20th century mind-set to his investments
+    * He made his first investment—Cities Services preferred—in 1942 when he was 12.
+    * the stock is up thirtyfold since he turned 65 in 1995
+
+  * https://www.barrons.com/articles/warren-buffett-berkshire-kraft-heinz-breakup-c30515cd - Buffett Dislikes Breakup of Kraft Heinz. It’s Been One of His Worst Investments.
+    * merger of H.J. Heinz and Kraft Foods in 2015
+    * 2015 shareholder letter
+    * “dys-synergies,” or additional costs
+    * block transaction
+    * Kraft plans to split into two companies with names to be determined. The first, now dubbed “Global Taste Elevation” will contain some of the company’s stronger brands, including Heinz ketchup (a Buffett favorite) and Philadelphia brand Cream Cheese. The other, dubbed North American Grocery, will house Oscar Mayer, Kraft Singles and Lunchables among other brands.
+
+  * https://www.barrons.com/articles/strategy-stock-s-p-500-index-a24a542a - Strategy Stock May Not Ever Make It Into the S&P 500 Index
+    * AppLovin, Robinhood Markets, and Emcor
+    * Strategy looks more like an exchange-traded fund or closed-end fund than an operating company with ample recurring revenue and profits.
+    * S&P Dow Jones Indices doesn’t comment on why certain companies aren’t in the S&P 500 or its other major indexes.
+    * The index committee there has considerable discretion about what companies are added.
+    * The S&P 500 already has exposure to the crypto economy through Coinbase

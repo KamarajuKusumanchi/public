@@ -34,4 +34,37 @@ tags | change compression algorithm of a tar archive
 ==== internal links ====
   * [[Relative file names in a tar archive]]
 
+==== compression algos ====
 
+  * compression ratio
+
+Defined as Uncompressed size / compressed size.
+
+<code>
+xz > bzip2 > gzip
+</code>
+
+xz gives the smallest files.
+
+Rule of thumb: files compressed with xz are 20% smaller compared to files compressed with gzip.
+
+  * time to compress
+
+<code>
+xz > bzip2 > gzip
+</code>
+
+xz is slowest, gzip is fastest.
+
+Ref:-
+  * https://www.rootusers.com/gzip-vs-bzip2-vs-xz-performance-comparison/
+  * https://en.wikipedia.org/wiki/Data_compression_ratio
+
+==== Remove all files previously extracted from a tar(.gz) file ====
+<code>
+tar -tf <file.tar.gz> | xargs rm -r
+</code>
+
+tags| uninstall files untarred from a tar file
+
+Ref:- https://www.commandlinefu.com/commands/view/2573/remove-all-files-previously-extracted-from-a-tar.gz-file

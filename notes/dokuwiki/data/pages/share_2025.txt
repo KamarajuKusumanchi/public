@@ -1,6 +1,20 @@
 ===== 2025 =====
 
 
+==== 2025-09-19 ====
+  * https://ourworldindata.org/data-insights/from-candles-to-electrons-changing-lighting-sources-in-the-united-kingdom - From candles to electrons: changing lighting sources in the United Kingdom
+
+==== 2025-09-08 ====
+  * https://ourworldindata.org/measles-vaccines-save-lives - Measles vaccines save millions of lives each year
+  * https://ourworldindata.org/tuberculosis-history-decline - Once a leading killer, tuberculosis is now rare in rich countries — here’s how it happened
+  * https://ourworldindata.org/cardiovascular-deaths-decline - Death rates from cardiovascular disease have fallen dramatically — what were the breakthroughs behind this?
+
+==== 2025-09-02 ====
+  * https://en.wikipedia.org/wiki/History_of_salt - History of salt
+    * Salt's ability to preserve food was a founding contributor to the development of civilization. It helped eliminate dependence on seasonal availability of food, and made it possible to transport food over large distances.
+    * However, salt was often difficult to obtain, so it was a highly valued trade item, and was considered a form of currency by many societies, including Rome.
+    * According to Pliny the Elder, Roman soldiers were paid in salt, from which the word salary is derived, although this is disputed by historians.
+
 ==== 2025-08-15 ====
   * https://www.apolloacademy.com/the-us-remains-the-most-dynamic-economy-in-the-world/ - The US Remains the Most Dynamic Economy in the World - 2025-08-09
     * The number of new businesses created in the US has increased significantly since Trump won the election in November 2024

@@ -113,6 +113,9 @@ https://diyfuturism.com/index.php/2018/01/01/how-to-set-up-a-personal-wiki-with-
 \\
 Plugins written by Andreas Gohr
   * https://www.dokuwiki.org/plugin:rating
+  * https://www.dokuwiki.org/plugin:statdisplay
+\\
+Miscellaneous
 
 ==== conflicting plugins ====
   * https://www.dokuwiki.org/plugin:edittable - seems nice. But it is conflicting with https://www.dokuwiki.org/plugin:wrap . For example, if I have a cell with a list of items, and if I install the edittable plugin and then try to edit that table, the cell contents are not longer rendered as a list.
@@ -129,6 +132,8 @@ Plugins written by Andreas Gohr
 startSectionEdit: $data "section" is NOT an array! One of your plugins needs an update.
 </code> on all the pages.
     * Tested using 2012-10-13 version.
+
+  * https://www.dokuwiki.org/plugin:numberof is not working. It is giving errors as documented in https://www.kamaraju.xyz/dk/playground/numberof
 
 ==== list of installed plugins ====
 syntaxplugins

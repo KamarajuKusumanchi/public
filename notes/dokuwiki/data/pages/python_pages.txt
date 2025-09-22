@@ -22,6 +22,7 @@
   * [[python timeit]]
   * [[python:packages:requests]]
   * [[Manipulating dates in python]]
+  * [[manipulating paths in python]]
   * [[python resources]]
   * [[python packages]]
   * [[python annotations]]

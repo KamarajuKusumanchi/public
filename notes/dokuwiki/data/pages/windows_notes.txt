@@ -30,6 +30,78 @@ google search | command line shortcut to move windows
 
 ==== default apps ====
   * Open .xml, .txt, .log files in notepad++
+
+==== Modify the Alt+Tab behavior ====
+Task: Make alt+tab show recent windows first and do not limit the behavior to just the first 6 windows.
+
+Solution: http://superuser.com/questions/114001/getting-back-the-old-alt-tab-windows-switching-behavior-in-windows-7
+
+Additional notes :
+  * Once you go to <code>HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer</code> right click and select New -> DWORD (32-bit) Value. When a new DWORD is created, the default value is set to 0. Right click on the DWORD -> Modify -> Value Data -> 1 . The Base can be left as Hexadecimal.
+
+==== MS Word ====
+shortcuts:
+  * undo - ctrl-z
+  * Redo - ctrl-y
+  * remove table borders - Alt+hbn
+
+External links:
+  * A comprehensive list of keyboard shortcuts in word 2010 can be found at https://www.veodin.com/keyrocket/word-2010-shortcuts/ . I found the alt+hbn shortcut here.
+  * Equation editor documentation - http://www.iun.edu/~mathiho/useful/Equation%20Editor%20Shortcut%20Commands.pdf
+
+==== Terminal emulators in Windows ====
+
+As of 2015-03-30, I am using Superputty. But here is a list of many terminal emulators I tried before converging onto Superputty.
+
+[[http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html|putty]]
+  * pros: very powerful, sessions can be stored, automated login by SSH key authentication
+  * cons: no builtin xserver, can't have more than one terminal in a window. So if you want to connect to multiple machines, you have to open multiple putty sessions
+
+[[https://github.com/jimradford/superputty/releases/|superputty]]
+  * Pros:
+    * different putty windows can be placed in a single window
+    * can import putty sessions
+    * Upon restart all previous sessions are automatically restored.
+    * Very easy to run a single command across all the putty connections made via superputty
+    * Saving new layouts is easy. Restoring a saved layout is just a double click away.
+
+  * Cons:
+    * Has some bugs - Alt+tab and user defined key board shortcuts (ex:- ctrl+left, ctrl+right to do tab switching) etc., stop working all of a sudden. However, this Bug is unreproducible and only happens some of the times.
+
+[[http://sourceforge.net/projects/puttymanager/|putty manager]]
+  * Pros:
+    * Can have multiple putty windows in the same window
+
+  * Cons:
+    * Development seems to be stalled. Latest release 0.2.16 dates back to 2012-12-10
+    * After closing a session with two tabs containing different putty connections, if I try to restore it, the result is two putty sessions in the same window but one below the other. That is the program does not restore the layout of tabs correctly.
+
+[[http://sourceforge.net/projects/windowsconsole/|Alternative Windows Console]]
+  * Pros:
+    * Can have multiple putty windows in the same window
+
+  * Cons:
+    * Development seems to be stalled. Latest release 2.0.38 dates back to 2013-08-13
+    * After closing a session with two tabs containing different putty connections, if I try to restore it, the result is two putty sessions in the same window but one below the other. That is the program does not restore the layout of tabs correctly. Moreover, in each putty window of the new session, the putty configuration dialog is displayed instead of automatically logging in to the machine.
+
+[[http://ttyplus.com/multi-tabbed-putty/|mtputty]]
+  * Pros:
+    * Can have multiple putty windows in the same window
+
+  * Cons:
+    * If a session with multiple tabs is closed, it is not automatically restored.
+
+==== conemu vs console2 ====
+https://aarontgrogg.com/blog/2015/07/31/a-better-windows-command-line-experience-comparing-powercmd-vs-console2-vs-consolez-vs-conemu-vs-cmder/ recommends conemu to console2, consoleZ and PowerCmd
+
+==== Quickly launch applications ====
+  * win+r excel
+  * win+r notepad
+  * win+r winword
+  * win+e  will launch the file explorer
+
+  * win+r shell:startup - open startup folder in explorer.
+
 ==== search button in taskbar not working ====
 Symptom: The search button in the task bar does not respond to the keyboard.
 
@@ -187,6 +259,35 @@ click on print icon
 Destination = "Save as PDF"
 Pages: e.g. 1-5, 8, 11-13
 Save
+</code>
+
+==== keyboard shortcuts ====
+<WRAP group><WRAP column>
+^ task ^ shortcut ^
+| task manager | Ctrl + Shift + Esc |
+</WRAP></WRAP>
+
+==== check if a .exe file is 32-bit or 64-bit on Windows ====
+Use Task Manager while the program is running.
+
+  * Launch the executable file you want to check.
+  * Open Task Manager by pressing Ctrl + Shift + Esc.
+  * Go to the Details tab.
+  * Right-click on any of the column headers (like "Name" or "PID") and select Select columns.
+  * Check the box for Platform and click OK.
+  * A new column named "Platform" will appear. It will display either "32-bit" or "64-bit" next to the executable's name.
+
+Ref:
+  * https://www.top-password.com/blog/check-if-program-is-32-bit-or-64-bit-on-windows-10/ - 3 Ways to Check if a Program is 32-bit or 64-bit on Windows 10
+    * Got the above solution from here.
+    * This page gives two other solutions.
+    * All solutions are accompanied with useful screenshots.
+    * Content is easy to follow and concise.
+    * Worth reading the page end to end.
+
+==== copy contents of a file to clipboard ====
+<code>
+cat file | clip
 </code>
 
 ===== batch script ====

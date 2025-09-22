@@ -1,3 +1,67 @@
+==== 2025-09-20 ====
+There are some regions within the asteroid belt where the number asteroids is very low. These regions are called Kirkwood gaps. They are caused by resonant interactions with the gravitational effects of Jupiter. These gaps are named after Daniel Kirkwood, an American astronomer who discovered them in 1860.
+
+Ref:-
+  * https://kids.kiddle.co/Kirkwood_gap
+    * easy to understand
+    * says that Daniel Kirkwood discovered them in 1857.
+  * https://space.fandom.com/wiki/Kirkwood_gap
+  * https://www.britannica.com/science/Kirkwood-gaps
+    * says that Daniel Kirkwood discovered them in 1860.
+
+
+==== 2025-09-15 ====
+  * You can group tabs in chrome. Very useful.
+
+Ref:- https://www.google.com/chrome/tips/#organize
+
+See also:- https://support.google.com/chrome/answer/2391819 - Manage tabs in Chrome
+
+==== 2025-09-14 ====
+  * You can bulk move tabs from one chrome window to another chrome window.
+    * First, select the tabs by holding the ctrl key and click on each tab you want to move. You can also select a range by clicking on the first tab, then hold down the shift key and click on the last tab.
+    * Second, drag the selected group of tabs to the tab strip of the other window. You can also right click -> "Move tabs to another window" -> choose the destination window and create a new one.
+
+==== 2025-09-11 ====
+  * Muslin is a cotton fabric of plain weave.
+
+Ref:- https://en.wikipedia.org/wiki/Muslin
+
+==== 2025-09-07 ====
+TIL about barrier islands and how they work from https://science.howstuffworks.com/environmental/conservation/issues/barrier-island.htm
+
+==== 2025-09-03 ====
+TIL, a **proportional font** is a typeface where each character's width varies. For example, a wide letter like 'W' takes up more space than a narrow letter like 'i'. This is the opposite of a **monospace font**, where every character, including a 'W' and an 'i', occupies the exact same amount of horizontal space.
+
+Most of the fonts you read in books and on websites are proportional because the varied spacing is considered easier to read and more visually appealing.  Monospace fonts are commonly used for things like computer code, where the uniform spacing helps with alignment and readability.
+
+Ref:- https://en.wikipedia.org/wiki/Typeface#Proportional_font
+
+==== 2025-09-01 ====
+  * The “911” emergency number was introduced in the US in 1968.
+  * The system was developed by AT&T. They chose 911 for three reasons:
+    * First, it’s short and easy to dial on a rotary phone. For example, dialing 999 would take longer compared to dialing 911.
+    * Second, the number 9 was not yet used as an extension.
+    * Third, the company had already developed numbers like 411, allowing them to use the same basic infrastructure to process and route 911.
+
+Ref:-
+  * [[https://en.wikipedia.org/wiki/911_(emergency_telephone_number)#History]] - does not have all the details but the content is neutral.
+  * https://www.waldenu.edu/online-masters-programs/ms-in-criminal-justice/resource/ten-things-you-might-not-know-about-the-united-states-911-emergency-telephone-number
+    * has all the details but they are trying to soft sell courses in their university.
+    * Afterwards, see if you can find a better reference.
+
+See also:
+  * https://ourworldindata.org/cardiovascular-deaths-decline - Death rates from cardiovascular disease have fallen dramatically — what were the breakthroughs behind this?
+
+
+==== 2025-08-29 ====
+  * ''cat /proc/filesystems'' lists the filesystems supported by the currently running kernel.
+
+Ref:- https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/4/html/reference_guide/s2-proc-filesystems
+
+==== 2025-08-26 ====
+  * In https://finviz.com/bubbles.ashx , if you hover on the sector name at the bottom, it will show the bubbles corresponding to that sector in color and all other bubbles become gray. See for example {{:highlight_sector_in_finviz_bubbles.png?linkonly|}}
+
 ==== 2025-08-11 ====
   * TIL that Alexander the great died at an age of 32.
 

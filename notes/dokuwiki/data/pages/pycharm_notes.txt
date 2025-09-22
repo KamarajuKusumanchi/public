@@ -1,3 +1,19 @@
+===== Current configuration =====
+
+==== my favorite configuration ====
+if version == 2019.3.3:
+  * File -> Settings -> Appearance & Behavior -> Appearance -> Theme -> IntelliJ
+else:
+  * File -> Settings -> Appearance & Behavior -> Appearance -> UI Options -> Theme -> IntelliJ
+  * File -> Settings -> Appearance & Behavior -> System Settings -> Project Opening -> select "Open project in new window"
+  * scrollbar -> right click -> Customize Highlighting Level -> drag it to Syntax
+  * File -> Settings -> Editor -> General -> Editor Tabs -> Tab Closing Policy -> Tab limit - 20 -> OK
+
+==== show menu bar ====
+Hamburger Button -> View -> Appearance -> Main Menu -> Show above Main Toolbar
+
+tested in | pycharm 2025.1.2
+
 ===== useful shortcuts =====
 
 ==== go to the location of current file in the project tool window ====
@@ -92,6 +108,14 @@ press ALT key for all the subsequent blocks.
 Shift + F4
 
 ===== dummy =====
+==== run git bash in the terminal ====
+
+  * File -> Settings -> Tools -> Terminal -> Shell path = "C:\Program Files\Git\bin\bash.exe" %%--%%login
+
+The quotes are important
+
+Ref:- https://stackoverflow.com/questions/20573213/embed-git-bash-in-pycharm-as-external-tool-and-work-with-it-in-pycharm-window-w
+
 ==== configure pycharm with pytest ====
 <code>
 File -> Settings -> Tools -> Python Integrated Tools -> Testing -> Default test runner -> select pytest from the dropdown -> OK
@@ -132,6 +156,7 @@ Ref:- https://intellij-support.jetbrains.com/hc/en-us/community/posts/206585365-
 ==== release history ====
 <code>
 released, version
+2025-08-04, 2025.2
 2023-03-29, 2023.1
 2023-03-09, 2022.3.3
 2023-03-15, 2022.2.5
@@ -155,6 +180,8 @@ released, version
 2017-08-23, 2017.2.2
 2017-07-11, 2017.1.5
 </code>
+
+Note:- the above table is not comprehensive. I am just updating it sporadically.
 
 Ref:-
   * https://www.jetbrains.com/pycharm/download/#section=linux - latest version
@@ -187,3 +214,14 @@ Ref:-
   * Where is a variable declared - https://www.jetbrains.com/help/idea/navigating-to-declaration-or-type-declaration-of-a-symbol.html
   * Always open a new project in a new window - https://www.jetbrains.com/help/pycharm/opening-reopening-and-closing-projects.html
   * check the log commits betwen two branches - https://www.jetbrains.com/help/pycharm/manage-branches.html#compare_branches \\ tags | git log branchA..branchB
+
+==== show the git branch ====
+enable the "Git Branch" status bar widget.
+
+approach 1:
+  * View -> Appearance -> Status Bar Widgets -> Git Branch -> check.
+
+approach 2:
+  * Ctrl + Shift + a -> type "show git branch" -> select Show 'Git Branch' Widget -> ON
+
+tested using pycharm 2025.1.2

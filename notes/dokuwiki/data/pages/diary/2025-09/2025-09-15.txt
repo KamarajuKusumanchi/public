@@ -1,0 +1,4 @@
+==== 2025-09-15 ====
+websites I came across
+  * https://openrouter.ai/provider/openai - Tokens processed on OpenRouter
+    * shows a graph of tokens processed on OpenRouter

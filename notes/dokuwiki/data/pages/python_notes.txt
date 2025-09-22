@@ -1,3 +1,24 @@
+===== Troubleshooting =====
+
+==== no module named error when importing from subdirectories ====
+
+  * Make sure that each directory contains <nowiki>__init__.py</nowiki>
+
+==== ImportError: DLL load failed while importing win32api: The specified module could not be found. ====
+
+Problem:
+
+<code>
+>>> import win32api
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+ImportError: DLL load failed while importing win32api: The specified module could not be found.
+</code>
+
+Solution: Install pywin32 package
+
+Ref:- https://stackoverflow.com/questions/58612306/how-to-fix-importerror-dll-load-failed-while-importing-win32api
+
 ===== dummy =====
 ==== useful links ====
   * [[https://trstringer.com/python-external-commands/ | Running External Commands in Python (Shell or Otherwise)]] (trstringer.com)

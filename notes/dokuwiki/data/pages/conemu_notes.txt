@@ -3,6 +3,51 @@
 
 Settings -> Features -> Colors -> Schemes -> <xterm> -> Save settings
 
+==== run git bash terminal ====
+
+step 1: git bash set up
+
+<code>
+task name = Bash::Git bash
+Default task for new console = check
+Taskbar jump lists = check
+Default shell (Win+x) = check
+Task parameters: leave empty
+commands: 
+"%ProgramFiles%\Git\git-cmd.exe" --no-cd --command=usr/bin/bash.exe -l -i
+</code>
+
+step 1 (old, deleteafter): Add a task
+<code>
+Right click on the window title bar -> Settings -> Startup -> Tasks
+click the '+' button
+Set the title to Git
+Default task for new console -> check
+Task parameters = /DIR "C:\Users\kkusuman"
+Commands - "C:\Program Files\Git\Git Gui\bin\bash.exe" --login -i
+Move the {Git} task to the top by repeatedly clicking on the "Up" button
+Save settings
+</code>
+
+In the above, change the title, start directory, bash path accordingly.
+
+step 2: [[#git_bash_colors_in_conemu| Set up "git bash" like colors]]
+
+step 3: Auto restore previous session
+
+<code>
+In the Settings window ->
+Startup -> Auto save/restore opened tabs -> select -> Save settings
+</code>
+
+step 4: unbind ctrl-v
+
+By default ctrl-v is bound to "Paste first line of clipboard contents, autoconvert paths for cygwin's appllications (ignored in Far)". This messes up with vim which uses ctrl-v to enter into visual mode.
+
+<code>
+Settings -> Keys & Macro -> unbind Ctrl-v
+</code>
+
 ==== disable warning when pasting multiple lines ====
 Copy pasting multiple lines in vim gives the following warning
 <code>

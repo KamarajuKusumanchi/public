@@ -18,4 +18,13 @@ Tested using Notepad++ v8.1.1 (64-bit), Build time: Jul 1 2021 - 14:10:53
 
 ===== How to =====
 ==== start a new instance of notepad++ ====
-  * If Notepad++ is already open, press Alt + F6. This will immediately open a new, blank instance of Notepad++.
+  * Press Alt + F6 in an existing Notepad++ window.
+
+==== insert current date and time ====
+  * Edit -> Insert -> choose one of [Date Time (short), Date Time (long), Date Time (customized)].
+
+Notes:
+  * The Insert option in the Edit menu was not there in v8.1.1 . But it is there in v8.8.5 . So it must have been added somewhere in between.
+
+Ref:
+  * Came across this tip in https://www.youtube.com/watch?v=u-ZX5b63UoY&t=121s

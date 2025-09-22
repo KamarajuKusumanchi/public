@@ -5,5 +5,30 @@ tags | google gemini
   * there isn't a "copy all sources" or "export citations" feature that automatically gathers all the source links from a Gemini answer
 
 ==== use cases ====
+  * Gemini is like having a highly knowledgeable colleague that you can bother anytime.
   * can act as a rubber duck
     * ref: https://shreevatsa.net/post/ai-for-writing-unexpected/
+
+==== links I came across ====
+  * https://gemini.google.com/saved-info
+
+==== 2025-09-06 ====
+----
+I love Google's Gemini. It is just amazing. It saved me countless number of hours.
+
+In the pre-gemini days, my workflow used to be like this:
+
+I will be working on task 1 -> I get some question -> I search google for an answer -> go through one of the results -> I get another question -> search for it in google -> go through one of the results -> ....
+
+The search stack used to become so high that some times I completely forget what I was initially doing.
+
+Gemini solves that. It helps me to focus on a single task and gets it done.
+----
+Whenever I find a solution via Gemini, I write it down in my notes and add a tag called "@gemini". In the last two months, Gemini came in handy 50 times.
+
+
+<code>
+$ git grep -i "@gemini" 2025-07* 2025-08* | wc -l
+50
+</code>
+----

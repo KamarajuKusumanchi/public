@@ -1,0 +1,14 @@
+==== 2025-09-07 ====
+reading journal:
+  * https://www.cnbc.com/2025/09/07/south-korea-us-georgia-factory.html- South Korea says it has reached a deal with the U.S. for the release of workers in a Georgia plant
+    * Hyundai plant in Georgia
+    * Presidential chief of staff Kang Hoon-sik
+    * South Korea’s Foreign Minister Cho Hyun
+    * Hyundai has partnered with LG Energy Solution to produce batteries that power EVs
+
+  * https://www.thestreet.com/technology/qualcomm-just-made-a-massive-leap-into-teslas-turf- - Qualcomm just made a massive leap into Tesla’s turf
+    * That gut-punch of a quarter
+    * IAA Mobility event
+    * Qualcomm’s Ride Pilot
+    * SAE Level 2, which essentially means that a driver needs to stay alert and in control at all times
+    * Waymo One

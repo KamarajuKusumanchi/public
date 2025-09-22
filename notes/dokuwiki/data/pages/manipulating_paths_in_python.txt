@@ -1,0 +1,26 @@
+==== join directory and file names ====
+Sample code snippet:
+
+<code>
+from pathlib import Path
+from datetime import datetime
+
+dir_name = Path(r'C:\Users\YourUsername\Documents')
+time_stamp = datetime.now().strftime('%Y%m%d_%H%M%S')
+file_name = Path(f"my_file_asof_{time_stamp}.txt")
+
+# The / operator is overloaded for Path objects and acts as a path separator.
+# It is a cleaner and more readable alternative to string concatenation
+# or functions like os.path.join().
+file_path = dir_name / file_name
+print(file_path)
+
+dir_name.mkdir(parents=True, exist_ok=True)
+
+# Do something and write to file_path
+</code>
+
+example demonstrates:
+  * how to specify the directory path in windows
+  * use a time stamp in the file name
+  * create the directory if it does not already exist

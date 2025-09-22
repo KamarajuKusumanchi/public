@@ -1,0 +1,27 @@
+==== key advances in medicine, surgery, and public health ====
+In https://ourworldindata.org/cardiovascular-deaths-decline there is a picture that shows key advances in medicine, surgery, and public health. The url for it is https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/1bec9b8d-aab6-442d-b2e6-27ba26982400/w=1350 . Text extracted from it
+
+  * 1937: Blood groups' rhesus factor discovered
+  * 1941: First studies of blood flow and pressure inside the heart
+  * 1953: First heart-lung machine; echocardiography introduced
+  * 1954: Cardiovascular risk factors identified
+  * 1956: Invention of the automated external defibrillator (AED)
+  * 1958: First pacemaker implanted
+  * 1960: First mechanical heart valves; invention of CPR
+  * 1964: US Surgeon General's report on the risks of smoking; first beta-blockers
+  * 1967: First human heart transplantation; first bypass graft surgery
+  * 1968: "911" emergency number introduced
+  * 1970: First national campaign on heart attack warning signs
+  * 1972: Mass screening and education campaign on hypertension
+  * 1977: First cardiac CT scan; first coronary angioplasty
+  * 1983: First cardiac MRI
+  * 1985: First robot-assisted surgery
+  * 1986: First coronary stent
+  * 1987: First statins and first busting drugs
+  * 1995: First cardiac troponin tests; first ARB drugs
+  * 1997: First antiplatelet drugs
+  * 2000: da Vinci robotic system for keyhole surgery
+  * 2002: First valve replacement without surgery
+  * 2003: First drug-eluting stents
+  * 2012: First 3D-printed heart models to help plan surgeries
+  * 2015: First PCSK9 inhibitor drugs

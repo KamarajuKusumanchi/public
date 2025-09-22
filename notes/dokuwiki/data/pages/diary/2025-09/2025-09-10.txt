@@ -1,0 +1,12 @@
+==== 2025-09-10 ====
+reading journal:
+  * https://www.barrons.com/articles/oracle-stock-price-nvidia-b301a32f?mod=hp_LEDE_C_1 - Oracle Stock May Be Having Its Nvidia Moment. Or It Could Be a Repeat of 1999
+    * Nvidia, made its bones as a maker of sophisticated videogame chips
+    * backlog of cloud bookings—dubbed “remaining performance obligations,” or RPO
+    * Ben Reitzes, head of technology research at Melius
+    * Agentic AI spending
+    * the International Data Corporation
+    * Oracle
+      * CEO Safra Catz
+      * is tied to the U.S. government-backed AI venture Stargate, which aims to invest \$500 billion over the longer term
+      * two of its biggest customers, xAI and Facebook parent Meta Platforms
