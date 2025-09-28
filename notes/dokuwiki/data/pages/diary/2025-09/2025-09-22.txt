@@ -1,0 +1,8 @@
+==== 2025-09-22 ====
+reading journal:
+  * https://www.wsj.com/finance/stocks/black-swan-manager-sees-huge-rally-then-1929-style-crash-f2d16c9b?mod=hp_lead_pos8 - Black Swan Manager Sees Huge Rally, Then 1929-Style Crash
+    * Mark Spitznagel, who earned \$1 billion in a single day for his clients during 2015’s “Flash Crash.”
+    * A protégé of “Black Swan” author Nassim Nicholas Taleb, his hedge fund, Universa Investments, also scored major gains when Lehman collapsed and when Covid-19 sparked a meltdown.
+    * He wasn’t reading the tea leaves and predicting the timing of stock swoons
+    * Universa buys so-called tail-risk protection that loses money most of the time and then pays off hugely if a downturn is particularly sharp
+    * The reason Spitznagel thinks the current bull market’s comeuppance could be the worst since 1929 is repeated federal rescues of markets and the economy

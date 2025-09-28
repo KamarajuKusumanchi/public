@@ -1,0 +1,38 @@
+==== pages in this wiki ====
+  * [[Split file on column values]]
+
+==== print column foo when column bar is empty ====
+
+In a big csv file, say there are two columns of interest - foo and bar. The idea here is to print foo entries whenever bar is empty.
+
+Get the column numbers of foo and bar.
+
+<code>
+=> head -n 1 data.csv | tr ',' '\n' | cat -n | grep -E "\<foo\>|\<bar\>"
+     7  foo
+    81  bar
+</code>
+
+which shows that foo is in 7th column, bar is in 81st column. Now use awk to quickly get a list of foo entries with empty bar
+
+<code>
+=> cut -f 7,81 -d ',' data.csv | awk -F "," '{if ($2 == "") print $1}' | sort | uniq
+</code>
+
+==== print lines that have Y in the 15th field ====
+Assumption: fields are separated by "|"
+
+<code>
+awk -F "|" '$15 == "Y"' file.txt
+</code>
+
+<code>
+awk -F "|" '{if ($15 == "Y") print}' file.txt
+</code>
+
+==== count the number of columns ====
+Assumption: fields are delimited by "|"
+
+<code>
+awk -F "|" "{print NF; exit}" file.txt
+</code>

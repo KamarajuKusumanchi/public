@@ -324,6 +324,7 @@
   * [[audio]]
   * [[microsoft word]]
   * [[our world in data]]
+  * [[awk notes]]
 
 ==== by date ====
   * [[reading journal 2024]]

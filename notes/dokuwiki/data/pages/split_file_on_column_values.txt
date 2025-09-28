@@ -1,0 +1,132 @@
+===== Main =====
+
+==== Objective ====
+
+split the file below into multiple files based on the values in second column
+
+<code>
+$cat pv.txt
+date|scen|val
+20181225|50|-138.4
+20181226|50|182.4
+20181227|51|809.2
+20181228|51|794.1
+20181229|53|-212.3
+20181230|53|-333.2
+20181231|53|-101.3
+20190101||512.3
+</code>
+
+Other requirements:
+
+  - Splitted files should
+    * have the header
+    * be named as scen_<html><foo></html>.txt where foo is the value in the second column. ex:- scen_50.txt, scen_53.txt
+  - For consistency, put all the rows with a missing second column into scen_.txt
+
+==== Solution ====
+
+Use awk
+
+<code>
+awk -F\| '
+NR==1 {hdr=$0; next}
+{fn="scen_" $2 ".txt"}
+!seen[$2]++{print hdr > fn}
+{print > fn}' pv.txt
+</code>
+
+The command will produce
+
+<code>
+$ls scen*
+scen_.txt  scen_50.txt  scen_51.txt  scen_53.txt
+</code>
+
+Contents of each scenario file
+
+<code>
+$for i in scen_*.txt; do echo $i; cat $i; echo; done
+scen_.txt
+date|scen|val
+20190101||512.3
+
+scen_50.txt
+date|scen|val
+20181225|50|-138.4
+20181226|50|182.4
+
+scen_51.txt
+date|scen|val
+20181227|51|809.2
+20181228|51|794.1
+
+scen_53.txt
+date|scen|val
+20181229|53|-212.3
+20181230|53|-333.2
+20181231|53|-101.3
+</code>
+
+==== related links ====
+
+This question was asked multiple times on stackoverflow.
+
+  * https://stackoverflow.com/questions/31909034/split-file-on-the-value-of-a-certain-column-into-separate-files-and-also-include/
+  * https://stackoverflow.com/questions/9951393/split-large-csv-text-file-based-on-column-value/
+
+  * awk documentation on redirecting output - https://www.gnu.org/software/gawk/manual/html_node/Redirection.html
+===== Appendix =====
+
+==== split without headers ====
+
+The awk command simplifies a lot if the header is not required in the splitted files.
+
+<code>
+awk -F\| '{fn="scen_" $2 ".txt"; print > fn}' pv.txt
+</code>
+
+Sample usage:
+
+Delete the scenario files from previous runs (if any)
+
+<code>
+$rm -f scen_*
+removed 'scen_.txt'
+removed 'scen_50.txt'
+removed 'scen_51.txt'
+removed 'scen_53.txt'
+</code>
+
+Run it
+
+<code>
+$awk -F\| '{fn="scen_" $2 ".txt"; print > fn}' pv.txt
+</code>
+
+Output
+
+<code>
+$ls scen_*
+scen_.txt  scen_50.txt  scen_51.txt  scen_53.txt  scen_scen.txt
+
+$for i in scen_*.txt; do echo $i; cat $i; echo; done
+scen_.txt
+20190101||512.3
+
+scen_50.txt
+20181225|50|-138.4
+20181226|50|182.4
+
+scen_51.txt
+20181227|51|809.2
+20181228|51|794.1
+
+scen_53.txt
+20181229|53|-212.3
+20181231|53|-101.3
+20181230|53|-333.2
+
+scen_scen.txt
+date|scen|val
+</code>
