@@ -1,0 +1,20 @@
+==== 2025-10-02 ====
+reading journal:
+  * https://www.barrons.com/articles/berkshire-hathaway-oxychem-occidental-petroleum-stock-e453216b - Berkshire Hathaway to Acquire OxyChem From Occidental for \$9.7 Billion
+    * Berkshire Hathaway is acquiring Occidental Petroleum's (OXY) chemical division, OxyChem
+      * \$9.7 billion cash
+      * OXY expects to use \$6.5 billion of it to pay down debt
+      * deal is expected to close in Q4 2025
+    * Occidental
+      * Oil and gas producer
+      * acquired Anadarko Petroleum and CrownRock in 2019 and 2023, respectively
+      * target level of principal debt below \$15 billion
+    * OxyChem
+      * \$2.4 billion revenue during the first two quarters of 2025
+      * specializes in chemicals used in battery recycling, water treatment, vinyl products that serve as a component of medical supplies.
+
+  * https://www.fico.com/en/newsroom/fico-launches-cost-cutting-direct-license-program-mortgage-lending - FICO Launches Cost-Cutting Direct License Program for Mortgage Lending
+    * Global analytics software leader FICO (NYSE: FICO)
+    * tri-merge resellers
+    * 
+    * FICO is up ~23% intraday today due to the above change to their licensing program

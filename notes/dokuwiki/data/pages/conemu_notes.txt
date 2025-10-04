@@ -1,4 +1,20 @@
 ===== favorite configuration =====
+
+==== grouping windows for alt tab ====
+tags | conemu alt tab, group tabs, club windows
+
+If there are N conemu windows with M tabs in each (on average), the following setting will let you cycle through N icons instead of N*M icons.
+
+<code>
+Settings -> General -> Task bar -> Taskbar buttons -> Active console only (ConEmu window)
+</code>
+
+Sample use case 1:- I usually open a separate conemu window per "task" and multiple tabs within each window for a "subtask".
+
+Sample use case 2:- Say we are working on two machines (ex:- dev and uat). We can open two conemu windows for each of them. On each machine we can have three tabs pointing to three different directories, for example source code, input, and output. With the default settings, clicking on the conemu icon in the taskbar or alt+tab will show 6 conemu icons. But with the above setting, we will only see 2 icons.
+
+See also:- https://github.com/cmderdev/cmder/issues/758
+
 ==== git bash colors in conemu ====
 
 Settings -> Features -> Colors -> Schemes -> <xterm> -> Save settings
@@ -47,6 +63,42 @@ By default ctrl-v is bound to "Paste first line of clipboard contents, autoconve
 <code>
 Settings -> Keys & Macro -> unbind Ctrl-v
 </code>
+
+==== start git bash on start up ====
+
+<code>
+Settings -> Startup -> Specified named task -> {Bash::Git bash} -> Save settings
+</code>
+
+==== auto restore current working directory ====
+
+Add the following lines to ~/.bashrc
+
+<code>
+if [[ -n "${ConEmuPID}" ]]; then
+  PROMPT_COMMAND='ConEmuC -StoreCWD'
+fi
+</code>
+
+Tested with: conemu build 151101, git bash 2.18.0, Windows 7.
+
+Solution is specific to | conemu + git bash + win 7 . For other configurations, see https://conemu.github.io/en/ShellWorkDir.html
+
+See also :-
+
+  * https://github.com/Maximus5/ConEmu/issues/784
+
+tags | auto save, restore, preserve current working directory after restarting a conemu session
+
+==== font size ====
+
+<code>
+Settings -> Main ->
+font = Consolas
+size = 11
+</code>
+
+This gives the same font size as that of default git bash.
 
 ==== disable warning when pasting multiple lines ====
 Copy pasting multiple lines in vim gives the following warning
@@ -158,21 +210,6 @@ See also:- https://github.com/tovletoglou/comenu-pane-templates -> search for "T
 </code>
 
 Ref:- https://conemu.github.io/en/ConEmuArgs.html
-
-==== grouping windows for alt tab ====
-tags | conemu alt tab, group tabs, club windows
-
-If there are N conemu windows with M tabs in each (on average), the following setting will let you cycle through N icons instead of N*M icons.
-
-<code>
-Settings -> General -> Task bar -> Taskbar buttons -> Active console only (ConEmu window)
-</code>
-
-Sample use case 1:- I usually open a separate conemu window per "task" and multiple tabs within each window for a "subtask".
-
-Sample use case 2:- Say we are working on two machines (ex:- dev and uat). We can open two conemu windows for each of them. On each machine we can have three tabs pointing to three different directories, for example source code, input, and output. With the default settings, clicking on the conemu icon in the taskbar or alt+tab will show 6 conemu icons. But with the above setting, we will only see 2 icons.
-
-See also:- https://github.com/cmderdev/cmder/issues/758
 
 ==== launch conemu windows ====
 <code>

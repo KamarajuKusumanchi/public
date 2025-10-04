@@ -1,0 +1,6 @@
+==== 2025-10-01 ====
+reading journal:
+  * https://www.bloomberg.com/news/articles/2025-10-02/openai-completes-share-sale-at-record-500-billion-valuation - OpenAI Completes Share Sale at Record \$500 Billion Valuation
+    * \$6.6 billion worth of shares in OpenAI at a \$500 billion valuation
+    * group of investors including Thrive Capital, SoftBank, Dragoneer Investment Group, Abu Dhabi’s MGX and T. Rowe Price
+    * The total amount of eligible units sold in the secondary fell short of the \$10 billion-plus worth of stock that the company allowed for sale
