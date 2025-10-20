@@ -86,6 +86,7 @@ related links
     * You can use this to hide the "Media Manager" for people who do not have access to it.
 
 ==== plugins I am exploring ====
+  * https://www.dokuwiki.org/plugin:mdpage
   * https://www.dokuwiki.org/plugin:tabbox
   * https://www.dokuwiki.org/plugin:cli
   * https://www.dokuwiki.org/plugin:secedit2head
@@ -134,6 +135,18 @@ startSectionEdit: $data "section" is NOT an array! One of your plugins needs an 
     * Tested using 2012-10-13 version.
 
   * https://www.dokuwiki.org/plugin:numberof is not working. It is giving errors as documented in https://www.kamaraju.xyz/dk/playground/numberof
+
+  * https://www.dokuwiki.org/plugin:commonmark
+    * seems buggy. When I installed it in a dokuwiki instance running "Release 2022-07-31b Igor", every page started giving the following error <code>
+dokuwiki\Exception\FatalException: Cannot redeclare includeIfExists() (previously declared in /var/lib/dokuwiki/lib/plugins/commonmark/src/bootstrap.php:3)
+An unforeseen error has occured. This is most likely a bug somewhere. It might be a problem in the mdpage plugin.
+
+More info has been written to the DokuWiki error log.
+</code>
+    * To fix it, I logged in the backend and manually removed the extension by doing <code>
+$ cd /var/lib/dokuwiki/lib/plugins
+$ sudo rm -rf commonmark
+</code> FWIW, I did not have to remove the cache directory.
 
 ==== list of installed plugins ====
 syntaxplugins

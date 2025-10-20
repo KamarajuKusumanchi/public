@@ -1,0 +1,26 @@
+==== tasks in progress ====
+:?: What is a single character that can show that a task is in progress? For example, X normally indicates that a task is completed. What about for things that are in progress?
+
+:!: ''/''
+
+==== single character task status symbols ====
+
+Table of single characters used to track common task statuses, based on conventions found in bullet journaling, plaintext to-do lists, and task management markdown systems.
+
+^ status category ^ symbol ^ usage and notes ^
+| completed | [X, \(\checkmark\), x] | To mark tasks that are done or finished or completed. |
+| In progress | / | Mnemonic: X is for completed tasks. Half of X is tasks in progress. |
+| | ~ | |
+| | [<, ->] | To mark tasks that are moved to some other list. |
+| | - | To mark tasks that are no longer being pursued. |
+| Not started | [' ', o, ?] | |
+
+==== books I came across ====
+  * https://www.amazon.com/Bullet-Journal-Method-Present-Design/dp/0525533338/
+    * The Bullet Journal Method: Track the Past, Order the Present, Design the Future
+    * by Ryder Carroll
+    * 2018-10-23
+  * https://www.amazon.com/Sketchnote-Handbook-illustrated-visual-taking/dp/0321857895
+    * Sketchnote Handbook, The: the illustrated guide to visual note taking
+    * by Mike Rohde
+    * 2012-12-03

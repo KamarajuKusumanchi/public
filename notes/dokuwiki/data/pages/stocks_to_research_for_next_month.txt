@@ -1,5 +1,37 @@
 tags | stocks to watch for next month, companies I came across
 
+==== 2025-10-15 ====
+  * APO - Apollo Global Management
+    * As per https://www.thetimes.com/business-money/economics/article/wall-street-first-brands-private-credit-bubble-risk-363q2tcds , they are going to benefit from First Brands' bankrupcy. Seems like a company who knows how to do due diligence on private credit.
+
+==== 2025-10-13 ====
+  * KVUE
+  * UPS
+  * MP - MP Materials Corporation
+    * up 24.80% intraday on 2025-10-13
+  * USAR - USA Rare Earth Inc
+    * up 27.97% intraday on 2025-10-13
+  * UUUU - Energy Fuels Inc
+    * up 19.62% intraday on 2025-10-13
+  * NB - NioCorp Developments Ltd
+    * up 7.22% intraday on 2025-10-13
+  * RGTI - Rigetti Computing Inc
+    * up 25% on 2025-10-13
+
+==== 2025-10-11 ====
+  * BR - Broadridge Financial Solutions
+    * came across it in https://www.bloomberg.com/news/newsletters/2021-08-24/money-stuff-hedge-funds-want-to-stay-popular?srnd=undefined
+    * operating margin = 17.52%, P/S = 3.95
+    * P/E = 32.82, Forward P/E = 22.83
+    * Div yield = 1.65%, Payout = 49/60%
+    * Market cap = \$27.18 bn
+
+==== 2025-10-09 ====
+  * INTU
+    * Turbotax is indispensable when it comes to filing taxes.
+    * Customer service is difficult to reach.
+
+
 ==== 2025-09-30 ====
   * Crocs
     * https://www.youtube.com/watch?v=xOBggykgTAM - Crocs Is Crushing It in China. Here’s Why | WSJ | 2025-08-18

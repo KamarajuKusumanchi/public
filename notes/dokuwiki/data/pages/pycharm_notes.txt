@@ -14,6 +14,18 @@ Hamburger Button -> View -> Appearance -> Main Menu -> Show above Main Toolbar
 
 tested in | pycharm 2025.1.2
 
+==== do not show argument names in the caller ====
+asof | 2025-10-14
+
+Right-click a hint and select "Disable Hints"
+
+Ref:- https://www.jetbrains.com/help/pycharm/inlay-hints.html
+
+To enable it back
+
+Settings (Ctrl+Alt+s) -> Editor -> Inlay Hints -> Parameter names -> Python -> check -> Apply -> OK
+
+tested in | pycharm 2025.1.2
 ===== useful shortcuts =====
 
 ==== go to the location of current file in the project tool window ====
@@ -115,6 +127,105 @@ Shift + F4
 The quotes are important
 
 Ref:- https://stackoverflow.com/questions/20573213/embed-git-bash-in-pycharm-as-external-tool-and-work-with-it-in-pycharm-window-w
+
+==== add new python interpreter ====
+
+tags | python interpreter not available in the run configuration
+
+Click the Project Interpreter widget in the lower right hand corner of pycharm window.\\
+See https://www.jetbrains.com/help/pycharm/guided-tour-around-the-user-interface.html for a pic. It is part of the status bar which is at the bottom.\\
+-> Add Interpreter
+
+==== change python console interpreter ====
+
+File -> Settings -> Build, Execution, Deployment -> Console -> Python Console -> select the Python interpreter from the dropdown.
+
+Ref:- https://www.jetbrains.com/help/pycharm/console-python-console.html
+
+==== go to a line ====
+
+Use Ctrl+g
+
+==== sort after ====
+
+  * search for whole words - \bfoo\b
+
+Ref:- https://www.jetbrains.com/help/pycharm/regular-expression-syntax-reference.html
+
+==== troubleshooting ====
+
+  * "tput: terminal attributes: No such device or address" - https://stackoverflow.com/questions/42836245/tput-terminal-attributes-no-such-device-or-address-in-windows-pycharm-debugger
+
+==== Change PYTHONPATH ====
+
+Run -> Edit configurations -> Environment variables -> click the three dots icon
+
+Add something like
+
+<code>
+PYTHONPATH
+c:\path\to\dir1;d:\path\to\dir2
+</code>
+
+==== Send output from a run to a file ====
+
+<code>
+Edit Configurations -> Logs tab -> check "Save console output to file" -> provide the full path of the output file.
+</code>
+
+This will redirect both standard output and standard error. On subsequent runs, it overwrites the previous file.
+
+Ref:- https://stackoverflow.com/questions/21568810/how-do-i-redirect-input-and-output-with-pycharm-like-i-would-on-the-command-line
+
+==== missing features ====
+
+  * Pycharm does not correctly hightlight a multiline todo item inside the comments. It assumes that a todo item is always just a single line.
+
+Ref:- https://stackoverflow.com/questions/48645942/how-do-i-format-a-multi-line-todo-comment-in-pycharm
+
+  * If you have a split screen, it is not possible to click on a function call and have its definition open in the other split screen.
+
+Ref:- https://stackoverflow.com/questions/37074172/pycharm-jetbrains-ide-go-to-declaration-on-other-split-screen
+
+tags | open function definition in a different split
+
+==== functions are not clickable ====
+
+tags | cannot find function, not able to find imported functions, python path files in another directory, sources root, control click, functions are not clickable
+
+Add appropriate directory as a content root
+
+<code>
+File -> Settings -> Project: foo -> Project Structure -> Add Content Root
+</code>
+
+See also:
+
+  * https://www.jetbrains.com/help/pycharm/configuring-content-roots.html
+  * https://www.jetbrains.com/help/pycharm/content-root.html
+  * https://www.jetbrains.com/help/pycharm/accessing-project-structure.html
+
+==== convert single quotes docstrings to double quoted docstrings ====
+
+Code -> Inspect Code -> Whole project -> Python ... -> Convert docstring to the triple double-quoted string form
+
+Ref:- https://stackoverflow.com/questions/39648917/how-do-i-make-all-the-docstring-using-triple-double-quotes-instead-of-triple-sin
+
+==== key words ====
+
+  * navigation bar
+
+==== wrap lines ====
+
+<code>
+View -> Active Editor -> Soft-Wrap
+</code>
+
+Ref:- https://stackoverflow.com/questions/38585204/pycharm-to-toggle-soft-wrap-in-code-editor
+
+==== useful videos ====
+
+  * https://www.youtube.com/watch?v=QYO5_riePOQ - Top 15 IntelliJ IDEA shortcuts (2020) by Trisha Gee.
 
 ==== configure pycharm with pytest ====
 <code>

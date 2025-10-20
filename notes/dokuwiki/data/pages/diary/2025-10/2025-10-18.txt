@@ -1,0 +1,12 @@
+==== 2025-10-18 ====
+reading journal:
+  * https://www.cnbc.com/2025/10/18/the-alleged-sweeping-betrayal-of-trust-that-rocked-zions-bank-and-spooked-wall-street.html - The alleged 'sweeping betrayal of trust' that rocked Zions bank and spooked Wall Street
+    * California Bank & Trust (CB&T)
+      * subsidiary of Zions
+    * Andrew Stupin and Gerald Marcil
+      * managers of several funds utilizing the name “Cantor Group,”
+      * their associate Deba Shyam
+    * two related investment vehicles, Cantor Group II and Cantor Group IV
+    * The credit facilities were to be used by the funds to purchase distressed residential and commercial mortgage loans
+    * take a provision for the \$60 million outstanding loans and charge off \$50 million
+    * failing to provide collateral loans in the first position

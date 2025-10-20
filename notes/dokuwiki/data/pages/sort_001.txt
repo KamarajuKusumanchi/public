@@ -113,3 +113,10 @@ as per
     * Used to write "Discrete Mathematics: An Open Introduction, 4th edition by Oscar Levin" book [(>https://discrete.openmathbooks.org/dmoi4/frontmatter-5.html)]
 
 ~~REFNOTES~~
+
+==== blank calendars ====
+tags | activity
+
+  * https://www.calendarlabs.com/2026-pdf-calendar
+  * https://www.calendarlabs.com/templates/2026/2026-monthly-calendar-pdf-01.pdf
+  * https://www.calendarlabs.com/templates/2025/2025-monthly-calendar-pdf-01.pdf

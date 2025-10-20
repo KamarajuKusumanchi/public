@@ -1,6 +1,21 @@
 ===== 2025 =====
 
 
+==== 2025-10-19 ====
+  * https://survey.stackoverflow.co/2025/ai - AI | 2025 Stack Overflow Developer Survey
+
+
+==== 2025-10-16 ====
+  * https://ourworldindata.org/wolbachia-neglected-tropical-diseases - How Wolbachia bacteria could help us tackle some of the world’s most neglected tropical diseases
+    * Exciting times ahead. Countries might be developing mosquito breeding factories or import mosquito eggs internationally to fight against diseases such as dengue fever, yellow fever, Zika, and chikungunya in the future.
+
+==== 2025-10-14 ====
+  * https://trumpstruth.org/
+    * To view Trump's posts without having to open an account on truth social.
+
+==== 2025-10-05 ====
+  * https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936 - NIRS fire destroys government's cloud storage system, no backups available
+
 ==== 2025-09-19 ====
   * https://ourworldindata.org/data-insights/from-candles-to-electrons-changing-lighting-sources-in-the-united-kingdom - From candles to electrons: changing lighting sources in the United Kingdom
 

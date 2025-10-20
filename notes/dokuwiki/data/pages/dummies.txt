@@ -93,9 +93,3 @@ Americans like toast, eggs, and cereal. In China people eat congee, a thick rice
 ==== dummy 011 ====
 The name //floating-point numbers// implies that during mathematical calculations the decimal point can move or “float” to various positions within the number to maintain the proper number of significant digits.
 
-==== dummy 012 ====
-Federal agencies
-  * U.S. Department of State (DOS)
-  * U.S. Customs and Border Protection (CBP)
-  * U.S. Citizenship and Immigration Services (USCIS)
-  * SSA

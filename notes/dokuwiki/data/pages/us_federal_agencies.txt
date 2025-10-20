@@ -1,0 +1,9 @@
+==== U.S. Federal Agencies ====
+Federal agencies
+  * USCIS
+    * reports to DHS
+  * Department of Homeland Security (DHS)
+  * U.S. Department of State (DOS)
+  * U.S. Customs and Border Protection (CBP)
+  * U.S. Citizenship and Immigration Services (USCIS)
+  * SSA

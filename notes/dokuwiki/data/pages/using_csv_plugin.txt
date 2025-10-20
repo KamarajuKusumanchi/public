@@ -1,0 +1,38 @@
+==== show data from github ====
+~~NOCACHE~~
+
+<csv https://raw.githubusercontent.com/KamarajuKusumanchi/market_data/refs/heads/master/company_details/investor_relations_website.txt>
+</csv>
+
+Ref:-
+  * https://www.dokuwiki.org/plugin:csv
+  * https://github.com/KamarajuKusumanchi/market_data/blob/master/company_details/investor_relations_website.txt
+  * https://raw.githubusercontent.com/KamarajuKusumanchi/market_data/refs/heads/master/company_details/investor_relations_website.txt
+
+==== simple ====
+<csv>
+Number,Name,Details
+1,Power Man,Blue
+2,Red Book,"Yellow, but blue"
+</csv>
+
+Ref:- https://www.dokuwiki.org/plugin:csv
+
+==== simple with comments ====
+<csv>
+# Number is an integer
+# Name is a string separated by a space
+# Details is a string that might have commas in it. If the latter, 
+# enclose it in double quotes.
+Number,Name,Details
+1,Power Man,Blue
+# comment in between
+2,Red Book,"Yellow, but blue"
+# comment at the end
+</csv>
+
+Ref:-
+  * https://github.com/cosmocode/csv/issues/29 - Add support to filter out comments
+    * The original csv plugin does not support comments in the csv file. So I raised this issue.
+  * https://github.com/cosmocode/csv/pull/30/files - my pull request to fix the above issue.
+  * https://github.com/KamarajuKusumanchi/csv - my fork that adds support to filter out comments.

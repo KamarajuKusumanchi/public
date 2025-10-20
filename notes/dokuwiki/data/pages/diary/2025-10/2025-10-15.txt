@@ -1,0 +1,59 @@
+==== 2025-10-16 ====
+reading journal:
+  * https://www.wsj.com/finance/how-jefferies-found-itself-at-the-center-of-first-brands-collapse-290f0a74?mod=hp_lead_pos9 - How Jefferies Found Itself at the Center of First Brands’ Collapse
+    * First Brands Group
+      * Cleveland-based company
+      * auto-parts giant
+      * filed for bankruptcy late last month
+      * sudden collapse
+      * an accounting scandal
+      * sells billions of dollars worth of parts including oil filters and windshield wipers annually to customers such as Walmart
+      * off-balance-sheet debt
+      * more than \$2 billion of investors’ money is unaccounted for
+      * CEO Patrick James
+        * intensely private
+    * Jefferies
+      * its investment banking and capital markets divisions account for most of the revenue
+      * its bankers set out to help the company refinance corporate loans over the summer
+      * CEO Rich Handler and President Brian Friedman
+        * the pair have led the bank for two decades
+      * has worked for First Brands and a predecessor since 2014
+      * its asset management arm, Leucadia
+    * Leucadia
+      * one of First Brands' biggest financiers
+      * purchased First Brands’ accounts receivables, an arrangement known as factoring
+      * The Leucadia entity doing it, Point Bonita Capital, is named after a lighthouse overlooking San Francisco Bay and focused on such investments
+    * Point Bonita Capital
+      * held \$715 million in accounts receivable
+      * Jefferies had roughly \$45 million of Point Bonita exposure while the fund’s other investors including BlackRock and Morgan Stanley’s asset-management arm held the rest
+    * financial statements were audited by accounting firm BDO
+    * First Brands does not view factoring as debt-like given it is a true non-recourse sale
+    * factoring arrangements in which financial institutions collect payments directly from First Brands customers such as AutoZone and Amazon
+    * investing giant Apollo Global Management had bet against First Brands through a so-called credit-default swap trade
+    * quality-of-earnings report, which would provide more detail on a firm's revenues and financing
+    * more than \$2 billion of off-balance-sheet asset-backed loans, as well as a \$210 million loan from UBS and a \$77 million loan from Santander
+    * New independent directors are now examining whether accounts receivable were double- or triple-pledged.
+    * Jefferies has been on a hiring spree with the goal of becoming the fifth-biggest investment bank globally
+    * Japan’s Sumitomo Mitsui Financial Group, already a big investor in Jefferies, recently increased its stake to up to 20%
+
+  * https://www.thetimes.com/business-money/economics/article/wall-street-first-brands-private-credit-bubble-risk-363q2tcds - Wall Street is worried the private credit bubble will burst
+    * September 30 2025
+    * First Brands
+      * The Ohio-based business, which makes windscreen wipers, fuel pumps and spark plugs, is owned and run by Patrick James, a Malaysian-born businessman with a limited public profile.
+      * borrowed billions of dollars in private markets
+      * It has long used an opaque financing method known as factoring, which allowed it to borrow against future cash flows.
+      * filed for Chapter 11 protection on Sunday night in the Southern District of Texas
+    * Court filings disclosed total liabilities of \$11.6 billion, including about \$9.3 billion of debt obligations
+    * Analysts are calling it a “free fall bankruptcy” because the company is entering bankruptcy with no plan
+    * some of the world’s biggest private investment firms - PGIM, UBS and Invesco
+    * Tricolor Holdings, a subprime auto lender that also filed for bankruptcy in September
+    * First Brands said that its Chapter 11 cases pertain solely to US operations and it expects its global operations to continue uninterrupted
+    * John Bringardner, head of restructuring at New York-based Debtwire
+    * these kinds of off balance sheet private debt facilities that tend to be more illiquid, there’s really little to no disclosure
+    * the boom in lending by money managers rather than banks, known as “private credit”, which has grown significantly since the global financial crisis as increased regulations and capital requirements made it more challenging for traditional banks to issue certain types of loans
+    * the company said it believes it had an unpaid \$2.3 billion hole on its balance sheet related to third-party factoring arrangements when it filed for Chapter 11 proceedings
+    * A special committee of First Brands independent directors is investigating whether the company’s receivables may have been factored more than once
+
+thoughts on First Brands bankruptcy:
+  * https://www.thetimes.com/business-money/economics/article/wall-street-first-brands-private-credit-bubble-risk-363q2tcds is easy to read than https://www.wsj.com/finance/how-jefferies-found-itself-at-the-center-of-first-brands-collapse-290f0a74?mod=hp_lead_pos9
+  * Basically, after the 2008 financial crisis, banks have become strict about giving loans. So companies started borrowing from asset managers ("private credit"). Looks like the asset managers did not do enough due diligence when lending the monies. For example, same collateral was being pledged more than once, Companies like Blackrock, MS, Jeffries have exposure to this scandal.

@@ -1,0 +1,6 @@
+==== 2025-10-13 ====
+reading journal:
+  * https://www.jpmorganchase.com/newsroom/press-releases/2025/jpmc-security-resiliency-initiative - JPMorganChase Launches $1.5 Trillion Security and Resiliency Initiative to Boost Critical Industries
+    * The way I understand it:
+      * JPM will invest \$10 billion of their own money. They will "facilitate" the rest of the \$1.49 trillion (loans, underwriting, advisor, financing etc.,) for its clients.
+

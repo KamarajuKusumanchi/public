@@ -1,16 +1,3 @@
-==== ignore subdirectories ====
-One way is to call diff without the --recursive (-r) option and use grep to filter out the unwanted messages:
-
-<code>
- % diff dir1 dir2 | grep -v "^Only in "
-</code>
-or
-<code>
- % diff -q dir1 dir2 | grep -v "^Only in "
-</code>
-
-See https://stackoverflow.com/questions/30446490/diff-only-compare-files-and-ignore-subdirectories/ for some sample tests using this idea.
-
 ==== diff word by word ====
 <code>
 git diff --word-diff --no-index -- foo bar
@@ -28,6 +15,19 @@ Related commands:
   * ''<nowiki>git diff --no-index --color-words=. -U0 -- foo bar</nowiki>'' - to diff character by character, display no context
   * ''<nowiki>git diff --no-index --color-words=. -- foo bar</nowiki>'' - to diff character by character
   * ''<nowiki>git diff --no-index --color-words -- foo bar</nowiki>'' - to diff word by word
+
+==== ignore subdirectories ====
+One way is to call diff without the --recursive (-r) option and use grep to filter out the unwanted messages:
+
+<code>
+ % diff dir1 dir2 | grep -v "^Only in "
+</code>
+or
+<code>
+ % diff -q dir1 dir2 | grep -v "^Only in "
+</code>
+
+See https://stackoverflow.com/questions/30446490/diff-only-compare-files-and-ignore-subdirectories/ for some sample tests using this idea.
 
 ==== head and diff ====
 To diff headers of two files without creating any temporary files

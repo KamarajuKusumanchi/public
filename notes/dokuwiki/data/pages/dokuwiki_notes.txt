@@ -1,3 +1,11 @@
+==== check the version of dokuwiki instance ====
+  * Login as admin and go to https://www.kamaraju.xyz/dk/doku.php?do=check
+    * Note:- If you do not login as admin, the version number is not displayed.
+
+Ref:- https://www.dokuwiki.org/faq:version
+
+tags | check dokuwiki version running
+
 ==== tasks ====
   * [[random_page#generate_a_random_page | generate a random page]]
   * [[Edit whole section | Edit a whole section in dokuwiki]]
@@ -78,15 +86,6 @@ tags | section headings, header levels, mediawiki to dokuwiki change header leve
 
 ==== reference urls ====
   * source code - https://github.com/splitbrain/dokuwiki
-
-==== check the version of dokuwiki instance ====
-  * Login as admin and go to https://www.kamaraju.xyz/dk/doku.php?do=check
-    * Note:- If you do not login as admin, the version number is not displayed.
-
-Ref:- https://www.dokuwiki.org/faq:version
-
-tags | check dokuwiki version running
-
 
 ==== indented paragraph ====
 If you only need one tab, install the "WRAP" Plugin (See http://dokuwiki.org/plugin:wrap), and then use the following syntax: <code><WRAP indent>your text</WRAP></code>

@@ -1,0 +1,6 @@
+==== 2025-10-11 ====
+reading journal:
+  * https://www.cnbc.com/2025/10/11/artificial-intelligence-bitcoin-as-top-blackrock-etf-place.html - Artificial intelligence, bitcoin as top BlackRock ETF place
+    * Jay Jacobs, BlackRock’s U.S. head of equity ETFs
+    * BAI - the iShares A.I. Innovation and Tech Active ETF from BlackRock
+    * BlackRock’s iShares Ethereum Trust ETF (ETHA), a passively managed fund that tracks the ether’s spot price

@@ -93,3 +93,6 @@ But IBKR also went down -6.9%. Any idea why? I don't know how they are exposed t
 
 FWIW:
   * IBKR released earnings on Jan 21, 2025.
+
+==== 2025-10-10 ====
+SP500 is down today (1.85% intraday) as Trump threatened a "massive increase in tariffs" on China.

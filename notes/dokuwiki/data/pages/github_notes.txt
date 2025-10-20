@@ -34,6 +34,19 @@ git config user.email kamaraju@gmail.com
   * https://grep.app/
     * sample query: https://grep.app/search?q=binary%20gap%20&filter[lang][0]=Python
 
+==== deindexing of inactive repos ====
+Github will deindex a repo from search if there is no activity in it in the last one year.
+
+This is a bit annoying to say the least. For example, I have some "matured" repos (ex:- https://github.com/KamarajuKusumanchi/.mycd) where I do not commit much but want them to be included in the search results.
+
+Ref:
+  * https://github.blog/changelog/2020-12-17-changes-to-code-search-indexing/ <code>
+If the repository does not have any activity for an entire year, the repository will be purged from the Code Search index.
+</code>
+  * https://www.reddit.com/r/programming/comments/kfauwk/starting_today_github_code_search_will_only_index/
+    * discusses some work arounds for this restriction.
+
+
 ===== searching code =====
 ==== search files with extension ====
 <code>
