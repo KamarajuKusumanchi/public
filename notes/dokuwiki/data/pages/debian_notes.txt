@@ -115,6 +115,28 @@ Ref:- I came across it in https://www.texmacs.org/tmweb/download/linux-repos.en.
 ==== debconf23 video archive ====
   * https://meetings-archive.debian.net/pub/debian-meetings/2023/DebConf23/
 
+==== find packages that are installed but not available in debian stable ====
+Get the list of installed packages
+<code>
+dpkg-query -f '${binary:Package}\n' -W | sort > installed_packages.txt
+</code>
+
+Get the list of available packages. The package lists are available in [mirror_url]/debian/dists/[suite]/[component]/binary-[arch]/Packages.gz
+
+<code>
+wget http://deb.debian.org/debian/dists/stable/main/binary-amd64/Packages.gz -O Packages_main.gz
+wget http://deb.debian.org/debian/dists/stable/contrib/binary-amd64/Packages.gz -O Packages_contrib.gz
+wget http://deb.debian.org/debian/dists/stable/non-free/binary-amd64/Packages.gz -O Packages_non-free.gz
+wget http://deb.debian.org/debian/dists/stable/non-free-firmware/binary-amd64/Packages.gz -O Packages_non-free-firmware.gz
+gunzip -c Packages_main.gz Packages_contrib.gz Packages_non-free.gz Packages_non-free-firmware.gz > Packages
+grep '^Package: ' Packages | cut -d' ' -f2 | sort > stable_packages.txt
+</code>
+
+Get the differences
+<code>
+comm -23 installed_packages.txt stable_packages.txt > unavailable_packages.txt
+</code>
+
 ===== packages I came across =====
 ==== python3-full ====
   * python3-full package - https://packages.debian.org/stable/python3-full

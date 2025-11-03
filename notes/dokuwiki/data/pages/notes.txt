@@ -176,6 +176,7 @@
   * [[tickers I came across]]
   * [[toothpaste]]
   * [[du usage]]
+  * [[ps usage]]
   * [[wordus]]
   * [[ublock origin]]
   * [[gitlab notes]]

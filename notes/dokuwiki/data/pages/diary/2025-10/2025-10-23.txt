@@ -1,0 +1,13 @@
+==== 2025-10-23 ====
+reading journal:
+  * https://www.wsj.com/finance/investing/popular-leveraged-funds-shock-investors-with-huge-losses-5714f1ac?mod=hp_lead_pos4 - Popular Leveraged Funds Shock Investors With Huge Losses
+    * Leveraged funds tracking stock indexes have been around for more than a decade.
+    * the leveraged single-stock ETF, was first approved by U.S. regulators in 2022.
+    * By mid-October, leveraged single-stock ETFs had accumulated some \$40 billion in assets
+    * BlackRock and J.P. Morgan Asset Management have avoided these ETFs
+    * Leveraged ETFs fees: ~1%, active funds fees: ~0.3%
+    * ~200 leveraged equity ETFs were launched so far in 2025
+    * total number of leveraged equity ETFs = 701
+    * The brutal divergence in performance is caused by “volatility decay,” or the tendency of price fluctuations to erode the long-term returns of a leveraged fund, even if the underlying asset goes up.
+    * Dave Nadig, director of research at ETF.com
+    * Last week, Volatility Shares filed paperwork to launch 27 highly leveraged ETFs, including what would be the first 5x funds in the U.S. Such funds would go to zero and be liquidated in the event their underlying stock falls 20% in one day.

@@ -49,3 +49,19 @@ Me. That is not correct... Fed increased the interest rates today. Can you pleas
 Gemini: I apologize. You are right. Fed increased the interest rates.
 
 I did this for 6-8 times and it apologized in all the instances and said I am right and kept changing the answer back and forth.
+
+==== 2025-10-19 ====
+Gemini's answers are not 100% reliable. You need to diligently verify them.
+
+The other day I asked for the office phone number of Marlboro Memorial Middle School. Gemini confidently gave the number of Marlboro Middle School.
+
+Related links:
+  * https://mems.mtps.org/ - Marlboro Memorial Middle School
+  * https://mms.mtps.org/ - Marlboro Middle School
+
+==== 2025-10-20 ====
+These days Gemini is often failing with the following error:
+
+<code>
+I'm having a hard time fulfilling your request. Can I help you with something else instead?
+</code>

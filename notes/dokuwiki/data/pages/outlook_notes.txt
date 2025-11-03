@@ -58,3 +58,9 @@ In https://www.businessinsider.com/guides/tech/outlook-keyboard-shortcuts, there
   * ctrl+shift+q - create a meeting request
   * ctrl+shift+a - schedule a new calendar appointment
 Afterwards, find out what the difference between the two is. This link also gives many shortcuts. Take a look at that as well.
+
+===== how to =====
+==== check the space consumed ====
+scope | outlook desktop application
+
+File -> Info -> Account Information -> Mailbox Cleanup -> Cleanup Tools -> Mailbox Cleanup -> View Mailbox Size -> Server Data

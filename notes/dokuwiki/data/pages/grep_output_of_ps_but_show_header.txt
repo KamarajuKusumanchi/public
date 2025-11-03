@@ -1,0 +1,29 @@
+===== grep output of ps but show header =====
+==== solution ====
+<code>
+$ ps -ef | awk 'NR==1 || /[c]rond/'
+UID          PID    PPID  C STIME TTY          TIME CMD
+root        1756       1  0 Oct18 ?        00:00:00 /usr/sbin/crond -n
+</code>
+
+==== close but no cigar ====
+This shows the search result but the header is not displayed and the grep command itself shows up in the results.
+<code>
+$ ps -ef | grep crond
+root        1756       1  0 Oct18 ?        00:00:00 /usr/sbin/crond -n
+raju     1784395 1782267  0 16:41 pts/0    00:00:00 grep crond
+</code>
+
+This shows the search result but the header is not displayed
+<code>
+$ ps -ef | grep [c]rond
+root        1756       1  0 Oct18 ?        00:00:00 /usr/sbin/crond -n
+</code>
+
+This shows the header but the awk command itself is shown in the results
+<code>
+$ ps -ef | awk 'NR==1 || /crond/'
+UID          PID    PPID  C STIME TTY          TIME CMD
+root        1756       1  0 Oct18 ?        00:00:00 /usr/sbin/crond -n
+raju     1784623 1782267  0 16:41 pts/0    00:00:00 awk NR==1 || /crond/
+</code>

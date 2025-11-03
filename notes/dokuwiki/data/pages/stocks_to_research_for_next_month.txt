@@ -1,5 +1,30 @@
 tags | stocks to watch for next month, companies I came across
 
+==== 2025-10-23 ====
+  * TSM
+    * operating margin = 49.54%, P/S = 13.09
+    * P/E = 29.93, Forward P/E = 23.45
+    * Div yield = 0.98%, Payout = 30.18%
+    * Market cap = \$1.515 tn
+
+  * BRK-B
+    * operating margin = 15.58%, P/S = 2.86
+    * P/E = 16.81, Forward P/E = 22.78
+    * Div yield = 0%, Payout = 0%
+    * Market cap = \$1.059 tn
+
+  * VIRT
+    * operating margin = 33.07%, P/S = 1.74
+    * P/E = 7.60, Forward P/E = 7.67
+    * Div yield = 2.87%, Payout = 32.38%
+    * Market cap = \$5.11 bn
+
+  * VZ
+    * operating margin = 22.93%, P/S = 1.18
+    * P/E = 8.92, Forward P/E = 7.94
+    * Div yield = 7.13%, Payout = 64.77%
+    * Market cap = \$161.91 bn
+
 ==== 2025-10-15 ====
   * APO - Apollo Global Management
     * As per https://www.thetimes.com/business-money/economics/article/wall-street-first-brands-private-credit-bubble-risk-363q2tcds , they are going to benefit from First Brands' bankrupcy. Seems like a company who knows how to do due diligence on private credit.

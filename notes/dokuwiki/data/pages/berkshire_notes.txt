@@ -1,4 +1,5 @@
-===== How much operating income did Berkshire have in Q1 of 2023? ====
+===== operating earnings =====
+==== How much operating income did Berkshire have in Q1 of 2023? ====
 Go to the "2023 First Quarter Report" https://berkshirehathaway.com/qtrly/1stqtr23.pdf . You can also go there via
 
 <code>
@@ -54,54 +55,83 @@ showing a 12.6% rise in operating profit, to $8.1 billion.
     * I found businesswire link in https://www.barrons.com/articles/berkshire-hathaway-inc-first-quarter-2023-earnings-release-e6e998bf
   * The operating income can get revised at a later point in time. For example, https://www.businesswire.com/news/home/20220430005003/en shows that the original operating income for Q1 2022 was \$7,040 million. But https://www.businesswire.com/news/home/20230506005003/en shows that it got revised to \$7,160 million.
 
-===== How much cash does Berkshire hold at the end of year 2022? ====
-Go to the annual report https://www.berkshirehathaway.com/2022ar/2022ar.pdf . You can also go there via
-
-<code>
-https://www.berkshirehathaway.com/ -> Annual & Interim Reports
--> Year link corresponding to (row, column) = (2022, Annual)
--> Click on "2022 Annual Report (PDF file)"
-</code>
-
-In the annual report, go to pg-86 (K-70)
-
-<code>
-                  (dollars in millions)
-                                                   2022
-Insurance and Other:
-  Cash and cash equivalents                        $32,260
-  Short-term investments in U.S. Treasury Bills    $92,774
-Railroad, Utilities and Energy:
-  Cash and cash equivalents                        $ 3,551
-</code>
-
-Summing up all these numbers gives \$128,585. So Berkshire has about \$129 billion in cash.
-
-See also:
-  * https://github.com/KamarajuKusumanchi/market_data/blob/master/berkshire/cash.txt - Berkshire's cash by quarter.
-
-==== How much cash does Berkshire hold at the end of Q2 2023? ====
-Go to the Q2 2023 report https://berkshirehathaway.com/qtrly/2ndqtr23.pdf. You can also go there via
+===== cash =====
+==== How much cash does Berkshire have at the end of Q3 2025? ====
+Go to the Q3 2025 report https://berkshirehathaway.com/qtrly/3rdqtr25.pdf. You can also go there via
 <code>
 https://berkshirehathaway.com/ -> Annual & Interim Reports
--> Link corresponding to (row, column) = (2023, 2nd Quarter)
--> Click on "2023 Second Quarter Report (PDF file)"
+-> Link corresponding to (row, column) = (2025, 3rd Quarter)
+-> Click on "2025 Third Quarter Report (PDF file)"
 </code>
 
 In the quarterly report, go to pg-3 in PDF (pg-2 in document) -> Consolidated Balance Sheets
 <code>
                   (dollars in millions)
-                                                   June 30, 2023
+                                                   September 30, 2025
+Assets:
 Insurance and Other:
-  Cash and cash equivalents                        $44,611
-  Short-term investments in U.S. Treasury Bills    $97,322
+  Cash and cash equivalents                        $ 72,156
+  Short-term investments in U.S. Treasury Bills    $305,367
+...
 Railroad, Utilities and Energy:
-  Cash and cash equivalents                        $ 5,444
+  Cash and cash equivalents                        $  4,150
 </code>
-Summing up all these numbers gives \$147,377. So Berkshire has about \$147 billion in cash at the end of Q2 2023.
+
+Adding all of them gives \$381,673.
+
+Now go to pg-4 in PDF (pg-3 in document) -> Consolidated Balance Sheets
+<code>
+                  (dollars in millions)
+                                                   September 30, 2025
+Liabilities:
+Insurance and Other:
+  ...
+  Payable for purchases of U.S. Treasury Bills     $ 23,241
+</code>
+Subtracting this from the previous value gives \$358,432. So Berkshire has about \$358.4 billion in cash at the end of Q3 2025.
+
+See also:
+  * https://x.com/ChrisBloomstran/status/1984630249238167948
+    * Use this to cross check the final number above
+  * https://github.com/KamarajuKusumanchi/market_data/blob/master/berkshire/cash.txt - Berkshire's cash by quarter.
+
+==== How much cash does Berkshire hold at the end of year 2024? ====
+Go to the annual report https://www.berkshirehathaway.com/2024ar/2024ar.pdf . You can also go there via
+
+<code>
+https://www.berkshirehathaway.com/ -> Annual & Interim Reports
+-> Year link corresponding to (row, column) = (2024, Annual)
+-> Click on "2024 Annual Report (PDF file)"
+</code>
+
+In the annual report, go to pg-88 (K-66) -> Consolidated Balance Sheets
+<code>
+                  (dollars in millions)
+                                                   December 31, 2024
+Assets:
+Insurance and Other:
+  Cash and cash equivalents                        $ 44,333
+  Short-term investments in U.S. Treasury Bills    $286,472
+...
+Railroad, Utilities and Energy:
+  Cash and cash equivalents                        $  3,396
+</code>
+
+Adding all of them gives \$334,201.
+
+Now go to pg-89 (K-67) -> Consolidated Balance Sheets
+<code>
+                  (dollars in millions)
+                                                   December 31, 2024
+Liabilities:
+Insurance and Other:
+  Payable for purchase of U.S. Treasury Bills      $ 12,769
+</code>
+Subtracting this from the previous value gives \$321,432. So Berkshire has about \$321.4 billion in cash at the end of Q4 2024.
 
 See also:
   * https://github.com/KamarajuKusumanchi/market_data/blob/master/berkshire/cash.txt - Berkshire's cash by quarter.
+
 
 ===== dummy =====
 ==== net earnings vs operating earnings ====

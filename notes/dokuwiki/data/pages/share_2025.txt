@@ -1,6 +1,9 @@
 ===== 2025 =====
 
 
+==== 2025-10-22 ====
+  * https://en.wikipedia.org/wiki/Felix_Baumgartner - Felix Baumgartner
+
 ==== 2025-10-19 ====
   * https://survey.stackoverflow.co/2025/ai - AI | 2025 Stack Overflow Developer Survey
 

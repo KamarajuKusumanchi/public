@@ -1,0 +1,35 @@
+==== 2025-10-24 ====
+reading journal:
+  * https://www.barrons.com/articles/24-hour-trading-buy-sell-stocks-276ccb3f?mod=hp_SP_A_1_1 - 24-Hour Stock Trading Is Coming—and Wall Street Isn’t Ready
+    * Firsttrade
+    * key market infrastructure provider, the Depository Trust & Clearing Corp
+    * Jenny Hadiaris, head of North America electronic execution at Citigroup
+    * Peter Mallouk, president of Creative Planning, a large wealth manager
+    * unlock additional demand
+    * Chuck Mack, senior vice president for North American markets at Nasdaq
+    * Lynn Challenger, global head of trading at UBS asset management
+    * schmooze with clients
+    * Michael Cyprys, an equity analyst at Morgan Stanley
+    * Vineer Bhansali, founder and chief investment officer of LongTail Alpha, a hedge fund
+    * Trying to time the market is perilous
+
+  * https://www.wsj.com/opinion/donald-trump-pardons-changpeng-zhao-binance-9981ead2?mod=hp_opin_pos_1 - Trump Pardons His Family’s Crypto Pal
+    * crypto kingpin Changpeng Zhao
+      * turned a blind eye as terrorists, cyber-criminals and foreign adversaries used Binance to embezzle and dodge sanctions
+    * World Liberty Financial (WLF)
+      * Trump family business entity holds a large stake in it
+      * was co-founded by Zach Witkoff, the son of Mr. Trump’s special diplomatic envoy
+    * presidential leniency can be bought
+    * Joe Lonsdale, a Trump supporter and co-founder of Palantir Technologies
+    * Bill Clinton, as he was leaving office, was roundly criticized for pardoning fugitive financier Marc Rich after Rich’s ex-wife made large donations to Democrats and the Clinton library
+
+Notes:
+  * You can use  https://totalrealreturns.com/ to get the total returns of a stock over a given period of time.
+    * By default, it adjusts for inflation. But you can choose not to.
+      * If you adjust for inflation, the urls will be something like [[https://totalrealreturns.com/s/NVDY,NVDA | https://totalrealreturns.com/**s**/NVDY,NVDA]]
+      * Otherwise (i.e. if you are using nominal dollars), the urls will be something like [[https://totalrealreturns.com/n/NVDY,NVDA | https://totalrealreturns.com/**n**/NVDY,NVDA]]
+      * I prefer to use nominal dollars (i.e. Inflation Adjusted = No)
+    * By default, it gives YTD total returns. But you can also specify start and end dates.
+  * Example: https://totalrealreturns.com/n/NVDY,NVDA?start=2025-01-01&end=2025-10-24 shows that YTD total returns of NVDY is 26%, NVDA is 39%
+    * This assumes that you are reinvesting dividends into the same stock.
+  * Example: total return of BITO YTD is 13% (https://totalrealreturns.com/n/BITO?start=2025-01-01&end=2025-10-24)
