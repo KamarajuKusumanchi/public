@@ -17,6 +17,8 @@
   * mixed veg curry
   * mixed vegetable and paneer korma
   * vankaaya tomato curry
+  * palak paneer
+  * potato methi curry
 
 ==== liquids ====
   * sambar
@@ -24,6 +26,7 @@
   * pesara kattu
   * rasam
   * chaaru
+  * carrot rasam
 
 ==== sweets ====
   * semya payasam
@@ -48,6 +51,7 @@
   * bisibille bath
   * veg fried rice
   * pulao with mixed vegetables, potato, meal makers and raita
+  * daddojanam
 
 ==== chutneys ====
   * peanut tomato chutney
@@ -58,6 +62,7 @@
   * beerakaaya pachadi
   * gongura pachadi
   * tomato and aanabakaaya pachadi
+  * tomato perugu pachadi
 
 ==== dosas ====
   * pesarattu
@@ -70,6 +75,7 @@
 ==== breakfast items ====
   * idly
   * upma
+  * gunta pongadaalu
 
 ==== sides ====
   * guacamole
@@ -90,6 +96,9 @@
   * potato fry
   * aratikaaya fry
   * vankaaya fry
+  * okra fry
+  * dondakaaya fry
+  * beans fry
 
 ==== fruits ====
   * apple
@@ -106,8 +115,14 @@
 
 ==== snacks ====
   * pakodi
+  * pav bhaji
+  * samosas
+  * egg puffs
+  * punugulu
+  * masala batahni
 
 ==== miscellaneous ====
+  * lettuce
   * greens (from Costco)
   * kudumulu
 
