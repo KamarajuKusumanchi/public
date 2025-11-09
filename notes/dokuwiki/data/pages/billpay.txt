@@ -1,0 +1,6 @@
+==== payment delays ====
+I tried to pay a bill in Fidelity via billpay today (2025-11-07). It said that the payment will be delivered on 2025-11-12. That is like 5 days. Feels a bit inefficient in this day and age.
+
+FWIW
+  * It is like that for all payees
+  * This is for electronic payment... they are not mailing a paper check.

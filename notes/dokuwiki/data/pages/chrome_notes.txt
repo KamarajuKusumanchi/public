@@ -110,7 +110,71 @@ select /uBlock/dist/build/uBlock0.chromium/
 Useful links:
   * https://github.com/uBlockOrigin/uBlock-issues/issues - This is the issue tracker as per https://github.com/gorhill/uBlock/issues/3726
 
+
+==== install bypass paywalls chrome clean from gitflic.ru ====
+today | 2025-11-08
+
+Ref:- https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean
+
+<code>
+cd $software/zipped
+mkdir -p bypass_paywalls_clean
+cd bypass_paywalls_clean
+</code>
+
+Download the zip file from https://gitflic.ru/project/magnolia1234/bpc_uploads/blob/raw?file=bypass-paywalls-chrome-clean-master.zip and put it in $software/zipped/bypass_paywalls_clean. This file is called bypass-paywalls-chrome-clean-master.zip
+<code>
+curl https://gitflic.ru/project/magnolia1234/bpc_uploads/blob/raw?file=bypass-paywalls-chrome-clean-master.zip -o bypass-paywalls-chrome-clean-master.zip
+</code>
+
+On 2025-11-08, the curl command did not work.
+<code>
+ % curl https://gitflic.ru/project/magnolia1234/bpc_uploads/blob/raw?file=bypass-paywalls-chrome-clean-master.zip 
+zsh: no matches found: https://gitflic.ru/project/magnolia1234/bpc_uploads/blob/raw?file=bypass-paywalls-chrome-clean-master.zip
+</code>
+
+But going to 
+<code>
+https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean
+ -> Installation -> Load unpacked: Chrome, MS Edge or Brave (all desktop)
+ -> Download this repository as a zip-file from GitFlic
+ -> clicking the link under GitFlic
+</code>
+worked.
+
+Unzip it
+<code>
+cd ../../unzipped/
+unzip ../zipped/bypass_paywalls_clean/bypass-paywalls-chrome-clean-master.zip
+</code>
+
+This will unzip everything into $software/unzipped/bypass-paywalls-chrome-clean-master.
+<code>
+ % pwd                                   
+/home/rajulocal/software/unZipped
+
+ % ls bypass-paywalls-chrome-clean-master/
+allowlist/       changelog.txt              cs_local/  LICENSE.txt    README.md
+background.js    contentScript.js           custom/    manifest.json  sites.js
+bypass-dark.png  contentScript_once.js      lib/       options/       sites_updated.json
+bypass.png       contentScript_once_var.js  LICENSE    README.html    updates.xml
+</code>
+
+Load the extension
+<code>
+chrome -> chrome://extensions/
+-> Developer mode -> enable it by dragging the slide bar to the right
+-> Load unpacked
+select $software/unzipped/bypass-paywalls-chrome-clean-master
+</code>
+
+Notes:
+  * On 2025-03-15, barrons.com did not work with 3.5.9.7. But it worked with 4.0.7.2.
+  * On 2025-11-08, barrons.com did not work with 4.0.8.7. But it worked with 4.2.4.6.
+
 ==== Install bypass paywalls clean ====
+Note: Asof 2025-11-08, https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean is not working. The work around is to use https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean instead. Instructions are in https://www.kamaraju.xyz/dk/chrome_notes#install_bypass_paywalls_chrome_clean_from_gitflicru . I am keeping these instructions for reference.
+
 Ref:- https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean
 
 <code>
@@ -211,51 +275,6 @@ select $software/unZipped/bypass-paywalls-chrome-master
 related:
   * https://github.com/iamadamdev/bypass-paywalls-chrome/archive/v1.7.5.zip - link to download a specific version.
   * https://github.com/KamarajuKusumanchi/rutils/blob/master/python3/make_bkup.py - script to backup a directory or a file.
-
-==== install bypass paywalls chrome clean from gitflic.ru ====
-today | 2025-02-27
-
-Ref:- https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean
-
-<code>
-cd $software/zipped
-mkdir -p bypass_paywalls_clean
-cd bypass_paywalls_clean
-</code>
-
-Download the zip file from https://gitflic.ru/project/magnolia1234/bpc_uploads/blob/raw?file=bypass-paywalls-chrome-clean-master.zip and put it in $software/zipped/bypass_paywalls_clean. This file is called bypass-paywalls-chrome-clean-master.zip
-<code>
-curl https://gitflic.ru/project/magnolia1234/bpc_uploads/blob/raw?file=bypass-paywalls-chrome-clean-master.zip -o bypass-paywalls-chrome-clean-master.zip
-</code>
-
-unzip it
-<code>
-cd ../../unzipped/
-unzip ../zipped/bypass_paywalls_clean/bypass-paywalls-chrome-clean-master.zip
-</code>
-
-This will unzip everything into $software/unzipped/bypass-paywalls-chrome-clean-master.
-<code>
-$ pwd
-/c/Users/raju/software/unzipped
-
-$ ls bypass-paywalls-chrome-clean-master/
-allowlist/       changelog.txt              custom/      manifest.json  sites.js
-background.js    contentScript.js           lib/         options/       sites_updated.json
-bypass.png       contentScript_once.js      LICENSE      README.html    updates.xml
-bypass-dark.png  contentScript_once_var.js  LICENSE.txt  README.md
-</code>
-
-Load the extension
-<code>
-chrome -> chrome://extensions/
-Enable Developer mode
--> Load unpacked
-select $software/unzipped/bypass-paywalls-chrome-clean-master
-</code>
-
-Notes:
-  * On 2025-03-15, barrons.com did not work with 3.5.9.7. But it worked with 4.0.7.2.
 
 ==== Input Cursor Focus ====
 Needed it for millionshort.com which does not focus the cursor in the search bar.

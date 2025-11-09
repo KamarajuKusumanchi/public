@@ -1,0 +1,40 @@
+==== 2025-11-03 ====
+reading journal:
+  * https://www.cnbc.com/2025/11/03/kimberly-clark-to-buy-kenvue.html - Kimberly-Clark to buy Kenvue in \$48.7 billion deal
+    * The deal
+      * Kimberly-Clark to buy Kenvue for \$48.7 billion
+      * would create a consumer staples giant
+      * would bring together brands like Huggies and Kleenex with the likes of Band-Aid and Tylenol
+      * Once the deal closes, Kimberly-Clark will own health-care brands like Sudafed and Pepcid
+    * Kimberly-Clark
+      * Chairman and CEO Mike Hsu
+    * Kenvue
+      * a portfolio of consumer health brands, spun out of Johnson & Johnson in May 2023
+      * Chair Larry Merlo
+    * J&J’s nearly 140-year history
+    * Acetaminophen is used by upward of 100 million Americans annually
+    * Hsu will continue to serve as CEO
+    * key commodities like pulp, which is used to make tissues and diapers
+    * At the beginning of 2025, Kimberly-Clark stopped making private-label diapers for Costco to focus on more premium brands that command higher margins.
+    * Brazilian pulp maker Suzano
+    * Kimberly-Clark's rival Procter & Gamble, which has a health-care division that includes Pepto Bismol and Vicks
+    * even with Kimberly-Clark’s blockbuster acquisition, P&G still dwarfs its rival in both enterprise value and annual revenue. P&G has a market cap of about \$350 billion
+    * Last year, candy maker Mars announced plans to buy Kellanova, a snacking-centric spinoff of Kellogg
+    * Ferrero bought W.K. Kellogg, the cereal standalone, this year
+
+Notes:
+  * Market cap of KVUE, asof 2025-11-03, before the acquisition deal was announced was \$27.58 bln.
+
+reading journal:
+  * https://www.cnbc.com/2025/11/03/open-ai-amazon-aws-cloud-deal.html - OpenAI signs \$38 billion deal with Amazon, first partnership with AWS
+    * Dave Brown, vice president of compute and machine learning services at AWS
+    * Microsoft first backed OpenAI in 2019 and has invested a total of \$13 billion
+    * Amazon has close ties to OpenAI rival Anthropic
+    * Amazon has invested billions of dollars in Anthropic, and is currently constructing an \$11 billion data center campus in New Carlisle, Indiana, that is designed exclusively for Anthropic workloads
+    * AWS CEO Matt Garman
+    * In its earnings report last week, Amazon reported more than 20% year-over-year revenue growth at AWS. Microsoft and Google reported even faster growth. They reported cloud expansion of 40% and 34%, respectively.
+    * Amazon’s custom-built Trainium chip is being used by Anthropic
+    * OpenAI can expand with AWS as needed over the next seven years, but no plans beyond 2026 have been finalized
+    * OpenAI’s foundation models, including so-called open-weight options, are already available on Bedrock, AWS’s managed service for accessing leading AI systems
+    * Companies including Peloton, Thomson Reuters, Comscore, and Triomics use OpenAI models on AWS for tasks ranging from coding and mathematical problem solving to scientific analysis and agentic workflows
+    * CFO Sarah Friar

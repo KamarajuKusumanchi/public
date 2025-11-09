@@ -39,6 +39,31 @@ Notes from https://www.fidelity.com/viewpoints/active-investor/extended-hours-tr
     * https://www.fidelity.com/go/monitoring-your-financial-portfolio
   * Money Transfer Lockdown (MTL) feature
 
+
+==== fdic insurance ====
+Fidelity customers can effectively get \$5 million of FDIC insurance. They do this by partnering with 20 different banks. The money is seamlessly distributed across the banks.
+
+Ref:- https://www.fidelity.com/why-fidelity/safeguarding-your-accounts
+
+==== SIPC coverage ====
+Consider the case where someone has \$600k at Fidelity with {\$300k in stocks, \$300k in money market funds such as SPAXX}
+
+Let's say Fidelity went bankrupt and assets are missing.
+
+The rule [(https://www.fidelity.com/why-fidelity/safeguarding-your-accounts -> SIPC Coverage tab)] says SIPC will cover up to \$500k in securities, including a \$250k limit for cash.
+
+Money market funds are considered securities.
+
+So I think you will get back \$500k of securities and you might lose the rest of \$100k.
+
+The chances of something like this happening are very very tiny. But IMHO it would be prudent not to let the Fidelity brokerage account go beyond \$490k in securities (\$10k being the buffer).
+
+Don't take my word for granted. Probably better to call customer service and decide yourself. The important condition here is "brokerage firm going bankrupt AND assets going missing."
+
+Fully paid securities are supposed to be segregated from brokerage firm's assets [(https://www.schwab.com/legal/account-protection)]. So we should be fine as long as there is no fraud involved (such as FTX). But if it is a margin account with a loan balance etc., then some bad things can potentially happen in the worst case scenario.
+
+~~REFNOTES~~
+
 ==== money transfer lockdown ====
   * does not stop ACH pulls (transactions initiated at another bank to pull money from Fidelity account)
 
@@ -216,26 +241,3 @@ You can also go there directly with https://research2.fidelity.com/pi/stock-scre
 
 sort stocks by "ESS from StarMine from Refinitiv" and look for the "Very Bullish" ones.
 
-==== fdic insurance ====
-Fidelity customers can effectively get \$5 million of FDIC insurance. They do this by partnering with 20 different banks. The money is seamlessly distributed across the banks.
-
-Ref:- https://www.fidelity.com/why-fidelity/safeguarding-your-accounts
-
-==== SIPC coverage ====
-Consider the case where someone has \$600k at Fidelity with {\$300k in stocks, \$300k in money market funds such as SPAXX}
-
-Let's say Fidelity went bankrupt and assets are missing.
-
-The rule [(https://www.fidelity.com/why-fidelity/safeguarding-your-accounts -> SIPC Coverage tab)] says SIPC will cover up to \$500k in securities, including a \$250k limit for cash.
-
-Money market funds are considered securities.
-
-So I think you will get back \$500k of securities and you might lose the rest of \$100k.
-
-The chances of something like this happening are very very tiny. But IMHO it would be prudent not to let the Fidelity brokerage account go beyond \$490k in securities (\$10k being the buffer).
-
-Don't take my word for granted. Probably better to call customer service and decide yourself. The important condition here is "brokerage firm going bankrupt AND assets going missing."
-
-Fully paid securities are supposed to be segregated from brokerage firm's assets [(https://www.schwab.com/legal/account-protection)]. So we should be fine as long as there is no fraud involved (such as FTX). But if it is a margin account with a loan balance etc., then some bad things can potentially happen in the worst case scenario.
-
-~~REFNOTES~~

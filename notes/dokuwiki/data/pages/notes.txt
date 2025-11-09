@@ -330,6 +330,7 @@
   * [[using csv plugin]]
   * [[US federal agencies]]
   * [[journaling]]
+  * [[billpay]]
 
 ==== by date ====
   * [[reading journal 2024]]

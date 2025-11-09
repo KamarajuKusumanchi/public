@@ -72,7 +72,6 @@ This could be advantageous. For example, if you want to read an article and it i
 
 ==== fluffy articles ====
 aka articles with low information density, articles that make mountains of molehills
-  * Ignore articles from Al Root (https://www.barrons.com/authors/al-root?mod=article_byline). For example, in https://www.barrons.com/articles/tesla-dividend-paying-stock-covered-calls-2041cf03?mod=hp_columnists, his big idea 'to turn Tesla into a Dividend-Paying stock' is to sell covered calls.
   * Ignore articles from Karishma Vanjani (https://www.barrons.com/authors/karishma-vanjani?mod=article_byline). She does not seem to have a clue. For example,
     * In https://www.barrons.com/articles/treasury-bonds-buy-sell-c8a5f1b4 - Why Treasuries Are Less Risky After Years of Losses, she says Treasuries are less risky now as they have low duration. She also compares the yield on 30-year Treausuries with SPX but ignores the fact that SPX would appreciate over that time but Treasuries will not.
     * In https://www.barrons.com/amp/articles/treasury-auction-bond-yields-stock-market-db08c04b , she says weak demand at 30-year treasury bond auction caused the market to go down. She is wrong. The market (went / started going) down at 1 pm but the 30-year treasury bond auction happened at 2 pm.
@@ -104,3 +103,8 @@ Ref:- comments in https://news.ycombinator.com/item?id=18267460
 ==== bloated but ok ====
   * Ian Salisbury writes low information density but OK to read articles. For example https://www.barrons.com/amp/articles/goldman-sachs-stock-market-lost-decade-9c9fd595 . Try to find someone who writes more succinct articles but without losing important information.
 
+==== authors I don't like ====
+  * Al Root (https://www.barrons.com/authors/al-root?mod=article_byline)
+    * Ignore articles from him.
+    * He writes fluffy articles (aka articles with low information density, articles that make mountains of molehills). For example, in https://www.barrons.com/articles/tesla-dividend-paying-stock-covered-calls-2041cf03?mod=hp_columnists, his big idea 'to turn Tesla into a Dividend-Paying stock' is to sell covered calls.
+    * He writes articles that do not make much sense, makes incorrect and incomplete comparisons, draws wrong conclusions. For example, in https://www.barrons.com/articles/tesla-stock-musk-pay-buffett-berkshire-cfe4c0aa?mod=hp_LEDE_C_2 he says that Tesla is like Berkshire of Tech sector and Musk is the new Buffett. This is complete garbage.
