@@ -30,6 +30,12 @@ See also:
 
   * <nowiki>http://malayamaarutham.blogspot.com/2008/10/open-new-gvim-window-from-gvim.html</nowiki>
   * <nowiki>http://stackoverflow.com/questions/19553342/gvim-move-tab-to-new-window</nowiki>
+
+==== convert spaces to newline ====
+<code>
+:%s/\s\+/\r/gc
+</code>
+
 ===== Plugins =====
 ==== NrrwRgn ====
 A Narrow Region Plugin for vim (like Emacs Narrow Region). The development version is at https://github.com/chrisbra/NrrwRgn . The stable version can be found at http://www.vim.org/scripts/script.php?script_id=3075.

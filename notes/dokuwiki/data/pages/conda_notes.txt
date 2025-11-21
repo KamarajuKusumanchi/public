@@ -63,6 +63,11 @@ Ref:- https://docs.conda.io/projects/conda/en/latest/commands/list.html
   * [[conda environment file to install different packages from different channels]]
     * tags | conda-forge::foo
 
+==== List all the environments ====
+<code>
+conda info --envs
+</code>
+
 ==== Remove an environment ====
 To do it with no questions asked
 <code>
@@ -507,6 +512,17 @@ conda create -n <myenv> python ipython prompt_toolkit=2 jupyter pandas numpy sci
 conda create -n <myenv> python=3.9 pandas pandas-datareader
 </code>
 
+==== create an environment in dry run mode ====
+tags | faster
+
+Sample commands:
+<code>
+conda create --dry-run -n data_env python=3.9 numpy pandas matplotlib scikit-learn
+
+conda env create -f environment.yml --dry-run
+</code>
+
+This is useful to check if there are any conflicts without actually creating the environment.
 ==== commands I came across ====
 <code>
 $ conda config --add pinned_packages defaults::conda

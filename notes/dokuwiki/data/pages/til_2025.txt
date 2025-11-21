@@ -1,4 +1,19 @@
 
+==== 2025-11-20 ====
+TIL about [[https://en.wikipedia.org/wiki/Benjamin_Graham_formula | Benjamin Graham formula]](wikipedia.org)
+
+TIL that Chrome can read web pages aloud.
+  * right-click on a page -> "Open in reading mode" -> click the Play  button.
+
+This is great for reading news stories, articles, and PDFs. It highlights the words making it easy to follow along.
+
+Ref: https://support.google.com/chrome/answer/14218344
+
+==== 2025-11-15 ====
+TIL that there are ~30 trillion human cells and ~38 trillion bacterial cells in an average human.
+
+Ref:- https://www.healthline.com/health/number-of-cells-in-body
+
 ==== 2025-11-03 ====
 TIL about Gusto. It develops payroll, benefits, and human resource management software for businesses based in the US.
 

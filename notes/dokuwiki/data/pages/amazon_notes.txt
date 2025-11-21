@@ -1,3 +1,11 @@
+==== stop marketing emails, messages, mails from Amazon====
+  * Login -> "Account & Lists" button on top right -> Communication and content -> Communication preferences -> General settings
+    * Email -> "Do not send me any marketing emails for now" -> uncheck
+    * Text messages -> "Subscribe to marketing messages through text" -> uncheck
+    * Mail -> "Get occasional marketing about products, services, deals, and recommendations in the mail." -> uncheck
+
+tags | audible
+
 ==== customer service phone number ====
   * 1-888-280-4331
 

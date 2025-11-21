@@ -1,5 +1,18 @@
 tags | stocks to watch for next month, companies I came across
 
+==== 2025-11-17 ====
+  * MRP - Millrose Properties
+    * profiled in https://www.barrons.com/articles/millrose-properties-stock-lennar-split-off-1977961f on 2025-10-14
+
+==== 2025-11-16 ====
+  * COST
+    * price = \$922.98, ROE = 30.69%, P/E = 50.69, Forward P/E = 41.79, Operating margin = 3.77%, P/S = 1.49
+    * Even though earnings based valuations seem expensive, ROE seems attractive?
+  * CPRX - Catalyst Pharmaceuticals Inc
+    * came across it in https://www.bloomberg.com/news/newsletters/2021-08-25/money-stuff-insiders-trade-in-outside-companies?srnd=undefined
+      * It went up quite a bit since then
+    * price = \$23.18, ROE = 27.52%, P/E = 13.53, Forward P/E = 12.98, Operating margin = 44.76%, P/S = 4.93, Debt/Eq = 0, Target Price = \$34.86, market cap = \$2.85 bln
+
 ==== 2025-11-03 ====
   * CMG
   * VIRT

@@ -1,11 +1,15 @@
 ==== dummy ====
-  * Individuals can now contribute \$20,500 to their 401(k) plans in 2022. This limit used to be \$19,500 in 2020 and 2021. The announcement was made on 2021-11-04.
-    * https://www.irs.gov/newsroom/irs-announces-401k-limit-increases-to-20500
-  * IRS has raised the contribution limit for 401(k) and related plans to \$23,000 for 2024, up from \$22,500 in 2023.
-    * https://www.barrons.com/amp/articles/401k-ira-retirement-contribution-limits-irs-31ceeacf
-    * https://www.irs.gov/newsroom/401k-limit-increases-to-23000-for-2024-ira-limit-rises-to-7000
-  * Individuals can contribute \$23,500 to their 401(k) plans in 2025. This limit used to be \$23,000 in 2024.
-    * https://www.irs.gov/newsroom/401k-limit-increases-to-23500-for-2025-ira-limit-remains-7000
+Individual contribution limits to the 401(k) plan
+<WRAP group><WRAP column>
+^ year ^ amount_in_dollars ^ announcement date ^ reference ^
+| 2020 |  19,500 |  | |
+| 2021 |  19,500 |  | |
+| 2022 |  20,500 |  2021-11-04 | https://www.irs.gov/newsroom/irs-announces-401k-limit-increases-to-20500 |
+| 2023 |  22,500 |  | |
+| 2024 |  23,000 |  2023-11-01 | https://www.irs.gov/newsroom/401k-limit-increases-to-23000-for-2024-ira-limit-rises-to-7000 |
+| 2025 |  23,500 |  2024-11-01 | https://www.irs.gov/newsroom/401k-limit-increases-to-23500-for-2025-ira-limit-remains-7000 |
+| 2026 |  24,500 |  2025-11-13 | https://www.irs.gov/newsroom/401k-limit-increases-to-24500-for-2026-ira-limit-increases-to-7500 |
+</WRAP></WRAP>
 
 ==== healthcare FSA limits ====
 The following limits are effective as of January 1, 2025:
@@ -21,6 +25,6 @@ The following limits are effective as of January 1, 2025:
   * The 2025 pretax contribution limit for parking is $325 per month.
 
 ==== gift limits ====
-  * Annual exclusion for gifts increases to $19,000 for calendar year 2025, rising from $18,000 for calendar year 2024.
+  * Annual exclusion for gifts increases to \$19,000 for calendar year 2025, rising from \$18,000 for calendar year 2024.
 
 Ref:- https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2025 -> search for gift

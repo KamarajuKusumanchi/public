@@ -1,0 +1,31 @@
+==== 2025-11-17 ====
+reading journal:
+  * https://www.barrons.com/articles/income-yield-bdc-business-development-companies-6a6b6f6c - BDCs Yield 10% or More. They May Be Worth the Risk
+    * BDCs tend to make secured, high-rate loans to smaller companies valued at less than \$5 billion that have typically been taken private in leveraged buyouts. They pass nearly all their income to investors.
+    * Ares Capital is the largest, with a \$14 billion market value
+    * other sizable BDCs include Blue Owl Capital, Blue Owl Technology Finance, Blackstone Secured Lending, FS KKR Capital, and Morgan Stanley Direct Lending Fund
+    * The VanEck BDC Income exchange-traded fund
+    * Income-oriented mutual funds shy away from the sector due to a rule that requires them to include BDC fees in their own fee calculations.
+    * The vast majority of BDC loans float at a yield premium above short rates, making their returns vulnerable to lower short rates
+    * the \$1 trillion private credit market is a focus of alternative-asset managers such as Blackstone, KKR, and Apollo Global Management
+    * Accelerate, a Canadian financial services firm that follows the BDC market
+    * FS KKR saw an uptick in problem loans in the second quarter
+    * Craig Packer, co-president of Blue Owl Capital
+    * most funds use a dollar of debt for each dollar of equity
+    * junk-bond and leveraged loan funds that use little or no leverage
+    * BDC fees are high and can run at 4% or more annually of net assets
+    * BlackRock Corporate High Yield, now yielding close to 10%
+    * SPDR Blackstone Senior Loan and Invesco Senior Loan, which yield around 7%
+    * Investors should consider BDCs trading at a discount to net asset values and those with a large proportion of high-quality senior secured loans, while avoiding funds with high levels of subordinated debt, preferred stock, or common equity in portfolio companies.
+    * The VanEck BDC ETF
+
+  * https://www.barrons.com/articles/millrose-properties-stock-lennar-split-off-1977961f - Millrose Properties Offers 9% Yield, Potential Gains, as Land Bank to Homebuilders
+    * Millrose Properties gets paid by Lennar and other homebuilders to warehouse and improve land until it is ready for use as sites to build houses
+    * The company effectively acts as a land bank for homebuilders.
+    * Lennar, one of the two largest U.S. homebuilders along with D.R. Horton, spun off an 80% stake in Millrose in February to its shareholders.
+    * Lennar plans to distribute the remaining 20% to its holders in an exchange offer, known as a split-off, in which Lennar’s Class A shareholders can swap their shares for Millrose stock.
+    * Millrose’s main customer is Lennar, but it has taken on business from other homebuilders since the spinoff. It earns roughly 8.5% annually on land that it holds for Lennar and closer to 11% for the land banked for other homebuilders, resulting in a blended rate of 9.1% on Sept. 30.
+    * The company is managed by an outside company, Kennedy Lewis, which specializes in homesite development
+    * Forestar Group, a spinoff from D.R. Horton
+    * cross collateralization
+    * currently certain Florida markets–Fort Myers, Naples, and Daytona Beach—as are soft

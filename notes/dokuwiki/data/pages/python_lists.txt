@@ -5,6 +5,46 @@
   * [[get unique items in a list]]
   * [[convert a string to a list]]
 
+==== print list to a file ====
+Method 1: using f strings
+<code>
+fname = 'my_file.txt'
+with open(fname, 'w') as fh:
+    for item in my_list:
+        fh.write(f"{item}\n")
+</code>
+
+Ref:- https://stackoverflow.com/questions/899103/writing-a-list-to-a-file-with-python
+
+Note:
+If you are trying to write a list of strings, the following would work. But it won't work for a list of integers or a list that contains both integers and strings. That is why it is better to use the f strings approach which works in all these cases.
+<code>
+with open("C:/Users/raju/x/foo.txt", 'w') as fh:
+    for item in my_list:
+        fh.write(item + "\n")
+</code>
+
+Method 2: without using f strings
+
+<code>
+with open('my_file.txt', 'w') as fh:
+    for item in my_list:
+        fh.write("%s\n" % item)
+</code>
+
+tags | write an array to a file in python
+
+==== Check if a variable is a list ====
+<code>
+% python
+Python 3.11.4 (main, Jul  5 2023, 13:45:01) [GCC 11.2.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> isinstance(['foo'], list)
+True
+>>> isinstance('foo', list)
+False
+</code>
+
 ==== search one list in another ====
 <code>
 >>> letters = [i for i in 'abcdefghijklmnopqrstuvwxyz']
@@ -23,21 +63,9 @@
 
 tags | identify the indices
 
-
 ==== read file as list of strings ====
 <code>
 fname = "foo.txt"
 with open(fname, "r") as fh:
   lines = [line.rstrip() for line in fh]
-</code>
-
-==== Check if a variable is a list ====
-<code>
-% python
-Python 3.11.4 (main, Jul  5 2023, 13:45:01) [GCC 11.2.0] on linux
-Type "help", "copyright", "credits" or "license" for more information.
->>> isinstance(['foo'], list)
-True
->>> isinstance('foo', list)
-False
 </code>

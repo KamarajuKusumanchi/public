@@ -336,3 +336,13 @@ approach 2:
   * Ctrl + Shift + a -> type "show git branch" -> select Show 'Git Branch' Widget -> ON
 
 tested using pycharm 2025.1.2
+
+==== debugging session hangs ====
+debugging session hangs with the following error even after killing it
+<code>
+C:\arrow\cpp\src\arrow\filesystem\s3fs.cc:3174:  arrow::fs::FinalizeS3 was not called even though S3 was initialized.  This could lead to a segmentation fault at exit
+</code>
+
+Solution:
+
+Help -> Find Action -> search for Registry and click on "Registry..." -> use.winp.for.graceful.process.termination -> uncheck

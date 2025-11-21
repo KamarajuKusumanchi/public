@@ -1,0 +1,3 @@
+==== 2025-11-11 ====
+  * https://jacobslevycenter.wharton.upenn.edu/wharton-jacobs-levy-prize/ - The Wharton-Jacobs Levy Prize for Quantitative Financial Innovation
+  * https://www.q-group.org/Roger-F.Murray-Prize - Recognizes excellence and scientific achievement in quantitative financial research presented at their seminars
