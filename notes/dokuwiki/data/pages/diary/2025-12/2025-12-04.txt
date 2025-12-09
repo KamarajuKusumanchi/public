@@ -1,0 +1,39 @@
+==== 2025-12-04 ====
+reading journal:
+  * https://www.wsj.com/tech/ai/math-ken-ono-carina-hong-axiom-startup-649bc417?mod=hp_lead_pos9 - The Math Legend Who Just Left Academia—for an AI Startup Run by a 24-Year-Old
+    * Ken Ono
+      * one of the world’s most prominent mathematicians
+      * University of Virginia professor
+      * He’s the only number theorist who has ever been the star of a beer commercial
+      * renaissance man of math
+      * “My name is Ken Ono, and I am NI,” he said. “Naturally intelligent.”
+      * age of 57
+      * one of his former students, Carina Hong
+      * taught for decades at the University of Wisconsin and Emory before moving to UVA in 2019
+      * mentored 10 winners of the Morgan Prize
+    * Carina Hong
+      * winning the Morgan Prize as the top undergraduate math researcher in America
+      * Rhodes scholarship
+      * Axiom Math
+    * Axiom Math
+      * raised \$64 million
+      * named after the mathematical term for a basic truth
+    * mathematical superintelligence
+      * commercial applications—software and hardware verification, logistics optimization, algorithmic trading and financial engineering
+    * Ken Ribet, a former president of the American Mathematical Society
+    * from Ramanujan’s congruences to the umbral moonshine conjecture
+    * the 2015 movie “The Man Who Knew Infinity.”
+    * in areas of mathematics that were not in my wheelhouse
+    * had an epiphany
+    * spitballing with the models
+    * Earlier this year, UVA’s president resigned under pressure from the Trump administration
+    * Ken Ono was the STEM adviser to the provost
+    * the Schafer Prize
+    * a Rhodes scholar
+    * matcha lattes
+    * Shubho Sengupta, an AI scientist at Meta Platforms
+    * advice that Lisa Su, the CEO of chip powerhouse AMD, offers students: run toward the hardest problems
+    * Harmonic, a startup co-founded by Robinhood CEO Vlad Tenev
+    * François Charton, an AI math pioneer
+    * schnoodle
+    * legendary mathematicians—Poincaré, Gauss, Hilbert, Lovelace, Turing

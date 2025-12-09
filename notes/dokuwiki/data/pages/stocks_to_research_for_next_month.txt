@@ -1,5 +1,24 @@
 tags | stocks to watch for next month, companies I came across
 
+==== 2025-12-08 ====
+  * NFLX
+    * price = \$95.81, ROE = 42.86%, P/E = 40.54, Forward P/E = 29.99, Operating margin = 29.06%, P/S = 9.49
+
+==== 2025-12-04 ====
+  * COST
+    * dropped from \$922.26 on 2025-12-03 to \$895.86 on 2025-12-04
+      * the trigger could be the November sales data. But, to me, the sales look good and nothing to be concerned about.
+
+==== 2025-12-02 ====
+  * MCK
+    * Adjusted close went from \$888.45 on 2025-11-25 to \$829.70 on 2025-12-02. But there is no news to support this.
+
+==== 2025-11-23 ====
+  * MKL - Markel Group
+    * Seems like Berkshire in its early stages.
+  * VIRT
+
+
 ==== 2025-11-17 ====
   * MRP - Millrose Properties
     * profiled in https://www.barrons.com/articles/millrose-properties-stock-lennar-split-off-1977961f on 2025-10-14

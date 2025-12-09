@@ -1,0 +1,11 @@
+==== 2025-12-02 ====
+reading journal:
+  * https://finance.yahoo.com/news/crypto-retail-traders-hit-hard-062429126.html - Crypto’s Retail Traders Hit Hard as Strategy ETFs Plunge 80%
+    * The most popular exchange-traded funds tracking Strategy’s stock are MSTX and MSTU, which offer double the daily return
+    * There are 4700 etfs actively trading in the US
+    * firms like Defiance and Tuttle Capital Management
+    * GraniteShares, which is behind MSTP
+    * Matt Tuttle of Tuttle Capital Management
+    * mNAV — or market net asset value
+    * In volatile markets, compounding gains and losses can chip away at returns even if the stock ends flat, a dynamic known as volatility decay.
+    * Strategy could be removed from benchmarks like the MSCI USA and Nasdaq 100

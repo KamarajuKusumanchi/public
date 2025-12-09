@@ -102,6 +102,28 @@ https://aarontgrogg.com/blog/2015/07/31/a-better-windows-command-line-experience
 
   * win+r shell:startup - open startup folder in explorer.
 
+
+==== keyboard shortcuts ====
+tags | Windows shortcut keys
+
+  * Ctrl-Shift-Esc - Windows Task Manager
+  * win+m - minimize all windows, win+M - restore them
+  * win+shift+<up> - maximize window vertically, win+shift+<down> - restore the window or minimize
+  * win+<up> - maximize window, win+<down> - restore or minimize
+  * win+<left>, win+<right> - move window to left or right edges of monitor and maximize vertically
+  * win+shift+<left>, win+shift+<right> - move windows between monitors
+  * win+<pause|break> - show system properties
+  * win+tab - fancy way to switch windows
+
+Ref:
+
+  * http://www.technofileonline.com/texts/tec083009.html
+
+<WRAP group><WRAP column>
+^ task ^ shortcut ^
+| task manager | Ctrl + Shift + Esc |
+</WRAP></WRAP>
+
 ==== search button in taskbar not working ====
 Symptom: The search button in the task bar does not respond to the keyboard.
 
@@ -261,12 +283,6 @@ Pages: e.g. 1-5, 8, 11-13
 Save
 </code>
 
-==== keyboard shortcuts ====
-<WRAP group><WRAP column>
-^ task ^ shortcut ^
-| task manager | Ctrl + Shift + Esc |
-</WRAP></WRAP>
-
 ==== check if a .exe file is 32-bit or 64-bit on Windows ====
 Use Task Manager while the program is running.
 
@@ -290,6 +306,12 @@ Ref:
 cat file | clip
 </code>
 
+==== uptime ====
+To check when a machine was rebooted
+
+Task Manager (Ctrl + Shift + Esc) -> Performance tab -> select "CPU" -> "Up time" near the bottom left of the right-hand pane
+
+tested on | Windows 11 Home
 ===== batch script ====
 ==== batch file calling another batch file ====
 <code>

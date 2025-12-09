@@ -1,0 +1,8 @@
+==== 2025-11-21 ====
+reading journal:
+  * https://www.cnbc.com/2025/11/21/google-says-it-must-double-ai-compute-every-6-months-to-meet-demand.html - Google says it must double AI compute every 6 months to meet demand
+    * Google’s head of AI infrastructure, Amin Vahdat
+    * Alphabet CEO Sundar Pichai and CFO Anat Ashkenazi
+    * Last week, Google announced the public launch of its seventh generation Tensor Processing Unit called Ironwood
+    * zeitgeist
+    * video generation tool Veo

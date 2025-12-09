@@ -1,3 +1,6 @@
+==== Use Spotify instead of youtube music ====
+If you are using youtube music, try spotify. One problem with youtube music is that the music will stop playing if the window is minimized. If you want the music to continue while the youtube music app is minimized, you need to pay money. This is a big headache when I drive since I want both Google maps and youtube music to be running at the same time. The work around is to use spotify instead of youtube music. With spotify, the music continues even if the app is minimized and google maps is running.
+
 ==== fast forward a youtube video ====
 You can fast forward a youtube video in 2x speed on the desktop by holding either the spacebar or the left mouse button. To achieve the same on the mobile, hold anywhere on the video.
 

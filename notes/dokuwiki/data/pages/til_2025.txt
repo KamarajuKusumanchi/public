@@ -1,4 +1,11 @@
 
+==== 2025-11-23 ====
+  * TIL that scientists at UC Berkeley found a way to see hydrogen atoms using the conventional transmission electron microscope (TEM) in 2008.
+
+Ref: https://physicsworld.com/a/electron-microscope-sees-single-hydrogen-atoms/
+
+  * TIL how a scanning transmission electron microscope (STEM) works from https://www.youtube.com/watch?v=Ll9HB6PrJLo .
+
 ==== 2025-11-20 ====
 TIL about [[https://en.wikipedia.org/wiki/Benjamin_Graham_formula | Benjamin Graham formula]](wikipedia.org)
 

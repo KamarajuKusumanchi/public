@@ -15,6 +15,7 @@ git config user.email kamaraju@gmail.com
 
 
 ==== links I came across ====
+  * [[https://github.com/settings/security-log | your account security audit log]] (github.com)
   * [[https://docs.github.com/en/get-started/signing-up-for-github/verifying-your-email-address | Verifying your email address]] (docs.github.com)
   * [[https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token | Creating a personal access token]] (docs.github.com)
   * [[https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ | Token authentication requirements for Git operations]] (github.blog)

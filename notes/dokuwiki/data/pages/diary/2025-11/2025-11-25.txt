@@ -1,0 +1,14 @@
+==== 2025-11-25 ====
+reading journal:
+  * https://x.com/DividendGrowth/status/1982087277577900341
+    * shows a chart of excess return over sp500 vs. number of years for different investors
+
+----
+FWIR (From what I read), credit card surcharges used to be illegal. Then there was a class action lawsuit by merchants against the credit card companies. The merchants won the case in Jan 2013 making the surcharges legal.
+
+After that, it became a state level issue. Some states tried to resist and that resulted in more lawsuits by merchants. They became legal in NJ since Aug 2023.
+
+Currently, there are only 5 states where surcharges are illegal - California, Connecticut, Maine, Massachusetts, and Texas.
+
+Ref:- https://www.runsensible.com/blog/mastering-credit-card-surcharge-laws/
+----

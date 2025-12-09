@@ -1,0 +1,14 @@
+==== NJ sales tax ====
+tags | NJ tax
+
+You can mentally calculate the approximate NJ state tax by multiplying the price by (2/30) or ~\$2 for every \$30.
+
+The exact sales tax in NJ is 6.625% and (2/30) equals to 6.67%.
+
+<WRAP group><WRAP column>
+^ price (\$) ^ exact tax (\$) ^ price * (2/30) (\$) ^
+|   10 |  0.66 |  0.67 |
+|   30 |  1.99 |  2.00 |
+|   50 |  3.31 |  3.33 |
+|  100 |  6.63 |  6.67 |
+</WRAP></WRAP>

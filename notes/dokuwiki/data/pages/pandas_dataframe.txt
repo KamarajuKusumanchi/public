@@ -1338,6 +1338,14 @@ will produce
 20140101 20140331
 </code>
 
+==== using pandas.DataFrame.merge ====
+The pandas.DataFrame.merge does not overwrite the dataframe it operates on. To do that use
+<code>
+df = df.merge(right)
+</code>
+
+Ref:- https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.merge.html
+
 ===== Missing values =====
 
 ==== number of missing values in a dataframe ====
@@ -1643,3 +1651,63 @@ The code for read_csv() and read_table() is in https://github.com/pandas-dev/pan
 
 last checked | 2024-07-20
 
+===== add rows =====
+==== add a row where only one column value is known ====
+<code>
+$ python
+Python 3.8.18 (default, Sep 11 2023, 13:39:12) [MSC v.1916 64 bit (AMD64)] :: Anaconda, Inc. on win32
+
+>>> import pandas as pd
+>>> data = {'col1': [1, 2], 'col2': ['A', 'B'], 'col3': [True, False]}
+>>> df = pd.DataFrame(data)
+>>> print(df)
+   col1 col2   col3
+0     1    A   True
+1     2    B  False
+
+>>> new_row_index = len(df)
+
+>>> df.loc[new_row_index, 'col2'] = 'C'
+>>> print(df)
+   col1 col2   col3
+0   1.0    A   True
+1   2.0    B  False
+2   NaN    C    NaN
+</code>
+
+==== add multiple rows where only some column values are known ====
+<code>
+$ ipython
+Python 3.8.18 (default, Sep 11 2023, 13:39:12) [MSC v.1916 64 bit (AMD64)]
+IPython 8.12.2 -- An enhanced Interactive Python. Type '?' for help.
+
+In [1]:
+import pandas as pd
+data = {'col1': [1, 2, 3], 'col2': ['A', 'B', 'C'], 'col3': [10, 20, 30]}
+df = pd.DataFrame(data)
+print(df)
+   col1 col2  col3
+0     1    A    10
+1     2    B    20
+2     3    C    30
+
+In [3]:
+data_to_add = {'col2': ['D', 'E', 'F'], 'col3': [0]*3}
+df_to_add = pd.DataFrame(data_to_add)
+print(df_to_add)
+  col2  col3
+0    D     0
+1    E     0
+2    F     0
+
+In [4]:
+df_new = pd.concat((df, df_to_add))
+print(df_new)
+   col1 col2  col3
+0   1.0    A    10
+1   2.0    B    20
+2   3.0    C    30
+0   NaN    D     0
+1   NaN    E     0
+2   NaN    F     0
+</code>

@@ -6,6 +6,24 @@ Policy:
 Why:
   * Goodreads assumes that you read from beginning to end. But I tend to read couple of pages here and there. This is my naive way to keep track of the progress.
 
+==== The way we work ====
+Book details:
+  * title: The way we work: Getting to Know the Amazing Human Body
+  * author: David Macaulay
+  * edition: 1
+  * published: 2008-10-07
+  * isbn: 978-0-618-23378-6
+  * pages: 336
+  * format: Hardcover
+  * goodreads: https://www.goodreads.com/book/show/3308859-the-way-we-work
+  * amazon: https://www.amazon.com/Way-We-Work-Getting-Amazing/dp/0618233784/
+  * call number in Marlboro library: J612 MAC
+  * will be using the page numbers in the book to track progress.
+
+^ date ^ pages ^ overall progress ^ notes ^
+| 2025-11-22  3:10 pm | [1-10] | [1-10] | |
+| 2025-11-23 11:53 am | [11-19] | [1-19] | |
+
 ==== Pro Git ====
 Book details:
   * Pro Git - Scott Chacon, Ben Straub - 2nd edition - version 2.1.488 - 2025-07-25

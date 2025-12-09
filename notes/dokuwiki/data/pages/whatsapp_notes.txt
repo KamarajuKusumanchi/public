@@ -22,3 +22,14 @@ See also:-
   * send a message / photo to myself.
     * one work around is to create a group with another person and then immediately remove him/her. This will give you a group with just yourself and then you can send a message or photo to yourself.
   * block messages from one person in a Whatsapp group chat.
+
+==== locked chats ====
+You can lock chats (group or individual) in Whatsapp. Once locked, they go into a specific folder called "Locked chats" that can be opened only with fingerprint.
+
+Use case (asof | 2025-11-21): I find the day-to-day conversations in some groups a bit toxic, depressing, and discouraging.
+
+Ideally, I prefer to just leave the groups whenever they become uninteresting and then rejoin later as needed. But that is not always possible (ex:- the moderators may not approve the rejoin requests).
+
+I tried archiving the groups. But that did not work since I have many other groups archived besides these. When there are new messages in one of those archived groups, the Archived counter gets incremented and I inevitably end up checking the Archived folder and then end up reading the messages in the uninteresting groups.
+
+When a group chat is locked (as opposed to archived), there is no indication of whatsoever of any new posts. So we don't get tempted to check them.

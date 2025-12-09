@@ -1,0 +1,44 @@
+==== 2025-11-23 ====
+reading journal:
+  * https://www.livewiremarkets.com/wires/the-greatest-bubble-you-may-never-have-heard-of-2021-12-12 - The greatest bubble you may never have heard of
+    * the "Souk Market"
+
+  * https://www.reuters.com/markets/europe/blue-owl-shares-extend-losses-after-blocking-redemptions-private-credit-fund-2025-11-18/ - Blue Owl fund redemption freeze sparks fresh private credit jitters - November 18, 2025
+    * the \$3 trillion private credit market
+    * alternative asset manager Blue Owl
+    * bankruptcies of auto-parts maker First Brands and subprime lender Tricolor
+    * Earlier this month, Blue Owl unveiled a plan to merge its two debt funds, the publicly traded Blue Owl Capital Corp, with the non-traded business development company (BDC) Blue Owl Capital Corp II.
+
+  * https://dug.com/behold-the-highest-resolution-image-of-atoms-ever-taken/ - Behold, the highest-resolution image of atoms ever taken
+    * ptychography
+
+  * https://www.thermofisher.com/blog/materials/how-does-an-electron-microscope-work/ - How Does An Electron Microscope Work?
+    * There are several types of electron sources, broadly categorized as either thermionic or field emission sources.
+
+  * https://www.youtube.com/watch?v=Ll9HB6PrJLo - How to image atoms
+    * shows how the scanning transmission electron microscope works
+
+  * https://physicsworld.com/a/electron-microscope-sees-single-hydrogen-atoms/ - Electron microscope sees single hydrogen atoms - 2008-07-16
+    * Jannik Meyer, Alex Zettl and colleagues at the University of California, Berkeley
+    * graphene, the thinnest and toughest known material
+
+  * https://www.sciencenews.org/article/seeing-smallest-atom - Seeing the smallest atom - July 16, 2008
+    * Alex Zettl
+    * X-ray diffraction
+    * Michel Bosman, a research engineer at the Institute of Microelectronics in Singapore
+    * In graphene, carbon atoms bind to one another even more strongly than they do in diamond
+    * Jannik Meyer, now at the University of Ulm in Germany
+    * Stephen Pennycook, who heads the electron microscopy group at the Oak Ridge National Laboratory in Tennessee
+
+  * https://jeffhuang.com/productivity_text_file/ - My productivity app is a never-ending .txt file - 2022-03-21
+    * my future plans and schedule are together
+    * I usually keep an empty line between tasks completed and upcoming tasks. When a task is completed, I move the empty line.
+    * I use Ultraedit
+    * flag Red if it's something I need to deal with, flag Orange if I need to deal with it eventually but requires some thinking or someone else to handle it, and flag Yellow for emails I send that I am waiting on a reply for, so I know to follow up later. I'll flag emails as they come in, whenever it's convenient.
+
+  * https://jeffhuang.com/ - Jeff Huang - Computer Science at Brown University
+    * Jeff Huang
+      * an Associate Professor and Associate Chair of Computer Science at Brown University
+      * funded by the NSF, NIH, and ARO
+      * NSF CAREER award, Facebook Fellowship, and ARO Young Investigator Award
+      * co-founded World Blender, a Techstars-backed startup that made geolocation mobile games

@@ -331,6 +331,7 @@
   * [[US federal agencies]]
   * [[journaling]]
   * [[billpay]]
+  * [[mental math]]
 
 ==== by date ====
   * [[reading journal 2024]]
