@@ -28,3 +28,9 @@ The following limits are effective as of January 1, 2025:
   * Annual exclusion for gifts increases to \$19,000 for calendar year 2025, rising from \$18,000 for calendar year 2024.
 
 Ref:- https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2025 -> search for gift
+
+^ year ^ amount_in_dollars ^ reference ^
+| 2022 | 16,000 | https://www.irs.gov/pub/irs-prior/i709--2022.pdf |
+| 2023 | 17,000 | https://www.irs.gov/pub/irs-prior/i709--2023.pdf |
+| 2024 | 18,000 | https://www.irs.gov/pub/irs-prior/i709--2024.pdf |
+| 2025 | 19,000 | https://www.irs.gov/pub/irs-prior/i709--2025.pdf |

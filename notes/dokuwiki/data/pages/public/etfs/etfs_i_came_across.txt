@@ -1,3 +1,10 @@
+==== iShares term treasury ETFs ====
+tags | iShares iBonds Treasury Series ETF
+  * https://www.ishares.com/us/strategies/bond-etfs/build-better-bond-ladders - iShares iBonds etfs
+    * not to be confused with IBonds from TreasuryDirect
+    * came across them in https://thefinancebuff.com/build-bond-ladder-individual-bonds-etfs.html
+
+
 ==== expense ratio ====
   * See https://github.com/KamarajuKusumanchi/market_data/blob/master/funds/expense_ratio.csv
 

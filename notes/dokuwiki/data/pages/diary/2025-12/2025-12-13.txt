@@ -1,0 +1,41 @@
+==== 2025-12-13 ====
+
+https://www.wsj.com/finance/investing/private-stock-market-growth-bb71bde1 - Inside the Invitation-Only Stock Market for the Wealthy
+  * highlights:
+    * a \$40 billion offering by OpenAI
+    * snagged
+    * The number of public companies in the U.S. is half of its peak in the late 1990s.
+    * Paul Atkins
+      * served as a commissioner at the SEC under President George W. Bush
+      * named the chairman of the SEC under Trump
+    * Going public was long considered a rite of passage for young companies
+    * Amazon went public in 1997
+      * Its initial public offering raised about \$50 million, valuing the company at roughly \$400 million
+    * In 2000, the median age for a company going public was six years old. Today it is 14 years.
+    * Jay Ritter, a finance professor at the University of Florida
+    * drum up funding in the private market
+    * Figure AI, a San Jose, Calif., company that makes humanoid robots
+    * Iconiq Capital, which manages money for Mark Zuckerberg
+    * hedge fund Coatue Management
+    * private-equity giant Blackstone
+    * To become an accredited investor, a person needs at least \$1 million in net assets, not including their primary residence, or at least \$200,000 in annual income (\$300,000 for a joint household).
+    * Morgan Stanley, JPMorgan Chase and Goldman Sachs have each built private-markets divisions for this business
+    * the buyers are often huge asset managers or institutional investors
+    * Antonio Gracias, a close Musk associate
+    * Gracias’s fund, Valor Equity Partners
+    * Instead of owning a piece of Musk’s companies directly, the buyers got an ownership stake of an entity that owns the shares
+    * defense startup Anduril
+    * Anduril co-founder, Matt Grimm
+    * private companies aren’t required to disclose their financials to their investors
+    * A company called Linqto promised small investors the chance to own shares of companies like Ripple, SpaceX and Anthropic. It has now filed for bankruptcy
+    * SEC Commissioner Caroline Crenshaw, a Democrat
+    * Charles Schwab Chief Executive Rick Wurster
+    * Charles Schwab last month agreed to buy Forge Global, which lets investors buy into buzzy companies like SpaceX and OpenAI in part through SPVs
+    * Morgan Stanley agreed to buy EquityZen, a rival private-stock marketplace
+    * In December, Nasdaq Private Market announced a partnership with wealth-management firm Cerity Partners to give Cerity clients access to private company shares that Nasdaq Private Market sells on its platform
+
+  * thoughts:
+    * <WRAP>
+> Some buyers will take their stake in an SPV and repackage it into another SPV that they will sell to additional investors. Further downstream, buyers can find themselves owning an interest in a vehicle that owns exposure to another vehicle, which in turn owns exposure to another vehicle that ultimately holds the desired company’s stock.
+</WRAP> Sounds like SPVs are the new MBS.
+    * Exclusivity sounds great until fraud shows up. Even Madoff investors were "invite" only until there was no one to hold the bag.

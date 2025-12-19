@@ -332,6 +332,8 @@
   * [[journaling]]
   * [[billpay]]
   * [[mental math]]
+  * [[hacker news]]
+  * [[total returns]]
 
 ==== by date ====
   * [[reading journal 2024]]

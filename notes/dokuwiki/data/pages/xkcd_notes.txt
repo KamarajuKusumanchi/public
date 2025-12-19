@@ -1,4 +1,5 @@
 ==== funny xkcd cartoons I came across ====
+  * https://xkcd.com/477/ - Typewriter
   * https://m.xkcd.com/386/ - Duty Calls
     * Someone is wrong on the internet
   * https://xkcd.com/1570/ - math and trading

@@ -242,3 +242,13 @@ Enclose it in <code><nowiki>...</nowiki></code>
 
 For example <code>https://www.google.com</code> will render as https://www.google.com .
 But <code><nowiki>https://www.google.com</nowiki></code> will render as <nowiki>https://www.google.com</nowiki> .
+
+==== quoted text inside a bullet list ====
+tags | quote list
+  * foo
+    * <WRAP>
+> blah blah
+</WRAP> bar
+    * baz
+
+Use this in https://www.kamaraju.xyz/dk/diary/2025-12/2025-12-13

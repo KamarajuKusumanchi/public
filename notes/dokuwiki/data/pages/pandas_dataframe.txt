@@ -103,6 +103,43 @@ df:
 1      b   ball
 2      c    cat
 </code>
+
+==== Create a dataframe from a list of dictionaries ====
+
+Example 1
+
+<code>
+In [1]: import pandas as pd
+   ...: df = pd.DataFrame([{'c1':10, 'c2':100}, {'c1':11,'c2':110}, {'c1':12,'c2':120}])
+   ...: df
+Out[1]:
+   c1   c2
+0  10  100
+1  11  110
+2  12  120
+</code>
+
+Ref:- https://stackoverflow.com/questions/16476924/how-to-iterate-over-rows-in-a-dataframe-in-pandas/
+
+Example 2
+
+<code>
+>>> import pandas as pd
+>>> d = [{'points': 50, 'time': '5:00', 'year': 2010}, 
+... {'points': 25, 'time': '6:00', 'month': "february"}, 
+... {'points':90, 'time': '9:00', 'month': 'january'}, 
+... {'points_h1':20, 'month': 'june'}]
+>>> df = pd.DataFrame(d)
+>>> print(df)
+      month  points  points_h1  time    year
+0       NaN    50.0        NaN  5:00  2010.0
+1  february    25.0        NaN  6:00     NaN
+2   january    90.0        NaN  9:00     NaN
+3      june     NaN       20.0   NaN     NaN
+</code>
+
+Ref: http://stackoverflow.com/questions/20638006/convert-list-of-dictionaries-to-dataframe
+
 ==== Create a dataframe from a list of tuples ====
 
 <code>
@@ -626,7 +663,31 @@ df = pd.read_csv(file_name, dtype='str')\
  {tags: read_csv as all strings}]
 
 ===== check if =====
+==== check if a column exists in a dataframe ====
+
+<code>
+if 'foo' in df.columns:
+</code>
+
+Or
+
+<code>
+if 'foo' in df:
+</code>
+
 ==== check if some columns exist in a dataframe ====
+
+snippet 1:
+compute the sum of two columns and add it as an extra column to the input df. If any of the required columns do not exist, return the original df.
+<code>
+def process_data(df):
+  required_columns = ['a', 'c']
+  if not set(required_columns).issubset(df.columns):
+    return df
+  df['sum'] = df['a'] + df['c']
+  return df
+</code>
+
 approach 1:
 <code>
 if set(['A', 'C']).issubset(df.columns):
@@ -655,6 +716,161 @@ Ref:
   * https://docs.python.org/3/library/stdtypes.html#set-types-set-frozenset
     * talks about creating sets using ''{}''
   * https://docs.python.org/3.13/reference/expressions.html#set-displays
+
+==== check if a value is in a column ====
+
+<code>
+val in df['col'].values
+</code>
+
+==== check if at least one element is true in a dataframe column ====
+
+<code>
+df['foo'].any()
+</code>
+
+[[https://github.com/KamarajuKusumanchi/notebooks/blob/master/pandas/Check%20if%20at%20least%20one%20element%20is%20true%20in%20a%20dataframe%20column.ipynb|sample notebook (github.com/KamarajuKusumanchi)]]
+
+==== Check if two dataframes are equal ====
+
+To check if two dataframes are equal and ignore the order of rows & columns during comparison
+
+<code>
+from pandas.testing import assert_frame_equal
+assert_frame_equal(result, expected, check_like=True)
+</code>
+
+Ref:-
+
+  * Documentation - https://pandas.pydata.org/pandas-docs/stable/generated/pandas.testing.assert_frame_equal.html
+  * In action - https://github.com/KamarajuKusumanchi/market_data_processor/blob/master/tests/test_google_finance.py
+
+==== check if a column has nan values ====
+
+<code>
+df['foo'].isnull().any()
+</code>
+
+to get those rows
+
+<code>
+df[df['foo'].isnull()]
+</code>
+
+[[https://github.com/KamarajuKusumanchi/notebooks/blob/master/pandas/check%20if%20a%20column%20has%20nan%20values.ipynb|sample notebook (github.com/KamarajuKusumanchi)]]
+
+==== check if column values exist in another dataframe column ====
+
+<code>
+df1['check'] = df1['col1'].isin(df2['col2'])
+</code>
+
+Example:-
+
+<code>
+In [5]: import pandas as pd
+   ...: df1 = pd.DataFrame({'col1': [1,2,3,4,5]})
+   ...: df2 = pd.DataFrame({'col1': [0,1,1,1], 'col2': [2,2,3,4]})
+
+In [6]: df1
+Out[6]:
+   col1
+0     1
+1     2
+2     3
+3     4
+4     5
+
+In [7]: df2
+Out[7]:
+   col1  col2
+0     0     2
+1     1     2
+2     1     3
+3     1     4
+</code>
+
+Add a new column to df1 that indicates if values in df['col1'] exist anywhere in df2['col2']
+
+<code>
+In [8]: df1['check'] = df1['col1'].isin(df2['col2'])
+   ...: df1
+Out[8]:
+   col1  check
+0     1  False
+1     2   True
+2     3   True
+3     4   True
+4     5  False
+</code>
+
+To do the same but check multiple columns instead of a single column
+
+<code>
+In [9]: df1['check'] = df1['col1'].isin(df2['col1']) \
+   ...:                | df1['col1'].isin(df2['col2'])
+   ...: df1
+Out[9]:
+   col1  check
+0     1   True
+1     2   True
+2     3   True
+3     4   True
+4     5  False
+</code>
+
+Summarized from | https://stackoverflow.com/questions/57693908/find-column-value-in-dataframe/
+
+==== check if differences are smaller than threshold ====
+
+<code>
+$ ipython
+Python 3.6.5 |Anaconda, Inc.| (default, Mar 29 2018, 13:32:41) [MSC v.1900 64 bit (AMD64)]
+Type 'copyright', 'credits' or 'license' for more information
+IPython 6.4.0 -- An enhanced Interactive Python. Type '?' for help.
+
+In [1]: import pandas as pd
+   ...: import numpy as np
+   ...: measures =  ['a', 'b', 'c', 'd', 'e']
+   ...: df1 = pd.DataFrame(np.random.rand(10,5), columns=measures); df2 = pd.DataFrame(np.random.rand(10,5), columns=measures);
+   ...: max_diff_allowed = pd.Series([0.8, 0.7, 0.6, 0.9, 0.2], index=measures);
+   ...: max_diff_got = (df1 - df2).abs().max()
+   ...: print(max_diff_got <= max_diff_allowed)
+   ...:
+   ...: assert (max_diff_got <= max_diff_allowed).all(),\
+   ...: 'Differences exceeded thresholds.\n'\
+   ...: 'diff_allowed = \n{}\n'\
+   ...: 'diff_got = \n{}\n'\
+   ...: .format(max_diff_allowed, max_diff_got)
+a     True
+b     True
+c    False
+d     True
+e    False
+dtype: bool
+---------------------------------------------------------------------------
+AssertionError                            Traceback (most recent call last)
+<ipython-input-1-9f36e6126ff8> in <module>()
+      7 print(max_diff_got <= max_diff_allowed)
+      8
+----> 9 assert (max_diff_got <= max_diff_allowed).all(),'Differences exceeded thresholds.\n''diff_allowed = \n{}\n''diff_got = \n{}\n'.format(max_diff_allowed, max_diff_got)
+
+AssertionError: Differences exceeded thresholds.
+diff_allowed =
+a    0.8
+b    0.7
+c    0.6
+d    0.9
+e    0.2
+dtype: float64
+diff_got =
+a    0.646379
+b    0.453449
+c    0.803813
+d    0.385751
+e    0.652210
+dtype: float64
+</code>
 
 ===== data transformation related =====
 ==== matches to coplays ====
