@@ -44,3 +44,9 @@ Ref:- https://bobswift.atlassian.net/wiki/spaces/info/pages/31916055/How+to+disp
     * https://confluence.atlassian.com/confkb/can-users-edit-individual-sections-within-a-page-199206.html
     * https://jira.atlassian.com/browse/CONFSERVER-5913
 
+  * It is not possible to avoid displaying content ID in confluence urls
+    * google search | how to avoid displaying content ID in confluence urls
+    * https://jira.atlassian.com/browse/CONFCLOUD-57248 - Page URLs have Content ID digits
+      * marked as won't fix
+    * https://community.atlassian.com/forums/Confluence-questions/How-can-I-remove-the-page-ID-from-the-URL/qaq-p/678238 - How can I remove the page ID from the URL?
+      * no solution was posted asof 2025-12-16

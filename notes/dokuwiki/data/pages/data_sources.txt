@@ -1,3 +1,6 @@
+==== cash on hand ====
+  * https://www.macrotrends.net/stocks/charts/NFLX/netflix/cash-on-hand
+
 ==== income taxes ====
   * https://www.macrotrends.net/stocks/charts/AMZN/amazon/total-provision-income-taxes
 

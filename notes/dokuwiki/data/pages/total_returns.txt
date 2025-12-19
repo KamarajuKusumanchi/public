@@ -1,0 +1,13 @@
+==== 2025-10-24 ====
+tags | how to check if a stock has beaten sp500 in this year
+
+Notes:
+  * You can use  https://totalrealreturns.com/ to get the total returns of a stock over a given period of time.
+    * By default, it adjusts for inflation. But you can choose not to.
+      * If you adjust for inflation, the urls will be something like [[https://totalrealreturns.com/s/NVDY,NVDA | https://totalrealreturns.com/**s**/NVDY,NVDA]]
+      * Otherwise (i.e. if you are using nominal dollars), the urls will be something like [[https://totalrealreturns.com/n/NVDY,NVDA | https://totalrealreturns.com/**n**/NVDY,NVDA]]
+      * I prefer to use nominal dollars (i.e. Inflation Adjusted = No)
+    * By default, it gives YTD total returns. But you can also specify start and end dates.
+  * Example: https://totalrealreturns.com/n/NVDY,NVDA?start=2025-01-01&end=2025-10-24 shows that YTD total returns of NVDY is 26%, NVDA is 39%
+    * This assumes that you are reinvesting dividends into the same stock.
+  * Example: total return of BITO YTD is 13% (https://totalrealreturns.com/n/BITO?start=2025-01-01&end=2025-10-24)
