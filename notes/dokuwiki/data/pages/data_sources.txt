@@ -10,3 +10,7 @@
 
 ==== compare stocks ====
   * Ex:- https://portfolioslab.com/tools/stock-comparison/cprt/ajg
+
+==== gdp ====
+  * https://www.macrotrends.net/global-metrics/countries/usa/united-states/gdp-gross-domestic-product
+    * you can get a chart of annual percentage change in US gdp for the last 10 years.

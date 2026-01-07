@@ -49,6 +49,17 @@ google search | citing sources
 related links
   * https://en.wikipedia.org/wiki/Wikipedia:Citing_sources
 
+==== tplmod plugin ====
+  * https://www.dokuwiki.org/plugin:tplmod
+  * This plugin is useful to hide the "Media Manager" for people who do not have access to it.
+  * But asof 2025-12-30, it is polluting /var/log/nginx/error.log with messages such as <WRAP>
+''<nowiki>
+2025/12/30 17:42:35 [error] 181103#181103: *15600788 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined array key "REMOTE_USER" in /var/lib/dokuwiki/lib/plugins/tplmod/action.php on line 107; PHP message: PHP Warning:  Undefined array key "do" in /var/lib/dokuwiki/lib/plugins/randompage/action.php on line 22; PHP message: PHP Warning:  Undefined array key "do" in /var/lib/dokuwiki/lib/plugins/randompage/action.php on line 22" while reading response header from upstream, client: 68.198.191.3, server: www.kamaraju.xyz, request: "GET /dk/start HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php-fpm.sock:", host: "www.kamaraju.xyz"
+</nowiki>''
+</WRAP>
+  * I think the above error comes whenever the website is accessed by a user that is not logged in.
+  * There is a pull request https://github.com/turnermm/tplmod/pull/20 opened on 2024-11-10. But it was not merged asof 2025-12-30.
+
 ==== plugins for definition lists ====
   * https://www.dokuwiki.org/plugin:yalist - yalist Plugin
     * aka Simple universal list plugin
@@ -82,8 +93,6 @@ related links
   * https://www.dokuwiki.org/plugin:const
     * using this to parameterize the value of ''year'' in pages such as [[:diary:yearbox_2023]], [[:diary:yearbox_2024]]
     * tags | variable in page content
-  * https://www.dokuwiki.org/plugin:tplmod
-    * You can use this to hide the "Media Manager" for people who do not have access to it.
 
 ==== plugins I am exploring ====
   * https://www.dokuwiki.org/plugin:mdpage

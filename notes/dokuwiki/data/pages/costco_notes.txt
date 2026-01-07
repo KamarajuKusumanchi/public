@@ -1,3 +1,12 @@
+==== dummy ====
+  * Coscto Pharmacy
+    * you can get a flushot
+    * fill prescriptions
+    * create an account in rx.costco.com
+  * flushots
+    * you can get them at Costco pharmacy
+    * take the appointment online and fill the paperwork ahead of time
+
 ==== costco holidays ====
 :?: On what days does Costco close? \\
 :!: 

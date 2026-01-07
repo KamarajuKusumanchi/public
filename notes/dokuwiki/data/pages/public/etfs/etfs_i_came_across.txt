@@ -66,3 +66,8 @@ Policy:
   * ITB - iShares U.S. Home Construction ETF
     * https://www.barrons.com/market-data/funds/itb
     * 40 bps expense ratio
+
+==== NJ specific ====
+  * VNJTX - Vanguard New Jersey Long-Term Tax-Exempt Fund Investor Shares
+    * no federal or state taxes
+    * for NJ residents only

@@ -1,4 +1,11 @@
 ==== dummy ====
+
+==== gold ====
+If investing in sp500 is like cooking in the kitchen, investing in gold is like storing the veggies in the refrigerator. Each has its own use cases. But in the long term, cooking is probably more profitable than storage.
+
+Staying in cash OTOH is like leaving the veggies on the counter. Inflation will make them rot.
+
+==== drops and buckets ====
   * earned in drops and lost in buckets
     * reputation, trust, respect
 

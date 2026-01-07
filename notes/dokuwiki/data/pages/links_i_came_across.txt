@@ -6,5 +6,8 @@
     * shows which stocks have gone up the most and which went down the most
     * there is no way to filter it on a universe (for example, in this screen, there is no way to see which sp500 stocks went up most or went down most)
 
+==== 2026-01-03 ====
+  * https://www.wsj.com/news/types/science-of-success - Science of Success
+
 ==== 2023-07-11 ====
   * https://njscienceolympiad.org/tournaments/2023/njit/

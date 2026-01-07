@@ -1,0 +1,10 @@
+==== 2026-01-01 ====
+video journal:
+  * https://x.com/sciencegirl/status/1993219196134764656 - Bite force power in the animal kingdom
+
+reading journal:
+  * https://www.cnbc.com/2025/12/02/open-ai-code-red-google-anthropic.html - OpenAI is under pressure as Google, Anthropic gain ground
+    * OpenAI will be pulling back on investments in areas like health, shopping and advertising as it works to prioritize ChatGPT
+    * Nick Turley, head of ChatGPT at OpenAI
+    * More than 800 million people use ChatGPT each week
+    * Gemini app has 650 million monthly active users

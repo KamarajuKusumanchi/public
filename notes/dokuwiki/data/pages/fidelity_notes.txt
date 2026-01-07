@@ -13,6 +13,10 @@ See also:
     * login -> Messages -> Manage your alerts -> Cash Management -> Alert Setup -> Direct Debit Notifications -> Set Up Selected Alerts -> Update "Send emails to" or "Send text messages to" -> Complete Setup
 
 ===== dummy =====
+==== turbotax ====
+  * https://www.fidelity.com/accounts-trade/turbotax-discount
+  * https://turbotax.intuit.com/affiliate/fidelity
+
 ==== Missing features ====
   * It is not possible to
     * enable Money Transfer Lockdown (MTL) on 529 accounts [(https://www.reddit.com/r/fidelityinvestments/comments/1bkji5f/money_transfer_lockdown_on_529_account/)] .

@@ -1,5 +1,26 @@
 tags | stocks to watch for next month, companies I came across
 
+==== 2026-01-05 ====
+  * CVX, HAL, VLO, MPC, SLB, COP, SMPC, XOM, OXY, EOF, DVN, XLE
+    * might be able to benefit from the US invasion of Venezuela
+
+==== 2026-01-02 ====
+  * PFE
+    * divdend yield = 6.84%
+    * price = \$24.90, ROE = 10.59%, P/E = 14.51, Forward P/E = 8.32, Operating margin = 30.99%%, P/S = 2.25
+
+  * VZ
+    * dividend yield = 6.72%
+  * FSK
+    * dividend yield = 18.91%
+  * ARCC
+    * dividend yield = 9.49%
+  * MO
+    * dividend yield = 7.21%
+  * PBR
+    * dividend yield = 10.48%
+
+
 ==== 2025-12-08 ====
   * NFLX
     * price = \$95.81, ROE = 42.86%, P/E = 40.54, Forward P/E = 29.99, Operating margin = 29.06%, P/S = 9.49

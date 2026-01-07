@@ -4,7 +4,27 @@ Policy:
   * sort order: Latest read book comes first.
 
 Why:
-  * Goodreads assumes that you read from beginning to end. But I tend to read couple of pages here and there. This is my naive way to keep track of the progress.
+  * Both Goodreads and Storygraph assume that books are read from beginning to end. But I tend to read them non linearly, couple of pages here and there. This is my naive way to keep track of the progress.
+
+==== The Medicine Book ====
+Book details:
+  * title: The Medicine Book: Big Ideas Simple Explained
+  * author: 
+  * edition: 
+  * published: 2021
+  * isbn: 978-0-7440-2836-2
+  * pages: 336
+  * format: ebook
+  * storygraph: https://app.thestorygraph.com/books/a0fb429e-d76c-432a-a760-3ae8c41c3a9f
+  * goodreads: 
+  * amazon: 
+  * call number in Marlboro library: 
+  * will be using the page numbers in the book (and not pdf) to track progress.
+
+<WRAP group><WRAP column>
+^ date ^ pages ^ overall progress ^ notes ^
+| 2025-12-22  6:34 pm | [36-37] | [36-37] | |
+</WRAP></WRAP>
 
 ==== The way we work ====
 Book details:
@@ -20,9 +40,11 @@ Book details:
   * call number in Marlboro library: J612 MAC
   * will be using the page numbers in the book to track progress.
 
+<WRAP group><WRAP column>
 ^ date ^ pages ^ overall progress ^ notes ^
 | 2025-11-22  3:10 pm | [1-10] | [1-10] | |
 | 2025-11-23 11:53 am | [11-19] | [1-19] | |
+</WRAP></WRAP>
 
 ==== Pro Git ====
 Book details:

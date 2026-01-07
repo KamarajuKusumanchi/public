@@ -1,4 +1,23 @@
 
+
+==== 2025-12-28 ====
+TIL about Ise Jingu. It is the holiest shrine in Japan’s Shinto faith. The shrine is dismantled and rebuilt on an adjacent site to exacting specifications every 20 years. They have been doing this since 690 AD. The last renovation was in 2013. The next renovation is scheduled in 2033.
+
+Ref:
+  * https://onepercentamonth.com/2025/12/01/book-review-breakneck-chinas-quest-to-engineer-the-future/
+    * Where I came across this initially
+  * https://en.wikipedia.org/wiki/Ise_Shrine#Shrine_architecture
+    * talks about it but difficult to read
+  * https://apnews.com/article/japan-ise-sacred-shrine-rebuilt-destroyed-shinto-religion-5828f94e07da91f2ca9a12ea777b7b96
+    * talks about it but a bit verbose, page is full of ads etc.,
+
+==== 2025-12-23 ====
+TIL that in 1884, Montana paid a \$1 bounty per wolf killed. They became an endangered species over time. In 1995, wolves were reintroduced to Yellowstone national park.
+
+Ref:-
+  * https://greateryellowstone.org/yellowstone-wolf-reintroduction
+  * https://ourworldindata.org/wild-mammal-biomass-dominance
+
 ==== 2025-12-17 ====
 TIL that the GDP per capita in Madagascar is about the same today as it was in 1950.
 

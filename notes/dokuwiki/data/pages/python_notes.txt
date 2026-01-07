@@ -291,7 +291,7 @@ Sample usage from https://github.com/dpguthrie/yahooquery/blob/master/yahooquery
 </code>
 
 ===== Snippets =====
-=== import from another project ====
+==== import from another project ====
 Say we have two projects cloned into two directories - github/project1 and github/project2. To import stuff from project1 into a file in project2
 
 <code>
@@ -357,6 +357,55 @@ sleep(10)
 </code>
 
 Ref:- https://realpython.com/python-sleep/ - well written article that talks about how you might use the sleep function in real life. Worth reading end-to-end once.
+
+==== httpbin service ====
+You can use the httpbin service to test your HTTP client code. The site receives requests and then echoes information back to you in the form a JSON response.
+
+<code>
+$ ipython
+Python 3.8.5 (default, Sep  3 2020, 21:29:08) [MSC v.1916 64 bit (AMD64)]
+
+In [1]:
+import requests
+r = requests.get('http://httpbin.org/get?name=Dave&n=37',
+                  headers = { 'User-agent': 'goaway/1.0' })
+resp = r.json()
+
+In [2]:
+resp['headers']
+Out[2]:
+{'Accept': '*/*',
+ 'Accept-Encoding': 'gzip, deflate',
+ 'Host': 'httpbin.org',
+ 'User-Agent': 'goaway/1.0',
+ 'X-Amzn-Trace-Id': 'Root=1-6957566c-67568e5420810abf54a06eef'}
+
+In [3]:
+resp['args']
+Out[3]:
+{'n': '37', 'name': 'Dave'}
+</code>
+
+Working with a site such as httpbin.org is often preferable to experimenting with a real
+site—especially if there’s a risk it might shut down your account after three failed login
+attempts
+
+Ref:-
+  * I learned about this in 'Python Cookbook - David Beazley, Brian K Jones - 3rd edition - 2013' book -> Chapter 11 "Network and Web Programming" -> "11.1. Interacting with HTTP Services As a Client" -> pg-441. But this book uses <code>
+resp = r.json
+</code> which will give the error <code>
+In [4]:
+resp = r.json
+
+In [5]:
+resp['headers']
+---------------------------------------------------------------------------
+TypeError                                 Traceback (most recent call last)
+<ipython-input-5-8a0afce07ab0> in <module>
+----> 1 resp['headers']
+
+TypeError: 'method' object is not subscriptable
+</code> So I thought I would document the working code.
 
 ===== Reading files =====
 ==== read file into a list ====

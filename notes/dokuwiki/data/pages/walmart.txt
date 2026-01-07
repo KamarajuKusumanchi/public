@@ -1,6 +1,7 @@
 ==== Aisle map ====
 scope | Walmart in Old bridge.
 
+  * small trash bags - aisle A28 - A29
   * Hot chocolate - aisle A8 - A9
   * Ketchup - aisle A8 - A9
   * Marshmallows - aisle A14 - A15

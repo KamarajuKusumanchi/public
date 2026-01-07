@@ -1,4 +1,4 @@
-{{yearbox>year=2025;ns=diary;name=}}
+{{yearbox>year=2026;ns=diary;name=}}
 ~~NOCACHE~~
 
 <nspages -tree -textPages="Page tree" -reverse>
