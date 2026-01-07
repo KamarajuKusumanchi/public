@@ -1,0 +1,16 @@
+==== log format ====
+By default, nginx writes logs in "combined log format".
+
+Ref:
+  * https://httpd.apache.org/docs/2.4/logs.html#combined
+    * The format is described very clearly here.
+  * https://nginx.org/en/docs/http/ngx_http_log_module.html <code>
+The configuration always includes the predefined “combined” format:
+
+log_format combined '$remote_addr - $remote_user [$time_local] '
+                    '"$request" $status $body_bytes_sent '
+                    '"$http_referer" "$http_user_agent"';
+</code>
+
+See also:
+  * https://en.wikipedia.org/wiki/Common_Log_Format - Common Log Format

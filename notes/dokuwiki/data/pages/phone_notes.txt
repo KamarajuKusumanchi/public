@@ -9,3 +9,23 @@
   * Geico Mobile
   * feedly
   * RSA SecurID Software Token
+
+===== dummy =====
+==== phone dimensions ====
+<WRAP group><WRAP column>
+^ Model ^ Thickness ^ Weight ^
+| Galaxy S25 | 7.2 mm | 162 g |
+| Galaxy S25+ | 7.3 mm | 190 g |
+| Galaxy S25 Ultra | 8.2 mm | 218 g |
+| Galaxy S25 Edge | 5.8 mm | 163 g |
+| Galaxy S25 FE | 7.4 mm | 190 g |
+</WRAP></WRAP>
+
+Ref:- https://en.wikipedia.org/wiki/Samsung_Galaxy_S25
+
+<WRAP group><WRAP column>
+^ Model ^ Weight ^
+| Pixel 6 | 207 g |
+</WRAP></WRAP>
+
+Ref:- https://en.wikipedia.org/wiki/Pixel_6

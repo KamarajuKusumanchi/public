@@ -1,0 +1,36 @@
+===== Transfer Whatsapp chats from Google Pixel 6 to Samsung Galaxy S25 Edge =====
+==== Situation ====
+today | 2025-12-30
+
+I recently ported my number from Google Pixel 6 to Samsung Galaxy S25 Edge. The OS of both phones is Android. The Whatsapp chats are still on the old phone. They are not backed up to any server.
+
+==== Task ====
+The task is to transfer them to the new phone. I want to transfer everything - all chats, media, photos etc.,
+
+==== Solution ====
+I asked Google Gemini and it gave detailed step-by-step instructions on how to do it. Below is a summary of what I did.
+
+Setup
+  * Connect both phones to a power source.
+  * Turn on wifi on both the phones.
+
+On Google Pixel 6
+  * Settings -> Display & touch -> Screen timeout -> 30 minutes
+  * Open Whatsapp -> Settings -> Chats -> Transfer chats -> Start
+  * -> Allow Whatsapp to find, connect to, and determine the relative position of nearby devices -> Allow
+
+On Samsung Galaxy S25 Edge
+  * Install Whatsapp
+  * Register with the same phone number
+  * Scan QR code to connect phones -> Continue
+  * Allow Whatsapp to find, connect to, and determine the relative position of nearby devices -> Allow
+
+Then
+  * Scan the QR code on the new phone with the old phone
+  * On the new phone "allow" the old phone to be connected
+  * Change the screen timeout on the old phone to its original value
+    * Settings -> Display & touch -> Screen timeout -> 30 seconds
+
+Ref:
+  * https://faq.whatsapp.com/209942271778103/?cms_platform=android
+  * https://gemini.google.com

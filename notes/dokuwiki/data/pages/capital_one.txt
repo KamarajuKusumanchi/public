@@ -1,0 +1,8 @@
+==== zelle ====
+asof | 2025-12-23
+
+When sending money using Zelle in capitalone.com website on a desktop
+  * there is no option to add a contact
+  * the details of previous recipients are not stored
+
+This is very inconvenient.

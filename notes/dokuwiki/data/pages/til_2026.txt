@@ -1,0 +1,22 @@
+==== 2026-01-06 ====
+TIL that Teslas do not have a spare tire. If you get a flat tire, you need to tow the car. In the traditional cars (ex:- Subaru), a donut, jack and lug wrench are included by default. But in the electrical cars, it looks like towing is the only option.
+
+==== 2026-01-05 ====
+TIL that Hindi is not the national language of India.
+
+Ref: 
+  * https://en.wikipedia.org/wiki/Hindi#India <WRAP>
+> In 2010, the Gujarat High Court clarified that Hindi is not the national language of India because the constitution does not mention it as such.
+</WRAP>
+  * https://www.thehindu.com/news/national/Hindi-not-a-national-language-Court/article16839525.ece - Hindi, not a national language: Court
+
+==== 2026-01-02 ====
+TIL that our Costco gas station is now open till 10 pm on weekdays. It used to be open till 9 pm before but they have extended it by an hour.
+
+Ref:
+  * https://www.costco.com/w/-/nj/morganville/1093
+  * As per the Q2 2025 earning call transcript, this change was rolled out across all the Costco gas stations in North America.
+    * https://www.fool.com/earnings/call-transcripts/2025/03/06/costco-wholesale-cost-q2-2025-earnings-call-transc/ -> search for "an hour later"<WRAP>
+> In addition to adding warehouses to serve our members, we also extended our gas station hours in North America during the quarter to make filling up at Costco more convenient for our members. Generally, our stations are now staying open an hour later than they did previously with some opening earlier as well.
+</WRAP>
+  * https://www.cbsnews.com/news/costco-gas/

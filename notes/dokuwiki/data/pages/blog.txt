@@ -1,6 +1,7 @@
 Note:- My old blog is in http://raju.shoutwiki.com/wiki/Blog . I plan to migrate the articles from there to here as time permits.
 
 ==== 2025 ====
+  * 2025-12-30 [[transfer Whatsapp chats from Google Pixel 6 to Samsung Galaxy S25 Edge]]
   * 2025-10-24 [[grep output of ps but show header]]
   * 2025-08-27 [[pycharm_attributeerror_mainthread_isalive_alive | pycharm AttributeError _MainThread isAlive is_alive]]
 ==== 2024 ====
