@@ -1,0 +1,4 @@
+==== 2026-01-14 ====
+reading journal:
+  * https://www.wsj.com/economy/trump-wants-to-run-the-economy-hot-theres-a-good-chance-hell-succeed-85244f23 - Trump Wants to Run the Economy Hot. There’s a Good Chance He’ll Succeed.
+    * Washington has three big levers that affect growth: fiscal policy (taxes and spending), monetary policy (interest rates) and credit policy (the ease of borrowing).

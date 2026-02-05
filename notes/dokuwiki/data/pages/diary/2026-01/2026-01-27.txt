@@ -1,0 +1,19 @@
+==== 2026-01-27 ====
+reading journal:
+  * https://www.barrons.com/articles/humana-unitedhealth-cvs-stock-medicare-rates-6bc17017 - Humana, UnitedHealth, CVS Stocks Tumble After Trump Medicare Rates Blow
+    * Elevance Health, Centene, Molina Healthcare
+    * The Centers for Medicare and Medicaid Services (CMS)
+    * CMS Administrator Dr. Mehmet Oz
+    * Medicare Advantage is an alternative to traditional Medicare that is offered by private insurance companies, rather than managed directly by the federal government.
+    * chart reviews
+
+  * https://www.wsj.com/finance/currencies/wall-street-is-fixated-on-a-possible-yen-intervention-ef716054 - Wall Street Is Fixated on a Possible Yen Intervention
+    * the Exchange Stabilization Fund (ESF)
+      * ~\$200 billion
+      * a tool used by the Treasury Department to influence exchange rates
+      * holds about \$3 billion worth of yen from previous interventions
+    * Japan
+      * Finance Minister Satsuki Katayama
+      * Prime Minister Sanae Takaichi
+      * relies heavily on imports for essentials such as energy and food
+    * the Trump administration wants a weaker dollar. A tumbling yen would threaten that goal

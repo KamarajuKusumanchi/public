@@ -3,7 +3,13 @@
   * Settings -> Notifications and activity -> Missed activity emails -> Off
 
 ===== settings I am currently trying =====
+==== show dates in the left panel ====
+Settings -> Chats and channels -> Chats and channels list -> Show time stamps
 
 ===== dummy =====
 ==== links I came across ====
   * https://en.wikipedia.org/wiki/Microsoft_Teams - Microsoft Teams
+
+===== how do I =====
+==== show only unread chats ====
+Hover on Chats -> click on the three dots icon on the right -> Unread only

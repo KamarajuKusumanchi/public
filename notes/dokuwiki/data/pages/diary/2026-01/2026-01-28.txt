@@ -1,0 +1,12 @@
+==== 2026-01-28 ====
+reading journal:
+  * https://ourworldindata.org/data-insights/stomach-cancer-used-to-be-the-main-cause-of-cancer-mortality-in-japan-since-then-rates-have-fallen-dramatically - Stomach cancer used to be the main cause of cancer mortality in Japan; since then, rates have fallen dramatically
+    * Stomach cancer is often caused by a bacterium called Helicobacter pylori
+  * https://www.wsj.com/opinion/the-eu-india-trade-deal-is-boring-and-thats-a-good-thing-6360575e - The EU-India Trade Deal Is Boring, and That’s a Good Thing
+    * This deal has been a long time coming
+    * India’s nominal gross domestic product more than tripled, from \$1.2 trillion in 2007 to \$4.1 trillion in 2025
+    * the German Marshall Fund, a trans-Atlantic think tank
+    * European Commission President Ursula von der Leyen
+    * Under Prime Minister Narendra Modi, who took office in 2014, India reversed nearly a quarter-century of trade liberalization by terminating nearly 80 bilateral investment treaties, raising tariffs on hundreds of products, and stepping up complicated inspection rules to deter imports
+    * India tends to negotiate shallow trade deals with many carve-outs and exceptions
+    * Between 2020 and 2024, the ratio of foreign direct investment to GDP in India declined from 2.4% to 0.7%.

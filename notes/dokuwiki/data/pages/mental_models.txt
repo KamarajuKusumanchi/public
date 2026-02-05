@@ -8,6 +8,7 @@ Staying in cash OTOH is like leaving the veggies on the counter. Inflation will 
 ==== drops and buckets ====
   * earned in drops and lost in buckets
     * reputation, trust, respect
+  * trust arrives on foot, but leaves on horseback
 
 ==== AI ====
   * It is like a co-worker that I can bug all the time!

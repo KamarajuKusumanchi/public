@@ -101,3 +101,7 @@ abc
 abcd
 abcde
 </code>
+
+==== useful links ====
+  * https://mywiki.wooledge.org/BashFAQ/079 - How can I grep for lines containing foo AND bar, foo OR bar? Or for files containing foo AND bar, possibly on separate lines? Or files containing foo but NOT bar?
+    * Very useful. Worth reading once from top to bottom.

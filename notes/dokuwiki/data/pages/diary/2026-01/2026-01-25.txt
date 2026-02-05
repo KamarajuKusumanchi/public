@@ -1,0 +1,15 @@
+==== 2026-01-25 ====
+https://aswathdamodaran.blogspot.com/2017/03/explaining-paradox-why-good-bad.html - Explaining a Paradox: Why Good (Bad) Companies can be Bad (Good) Investments!
+
+^ Business ^ Management ^ Price < Value ^ Price > Value ^
+| Good | Good | Emphatic Buy | Admire, but don't buy |
+| Good | Bad | Buy & hope for management change | Wait for management change |
+| Bad | Good | Buy & hope that management does not change | Sell |
+| Bad | Bad | Buy, hope for management change & pray company survives | Emphatic Sell |
+
+highlights:
+  * preponderance of publicly traded companies
+  * good companies, good management and good investments
+  * The best measure of corporate quality is a high excess return, i.e., a return on capital that is vastly higher than its cost of capital
+  * In investing the comparison is between the value that you attach to a company, given its fundamentals and the price at which it trades.
+  * the contrast between equity risk and operating risk - Operating risk reflects the risk of the businesses that you operate in, whereas equity risk reflects operating risk magnified by financial leverage; the former is measured with the cost of capital whereas the latter is captured in the cost of equity

@@ -1,5 +1,8 @@
 tags | stocks to watch for next month, companies I came across
 
+==== 2026-01-25 ====
+  * MercadoLibre (ticker: MELI)
+
 ==== 2026-01-05 ====
   * CVX, HAL, VLO, MPC, SLB, COP, SMPC, XOM, OXY, EOF, DVN, XLE
     * might be able to benefit from the US invasion of Venezuela

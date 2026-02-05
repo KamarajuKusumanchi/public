@@ -1,0 +1,6 @@
+==== citrix workspace ====
+  * (asof | 2026-01-23) Citrix workspace app replaces citrix receiver.
+    * Ref:- https://docs.citrix.com/en-us/citrix-workspace-app.html#important-update-about-citrix-receiver
+
+  * FWIW I found that the workspace app is more stable compared to the receiver.
+

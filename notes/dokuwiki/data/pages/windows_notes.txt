@@ -335,3 +335,14 @@ Version 22H2 (OS Build 19045.4651)
 today | 2024-11-18
 
 Windows + i -> Accounts -> Sign-in Options -> Restart apps -> Automatically save my restartable apps when I sign out and restart them after I sign in -> on
+
+===== windows 11 home =====
+==== ghost screen syndrome ====
+My laptop is connected to an external monitor. When I open new apps, they are opening on the laptop screen even though the laptop lid is closed.
+
+To fix this, set the external monitory as "primary".
+
+Display settings -> System -> "System > Display" -> select the number corresponding to the external monitor -> Multiple displays -> Make this my main display -> check
+
+==== new apps opening on laptop even when lid is closed ====
+tags | ghost screen syndrome

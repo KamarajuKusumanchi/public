@@ -47,6 +47,12 @@ Using the stable version 32, I encountered some problems with highlighting - htt
   * [[https://github.com/ycm-core/YouCompleteMe | YouCompleteMe]] (github.com/ycm-core)
 
 ===== How can I =====
+
+==== Preprocess files before diffing them ====
+  * [[Preprocess files before diffing them]]
+
+tags | vimdiff, sort
+
 ==== vertical alignment of columns ====
   * [[pretty_print_csv_data#vim | pretty print csv data in vim]]
 ==== show line endings ====
@@ -68,11 +74,6 @@ will insert a new line before each occurrence of 29.
   :nmap J :s/\n/, /^M
 
   * https://vi.stackexchange.com/a/14248/12620
-
-==== Preprocess files before diffing them ====
-  * [[Preprocess files before diffing them]]
-tags | vimdiff, sort
-
 
 ==== print full file name ====
 

@@ -1,4 +1,11 @@
 
+==== get old icons in the new lichess app ====
+today | 2026-01-16
+
+The new app is using "Staunty" piece set. I believe the old app was using "Colin M.L. Burnett" piece set. To change it back
+
+open app -> click on profile icon top left -> Settings -> Theme -> Piece set -> select "Colin M.L. Burnett"
+
 ==== follow someone via the app ====
 On the sidebar go to Community -> Players -> click the search button -> enter the userid -> Follow -> drag to right
 

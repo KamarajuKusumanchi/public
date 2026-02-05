@@ -1,5 +1,9 @@
-==== 2026-01-06 ====
-TIL that Teslas do not have a spare tire. If you get a flat tire, you need to tow the car. In the traditional cars (ex:- Subaru), a donut, jack and lug wrench are included by default. But in the electrical cars, it looks like towing is the only option.
+
+
+==== 2026-01-10 ====
+TIL about Universal Disk Format (UDF), a vendor-neutral, cross-platform file system most commonly associated with optical media like DVDs and Blu-rays, but it is also a powerful alternative for USB flash drives.
+
+Ref: https://en.wikipedia.org/wiki/Universal_Disk_Format
 
 ==== 2026-01-05 ====
 TIL that Hindi is not the national language of India.

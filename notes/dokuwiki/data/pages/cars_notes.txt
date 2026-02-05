@@ -1,0 +1,4 @@
+==== spare tires ====
+today | 2026-01-06
+  * Teslas do not have a spare tire. If you get a flat tire, you need to tow the car. In the traditional cars (ex:- Subaru), a donut, jack and lug wrench are included by default. But in the electrical cars, it looks like towing is the only option.
+  * Honda Accord hybrid also does not have a spare tire.

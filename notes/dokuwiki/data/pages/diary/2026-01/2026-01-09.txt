@@ -1,0 +1,5 @@
+==== 2026-01-09 ====
+  * tags | Finra margin debt
+    * https://www.finra.org/rules-guidance/key-topics/margin-accounts/margin-statistics - Margin Statistics
+    * https://en.macromicro.me/charts/415/us-margin-debt
+      * plots Finra margin debt over time

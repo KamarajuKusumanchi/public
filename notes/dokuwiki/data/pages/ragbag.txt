@@ -1,4 +1,13 @@
 
+===== topics =====
+==== process substitution ====
+  * [[Preprocess files before diffing them]]
+  * https://superuser.com/questions/1059781/what-exactly-is-in-bash-and-in-zsh
+  * https://tldp.org/LDP/abs/html/process-sub.html
+    * a bit advanced and cryptic. I was not able to understand some of the items and had to skip.
+
+
+===== dummy =====
 ==== pages ====
   * [[book reading tracker]]
   * [[youtube watch list]]

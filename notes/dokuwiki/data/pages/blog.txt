@@ -1,5 +1,8 @@
 Note:- My old blog is in http://raju.shoutwiki.com/wiki/Blog . I plan to migrate the articles from there to here as time permits.
 
+==== 2026 ====
+  * 2026-01-22 [[Preprocess files before diffing them]]
+
 ==== 2025 ====
   * 2025-12-30 [[transfer Whatsapp chats from Google Pixel 6 to Samsung Galaxy S25 Edge]]
   * 2025-10-24 [[grep output of ps but show header]]
@@ -69,8 +72,6 @@ Note:- My old blog is in http://raju.shoutwiki.com/wiki/Blog . I plan to migrate
 ==== 2017 ====
 ==== 2016 ====
   * 2016-11-13 [[Difference between \$SHELL and \$0]]
-
-  * 2016-06-29 [[Preprocess files before diffing them]]
 
   * 2016-03-25 [[Search command line history using glob pattern matching]]
 

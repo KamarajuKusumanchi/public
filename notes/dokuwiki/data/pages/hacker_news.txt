@@ -2,3 +2,6 @@
   * https://hackernews.onlineornot.com/
     * Tells whether hacker news (HN) website is online or not.
     * HN was down on 2025-12-17. This website correctly detected it. Meanwhile other websites such as https://hn.hund.io/ was telling that HN was up.
+
+==== links I came across ====
+  * https://news.ycombinator.com/active

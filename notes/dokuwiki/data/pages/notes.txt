@@ -26,6 +26,9 @@
 
 ==== dummy ====
   * [[quant finance notes]]
+  * [[personal finance]]
+  * [[yfinance notes]]
+  * [[finance notes]]
   * [[acroread notes]]
   * [[ragbag]]
   * [[ibonds notes]]
@@ -162,7 +165,6 @@
   * [[ibkr notes]]
   * [[treasuries notes]]
   * [[insurance]]
-  * [[personal finance]]
   * [[python jobs in nj]]
   * [[python jobs in ny]]
   * [[quant jobs]]
@@ -228,7 +230,6 @@
   * [[amazon notes]]
   * [[barrons notes]]
   * [[yahooquery notes]]
-  * [[yfinance notes]]
   * [[markdown notes]]
   * [[td ameritrade notes]]
   * [[td bank notes]]
@@ -338,6 +339,9 @@
   * [[capital one]]
   * [[nginx notes]]
   * [[Moylan arrow]]
+  * [[cars notes]]
+  * [[citrix notes]]
+  * [[dyson notes]]
 
 ==== by date ====
   * [[reading journal 2024]]
@@ -351,6 +355,7 @@
   * [[TIL 2022]]
   * [[TIL 2021]]
   * [[TIL 2020]]
+  * [[share 2026]]
   * [[share 2025]]
   * [[share 2024]]
   * [[share 2023]]

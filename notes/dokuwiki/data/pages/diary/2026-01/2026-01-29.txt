@@ -1,0 +1,8 @@
+==== 2026-01-29 ====
+reading journal:
+  * https://www.wsj.com/finance/investing/how-a-blackrock-loss-reignited-worries-about-what-is-hiding-in-private-credit-d6e221ce - How a BlackRock Loss Reignited Worries About What Is Hiding in Private Credit - 2026-01-29
+    * BlackRock’s business-development company, BlackRock TCP Capital
+    * BlackRock bought a seat at the private-credit table in 2018 by acquiring Tennenbaum Capital Partners, a \$9 billion debt specialist, and absorbing its BDC. The firm doubled down last year when it bought HPS Investment Partners, which manages \$179 billion.
+    * Amazon aggregators like SellerX and Razor and home-repair company Renovo Home Partners were among the borrowers in default.
+    * Moody’s Investors Service, one of the credit-rating firms that assessed the BDC’s bonds
+    * smaller ratings firm KBRA
