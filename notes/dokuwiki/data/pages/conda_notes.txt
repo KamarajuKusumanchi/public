@@ -359,6 +359,38 @@ See also:-
   * https://conda.github.io/conda-libmamba-solver/getting-started/ - tells how to switch the default solver from classic to libmamba.
 
 ==== when was a conda environment created? ====
+tags | check when a conda environment is created
+
+For the active environment
+<code>
+head -n 3 ${CONDA_PREFIX}/conda-meta/history
+</code>
+
+For example
+<code>
+rajulocal@hogwarts ~ % which python
+/opt/rajulocal/miniconda3/bin/python
+rajulocal@hogwarts ~ % echo ${CONDA_PREFIX} 
+/opt/rajulocal/miniconda3
+
+rajulocal@hogwarts ~ % conda activate market_data_processor
+rajulocal@hogwarts ~ % which python
+/opt/rajulocal/miniconda3/envs/market_data_processor/bin/python
+rajulocal@hogwarts ~ % echo ${CONDA_PREFIX}                
+/opt/rajulocal/miniconda3/envs/market_data_processor
+
+rajulocal@hogwarts ~ % head -n 3 ${CONDA_PREFIX}/conda-meta/history 
+==> 2025-02-22 21:37:43 <==
+# cmd: /opt/rajulocal/miniconda3/bin/conda-env create -f ./envs/env_market_data_processor.yml
+# conda version: 23.5.0
+</code>
+
+For a specific environment (replace env_name):
+<code>
+head -n 3 $(conda info --base)/envs/env_name/conda-meta/history
+</code>
+
+Another approach:
 <code>
 conda env list | grep -v '^#' | perl -lane 'print $F[-1]' | xargs ls -lrt1d
 </code>

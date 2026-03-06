@@ -171,6 +171,8 @@ select $software/unzipped/bypass-paywalls-chrome-clean-master
 Notes:
   * On 2025-03-15, barrons.com did not work with 3.5.9.7. But it worked with 4.0.7.2.
   * On 2025-11-08, barrons.com did not work with 4.0.8.7. But it worked with 4.2.4.6.
+  * On 2026-02-12, <nowiki>https://www.nytimes.com/2026/02/11/business/economy/january-jobs-report-revisions.html</nowiki> did not work with 4.0.7.2. But it worked with 4.3.0.5.
+  * On 2026-02-13, some articles on online.wsj.com did not work with 4.2.7.2. But they worked with 4.3.0.6.
 
 ==== Install bypass paywalls clean ====
 Note: Asof 2025-11-08, https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean is not working. The work around is to use https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean instead. Instructions are in https://www.kamaraju.xyz/dk/chrome_notes#install_bypass_paywalls_chrome_clean_from_gitflicru . I am keeping these instructions for reference.

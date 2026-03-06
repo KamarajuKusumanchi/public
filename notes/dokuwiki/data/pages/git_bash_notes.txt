@@ -26,6 +26,19 @@ export PATH=/opt/software/rsync/usr/bin:$PATH
 Ref:-
   * http://repo.msys2.org/msys/x86_64/rsync-3.1.3-1-x86_64.pkg.tar.xz - old link; does not work anymore.
 ===== dummy =====
+==== invisible characters when copy pasting ====
+In git bash, whenever I copy paste, there is an extra character printed at the end or beginning. This character is not visible but it is there when shell tries to interpret the command.
+
+To demonstrate the issue, run "cat -v", copy something using ctrl+shift+c and then paste it using shift+insert. This shows
+
+<code>
+$ cat -v
+foo
+M-BM-^Cfoo
+</code>
+
+The issue is that I am copying it the wrong way. Use (ctrl+insert) to copy and (shift+insert) to paste. You can find the correct shortcuts by right click -> Options -> Keys -> Copy and Paste (Ctrl/Shift + Ins)
+
 ==== how to end stdin ====
 Use ctrl+z.
 

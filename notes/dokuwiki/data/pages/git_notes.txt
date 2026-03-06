@@ -52,6 +52,12 @@ git config --get-all --show-scope --show-origin core.editor
 </code>
 
 ===== dummy =====
+==== increase the font size ====
+  * Ctrl + will increase the font size, Ctrl - will decrease it.
+
+You can also do
+  * right click in a git bash window -> Options -> Text -> Font section -> Select button -> Choose the size -> OK -> Apply
+
 ==== git resources ====
   * https://learngitbranching.js.org/ - Very good resource to learn git branching.
 

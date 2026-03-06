@@ -49,6 +49,12 @@ google search | citing sources
 related links
   * https://en.wikipedia.org/wiki/Wikipedia:Citing_sources
 
+==== cmsmode plugin ====
+  * https://www.dokuwiki.org/plugin:cmsmode
+  * written by the legendary Andreas Gohr himself
+  * It is a simpler, less powerful alternative to the tplmod plugin. By default, it disables "Media Manager" and "Old revisions" for anonymous users. Logged in users are not affected.
+  * On 2026-02-10, I decided to use this instead of tplmod plugin.
+
 ==== tplmod plugin ====
   * https://www.dokuwiki.org/plugin:tplmod
   * This plugin is useful to hide the "Media Manager" for people who do not have access to it.
@@ -60,6 +66,7 @@ related links
   * I think the above error comes whenever the website is accessed by a user that is not logged in.
   * There is a pull request https://github.com/turnermm/tplmod/pull/20 opened on 2024-11-10. But it was not merged asof 2025-12-30.
 
+  * On 2026-02-10, I decided to use cmsmode plugin. It is a simpler, less powerful alternative to the tplmod plugin. By default, it disables "Media Manager" and "Old revisions" for anonymous users. Logged in users are not affected.
 ==== plugins for definition lists ====
   * https://www.dokuwiki.org/plugin:yalist - yalist Plugin
     * aka Simple universal list plugin
@@ -71,6 +78,9 @@ related links
     * yalist seems to be more comprehensive than this. But I have not tried it.
 
 ==== useful plugins ====
+  * https://www.dokuwiki.org/plugin:cmsmode - Hide Wiki Features from non-logged in users
+    * my notes in [[dokuwiki_plugins#cmsmode_plugin]]
+
   * https://www.dokuwiki.org/plugin:tag - add search tags to the wiki pages.
     * favorite configuration:
       * set tags_list_css to "optimized for tags list at top of page"
