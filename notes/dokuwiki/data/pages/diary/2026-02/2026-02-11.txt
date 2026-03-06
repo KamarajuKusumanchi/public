@@ -1,0 +1,9 @@
+==== 2026-02-11 ====
+My machine has been up for almost 1000 days. 💪
+
+<code>
+raju@minion:~$ uptime
+ 05:03:42 up 960 days,  9:06,  1 user,  load average: 0.00, 0.02, 0.00
+</code>
+
+Sadly, I have to update the kernel and reboot.

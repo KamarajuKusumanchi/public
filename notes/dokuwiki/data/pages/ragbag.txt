@@ -30,6 +30,7 @@
   * [[customary units]]
   * [[questions and answers]]
   * [[one word or two words]]
+  * [[xi correlation coefficient]]
 
 ==== lines ====
   * A milliliter is about 20 drops from an eyedropper.

@@ -1,0 +1,6 @@
+==== 2026-02-12 ====
+reading journal:
+  * https://www.nytimes.com/2026/02/11/business/economy/january-jobs-report-revisions.html - Job Growth Was Overstated, New Data Shows
+    * Shows a graph of original and revised jobs data from the beginning of 2023 to the end of 2025.
+    * It is a great graph in the sense that it tells the story by itself.
+    * The rest of the article is just space filling and not worth reading.

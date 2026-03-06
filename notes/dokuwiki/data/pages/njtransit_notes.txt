@@ -15,11 +15,17 @@
 
 Ref:- https://www.njtransit.com/bogo
 
-==== fares to travel between PABT and Texas Road stop on US 9 N ====
-  * one way - $13.75
-  * 10 trip - $118.50 . This is 13.82% discount (= round( (1 - (118.50 / 137.50))*100, 2)).
+Notes:
+  * On 2026-02-16, I tried to use SWEETHEART26 in the app even though there was no such promotion announced on https://www.njtransit.com/bogo and it did not work.
 
-last checked - 2023-03-31
+==== fares to travel between PABT and Texas Road stop on US 9 N ====
+
+<WRAP group><WRAP column>
+^ one way (\$) ^ 10 trip (\$) ^ last checked ^ notes ^
+| 13.75 | 118.50 | 2023-03-31 | Discount on 10 trip tickets = 13.82% (= round( (1 - (118.50 / 137.50))*100, 2)) |
+| 16.25 | 140.00 | 2026-02-16 | Discount on 10 trip tickets = 13.85% (= round( (1 - (140.00 / 162.50))*100, 2)) |
+</WRAP></WRAP>
+
 
 ==== bus stops of interest ====
 SMS: 69287

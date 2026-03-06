@@ -94,6 +94,7 @@
   * [[google pixel 6]]
   * [[google calendar notes]]
   * [[gemini notes]]
+  * [[claude code]]
   * [[one drive notes]]
   * [[confluence notes]]
   * [[regex notes]]
@@ -342,6 +343,7 @@
   * [[cars notes]]
   * [[citrix notes]]
   * [[dyson notes]]
+  * [[acrobat reader]]
 
 ==== by date ====
   * [[reading journal 2024]]

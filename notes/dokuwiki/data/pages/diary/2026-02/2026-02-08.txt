@@ -1,0 +1,23 @@
+==== 2026-02-09 ====
+reading journal:
+  * https://www.cnbc.com/2026/01/10/micron-ai-memory-shortage-hbm-nvidia-samsung.html - AI memory is sold out, causing an unprecedented surge in prices - 2026-01-10
+    * companies like Nvidia, Advanced Micro Devices and Google need so much RAM for their AI chips
+    * Three primary memory vendors — Micron, SK Hynix and Samsung Electronics — make up nearly the entire RAM market
+    * Micron business chief Sumit Sadana
+    * TrendForce, a Taipei-based researcher
+    * high-bandwidth memory, or HBM
+    * Micron supplies memory to both Nvidia and AMD
+    * Nvidia’s Rubin GPU comes with up to 288 gigabytes of next-generation HBM4 memory per chip
+    * HBM is installed in eight visible blocks above and below the processor
+    * single server rack called NVL72, combines 72 of those GPUs into a single system
+    * smartphones typically come with 8 or 12 GB of lower-powered DDR memory
+    * HBM is designed for high-bandwidth specifications required by AI chips, and it’s produced in a complicated process where Micron stacks 12 to 16 layers of memory on a single chip, turning it into a “cube.”
+    * When Micron makes one bit of HBM memory, it has to forgo making three bits of more conventional memory for other devices.
+    * convolutional neural networks require less memory than large language models
+    * While AI chips themselves have been getting much faster, memory has not which leads to powerful GPUs waiting around to get the data needed to run LLMs
+    * memory wall
+    * companies in the consumer electronics business, like Apple and Dell Technologies
+    * These days, memory accounts for about 20% of the hardware costs of a laptop
+    * Apple finance chief Kevan Parekh
+    * Dell COO - Jefferey Clarke
+    * Nvidia is the biggest customer in the HBM market

@@ -1,0 +1,9 @@
+==== 2026-02-09 ====
+reading journal:
+  * https://www.bloomberg.com/news/articles/2026-02-09/china-urges-banks-to-limit-holdings-of-us-treasuries-citing-market-volatility - China Urges Banks to Limit Holdings of US Treasuries, Citing Market Volatility
+    * Chinese banks held about \$298 billion worth of dollar-denominated bonds as of September
+    * Foreign holdings of US Treasuries rose to a record \$9.4 trillion in November, more than \$500 billion higher than a year earlier
+
+  * https://www.reuters.com/business/foreign-holdings-us-treasuries-hit-all-time-high-november-data-shows-2026-01-15/ - Foreign holdings of US Treasuries at all-time high in November, but China pulls back - 2026-01-15
+    * Foreign holdings of U.S. Treasuries rose to an all-time peak of \$9.355 trillion in November, ‌up from October's \$9.243 trillion
+    * Compared with ​a year earlier, Treasuries owned by foreigners were up 7.2% in November.

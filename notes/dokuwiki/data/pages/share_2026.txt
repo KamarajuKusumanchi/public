@@ -1,4 +1,22 @@
 ===== 2026 =====
+==== 2026-02-19 ====
+  * https://medicine.washu.edu/news/blood-test-clocks-predict-when-alzheimers-symptoms-will-start/?hl=en-US - Blood test “clocks” predict when Alzheimer’s symptoms will start
+    * This is great news. Doctors can now predict when someone will develop Alzheimer's with a blood draw.
+
+==== 2026-02-18 ====
+  * https://x.com/stevehou/status/2012669966512779396 - Ben Affleck’s characterization of AI
+
+==== 2026-02-13 ====
+  * https://ourworldindata.org/data-insights/chinas-adoption-of-industrial-robots-has-surged-over-the-past-decade - China’s adoption of industrial robots has surged over the past decade
+  * https://ourworldindata.org/data-insights/south-korea-uses-more-industrial-robots-per-worker-than-any-other-country - South Korea uses more industrial robots per worker than any other country
+    * South Korea has one industrial robot for every ten manufacturing workers
+
+==== 2026-02-11 ====
+  * https://www.youtube.com/watch?v=rwSJcZnKrg0 - Feedly Tutorial
+
+==== 2026-02-10 ====
+  * https://forum.dokuwiki.org/d/21215-please-do-not-post-ai-generated-answers - Please do not post "AI" generated answers
+
 ==== 2026-02-04 ====
   * https://www.youtube.com/watch?v=kQRu7DdTTVA - Can I get a six pack quickly?
     * Claude's ad about not serving ads.

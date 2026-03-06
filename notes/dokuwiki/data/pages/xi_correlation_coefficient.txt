@@ -1,0 +1,10 @@
+==== dummy ====
+  * https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.chatterjeexi.html - scipy.stats.chatterjeexi
+    * A Stanford professor, Sourav Chatterjee, came up with a new approach to compute correlation coefficient in 2020. It has some advantages over the more common measures such as Pearson's correlation coefficient, Spearman's row, Kendall's tau.The gory details are in https://arxiv.org/abs/1909.10140 . The above link is a scipy implementation of it.
+    * alternate link that hard codes the scipy version: https://docs.scipy.org/doc/scipy-1.17.0/reference/generated/scipy.stats.chatterjeexi.html
+
+==== links I came across ====
+  * https://arxiv.org/pdf/1909.10140 - A new coefficient of correlation by Sourav Chatterjee
+  * https://docs.scipy.org/doc/scipy/reference/stats.html -> Hypothesis Tests and related functions -> Association/Correlation Tests
+    * lists other tests such as personr, spearmanrho, kendalltau
+

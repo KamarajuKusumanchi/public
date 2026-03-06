@@ -1,5 +1,12 @@
 
 
+==== 2026-02-21 ====
+TIL that iptables is now outdated. It is recommended to use nftables instead.
+
+From: https://packages.debian.org/trixie/nftables <WRAP>
+> nftables replaces the old popular iptables, ip6tables, arptables and ebtables.
+</WRAP>
+
 ==== 2026-01-10 ====
 TIL about Universal Disk Format (UDF), a vendor-neutral, cross-platform file system most commonly associated with optical media like DVDs and Blu-rays, but it is also a powerful alternative for USB flash drives.
 

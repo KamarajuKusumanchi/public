@@ -2,6 +2,11 @@
 ==== disable email notifications ====
   * Settings -> Notifications and activity -> Missed activity emails -> Off
 
+==== open links in Chrome ====
+  * Settings -> Files and links -> Links open preferences -> Always open web links in: -> choose "Default browser" in the dropdown.
+
+Then change the default browser at the system level.
+
 ===== settings I am currently trying =====
 ==== show dates in the left panel ====
 Settings -> Chats and channels -> Chats and channels list -> Show time stamps
@@ -13,3 +18,11 @@ Settings -> Chats and channels -> Chats and channels list -> Show time stamps
 ===== how do I =====
 ==== show only unread chats ====
 Hover on Chats -> click on the three dots icon on the right -> Unread only
+
+===== limitations =====
+==== read receipts in group chats ====
+tags | Read by option
+
+read receipts in group chats are limited to groups with less than or equal to 20 members.
+
+Ref:- https://support.microsoft.com/en-us/office/use-read-receipts-for-messages-in-microsoft-teams-533f2334-32ef-424b-8d56-ed30e019f856

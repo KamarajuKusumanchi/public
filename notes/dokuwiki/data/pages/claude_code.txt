@@ -1,0 +1,2 @@
+==== 2026-03-04 ====
+I keep encountering errors while getting factual data from Claude. For example, today it told me that ALGN is headquartered in San Jose, California. But it is actually headquartered in Tempe, AZ.

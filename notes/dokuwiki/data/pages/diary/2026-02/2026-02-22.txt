@@ -1,0 +1,17 @@
+==== 2026-02-22 ====
+reading journal:
+  * https://www.science.org/doi/10.1126/science.abn5795 - Proteins, proteins everywhere - 2021-12-16
+    * The first protein structures were determined by x-ray crystallography in 1957 by John C. Kendrew and Max F. Perutz.
+    * myoglobin
+    * heme proteins
+    * I came of age as a biochemist in an era when scientists could describe but not solve protein folding
+    * Chemical force field and molecular dynamics
+    * de novo protein synthesis
+    * administrative windmills
+    * cryo–electron microscopy (cryo-EM)
+    * Critical Assessment of Protein Structure Prediction (CASP) competition
+    * DeepMind — a UK subsidiary of Alphabet, Google’s parent company
+    * Minkyung Baek, a researcher at the University of Washington
+    * Baek devised RoseTTAFold, an algorithm that uses less computing power and can predict structures of protein complexes
+    * cryo-EM tools
+    * The disastrous US Food and Drug Administration (FDA) approval for Alzheimer’s disease of aducanumab — a costly treatment with little if any clinical efficacy

@@ -1,0 +1,5 @@
+===== configuration items I am trying =====
+==== disable popup menu after text highlight ====
+In Acrobat reader, a menu pops up whenever something is highlighted. You can disable this by
+
+Edit -> Preferences -> General -> Show quick actions on text selection -> uncheck

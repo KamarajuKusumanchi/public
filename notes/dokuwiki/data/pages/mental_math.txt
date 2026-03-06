@@ -12,3 +12,5 @@ The exact sales tax in NJ is 6.625% and (2/30) equals to 6.67%.
 |   50 |  3.31 |  3.33 |
 |  100 |  6.63 |  6.67 |
 </WRAP></WRAP>
+
+Another data point that is good to remember: For every \$3, the tax goes up by 20 cents. For example, for \$9, the tax is ~60 cents.
