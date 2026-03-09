@@ -1,4 +1,47 @@
 ===== Install additional software in git bash =====
+==== install software directly under / ====
+
+This installs the tree package directly under /.
+
+Download the xz file
+
+<code>
+mkdir -p ~/x/software
+cd ~/x/software
+curl http://repo.msys2.org/msys/x86_64/tree-1.8.0-1-x86_64.pkg.tar.xz --output tree-1.8.0-1-x86_64.pkg.tar.xz
+</code>
+
+Check the files in the archive
+
+<code>
+tar tf tree-1.8.0-1-x86_64.pkg.tar.xz
+</code>
+
+The next step will copy (and overwrite) these files to /.
+
+<code>
+tar xJvf tree-1.8.0-1-x86_64.pkg.tar.xz -C /
+</code>
+
+To uninstall, get a sense of files that will be deleted
+
+<code>
+cd /
+tar tf ~/x/software/tree-1.8.0-1-x86_64.pkg.tar.xz | xargs ls -1d 2> /dev/null
+</code>
+
+Delete the files
+
+<code>
+tar tf ~/x/software/tree-1.8.0-1-x86_64.pkg.tar.xz | xargs rm
+</code>
+
+Check the files that are not deleted (ex:- directories with files from other packages)
+
+<code>
+tar tf ~/x/software/tree-1.8.0-1-x86_64.pkg.tar.xz | xargs ls -1d 2> /dev/null
+</code>
+
 ==== Install rsync 3.1.3-1 into a non standard directory ====
 This installs rsync 3.1.3-1 into /opt/software/rsync .
 

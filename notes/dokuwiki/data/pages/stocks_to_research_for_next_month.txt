@@ -1,5 +1,8 @@
 tags | stocks to watch for next month, companies I came across
 
+==== 2026-03-06 ====
+  * BLK
+
 ==== 2026-03-05 ====
   * ALGN - Align Technology
     * owns invisalign

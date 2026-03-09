@@ -112,7 +112,7 @@ Useful links:
 
 
 ==== install bypass paywalls chrome clean from gitflic.ru ====
-today | 2025-11-08
+today | 2026-03-06
 
 Ref:- https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean
 
@@ -124,27 +124,22 @@ cd bypass_paywalls_clean
 
 Download the zip file from https://gitflic.ru/project/magnolia1234/bpc_uploads/blob/raw?file=bypass-paywalls-chrome-clean-master.zip and put it in $software/zipped/bypass_paywalls_clean. This file is called bypass-paywalls-chrome-clean-master.zip
 <code>
-curl https://gitflic.ru/project/magnolia1234/bpc_uploads/blob/raw?file=bypass-paywalls-chrome-clean-master.zip -o bypass-paywalls-chrome-clean-master.zip
+curl -L -o bypass-paywalls-chrome-clean-master.zip "https://gitflic.ru/project/magnolia1234/bpc_uploads/blob/raw?file=bypass-paywalls-chrome-clean-master.zip"
 </code>
 
-On 2025-11-08, the curl command did not work.
-<code>
- % curl https://gitflic.ru/project/magnolia1234/bpc_uploads/blob/raw?file=bypass-paywalls-chrome-clean-master.zip 
-zsh: no matches found: https://gitflic.ru/project/magnolia1234/bpc_uploads/blob/raw?file=bypass-paywalls-chrome-clean-master.zip
-</code>
-
-But going to 
+If the curl command does not work, do it manually
 <code>
 https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean
  -> Installation -> Load unpacked: Chrome, MS Edge or Brave (all desktop)
  -> Download this repository as a zip-file from GitFlic
  -> clicking the link under GitFlic
 </code>
-worked.
 
 Unzip it
 <code>
 cd ../../unzipped/
+make_bkup.py bypass-paywalls-chrome-clean-master
+rm -rf bypass-paywalls-chrome-clean-master
 unzip ../zipped/bypass_paywalls_clean/bypass-paywalls-chrome-clean-master.zip
 </code>
 
@@ -153,11 +148,10 @@ This will unzip everything into $software/unzipped/bypass-paywalls-chrome-clean-
  % pwd                                   
 /home/rajulocal/software/unZipped
 
- % ls bypass-paywalls-chrome-clean-master/
-allowlist/       changelog.txt              cs_local/  LICENSE.txt    README.md
-background.js    contentScript.js           custom/    manifest.json  sites.js
-bypass-dark.png  contentScript_once.js      lib/       options/       sites_updated.json
-bypass.png       contentScript_once_var.js  LICENSE    README.html    updates.xml
+$ ls bypass-paywalls-chrome-clean-master
+LICENSE      README.md      bypass-dark.png  contentScript.js           cs_local/  manifest.json  sites_updated.json
+LICENSE.txt  allowlist/     bypass.png       contentScript_once.js      custom/    options/       updates.xml
+README.html  background.js  changelog.txt    contentScript_once_var.js  lib/       sites.js
 </code>
 
 Load the extension
@@ -173,6 +167,7 @@ Notes:
   * On 2025-11-08, barrons.com did not work with 4.0.8.7. But it worked with 4.2.4.6.
   * On 2026-02-12, <nowiki>https://www.nytimes.com/2026/02/11/business/economy/january-jobs-report-revisions.html</nowiki> did not work with 4.0.7.2. But it worked with 4.3.0.5.
   * On 2026-02-13, some articles on online.wsj.com did not work with 4.2.7.2. But they worked with 4.3.0.6.
+  * On 2026-03-06, the latest available version is 4.3.2.3.
 
 ==== Install bypass paywalls clean ====
 Note: Asof 2025-11-08, https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean is not working. The work around is to use https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean instead. Instructions are in https://www.kamaraju.xyz/dk/chrome_notes#install_bypass_paywalls_chrome_clean_from_gitflicru . I am keeping these instructions for reference.

@@ -1,3 +1,93 @@
+==== see exception in the child process ====
+
+Note:- This is an adoptation of https://seasonofcode.com/posts/python-multiprocessing-and-exceptions.html for python2. The original article uses Python 3 and the code is a bit abstract. Here I present an example than can actually be run.
+
+One problem with the multiprocessing module is that exceptions in spawned child processes do not print stack traces.
+
+Consider the following:
+
+<code>
+# Adapted from https://seasonofcode.com/posts/python-multiprocessing-and-exceptions.html
+
+import multiprocessing
+
+def f(x):
+  return 1.0 / x
+
+if __name__ == '__main__':
+    pool = multiprocessing.Pool(5)
+    tasks = [pool.apply_async(f, (i,))
+             for i in range(5)]
+    [task.get() for task in tasks]
+</code>
+
+and the following error message:
+
+<code>
+Traceback (most recent call last):
+  File "trace_01.py", line 12, in <module>
+    [task.get() for task in tasks]
+  File "C:\ProgramData\Continuum\Anaconda\lib\multiprocessing\pool.py", line 567, in get
+    raise self._value
+ZeroDivisionError: float division by zero
+</code>
+
+using:
+
+<code>
+$python2 --version
+Python 2.7.13 :: Anaconda custom (64-bit)
+</code>
+
+It is not clear what triggered the ZeroDivisionError. We only see the stack trace of the main process but not the stack trace of the code that actually triggered the exception in the worker process.
+
+To fix this, catch the exception inside the worker process and print it.
+
+<code>
+# Adapted from https://seasonofcode.com/posts/python-multiprocessing-and-exceptions.html
+
+import multiprocessing
+import traceback
+
+def f(x):
+    try:
+        return 1.0 / x
+    except Exception as e:
+        print 'Caught exception in worker thread (x = %d):' % x
+
+        # This prints the type, value, and stack trace of the
+        # current exception being handled.
+        traceback.print_exc()
+
+        print
+        raise e
+
+if __name__ == '__main__':
+    pool = multiprocessing.Pool(5)
+    tasks = [pool.apply_async(f, (i,))
+             for i in range(5)]
+    [task.get() for task in tasks]
+</code>
+
+Running this will give:
+
+<code>
+Caught exception in worker thread (x = 0):
+Traceback (most recent call last):
+  File "H:\work\python\python2\multiprocessing_traceback\trace_02.py", line 8, in f
+    return 1.0 / x
+ZeroDivisionError: float division by zero
+
+Traceback (most recent call last):
+  File "trace_02.py", line 23, in <module>
+    [task.get() for task in tasks]
+  File "C:\ProgramData\Continuum\Anaconda\lib\multiprocessing\pool.py", line 567, in get
+    raise self._value
+ZeroDivisionError: float division by zero
+</code>
+
+which reveals the actual culprit.
+
 ==== using pool ====
 Goal: Run two functions in parallel. The second function should start irrespective of whether the first one finished or not.
 

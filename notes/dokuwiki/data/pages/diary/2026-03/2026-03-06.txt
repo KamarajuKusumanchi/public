@@ -1,0 +1,17 @@
+==== 2026-03-06 ====
+reading journal:
+  * https://www.barrons.com/articles/berkshire-ceo-abel-fond-of-this-metric-4e9132d1 - Berkshire CEO Abel Is Fond of Financial Metric Similar to One Criticized by Buffett
+    * Cash flow from operations is a valid measure that corporations produce in their financial statements, but it has problems.
+    * It is calculated by making a series of adjustments to net income, including adding back depreciation expense, as well as working capital adjustments. It doesn’t factor in capital expenditures, which are critical to the health of any business.
+    * Most companies focus on free cash flow, which adjusts cash flow from operations for capital expenditures, since free cash flow is what can be distributed to shareholders in dividends or used for stock repurchases.
+    * More relevant to investors would be Berkshire’s free cash flow both at the corporate and subsidiary level.
+    * Cash flow from operations is similar to ebidta (earnings before interest, taxes, depreciation and amortization).
+    * Ebitda, which is the main metric used in the private-equity world and for leveraged companies
+    * Ebitda is an earnings measure that adds back depreciation, which counts as an expense on a company’s income statement
+    * “Very few businesses can spend a whole lot less than depreciation year after year and maintain the economic strength of business,” Buffett said at one of Berkshire’s annual meetings. “I think Ebitda is a term that has cost a lot of investors a lot of money. To pretend that depreciation is not a real expense, that’s nonsense.”
+    * Buffett prefers free cash flow.
+
+  * https://www.barrons.com/articles/burlington-store-earnings-stock-b63edae5 - Berkshire Maven Bloomstran Says Stock Is Cheap Versus Intrinsic Value, Can Deliver 10%-Plus Returns
+    * Kara Raiguel, the CEO of Berkshire’s General Re insurance unit
+    * the likely lock to lead
+    * Joe Brandon, the former CEO of Alleghany

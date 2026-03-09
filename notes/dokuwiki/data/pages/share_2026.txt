@@ -1,4 +1,15 @@
 ===== 2026 =====
+==== 2026-03-08 ====
+  * https://x.com/HealthyFla/status/2022407323839353089 - Glyphosate levels in various breads.
+    * Good ones: (Pepperidge Farm's Farmhouse Hearty White), (Sara Lee's Artesano White)
+
+==== 2026-03-07 ====
+  * https://gregmankiw.blogspot.com/2011/02/moral-hazard.html - Moral Hazard
+  * https://www.wsj.com/lifestyle/workplace/ceos-say-ai-is-making-work-more-efficient-employees-tell-a-different-story-6613ce9d - CEOs Say AI Is Making Work More Efficient. Employees Tell a Different Story.
+  * https://x.com/davidmarcus/status/2018809762708873443 - David Marcus on the current status of PayPal.
+  * https://en.wikipedia.org/wiki/Triffin_dilemma - Triffin dilemma
+    * Any country whose currency is the global reserve currency will inevitably run a trade deficit.
+
 ==== 2026-02-19 ====
   * https://medicine.washu.edu/news/blood-test-clocks-predict-when-alzheimers-symptoms-will-start/?hl=en-US - Blood test “clocks” predict when Alzheimer’s symptoms will start
     * This is great news. Doctors can now predict when someone will develop Alzheimer's with a blood draw.
