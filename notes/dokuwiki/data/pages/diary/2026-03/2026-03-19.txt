@@ -1,0 +1,8 @@
+==== 2026-03-19 ====
+reading journal
+  * https://www.theguardian.com/technology/2026/mar/18/tesla-cybertruck-crashes-battery-fires - Inside the fiery, deadly crashes involving the Tesla Cybertruck - 2026-03-18
+    * Cybertruck
+      * sold 60,000 units and debuted just two years ago
+      * comes with high-density laminated windows that are harder to break than regular car windows, making escape and rescue difficult when doors won’t unlock
+      * is the first Tesla model to entirely eliminate door handles on the outside of the vehicle
+    * The article is a bit long. So I stopped reading after a while. Have to start reading from "Thermal runaway" section onwards.

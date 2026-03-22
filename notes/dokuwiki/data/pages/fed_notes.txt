@@ -27,6 +27,10 @@ tags | fed minutes
 
 ==== fred data ====
   * https://fred.stlouisfed.org/series/WALCL - Assets: Total Assets: Total Assets (Less Eliminations from Consolidation): Wednesday Level (WALCL)
+  * https://fred.stlouisfed.org/series/TOTBKCR - Bank Credit, All Commercial Banks
+    * TOTBKCR = TOTal BanK CRedit at all commercial banks in the US
+    * It measures the total credit extended by all US commercial banks
+    * Asof 2026-03-12, this value is ~\$19 trillion.
 
 ==== FedNow service ====
   * https://www.frbservices.org/financial-services/fednow/organizations - list of financial institutions that are currently live on the FedNow service.

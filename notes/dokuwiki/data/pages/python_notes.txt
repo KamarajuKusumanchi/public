@@ -268,6 +268,12 @@ $ find . -iname '*project_root*' -not -path "*/__pycache__/*"
 ./tests/src/nasdaq/project_root.py
 </code>
 
+==== get stack trace ====
+<code>
+import traceback
+traceback.print_stack()
+</code>
+
 ===== tasks =====
   * [[get urls in a url]]
   * [[find depth]]

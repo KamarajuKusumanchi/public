@@ -95,7 +95,7 @@ git clone https://github.com/gorhill/uBlock.git
 cd uBlock
 git checkout master
 
-conda activate py311
+conda activate py313
 make chromium
 </code>
 The package is created in dist/build/uBlock0.chromium

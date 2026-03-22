@@ -1,5 +1,21 @@
 
 
+==== 2026-03-17 ====
+  * https://www.youtube.com/watch?v=cfALJUSmzzk - From the FDA Vault: Radiating Shoe Sales
+
+==== 2026-03-15 ====
+TIL: A function is reentrant if it can be safely paused and restarted, or called simultaneously without corrupting data.
+
+Ref: [[https://en.wikipedia.org/wiki/Reentrancy_(computing)]] - Reentrancy (computing)
+
+==== 2026-03-13 ====
+TIL that there are two types of aircraft leases: wet-lease and dry-lease. 
+^ Wet lease ^ Dry lease ^
+| short term (1 - 24 months) | long term (> 2 years) |
+| lessor provides an aircraft, complete crew, maintenance, and insurance (ACMI) to the lessee | lessor just provides an aircraft |
+
+Ref:- https://en.wikipedia.org/wiki/Aircraft_lease
+
 ==== 2026-02-21 ====
 TIL that iptables is now outdated. It is recommended to use nftables instead.
 

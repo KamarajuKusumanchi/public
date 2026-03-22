@@ -1,5 +1,14 @@
 tags | stocks to watch for next month, companies I came across
 
+==== 2026-03-09 ====
+tracking the prices of the stocks on my radar
+  * BRK-B, \$494.16
+  * SMH, \$376.49
+  * ALGN, \$165.88
+  * TSM, \$334.78
+  * DECK, \$100.36
+  * BLK, \$928.93
+
 ==== 2026-03-06 ====
   * BLK
 

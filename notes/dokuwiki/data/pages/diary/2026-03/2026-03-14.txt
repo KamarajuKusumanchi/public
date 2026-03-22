@@ -1,0 +1,29 @@
+==== 2026-03-14 ====
+reading journal:
+  * https://www.barrons.com/articles/berkshire-hathaway-stock-buybacks-proxy-greg-abel-46ff16ac - Berkshire Bought Back \$225 Million of Stock on March 4, the Day It Resumed Buybacks
+    * Berkshire brought 309 Class A equivalent shares, valued at \$225 million on March 4
+    * So their average price for A share is <code>
+>>> round(225e6 / 309, 0)
+728155.0
+</code> and for B share is <code>
+>>> round(225e6 / (309*1500), 0)
+485.0
+</code>
+  * https://www.wsj.com/business/autos/driving-electric-vehicle-downsides-9e2b51ee - Things I Wish I’d Known Before Buying an EV
+    * By Christopher Mims; published: March 13, 2026
+    * 2024 Hyundai Ioniq 5
+    * bumpers are full of sensors
+    * my insurer, USAA
+    * mechanics weren’t EV certified
+    * the services firm Cox Automotive
+    * Mechanics must be certified to work safely around that high-voltage battery
+    * A typical car takes about five years to fall to 50% of its original value, but recently the value of some EVs had fallen 50% within two years.
+    * Hyundai slashed the price of the 2025 and 2026 models by around \$9,000
+    * A Better Routeplanner - the one app every EV owner should have
+      * Chargeway is a competitor
+    * five-minute charging now making its debut in China
+    * if you use a home charger along with a standard extension cord that isn’t designed to carry all those amps, you can overheat your outlet. I had to call an electrician to fix it.
+    * Some outlets on older homes can’t drive enough current even to trickle-charge an EV.
+    * Never having to huff your own engine exhaust is even better
+    * battery coolant need to be monitored on an EV
+    * if you have a lead foot, you might burn through tires faster

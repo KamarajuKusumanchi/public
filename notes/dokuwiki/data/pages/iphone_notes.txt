@@ -1,3 +1,19 @@
+===== configuration =====
+==== facebook app ====
+<code>
+Settings icon -> Settings > Account Settings > Videos and Photos ->
+    -> Video Settings -> Select Upload HD
+    -> Photo Settings -> Select Upload HD
+</code>
+
+==== Email ====
+Do not make sounds
+<code>
+Settings icon -> Notifications -> Email+
+    -> Sounds -> disable
+</code>
+
+===== dummy =====
 ==== restart iphone ====
   * https://support.apple.com/guide/iphone/force-restart-iphone-iph8903c3ee6/ios - Force restart iPhone
 
@@ -16,3 +32,10 @@
 </code>
 
 Ref:- https://lemire.me/blog/2020/12/22/in-2011-i-predicted-that-the-iphone-would-have-1tb-of-storage-in-2020/
+
+==== Things to figure out ====
+Q: How to attach a document stored in google drive via gmail using gmail.com website opened in safari?
+
+Solutions that do not work: If I try to email it from google drive, it opens the in-built mail app. But this is not what I want. I want to email it from gmail.com itself.
+
+Q: Is skype app for iPhone free? When I try to install the app via app store, it asks to "buy"? Why?

@@ -1,0 +1,8 @@
+==== custom notes ====
+  * When reading articles on the web, I make two types of notes - highlights, (custom notes, thoughts, analysis).
+  * I use "Super Simple Highlighter" extension of chrome to convert the highlights into bullet points.
+  * custom notes are prefixed with ':' to distinguish them from actual highlight.
+
+Example:
+  * Highlighted text from source
+  * : My custom note or analysis

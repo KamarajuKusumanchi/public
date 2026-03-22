@@ -1,0 +1,6 @@
+==== how to disable marketing messages from lyft in Android phone? ====
+today | 2026-03-17
+
+lyft app -> profile icon -> Account section -> Settings -> Safety section -> Privacy -> Notifications Preferences -> Discounts and News -> Off
+
+tested in version 2026.8.3.1772608845
