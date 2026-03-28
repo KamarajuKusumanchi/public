@@ -1,0 +1,6 @@
+==== 2026-03-25 ====
+reading journal:
+  * https://joeduffyblog.com/2006/02/07/threadsafety-torn-reads-and-the-like/ - Thread-safety, torn reads, and the like
+
+came across:
+  * https://github.com/IRS-Public - Open source repos of IRS

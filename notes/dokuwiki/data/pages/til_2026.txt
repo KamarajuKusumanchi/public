@@ -1,5 +1,8 @@
 
 
+==== 2026-03-21 ====
+  * TIL that the first word after a CLI program (like ''commit'' in ''git commit'') is called a subcommand.
+
 ==== 2026-03-17 ====
   * https://www.youtube.com/watch?v=cfALJUSmzzk - From the FDA Vault: Radiating Shoe Sales
 

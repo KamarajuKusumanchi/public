@@ -1,4 +1,14 @@
 ===== 2026 =====
+==== 2026-03-27 ====
+  * Per https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/ GitHub will train on your private repos unless you opt out by 2026-04-24. To opt out <WRAP>
+https://github.com/settings/copilot/features → scroll to the bottom → Privacy → Allow GitHub to use my data for AI model training → Disabled.
+</WRAP>
+
+==== 2026-03-21 ====
+  * https://ourworldindata.org/data-insights/argentina-was-one-of-the-richest-countries-in-the-world-at-the-beginning-of-the-20th-century - Argentina was one of the richest countries in the world at the beginning of the 20th century
+  * https://ourworldindata.org/data-insights/until-fifty-years-ago-argentina-was-richer-than-spain - Until fifty years ago, Argentina was richer than Spain
+  * https://typer.tiangolo.com/tutorial/ - A tutorial on Typer
+
 ==== 2026-03-16 ====
 I found this youtube channel useful 
   * https://www.youtube.com/@wgowshipping/videos - What's Going on With Shipping?

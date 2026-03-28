@@ -1,4 +1,11 @@
 ===== Configuration =====
+==== disable Focused Inbox ====
+Outlook is putting mails in Inbox into two different buckets - Focused, Other. This feature is called "Focused Inbox".
+
+asof | 2026-03-23, I do not like it. I missed some emails because of this. To disable it
+  - Go to "View" tab in the ribbon
+  - Click "Show Focused Inbox" to toggle it off
+
 ==== My Configuration ====
   * File -> Options -> Mail -> Other -> After moving or deleting an open item -> open the previous item -> ok
   * copy pasting related

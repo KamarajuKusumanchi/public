@@ -345,6 +345,7 @@
   * [[dyson notes]]
   * [[acrobat reader]]
   * [[lyft notes]]
+  * [[claude notes]]
 
 ==== by date ====
   * [[reading journal 2024]]

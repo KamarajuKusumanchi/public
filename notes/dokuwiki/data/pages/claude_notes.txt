@@ -1,0 +1,2 @@
+==== dummy ====
+  * asof 2026-03-21, the Claude desktop app is not available on Linux.

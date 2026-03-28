@@ -40,7 +40,10 @@ http://jsomers.net/ - contains all of his work.
   * Jonathan D. Rockoff and Michael Rothfeld at <nowiki>http://www.wsj.com/articles/biggest-valeant-holder-plumbed-philidor-ties-1447202547</nowiki> \\ Basically they wrote 1000+ article which can be summed up in one sentence - "Ruane, Cunniff & Goldfarb Inc., manager of Sequoia Fund Inc., and the biggest shareholder of Valeant is inquiring abut Ties between Valeant and Philidor". I find reading this type of articles a waste of time.
 
 ==== submarine ====
+  * Silla Brush, Michael MacKenzie, and Sridhar Natarajan write submarine and "soft sales pitch" articles for Blackrock. \\ See for example: <nowiki>https://www.bloomberg.com/news/articles/2026-03-24/blackrock-s-rieder-seeks-cash-for-hedge-fund-after-fed-race</nowiki>. \\ Ignore articles writen by them.
+
   * Silla Brush writes submarine articles for Blackrock. \\ See for example: <nowiki>https://www.bloomberg.com/news/articles/2022-01-14/blackrock-s-sustainable-investment-funds-surge-to-509-billion?srnd=markets-vp</nowiki> . \\ Ignore articles written by him/her.
+
   * Angel Au-Yeung writes submarine articles for Blackrock. \\ See for eaxmple: <nowiki>https://www.wsj.com/articles/this-powerful-blackrock-team-has-the-ear-of-governments-and-megabanks-11666235717?mod=hp_lead_pos10</nowiki> . \\ Ignore articles written by him/her.
 
 ==== sensational headlines ====

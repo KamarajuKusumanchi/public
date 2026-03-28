@@ -1,3 +1,9 @@
+==== pretty print json data ====
+You can use an online json formmater such as https://jsonformatter.org/ to pretty print json data.
+
+Use case:
+  * The json response from https://www.bloomberg.com/lineup-next/api/author/ARbTQlRLRjE/matthew-s-levine?pageNumber=3 is hard to read. I used the above website to pretty print it.
+
 ==== convert json to csv online ====
 
 https://konklone.io/json/

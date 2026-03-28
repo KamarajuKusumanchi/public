@@ -1,0 +1,28 @@
+==== 2026-03-24 ====
+reading journal:
+  * https://www.bloomberg.com/news/live-blog/2026-03-24/iran-war-trump-latest-news-updates-oil-markets?srnd=homepage-americas
+    * Gold reserves of Turkish central bank at start of March 2026 = \$135 bln.
+    * QatarEnergy declared force majeure on some of its gas contracts, saying it will take years to recover from March 2 Ras Laffan strike.
+    * the Al-Aqsa Mosque, the Western Wall and the Church of the Holy Sepulchre, which are sacred to Muslims, Jews and Christians, respectively
+    * The Gulf’s most powerful states -- Saudi Arabia and the United Arab Emirates
+    * a brigade combat team from the Army’s elite 82nd Airborne Division
+      * 3,000 soldiers
+  * https://www.wsj.com/tech/what-i-saw-inside-apples-effort-to-rebuild-the-u-s-chip-supply-chain-28fb65de - What I Saw Inside Apple’s U.S. Chip Supply Chain
+    * Apple does not make chips themselves, but design the most sophisticated ones
+    * The start of the supply chain is GlobalWafers America, in Sherman, Texas
+    * a good source of purified silicon rocks is sand in North Carolina
+    * The rocks are melted down at 2,500 degrees Fahrenheit to form perfect silicon “crystals” inside a 35-foot-tall machine called a crystal puller
+    * cylindrical ingots
+    * overhead transportation system that carries wafers from machine to machine
+    * overhead hoist transporter
+    * chip foundry like TSMC
+    * machines cost as much as \$400 million each
+    * Extreme ultraviolet lithography machines shoot lasers into molten tin to create EUV light, which doesn’t exist naturally on earth.
+    * a finished silicon wafer has a mirror-like surface
+    * TSMC acquired around 2,000 acres of land for a project that it says will cost \$165 billion
+    * TSMC’s Arizona plant makes Apple’s A16 chips, the logic chips that power the iPhone 15 and the entry-level iPad
+    * Nvidia’s Blackwell AI chips are made at TSMC Arizona as well
+    * FATP, short for final assembly, test and pack
+  * https://www.anthropic.com/news/statement-department-of-war - Statement from Dario Amodei on our discussions with the Department of War - 2026-02-26
+    * “supply chain risk” - a label reserved for US adversaries
+    * the Defense Production Act

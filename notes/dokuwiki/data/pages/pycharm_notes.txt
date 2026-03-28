@@ -346,3 +346,17 @@ C:\arrow\cpp\src\arrow\filesystem\s3fs.cc:3174:  arrow::fs::FinalizeS3 was not c
 Solution:
 
 Help -> Find Action -> search for Registry and click on "Registry..." -> use.winp.for.graceful.process.termination -> uncheck
+
+===== Tips =====
+
+==== block selection ====
+
+  * You can easily make column selection by dragging your mouse pointer while keeping the Alt key pressed.
+
+===== How can I =====
+
+==== show all unresolved references ====
+
+<code>
+Code -> Inspect Code
+</code>

@@ -25,6 +25,10 @@
   * Work with speed, skill, spirit and smile.
 
 ==== dummy ====
+  * "Whenever you have to make a rook move, and both rooks are available for said move, you should evaluate which rook to move and, once you have made up your mind, move the other one."
+    * by GM Savielly Tartakower
+    * He has many other chess witticisms. They can be found at https://en.wikipedia.org/wiki/Savielly_Tartakower#Quotations
+
   * Problems are only faced when they become painful.
   * We have two kinds of forecasters, the ones who don’t know and the ones who don’t know they don’t know.
     * by John Kenneth Galbraith

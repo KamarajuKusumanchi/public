@@ -1,4 +1,11 @@
 ==== dummy ====
+  * https://kids.kiddle.co/
+    * easy to read articles; kids friendly; family friendly
+    * The .co in their domain name stands for "children only"
+
+  * https://watchingamerica.com/
+    * They manually translate many foreign language news articles to English. A great way to find out what other countries think about the US.
+
   * https://search.worldcat.org/ - Find items in libraries near you
     * worldcat probably stands for "world catalogue"
     * sample links:

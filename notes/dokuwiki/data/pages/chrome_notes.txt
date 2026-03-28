@@ -122,6 +122,13 @@ mkdir -p bypass_paywalls_clean
 cd bypass_paywalls_clean
 </code>
 
+If necessary, backup the previous zip file
+<code>
+conda activate rutils
+make_bkup.py bypass-paywalls-chrome-clean-master.zip
+mv bypass-paywalls-chrome-clean-master.zip ~/.deleted_files
+</code>
+
 Download the zip file from https://gitflic.ru/project/magnolia1234/bpc_uploads/blob/raw?file=bypass-paywalls-chrome-clean-master.zip and put it in $software/zipped/bypass_paywalls_clean. This file is called bypass-paywalls-chrome-clean-master.zip
 <code>
 curl -L -o bypass-paywalls-chrome-clean-master.zip "https://gitflic.ru/project/magnolia1234/bpc_uploads/blob/raw?file=bypass-paywalls-chrome-clean-master.zip"
@@ -168,6 +175,7 @@ Notes:
   * On 2026-02-12, <nowiki>https://www.nytimes.com/2026/02/11/business/economy/january-jobs-report-revisions.html</nowiki> did not work with 4.0.7.2. But it worked with 4.3.0.5.
   * On 2026-02-13, some articles on online.wsj.com did not work with 4.2.7.2. But they worked with 4.3.0.6.
   * On 2026-03-06, the latest available version is 4.3.2.3.
+  * On 2026-03-24, the latest available version is 4.3.3.6. Some articles on online.wsj.com did not work with 4.3.2.3. But they worked with 4.3.3.6.
 
 ==== Install bypass paywalls clean ====
 Note: Asof 2025-11-08, https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean is not working. The work around is to use https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean instead. Instructions are in https://www.kamaraju.xyz/dk/chrome_notes#install_bypass_paywalls_chrome_clean_from_gitflicru . I am keeping these instructions for reference.
