@@ -1,3 +1,4 @@
+===== dummy =====
 ==== mount google drive on debian linux ====
 use rclone
   * https://ostechnix.com/how-to-mount-google-drive-locally-as-virtual-file-system-in-linux - shows how to mount google drive as a local folder. Well written, easy to understand and follow along.
@@ -8,3 +9,22 @@ today | 2025-03-30
   * After going into a folder, if I press ctrl-a, only the first 50 files are selected in the google drive. If the folder has 70 items, I have to scroll down to select the remaining 20 items. I think google drive is doing some kind of lazy load to optimize on performance. This behavior is unexpected and annoying.
   * FWIW, One drive does the same with a different default. It loads 100 files first and then you have to scroll past them and press ctrl-a to load the next 100 etc.,
 
+==== keyboard shortcuts ====
+  * Rename - Ctrl+Alt+e
+  * Make a copy - Ctrl+c Ctrl+v
+
+===== Google Sheets =====
+
+==== split view ====
+
+To make the first row always visible
+
+<code>
+View -> Freeze -> 1 row
+</code>
+
+Ref:- https://productforums.google.com/forum/#!msg/drive/Df0ECTe7DIo/_3f8qyVjA7gJ
+
+==== Missing features ====
+
+  * No ability to search within a specific folder. (last checked | 2015-01-28).

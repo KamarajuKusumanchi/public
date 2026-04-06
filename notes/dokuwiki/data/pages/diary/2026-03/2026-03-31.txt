@@ -1,0 +1,60 @@
+==== 2026-03-31 ====
+reading journal:
+  * https://www.barrons.com/articles/berkshire-could-repurchase-50-billion-stock-annually-f0597185 - Berkshire Could Repurchase Over \$50 Billion of Stock Annually Based on Recent Buy
+    * Berkshire
+      * market cap: ~\$1.1 trillion, annual earnings power: ~\$45 billion, cash reserves: ~$373 billion
+      * trades ~1.5 times 2025 book value
+    * Berkshire can buy nearly 25% of dollar volume based on Securities and Exchange Commission guidelines under rule 10b- 18
+    * During 2020 and 2021 Berkshire repurchased \$24.7 billion and \$27.1 billion of stock averaging about \$100 million a day, or about 8% of average daily dollar volume
+    * The stock was cheaper than it is now in 2020 and 2021, trading at closer to 1.2 to 1.3 times book value
+    * open-market buybacks with direct purchases from individual investors or institutions
+    * Berkshire did buy back around \$1 billion of stock in 2024 from Ruth Gottesman, the widow of longtime Berkshire director and Buffett friend David “Sandy” Gottesman, when she made a major donation. He died in 2022.
+    * The Gates foundation
+      * is the main current recipient of Buffett’s annual charitable donations
+      * sells the roughly \$5 billion of stock it gets from Buffett annually — apparently in the open market.
+
+  * https://www.barrons.com/articles/berkshire-hathaway-stock-pay-cash-b48c79f5 - Berkshire Hathaway’s Pay Structure Is Straight Out of the ’60s. That’s Good for the Stock.
+    * Buffett has controlled Berkshire since 1965
+    * financial games common in the software industry where stock comp — an expense under GAAP accounting — is added back to earnings in a dubious “adjusted” earnings calculation
+    * Berkshire’s board members get paid \$900 for an in-person meeting and \$300 for a phone meeting.
+    * investment manager Chris Davis
+    * Number of Berkshire shareholders ~3 million
+    * Berkshire doesn’t provide directors and officers insurance, meaning directors take financial risk being on the board
+    * Berkshire doesn’t use compensation consultants
+    * Charlie Munger once said he’d rather throw an “asp down my shirtfront” than hire a comp consultant.
+    * Longtime board member Susan Decker—she has served since 2007 — has the smallest stock ownership among the 13 directors at about \$1.5 million.
+    * entrenchment
+    * Warren Buffett’s Berkshire stake consists of about 196,000 Class A shares and a small amount of B stock. It amounts to a 13.7% economic stake and 30.2% voting interest
+
+  * https://www.barrons.com/articles/berkshire-energy-stock-occidental-chevron-9b1850ac - Berkshire’s Chevron, Occidental Stock Holdings Are Rallying. An ETF Would’ve Done Better.
+    * oil derrick
+    * Berkshire’s energy holdings make up more than 10% of its equity portfolio of more than $300 billion, a higher weighting than the 4% energy weight in the S&P 500.
+
+  * https://www.barrons.com/articles/berkshire-buffett-japan-tokio-marine-stake-715eedd4 - Berkshire Builds on Buffett’s Japan Legacy With \$1.8 Billion Tokio Marine Stake
+    * Berkshire Hathaway is taking a 2.5% stake in Tokio Marine Holdings, a leading Japanese property and casualty and life insurer
+    * Tokio Marine Holdings trades as TKOMY
+    * Tokio Marine is believed to be the largest P&C insurer in Japan with a market value of nearly \$70 billion and global operations.
+    * National Indemnity, the big reinsurance company owned by Berkshire
+    * a quota share agreement
+    * The company dates back to the late 19th century.
+    * Masahiro Koike, Group CEO of Tokio Marine
+    * Ajit Jain, the head of Berkshire’s insurance operations
+    * Berkshire also owns stakes of about 10% in five Japanese trading companies that were worth about \$35 billion at year-end 2025.
+
+  * https://www.barrons.com/articles/berkshire-tokio-marine-stock-stake-f9ae1e64 - Berkshire Takes a New Stake in an Insurer. It’s the ‘Crown Jewel’ of Japan.
+    * Tokio Marine Holdings
+      * one of the world’s best-run property and casualty insurers
+      * formed in 1879
+      * class of the Japanese non-life insurance market with the highest returns and price/book value among the three companies that dominate the property and casualty market in Japan—a business focused mostly on automobile and fire insurance.
+      * Berkshire agreed to take a 2.5% stake in it for about \$1.8 billion
+      * Its market value of \$80 billion is more than double that of No. 2 and 3 domestic players, MS&AD Insurance Group and Sompo Holdings, which both have market capitalizations under \$40 billion. The three companies control about 90% of the Japanese underwriting market.
+      * has the best returns among the three with a return on equity of about 20% and it trades for about twice book value, against closer to book for the other two companies. It amounts to the closest thing in Japan to Chubb, the well-run leader in the U.S. P&C market.
+    * Tokio Marine is a top 10 non-life insurer by market value globally behind companies such as Chubb, Progressive, and Allianz.
+      * cheaper based on earnings with a multiple of about 11 based on projected profits in the company’s fiscal year ending in March
+      * U.S. listed shares (TKMOY)
+    * Chris Davis, the chairman of the investment firm Davis Selected Advisors and a Berkshire board member
+      * grandfather, Shelby Cullom Davis, a hugely successful insurance investor, went to Japan in the late 1950s as a financial analyst, studied the insurance industry and “identified Tokio Marine and Fire as the absolute crown jewel.”
+      * Shelby Davis helped to bring the company public in the U.S. in the 1960s.
+    * major Japanese earthquake in 1923
+    * Tokio Marine has diversified away from Japan over the past decade or more and now gets about half its \$35 billion of annual premiums from outside the country.
+    * Tokio Marine has made several U.S. acquisitions

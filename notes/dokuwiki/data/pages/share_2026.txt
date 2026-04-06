@@ -1,4 +1,11 @@
 ===== 2026 =====
+==== 2026-04-03 ====
+  * Can't login into NJNG today (2026-04-05) due to maintenance.
+
+==== 2026-03-29 ====
+  * How to find Kentucky on the US map?
+    * https://mammothmemory.net/geography/usa/states-of-america/how-to-remember-where-the-american-states-are/i/kentucky.html - How to recognise Kentucky on a map
+
 ==== 2026-03-27 ====
   * Per https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/ GitHub will train on your private repos unless you opt out by 2026-04-24. To opt out <WRAP>
 https://github.com/settings/copilot/features → scroll to the bottom → Privacy → Allow GitHub to use my data for AI model training → Disabled.

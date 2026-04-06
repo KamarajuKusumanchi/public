@@ -1,0 +1,8 @@
+==== tickers ====
+<WRAP group><WRAP column>
+^ item ^ symbol ^
+| gold | GC |
+| silver | SI |
+| Oil - Light sweet crude | CL |
+| Oil - Brent crude | BZ |
+</WRAP></WRAP>

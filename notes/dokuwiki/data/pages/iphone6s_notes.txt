@@ -1,0 +1,2 @@
+==== disable password when phone is turned on ====
+Settings -> Touch ID & Passcode -> <Enter your passcode> -> Turn Passcode Off

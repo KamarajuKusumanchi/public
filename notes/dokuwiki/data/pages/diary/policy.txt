@@ -6,3 +6,8 @@
 Example:
   * Highlighted text from source
   * : My custom note or analysis
+
+==== note categories ====
+  * reading journal
+  * video journal
+  * flotsam - debris I picked up along the way, no commitment

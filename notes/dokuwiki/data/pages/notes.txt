@@ -83,6 +83,7 @@
   * [[localc notes]]
   * [[mastodon notes]]
   * [[iPhone notes]]
+  * [[iphone6s notes]]
   * [[phone notes]]
   * [[Samsung Galaxy S25 Edge]]
   * [[krusader notes]]
@@ -346,6 +347,7 @@
   * [[acrobat reader]]
   * [[lyft notes]]
   * [[claude notes]]
+  * [[futures]]
 
 ==== by date ====
   * [[reading journal 2024]]
