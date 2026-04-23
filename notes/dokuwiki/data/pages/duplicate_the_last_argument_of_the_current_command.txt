@@ -1,0 +1,102 @@
+==== Task ====
+
+The idea here is to duplicate the last argument of the current command in bash.
+
+==== manual method ====
+
+place the cursor at the end, type Ctrl-w to erase the last word, then type Ctrl-y twice to yank it.
+
+Ex:-
+
+<code>
+$ mv oldname _    # _ is your cursor
+</code>
+
+After typing Ctrl-w
+
+<code>
+$ mv _
+</code>
+
+After typing Ctrl-y twice
+
+<code>
+$ mv oldname oldname _
+</code>
+
+Now the second argument can be edited in place if needed.
+
+This solution works on anything that uses GNU readline.
+
+==== automation ====
+
+To automate it, add this line to ~/.inputrc
+
+<code>
+# Use Ctrl-t to copy the word before the cursor
+\C-T: " \C-W\C-Y\C-Y\b"
+</code>
+
+Reload with
+
+<code>
+$ bind -f ~/.inputrc
+</code>
+
+Now Ctrl-t does it:
+
+<code>
+$ mv oldname_
+</code>
+
+Hit Ctrl-t
+
+<code>
+$ mv oldname oldname_
+</code>
+
+Ref:-
+
+  * https://news.ycombinator.com/item?id=22861875 - All the credit goes to him. I just reformatted whatever he said.
+
+tags | copy the word before the cursor
+
+==== words with spaces ====
+
+The Ctrl-t shortcut will not work if the last argument has spaces in it. For example if we have
+
+<code>
+$ mv "old name"_
+</code>
+
+Hit Ctrl-t
+
+<code>
+$ mv "old name" name"_
+</code>
+
+In this case, use the manual method. Type as many Ctrl-w s as needed to gobble up the whole thing. Then regurgitate the entire thing twice with Ctrl-y Ctrl-y. All the consecutive Ctrl-w operations just add to the clipboard.
+
+For example
+
+<code>
+$ mv "old name"_
+</code>
+
+Hit Space Ctrl-w Ctrl-w Ctrl-y Ctrl-y Backspace
+
+<code>
+$ mv "old name" "old name"_
+</code>
+
+Another example
+
+<code>
+$ mv "first middle last"_
+</code>
+
+Hit Space Ctrl-w Ctrl-w Ctrl-w Ctrl-y Ctrl-y Backspace
+
+<code>
+$ mv "first middle last" "first middle last"
+</code>

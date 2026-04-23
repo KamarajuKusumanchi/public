@@ -1,4 +1,46 @@
 ===== Tips =====
+==== cut csv file by field names ====
+
+Use csvcut to cut a csv file by column names. The order of the columns in the output is as specified in the command.
+
+<code>
+% cat foo.csv 
+num,letter,word,color
+1,a,apple,red
+2,m,mango,yellow
+3,g,grapes,green
+4,p,pomegranate,red
+
+% csvcut -c word,letter foo.csv
+word,letter
+apple,a
+mango,m
+grapes,g
+pomegranate,p
+</code>
+
+Use -C to exclude some columns
+
+<code>
+% csvcut -C letter foo.csv     
+num,word,color
+1,apple,red
+2,mango,yellow
+3,grapes,green
+4,pomegranate,red
+
+% csvcut -C letter,color foo.csv
+num,word
+1,apple
+2,mango
+3,grapes
+4,pomegranate
+</code>
+
+csvcut is part of the python3-csvkit package.
+
+tags | cut by column names, cut by fields
+
 ==== Taking a screenshot ====
 Here are some ways
 

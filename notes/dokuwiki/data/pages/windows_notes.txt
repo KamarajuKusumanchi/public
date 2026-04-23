@@ -124,6 +124,12 @@ Ref:
 | task manager | Ctrl + Shift + Esc |
 </WRAP></WRAP>
 
+==== keyboard shortcuts to control windows ====
+  * Win + Down - if active window is maximized, make it normal sized. If active window is normal sized, minimize it.
+  * Win + Up - reverse of Win + Down
+  * Alt+Space n - minimize a window
+  * Alt+Space d - duplicate a window
+
 ==== search button in taskbar not working ====
 Symptom: The search button in the task bar does not respond to the keyboard.
 
@@ -312,6 +318,43 @@ To check when a machine was rebooted
 Task Manager (Ctrl + Shift + Esc) -> Performance tab -> select "CPU" -> "Up time" near the bottom left of the right-hand pane
 
 tested on | Windows 11 Home
+
+==== why did the system reboot? ====
+Situation:
+
+systeminfo shows that my laptop rebooted at
+<code>
+$ systeminfo | grep -i "boot time"
+System Boot Time:              2026-04-19, 6:21:37 AM
+</code>
+But I did not do that. Is there any way to figure out what caused this reboot?
+
+Solution:
+
+Use the "Event Viewer".
+
+Win + r -> eventvwr.msc -> Event Viewer (Local) -> Windows Logs -> System -> sort by "Date and Time" column by clicking on it -> look for events around 6:21 AM on 2026-04-19.
+
+In my case, I found an event with Event ID = 1074 at 2026-04-19 6:17:18 AM. Clicking on the event shows
+
+<code>
+The process C:\WINDOWS\uus\packages\preview\AMD64\MoUsoCoreWorker.exe (DESKTOP-CRLPVE5)
+has initiated the restart of computer DESKTOP-CRLPVE5 on behalf of user
+NT AUTHORITY\SYSTEM for the following reason: Operating System: Service pack (Planned)
+ Reason Code: 0x80020010
+ Shutdown Type: restart
+ Comment: 
+</code>
+
+So the reboot is caused by "Windows Update". Specifically:
+  * MoUsoCoreWorker.exe is the Windows Update orchestrator process
+  * NT AUTHORITY\SYSTEM means no human triggered it — Windows did it on its own
+  * "Operating System: Service pack (Planned)" means it installed a significant update
+  * Reason Code 0x80020010 confirms a planned update restart
+
+Ref:-
+  * https://claude.ai
+
 ===== batch script ====
 ==== batch file calling another batch file ====
 <code>
@@ -346,3 +389,23 @@ Display settings -> System -> "System > Display" -> select the number correspond
 
 ==== new apps opening on laptop even when lid is closed ====
 tags | ghost screen syndrome
+
+===== How do I =====
+==== check if a machine is physical or virtual ====
+
+Try one of the following commands in the CMD window
+
+<code>
+systeminfo | find "System Model"
+
+systeminfo | find "System Manufacturer"
+</code>
+
+For virtual machines, the output will be something like
+
+<code>
+System Model:              VMware Virtual Platform
+
+System Manufacturer:       VMware, Inc.
+</code>
+

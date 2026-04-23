@@ -70,13 +70,15 @@ tags | coming back after navigating to a function
 
 ==== folding ====
 
-  * Ctrl+NumPad Plus - Expand the current fold
-  * Ctrl+NumPad - - Close the current fold
-  * Ctrl+Shift+Plus - open closed folds
+  * Ctrl+Plus (or Ctrl+NumPad Plus) - Expand the current fold
+  * Ctrl+Shift+Plus (or Ctrl+Shift+NumPad Plus) - Expand all folds in the file
 
-Ref: https://www.jetbrains.com/help/pycharm/code-folding.html
+  * Ctrl+Minus (or Ctrl+NumPad Minus) - Collapse the current fold
+  * Ctrl+shift+Minus (or Ctrl+Shift+NumPad Minus) - Collapse all folds in the file
 
-tags | expand import stanza by keyboard
+  * Ctrl+Period - Toggle expand/collapse for the current fold
+
+tags | expand import stanza by keyboard, expand folded import statements
 
 ==== editing ====
 

@@ -44,3 +44,9 @@ In the MyBus system, 23551 stop is referred to as "U S RT 9 + TEXAS RD" and 2486
 
 ==== zone info ====
   * Stop of interest: "U S RT 9 & TEXAS RD"
+
+==== links I came across ====
+  * https://www.njtransit.com/children
+    * On Thursday, April 23, up to two children under the age of 18 can ride free on any NJ TRANSIT bus, train, or light rail with a fare-paying adult. No ticket is needed for children — this special one-day offer is valid on April 23 only.
+      * for | take your child to work
+

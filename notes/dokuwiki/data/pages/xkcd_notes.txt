@@ -1,4 +1,5 @@
 ==== funny xkcd cartoons I came across ====
+  * https://xkcd.com/1053/ - not everyone knows what you know
   * https://xkcd.com/149/ - sudo make me a sandwich
     * The author of sudo, Todd C. Miller, has this as his github profile icon (https://github.com/millert)
   * https://xkcd.com/477/ - Typewriter
@@ -11,7 +12,6 @@
   * https://xkcd.com/1827/ - survivorship bias
   * https://m.xkcd.com/1618/ - Cold Medicine
   * https://xkcd.com/803/ - airfoil
-  * https://xkcd.com/1053/ - not everyone knows what you know
   * https://xkcd.com/2347/ - dependency of modern digital infrastructure
 
 policy:

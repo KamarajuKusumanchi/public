@@ -1,0 +1,15 @@
+====== Copy page title and URL in Chrome ======
+ 
+===== Problem =====
+ 
+Pressing ctrl+c in Chrome's address bar only copies the URL but not the page title.
+ 
+===== Solution =====
+
+Create a bookmarklet: right-click the bookmarks bar -> "Add page…" -> Set the name to ''copy title and url'' -> clear the URL field and paste:
+ 
+<code javascript>
+javascript:navigator.clipboard.writeText(location.href+' - '+document.title)
+</code>
+ 
+Now you can click the bookmarklet on any page to copy both the title and URL to the clipboard.

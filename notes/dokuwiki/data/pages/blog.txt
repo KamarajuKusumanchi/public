@@ -1,6 +1,7 @@
 Note:- My old blog is in http://raju.shoutwiki.com/wiki/Blog . I plan to migrate the articles from there to here as time permits.
 
 ==== 2026 ====
+  * 2026-04-10 [[Copy url and page title in Chrome]]
   * 2026-01-22 [[Preprocess files before diffing them]]
 
 ==== 2025 ====
@@ -63,6 +64,8 @@ Note:- My old blog is in http://raju.shoutwiki.com/wiki/Blog . I plan to migrate
   * 2020-10-14 [[Configure ipython terminal prompts]]
 
   * 2020-07-05 [[Continue running already back grounded jobs]]
+
+  * 2020-05-12 [[Duplicate the last argument of the current command]]
 
   * 2020-04-14 [[Share facebook video whatsapp | Share a facebook video on whatsapp]]
 

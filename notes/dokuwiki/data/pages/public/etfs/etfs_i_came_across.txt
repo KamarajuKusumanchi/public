@@ -71,3 +71,8 @@ Policy:
   * VNJTX - Vanguard New Jersey Long-Term Tax-Exempt Fund Investor Shares
     * no federal or state taxes
     * for NJ residents only
+
+==== iShares Expanded Tech-Software Sector ETF ====
+  * IGV
+  * for P/E ratio check https://www.ishares.com/us/products/239771/ishares-north-american-techsoftware-etf.
+    * P/E asof 2026-04-20 is 34.42

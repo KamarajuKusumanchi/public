@@ -1,5 +1,18 @@
 
 
+==== 2026-04-14 ====
+TIL you can buy the trifold poster board for school projects from Dollar tree.
+
+==== 2026-04-09 ====
+TIL the Moon is slowly creeping away from Earth at about 1.5 inches per year due to tidal friction from our own oceans pulling it forward.
+
+Ref:- https://www.youtube.com/watch?v=akgGfeQ84WM
+
+==== 2026-04-08 ====
+  * TIL about prefix sum. \\ A prefix sum (also called a cumulative sum) is an array where each element at index i contains the sum of all elements from the start of the original array up to and including index i.
+
+Ref:- https://en.wikipedia.org/wiki/Prefix_sum
+
 ==== 2026-03-21 ====
   * TIL that the first word after a CLI program (like ''commit'' in ''git commit'') is called a subcommand.
 

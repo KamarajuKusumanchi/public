@@ -68,7 +68,41 @@ export PATH=/opt/software/rsync/usr/bin:$PATH
 
 Ref:-
   * http://repo.msys2.org/msys/x86_64/rsync-3.1.3-1-x86_64.pkg.tar.xz - old link; does not work anymore.
+
+==== configure zsh installed in a non standard directory ====
+
+Prerequisite: Install zsh into /opt/software/zsh by following [[Git_bash_notes#install_software_into_a_non_standard_directory|install software into a non standard directory]]
+
+Add this to ~/.bashrc so you can start zsh from bash shell
+
+<code>
+# For zsh
+export PATH=/opt/software/zsh/usr/bin:$PATH
+</code>
+
+Add this to ~/.zshenv
+
+<code>
+# Ref:- https://www.zsh.org/mla/users/2019/msg00125.html
+export MODULE_PATH=/opt/software/zsh/usr/lib/zsh/5.7.1:$MODULE_PATH
+# You should not export the $FPATH parameter. It is only needed by the
+# current shell process and not by any of its children.
+# Ref:- https://unix.stackexchange.com/a/33898/198064
+FPATH=/opt/software/zsh/usr/share/zsh/functions/Completion:$FPATH
+</code>
+
+Add this to ~/.zshrc
+
+<code>
+export PS1="%n@%m:%d $"
+</code>
+
 ===== dummy =====
+==== check windows version ====
+<code>
+systeminfo | grep "OS"
+</code>
+
 ==== invisible characters when copy pasting ====
 In git bash, whenever I copy paste, there is an extra character printed at the end or beginning. This character is not visible but it is there when shell tries to interpret the command.
 
@@ -185,3 +219,8 @@ cat <file> | clip
 The clip command just calls clip.exe from C:\Windows\System32\. Make sure you have clip.exe installed somewhere in your PATH.
 
 Ref: https://stackoverflow.com/questions/18880062/piping-output-from-git-bash-to-clipboard
+
+==== write clipboard contents to a file ====
+<code>
+cat /dev/clipboard > filename.txt
+</code>

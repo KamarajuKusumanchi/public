@@ -1,0 +1,10 @@
+==== 2026-04-06 ====
+Q: How much of Harvard endowment is allocated to public equities?
+
+A: 14%
+
+Source: https://finance.harvard.edu/sites/g/files/omnuum12671/files/2025-10/fy25-financial-report.pdf -> "Harvard Management Company" chapter on pg-12 -> table in the bottom right.
+
+Notes:
+  * https://finance.harvard.edu/sites/g/files/omnuum12671/files/2025-10/fy25-financial-report.pdf is the FY2025 Financial Report of Harvard University. You can navigate to it as follows:
+    * https://finance.harvard.edu/annual-report -> Archives -> Annual Financial Reports -> 2024-2025 

@@ -1,3 +1,22 @@
+==== go from current filename to ../data/foo.csv ====
+snippet:
+<code>
+from pathlib import Path
+
+current_file = Path(__file__).resolve()
+current_dir = current_file.parent
+
+target_path = current_dir / ".." / "data" / "foo.csv"
+
+# Resolve to get the absolute path
+target_path = target_path.resolve()
+</code>
+
+If you want a string out of the target path, do
+<code>
+str(target_path)
+</code>
+
 ==== join directory and file names ====
 Sample code snippet:
 

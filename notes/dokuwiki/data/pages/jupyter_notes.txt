@@ -34,6 +34,33 @@ Tested on a machine running Debian 11 (bullseye).
 ==== useful links ====
   * https://docs.jupyter.org/en/latest/ - Jupyter project documentation
   * https://github.com/jupyterlab/jupyterlab - source code of JupyterLab computational environment.
+  * To run python3 interpreter in jupyter - https://stackoverflow.com/questions/28831854/how-do-i-add-python3-kernel-to-jupyter-ipython
+  * writing a post save hook to automatically save notebooks in script format - https://stackoverflow.com/a/25765194/6305733
+
+==== launch jupyter notebook in the background ====
+
+machine | windows 10
+
+My script: https://github.com/KamarajuKusumanchi/rutils/blob/master/bin/jn.daemon
+
+Usage:
+
+<code>
+jn.daemon [start|stop|status] <root_dir>
+root_dir is optional. It is set to current directory by default.
+</code>
+
+underlying commands:
+
+  * To start the server <code>
+jupyter notebook > /dev/null 2>&1 &
+</code>
+
+  * To stop the servers <code>
+ps -W | grep "jupyter-notebook" | awk "{print \$1}" | xargs kill -f
+</code>
+
+See also: https://stackoverflow.com/questions/38118217/how-can-i-run-jupyter-notebook-in-background-on-windows
 
 ==== related pages in this wiki ====
   * [[Jupytext notes]]

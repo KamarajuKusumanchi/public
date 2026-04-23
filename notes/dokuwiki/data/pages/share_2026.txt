@@ -1,4 +1,16 @@
 ===== 2026 =====
+==== 2026-04-22 ====
+  * https://thefinancebuff.com/ai-better-answers-than-google.html - AI Gives Better Answers Than Google
+
+==== 2026-04-18 ====
+  * https://worksinprogress.co/issue/where-inflation-comes-from/ - Where inflation comes from
+    * author: Carola Conces Binder
+    * published: 2024-08-30
+    * : The article traces the history of various inflation metrics like CPI and PCE and their surprisingly large political and financial implications.
+
+==== 2026-04-11 ====
+  * The Artemis II crew traveled around 700 thousand miles and landed within less than a mile of their target. It is just amazing.
+
 ==== 2026-04-03 ====
   * Can't login into NJNG today (2026-04-05) due to maintenance.
 

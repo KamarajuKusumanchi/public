@@ -1,7 +1,5 @@
 ==== 2026-03-26 ====
 reading journal:
-  * https://en.wikipedia.org/wiki/Betteridge%27s_law_of_headlines - Betteridge's law of headlines
-    * "Any headline that ends in a question mark can be answered by the word no." The idea is that if the author was confident that the answer was yes, they would have presented it as an assertion; by presenting it as a question, they are not accountable for whether it is correct or not.
 
   * https://en.wikipedia.org/wiki/Base_rate_fallacy - Base rate fallacy
 

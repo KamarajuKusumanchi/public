@@ -1,0 +1,8 @@
+==== 2026-04-07 ====
+Q: What is the hottest planet in our solar system?
+
+A: Venus.
+
+Ref:
+From https://science.nasa.gov/venus/venus-facts/ - Venus Facts
+> Its thick atmosphere traps heat in a runaway greenhouse effect, making it the hottest planet in our solar system with surface temperatures hot enough to melt lead — about 872 degrees Fahrenheit (467 Celsius). And the atmospheric pressure at the surface is about 93 times what it is at sea level on Earth. 
