@@ -1,5 +1,33 @@
 
 
+
+==== 2026-05-15 ====
+TIL about Muffin tops and Love handles from https://en.wikipedia.org/wiki/Muffin_top and https://en.wikipedia.org/wiki/Love_handles
+
+==== 2026-05-14 ====
+TIL: Nescafe was invented by Swiss chemist Max Morgenthaler in 1937 and launched in Switzerland on April 1, 1938.
+
+Ref:
+  * https://kids.kiddle.co/Nescaf%C3%A9 - Nescafé Facts for Kids
+    * tells that it was launched in April 1, 1938.
+  * https://blog.nationalmuseum.ch/en/2018/10/history-of-coffee-the-invention-of-nescafe/ - Instant coffee without the pot
+    * tells that it was invented in 1937.
+
+==== 2026-05-12 ====
+TIL: The small intestine is 22 to 25 feet long, while the large intestine is roughly 5 feet long. Despite its name, the large intestine is actually much shorter --- it's called "large" because of its wider diameter, not its length.
+
+Ref:
+  * https://www.khanacademy.org/science/health-and-medicine/gastro-intestinal-system/gastrointestinal-intro/v/colon-rectum-anus - Colon, rectum, and anus
+  * https://www.britannica.com/science/large-intestine - large intestine
+
+==== 2026-05-06 ====
+TIL: Del Monte Foods, a canned fruits and vegetables company founded way back in 1886, filed for Chapter 11 bankruptcy on July 1, 2025 - 139 years after it was established.
+
+Ref: https://en.wikipedia.org/wiki/Del_Monte_Foods
+
+==== 2026-04-24 ====
+TIL the World Wide Web was invented at CERN to literally help particle physicists share data. So the most transformative technology of the late 20th century was essentially a side project born out of fundamental research.
+
 ==== 2026-04-14 ====
 TIL you can buy the trifold poster board for school projects from Dollar tree.
 
@@ -25,10 +53,12 @@ TIL: A function is reentrant if it can be safely paused and restarted, or called
 Ref: [[https://en.wikipedia.org/wiki/Reentrancy_(computing)]] - Reentrancy (computing)
 
 ==== 2026-03-13 ====
-TIL that there are two types of aircraft leases: wet-lease and dry-lease. 
+TIL that there are two types of aircraft leases: wet-lease and dry-lease.
+<WRAP group><WRAP column>
 ^ Wet lease ^ Dry lease ^
 | short term (1 - 24 months) | long term (> 2 years) |
 | lessor provides an aircraft, complete crew, maintenance, and insurance (ACMI) to the lessee | lessor just provides an aircraft |
+</WRAP></WRAP>
 
 Ref:- https://en.wikipedia.org/wiki/Aircraft_lease
 

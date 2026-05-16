@@ -1,0 +1,19 @@
+==== 2026-04-30 ====
+reading journal:
+  * https://www.barrons.com/articles/warren-buffett-berkshire-hathaway-tokio-marine-stock-5d38c690 - Warren Buffett Wins Again. Berkshire’s Investment in Tokio Marine Is Up 35%.
+    * Tokio Marine’s U.S.-listed shares (TKOMY)
+    * Tokio Marine is the largest nonlife insurer in Japan
+  * https://www.barrons.com/articles/berkshire-hathaway-stock-price-losing-streak-buy-c67a501f - Berkshire Hathaway Stock Drops for 8 Days. Is It a Good Time to Buy?
+    * an “anti-fragile” stock, borrowing a phrase from author Nassim Taleb
+  * https://www.barrons.com/articles/warren-buffett-berkshire-hathaway-buy-stock-market-392bb85b - Warren Buffett Sees Little to Buy in the Stock Market After Drop This Year
+    * Mark Millard
+      * Berkshire's longtime trading manager
+      * handles the stock and bond trading at Berkshire
+      * has been at Berkshire for at least 30 years
+  * https://www.barrons.com/articles/berkshire-hathaway-stocks-sale-todd-combs-greg-abel-531ff5e0 - Berkshire May Have Sold \$15 Billion of Stocks Run by Former Manager
+    * kidney dialysis provider DaVita
+    * investment manager Lou Simpson after he departed from Berkshire about 15 years
+
+websites I came across:
+  * https://fiscaldata.treasury.gov/americas-finance-guide/national-debt/ - Understanding the National Debt
+    * The debt to GDP of US is 124% at the end of 2025.

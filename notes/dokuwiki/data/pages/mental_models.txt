@@ -1,4 +1,13 @@
 ==== dummy ====
+tags | analogies
+==== socialization ====
+Socialization requires skills... you need to be more like Carbon than Argon.
+
+Carbon will form bonds with anyone it finds... oxygen, hydrogen, nitrogen... you name it. It builds long chains that are life of the party.
+
+Argon just stands in the corner and does nothing. It does not know how to bond with others and vice versa.
+
+If you want to socialize, just don't be picky and vice versa.
 
 ==== gold ====
 If investing in sp500 is like cooking in the kitchen, investing in gold is like storing the veggies in the refrigerator. Each has its own use cases. But in the long term, cooking is probably more profitable than storage.
@@ -11,4 +20,4 @@ Staying in cash OTOH is like leaving the veggies on the counter. Inflation will 
   * trust arrives on foot, but leaves on horseback
 
 ==== AI ====
-  * It is like a co-worker that I can bug all the time!
+  * Claude is like an intelligent co-worker that I can bug all the time!

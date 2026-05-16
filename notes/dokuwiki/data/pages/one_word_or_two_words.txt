@@ -3,3 +3,8 @@
 | screenshot | Y | N | https://dictionary.cambridge.org/us/dictionary/english/screenshot |
 | trash bag | N | Y | https://dictionary.cambridge.org/us/dictionary/english/trash-bag |
 | wildfire | Y | N | https://dictionary.cambridge.org/us/dictionary/english/wildfire |
+| metadata | Y | N | @claude |
+| lookup / look up | Y | Y | @claude <WRAP>
+  * Two words ("look up") when used as a verb --- "I want to look up a book."
+  * One word ("lookup") when used as a noun or adjective --- "a lookup table", "a metadata lookup tool."
+</WRAP> |

@@ -1,3 +1,12 @@
+==== 2026-05-15 ====
+  * A page that shows a random TIL from https://www.kamaraju.xyz/dk/til_2026
+    * May be you can use the fortune file format?
+    * Can you do it with dokuwiki?
+
+==== 2026-05-08 ====
+  * Google like search engine that only shows results from non paywalled websites.
+    * Example: I was searching for "What is the difference between crystalline lysine and normal lysine?" in google.com . One of the results is https://study.com/academy/lesson/what-is-lysine-structure-uses-quiz.html . But half way through the video, the site asks you to register. That is very annoying. Instead, the new search engine should give results of free and high quality websites such as http://khanacademy.org .
+
 ==== 2024-01-17 ====
   * Develop a program that automatically summarizes and sends the minutes of every webex call
     * Currently, I prepare the minutes of some meetings and this process is manual. Can a AI do this efficiently?

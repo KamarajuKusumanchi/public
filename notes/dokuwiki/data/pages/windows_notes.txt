@@ -355,6 +355,14 @@ So the reboot is caused by "Windows Update". Specifically:
 Ref:-
   * https://claude.ai
 
+==== make an application show up in Windows search ====
+To make an application that is installed in a non standard directory show up in Windows search, do
+
+  * Locate the .exe file
+  * Right click on it and select "Create shortcut"
+  * Move the shortcut to: %appdata%\Microsoft\Windows\Start Menu\Programs
+  * (optional) Rename the shortcut to the app name (ex:- "zim.exe - Shortcut" to "zim.exe")
+
 ===== batch script ====
 ==== batch file calling another batch file ====
 <code>

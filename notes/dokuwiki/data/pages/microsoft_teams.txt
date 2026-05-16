@@ -26,3 +26,18 @@ tags | Read by option
 read receipts in group chats are limited to groups with less than or equal to 20 members.
 
 Ref:- https://support.microsoft.com/en-us/office/use-read-receipts-for-messages-in-microsoft-teams-533f2334-32ef-424b-8d56-ed30e019f856
+
+===== wip =====
+
+==== prevent teams from starting automatically ====
+asof | 2026-05-11
+
+To prevent teams from starting automatically when logging in for the first time, I did
+
+<code>
+Right click on the Taskbar -> Task Manager -> Startup apps
+--> right click on Microsoft Teams -> Disable
+--> right click on ms-teams.exe -> Disable
+</code>
+
+But it is still starting upon startup. Look into this later.

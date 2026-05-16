@@ -1,6 +1,7 @@
 Note:- My old blog is in http://raju.shoutwiki.com/wiki/Blog . I plan to migrate the articles from there to here as time permits.
 
 ==== 2026 ====
+  * 2026-05-10 [[Look up book meta data using Open Library API]]
   * 2026-04-10 [[Copy url and page title in Chrome]]
   * 2026-01-22 [[Preprocess files before diffing them]]
 

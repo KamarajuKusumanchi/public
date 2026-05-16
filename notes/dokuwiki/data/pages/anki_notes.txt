@@ -1,4 +1,35 @@
 ===== dummy =====
+
+==== ankidroid.A and ankidroid.B setup ====
+tags | ankidroid A, ankidroid B
+
+Open AnkiDroid.A app -> Settings -> Advanced -> set AnkiDroid directory to /storage/emulated/0/AnkiDroid.A
+
+Open AnkiDroid.B app -> Settings -> Advanced -> set AnkiDroid directory to /storage/emulated/0/AnkiDroid.B
+
+Optional:
+
+Delete any files in stored in the default directory /storage/emulated/0/AnkiDroid
+
+Open the file manager -> Internal storage -> delete the AnkiDroid folder.
+
+Ref:
+  * https://github.com/ankidroid/Anki-Android/wiki/FAQ#how-to-use-different-anki-profiles
+    * > you can achieve a similar effect by installing several parallel versions of AnkiDroid besides the normal AnkiDroid and ''setting a unique collection path in each one''
+  * https://github.com/ankidroid/Anki-Android/releases
+    * > Parallel builds install side-by-side with the main APK, allowing you to use different settings and profiles (''via the AnkiDroid directory advanced setting and a different AnkiWeb login'').
+
+==== anki remote ====
+  * https://ankiweb.net/shared/info/1544884645
+    * show how the buttons are mapped
+  * https://www.amazon.com/dp/B0FKNF4GG3
+    * Remote for Anki by Scope Remote
+    * purchased on 2026-05-02
+    * started using it from 2026-05-05 onwards
+    * review: simply superb, incredibly useful to review anki cards, worked right off the bat.
+    * Use X button to flip the card, A button to mark it as easy, B button to mark it as again.
+
+
 ==== decks I came across ====
   * https://github.com/anki-geo/ultimate-geography - ultimate-geography
 
@@ -54,6 +85,7 @@ tags | plugins
 
 ==== my anki flash card collection ====
   * https://github.com/KamarajuKusumanchi/public_anki_deck
+
 
 ===== trouble shooting =====
 ==== AnkiDroid directory is inaccessible ====

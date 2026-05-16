@@ -1,4 +1,7 @@
 ==== dummy ====
+  * https://tally.so/ - Tally
+    * Camp Speers retreat used this to create disclaimer forms.
+
   * https://kids.kiddle.co/
     * easy to read articles; kids friendly; family friendly
     * The .co in their domain name stands for "children only"

@@ -9,6 +9,7 @@
 
 ===== dummy =====
 ==== pages ====
+  * [[kids friendly websites]]
   * [[book reading tracker]]
   * [[youtube watch list]]
   * [[foo bar baz]]

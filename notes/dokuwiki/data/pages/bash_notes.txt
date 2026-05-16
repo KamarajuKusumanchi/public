@@ -7,6 +7,21 @@
   * [[bash scripting]]
   * [[shell scripting notes]]
 
+==== incremental history searching with inputrc ====
+You can make the Up arrow in bash only show history entries that start with what you've already typed.
+
+Add this to ~/.inputrc :
+
+<code>
+# Use Up/Down arrows to search history based on what's already typed
+"\e[A": history-search-backward
+"\e[B": history-search-forward
+</code>
+
+Type ssh and hit Up --- you'll only cycle through previous ssh commands instead of your entire history.
+
+Ref:- https://codeinthehole.com/tips/the-most-important-command-line-tip-incremental-history-searching-with-inputrc/ - The most important command-line tip - incremental history searching with .inputrc
+
 ==== useful links ====
   * https://explainshell.com/ - useful for understanding complex shell commands
   * https://mywiki.wooledge.org/ArithmeticExpression - Arithmetic Expansion

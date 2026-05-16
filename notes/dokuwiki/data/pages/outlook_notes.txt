@@ -19,7 +19,7 @@ File -> Options -> Mail -> Compose Messages -> Click "Editor Options"
   * View -> Show as Conversations -> check the box -> All Folders
   * View -> Conversation Settings -> Always Expand Conversations -> Check
 ==== Threaded display in Outlook 365 ====
-click on a folder -> View tab
+click on a folder -> View tab -> Current View
 <code>
   -> Select "Show as Conversations"
   -> In "Conversation Settings" -> select "Use Classic Indented View"

@@ -1,2 +1,7 @@
 ==== hedge funds ====
   * http://kerneltradingtech.com/#careers -> [software engineer, data engineer, quantitative researcher]
+
+==== brokerage firms ====
+  * Interactive Brokers
+    * https://job-boards.greenhouse.io/ibkr?offices%5B%5D=4014255002 - jobs in New York
+    * https://job-boards.greenhouse.io/ibkr?offices%5B%5D=4014195002 - jobs in Greenwich, CT

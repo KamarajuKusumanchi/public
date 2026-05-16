@@ -1,3 +1,6 @@
+==== compact layout with minimal ads ====
+  * https://text.npr.org/1001 - News
+
 ==== Alternatives to Barrons ====
   * Investopedia
     * Market news - https://www.investopedia.com/markets-news-4427704

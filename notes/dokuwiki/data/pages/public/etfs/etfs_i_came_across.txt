@@ -58,6 +58,16 @@ Policy:
   * ProShares S&P 500 Dividend Aristocrats ETF (NOBL)
 \\
   * YieldMax Target 12 Big 50 Option Income ETF (BIGY)
+\\
+  * Vanguard Morningstar Total Stock Market ETF (VTI)
+  * Vanguard Morningstar Large-Cap ETF (VV)
+  * Vanguard Morningstar Value ETF (VTV)
+  * Vanguard Morningstar Small-Cap Value ETF (VBR)
+\\
+  * Fidelity ZERO Total Market Index Fund (FZROX) tracks the Fidelity U.S. Total Investable Market Index.
+  * Fidelity ZERO Large Cap Index Fund (FNILX) tracks the Fidelity U.S. Large Cap Index.
+  * Fidelity ZERO Extended Market Index Fund (FZIPX) tracks the Fidelity U.S. Extended Market Index.
+  * Fidelity ZERO International Index Fund (FZILX) tracks the Fidelity Global ex U.S. Index.
 
 ==== home builders and related industries ====
   * XHB - SPDR S&P Homebuilders ETF

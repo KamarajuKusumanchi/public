@@ -1,4 +1,17 @@
 ===== 2026 =====
+
+==== 2026-05-15 ====
+  * https://www.nytimes.com/2026/04/25/your-money/fidelity-investments-fraud-alert.html - How a Systems Glitch at Fidelity Caused One Woman’s Savings to Disappear
+
+==== 2026-05-06 ====
+  * PSA for Anki users... this remote is really handy. \\ https://www.amazon.com/dp/B0FKNF4GG3?th=1
+
+==== 2026-05-05 ====
+  * https://news.sap.com/2026/05/sap-to-acquire-dremio-unify-sap-and-non-sap-data-power-agentic-ai/ - SAP to Acquire Dremio to Unify SAP and Non-SAP Data to Power Agentic AI
+
+==== 2026-05-01 ====
+  * https://www.finra.org/investors/insights/intraday-margin-requirements - Understanding the New Intraday Margin Requirements
+
 ==== 2026-04-22 ====
   * https://thefinancebuff.com/ai-better-answers-than-google.html - AI Gives Better Answers Than Google
 
