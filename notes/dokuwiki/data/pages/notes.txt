@@ -281,6 +281,10 @@
   * [[gcd notes]]
   * [[linkedin notes]]
   * [[pe ratio]]
+  * [[products]]
+  * [[services]]
+  * [[sort_001]]
+  * [[dummies]]
   * [[DTCC notes]]
   * [[laptop notes]]
   * [[LG gram Pro 16 inch 2-in-1]]
@@ -348,6 +352,8 @@
   * [[lyft notes]]
   * [[claude notes]]
   * [[futures]]
+  * [[nasdaq data]]
+  * [[pdf readers]]
 
 ==== by date ====
   * [[reading journal 2024]]
@@ -372,9 +378,4 @@
 
 Policy:- sort by (type, year descending)
 
-==== have to sort ====
-  * [[products]]
-  * [[services]]
-  * [[sort_001]]
-  * [[dummies]]
 

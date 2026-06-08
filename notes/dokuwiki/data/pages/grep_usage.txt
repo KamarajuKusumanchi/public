@@ -3,7 +3,8 @@
   * [[grep on find results]]
 
 ==== wordscapes ====
-tags | word scape, wordscape
+tags | word scape, wordscape, wordle
+
 <code>
 % grep -i "^[slev][slev][slev][slev]s$" /usr/share/dict/american-english 
 elves

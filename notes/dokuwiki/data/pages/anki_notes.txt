@@ -21,7 +21,7 @@ Ref:
 
 ==== anki remote ====
   * https://ankiweb.net/shared/info/1544884645
-    * show how the buttons are mapped
+    * shows how the buttons are mapped
   * https://www.amazon.com/dp/B0FKNF4GG3
     * Remote for Anki by Scope Remote
     * purchased on 2026-05-02
@@ -31,6 +31,7 @@ Ref:
 
 
 ==== decks I came across ====
+  * https://ankiweb.net/shared/info/1394656023 - Python programming from Brian Spiering
   * https://github.com/anki-geo/ultimate-geography - ultimate-geography
 
 ==== urls I came across ====

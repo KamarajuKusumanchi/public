@@ -1,5 +1,22 @@
 tags | stocks to watch for next month, companies I came across
 
+==== 2026-06-07 ====
+  * GNTX, V, MCO, VEEV
+
+==== 2026-06-01 ====
+  * COST
+  * WSE
+
+==== 2026-05-19 ====
+  * AMR - Alpha Metallurgical Resources Inc
+    * mentioned by Mohnish Pabrai
+  * CNSWF - ADR of Constellation Software Inc.
+  * WMT
+
+==== 2026-05-17 ====
+  * Markel
+    * trading at P/B of 1.2 as per https://www.barrons.com/articles/buy-markel-stock-price-pick-8c6287fe
+
 ==== 2026-04-21 ====
   * IGV
   * CB

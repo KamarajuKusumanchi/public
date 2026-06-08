@@ -1,0 +1,14 @@
+==== download stocks data using curl ====
+
+<code>
+curl -o stocks.csv "https://api.nasdaq.com/api/screener/stocks?download=true" -H "User-Agent: Mozilla/5.0"
+curl -o nyse_stocks.csv "https://api.nasdaq.com/api/screener/stocks?exchange=nyse&download=true" -H "User-Agent: Mozilla/5.0"
+curl -o nasdaq_stocks.csv "https://api.nasdaq.com/api/screener/stocks?exchange=nasdaq&download=true" -H "User-Agent: Mozilla/5.0"
+curl -o amex_stocks.csv "https://api.nasdaq.com/api/screener/stocks?exchange=amex&download=true" -H "User-Agent: Mozilla/5.0"
+</code>
+
+The -H "User-Agent: Mozilla/5.0" header is necessary because the NASDAQ API blocks requests without a browser-like user agent.
+
+Notes:
+  * exchange= — filters by exchange. Known values: nyse, nasdaq, amex
+  * download=true — returns the full dataset as a CSV instead of paginated JSON

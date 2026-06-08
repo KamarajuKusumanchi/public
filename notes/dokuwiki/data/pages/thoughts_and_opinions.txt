@@ -1,3 +1,13 @@
+Why:
+  * Articulating about thoughts and opinions helps me understand my biases better.
+  * Sometimes I am right and some times I could be wrong.
+  * If you have changed opinion on something, delete the old dated entry and move it to a new dated entry.
+
+===== by date =====
+==== 2026-05-19 ====
+  * Companies like Tesla and instagram are winning because they are somewhat protected by the government through regulations favoring them.
+
+===== by topic =====
 ==== investing in private companies ====
   * I prefer to invest in something that is already up and running + profitable instead of a new venture.
   * Think twice before investing in a partnership with others since

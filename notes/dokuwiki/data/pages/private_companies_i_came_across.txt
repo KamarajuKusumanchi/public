@@ -5,3 +5,10 @@
   * JAB Holding Company
     * https://en.wikipedia.org/wiki/JAB_Holding_Company
     * They own Panera Bread
+  * Capitolis
+    * https://capitolis.com/
+    * a fintech company
+    * runs a marketplace that connects banks with institutional investors
+    * runs optimization software that helps banks clean up and reduce their trading books — essentially canceling out offsetting trades across multiple banks simultaneously, freeing up capital and reducing risk
+    * backed by Andreessen Horowitz, Sequoia, JPMorgan and Citi
+

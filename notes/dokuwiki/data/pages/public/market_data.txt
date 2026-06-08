@@ -1,3 +1,11 @@
+==== company tickers ====
+  * https://www.sec.gov/files/company_tickers.json
+    * Is the list sorted by market cap?
+    * found this link in https://www.sec.gov/file/company-tickers
+
+  * https://www.sec.gov/files/company_tickers_exchange.json
+    * found this link in https://www.kaggle.com/datasets/svendaj/sec-edgar-cik-ticker-exchange
+
 ==== trading economics ====
   * [[:trading economics]]
 

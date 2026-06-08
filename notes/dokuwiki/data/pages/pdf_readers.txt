@@ -1,0 +1,8 @@
+==== why not Adobe Acrobat Reader ====
+  * Say I open a file for reading -> make some annotations -> and press ctrl-s, the file does not get saved automatically. Instead a dialog opens on where to save a file etc., Many many clicks are required to just save a file.
+    * Solution: Use Okular instead. It does not have this problem.
+
+==== why okular ====
+  * You can save a file by simply doing ctrl-s. This is not possible with Adobe Acrobat Reader.
+  * Works in both Windows and Linux.
+  * Can annotate text easily.

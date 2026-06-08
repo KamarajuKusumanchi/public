@@ -1,0 +1,4 @@
+==== 2026-05-28 ====
+reading journal:
+  * https://simonwillison.net/2026/May/27/product-market-fit/ - I think Anthropic and OpenAI have found product-market fit
+    * The best advice I ever heard on pricing a product was that your customer should suck air through their teeth and then say yes.

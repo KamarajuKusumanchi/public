@@ -1,5 +1,13 @@
 ===== 2026 =====
 
+==== 2026-06-01 ====
+  * https://text.npr.org/nx-s1-5827041 - A cancer vaccine made just for you. mRNA is back and it's fighting melanoma
+    * : Melanoma is a type of skin cancer. Typically, doctors perform surgery to remove the tumor and then give a drug called Keytruda. But it often comes back. Out of every 100 people, about 51 would see it return in 5 years. Scientists at Moderna created a new vaccine that is customized to each person based on their tumor. With Keytruda and the new vaccine, only 31 out of 100 people saw their cancer come back instead of 51.
+
+
+==== 2026-05-19 ====
+  * https://simonwillison.net/2026/May/19/5-minute-llms/ - The last six months in LLMs in five minutes
+
 ==== 2026-05-15 ====
   * https://www.nytimes.com/2026/04/25/your-money/fidelity-investments-fraud-alert.html - How a Systems Glitch at Fidelity Caused One Woman’s Savings to Disappear
 

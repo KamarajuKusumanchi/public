@@ -1,10 +1,34 @@
 ==== Policy ====
 Policy:
-  * Once you finish reading the book, move the entry to goodreads.
+  * Once you finish reading the book
+    * move the book details to the running_notes repo
+    * update goodreads
   * sort order: Latest read book comes first.
 
 Why:
   * Both Goodreads and Storygraph assume that books are read from beginning to end. But I tend to read them non linearly, couple of pages here and there. This is my naive way to keep track of the progress.
+
+==== The Little Book That Builds Wealth ====
+  * Title       : The Little Book That Builds Wealth: Morningstar's Knock-out Formula for Finding Great Investments
+  * Author(s)   : Pat Dorsey
+  * Publisher   : Wiley
+  * Year        : 2008
+  * Pages       : 224 (this edition)
+  * ISBN-13     : 9780470226513
+  * Subjects    : Investments, Stocks, Investment analysis
+  * Edition URL : https://openlibrary.org/books/OL10295133M
+  * Work URL    : https://openlibrary.org/works/OL5817115W
+  * Amazon      : https://www.amazon.com/s?k=9780470226513
+  * The PDF I am using has 223 pages.
+  * I will be using the page numbers in the book (and not pdf) to track progress.
+
+<WRAP group><WRAP column>
+^ date ^ pages ^ overall progress ^ notes ^
+| 2026-06-06  9:33 am | [C1-C3], [i-x] | [C1-C3], [i-x] | |
+| 2026-06-07 12:19 am | [xi-xx], [1-6] | [C1-C3], [i-xx], [1-6] | |
+| 2026-06-07  2:00 am | [7-14] | [C1-C3], [i-xx], [1-14] | |
+| 2026-06-07  7:55 am | [15-28] | [C1-C3], [i-xx], [1-28] | |
+</WRAP></WRAP>
 
 ==== The Medicine Book ====
 Book details:

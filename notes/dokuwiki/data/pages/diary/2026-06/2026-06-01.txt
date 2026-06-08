@@ -1,0 +1,41 @@
+==== 2026-06-01 ====
+reading journal:
+  * https://text.npr.org/nx-s1-5827041 - A cancer vaccine made just for you. mRNA is back and it's fighting melanoma
+    * a dermatologist and skin cancer surgeon
+    * neoantigens
+    * Merck, the maker of pembrolizumab, which is marketed under the trade name Keytruda
+
+  * https://www.wsj.com/tech/ai/google-seeks-to-raise-80-billion-for-ai-infrastructure-05a379be - Google Seeks to Raise \$80 Billion for AI Infrastructure
+    * It will sell \$10 billion of stock to Berkshire Hathaway
+
+  * https://www.sec.gov/Archives/edgar/data/1652044/000119312526251733/d160205dfwp.htm - Alphabet Announces Proposed \$80 Billion Equity Capital Raise to Expand AI Infrastructure and Compute
+    * Alphabet has reached an agreement to sell \$10 billion of stock to Berkshire Hathaway Inc. in a private placement, comprised of \$5 billion in Class A Common Stock at a price of \$351.81 per share and \$5 billion in Class C Capital Stock at a price of \$348.20 per share.
+    * : asof 2026-06-01, GOOGL (Google Class A share) closing price was \$376.37, GOOG (Google Class C share) closing price was \$372.58 .
+    * : So, Berkshire got it at a discount of 6.5%
+
+  * FWP = Free Writing Prospectus
+
+  * https://www.barrons.com/articles/berkshire-hathaway-deal-abel-homebuilder-8002aab4 - Berkshire Hathaway Has First Takeover by CEO Abel, Paying \$8.5 Billion for a Homebuilder
+    * Berkshire is paying just over 1.1 times the company’s book value and about nine times trailing earnings for Taylor Morrison, which services the entry-level market, move-up buyers, and resort communities. Its average selling price is around \$600,000.
+    * Berkshire Hathaway agreed to buy Taylor Morrison Home, a leading homebuilder, for \$8.5 billion in cash (including assumed debt)
+
+  * https://www.barrons.com/articles/berkshire-hathaway-stock-taylor-morrison-home-builder-df1c988b - Berkshire Stock Drops. Its Bargain-Priced Deal for Home Builder Fails to Impress Investors.
+    * Taylor Morrison
+      * a well-run Sunbelt home builder
+      * CEO: Sheryl Palmer
+    * Berkshire owns several home-building related companies such as Benjamin Moore (paints) and Shaw (carpeting and flooring).
+    * The deal appears to have come together quickly, with negotiations occurring over just four days
+    * Typically companies don’t negotiate deal terms until they’ve signed a CA
+    * Taylor Morrison didn’t run a sales process for the company
+    * Taylor Morrision will pay Berkshire a termination fee of about \$221 million if it reaches a more favorable deal with another buyer
+      * : The breakup fee is about 2.6% (= (0.221 / 8.5) * 100)
+    * Goldman Sachs and Moelis are advising Taylor Morrison on this deal
+
+  * https://www.barrons.com/articles/alphabet-ai-buildout-berkshire-6c7f6c3b - Alphabet to Issue \$80 Billion of Equity for AI Buildout. Berkshire to Buy \$10 Billion.
+    * Berkshire owned about 58 million shares of Alphabet stock at the end of the first quarter (Q1 2026?) that was worth about \$22 billion as of Monday’s close.
+    * Berkshire will now hold about \$32 billion of Alphabet stock, making it a top equity holding behind only Apple, American Express and about equal to Coca-Cola.
+    * Big equity offerings often are sold at discounts to the market price but the Berkshire discount seems generous
+    * The deal shows that Alphabet is keen to have Berkshire as a sizable investor even without Warren Buffett at the helm.
+    * The twin preferred offerings — convertible into class A and class C stock respectively — will trade on the Nasdaq under ticker symbols GOOGM and GOOGN.
+    * Mandatory convertible preferred can be less dilutive to issuers than common shares.
+    * Alphabet bought back \$62 billion of stock in 2024 and \$46 billion in 2025. There were no repurchases in the first quarter and now the company is planning to sell \$80 billion of stock.

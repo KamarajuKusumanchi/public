@@ -6,6 +6,7 @@ Public:
 </nodisp>
   * [[notes]]
   * [[blog]]
+  * [[:diary:]]
   * [[:public:]]
 <nodisp 8>
 

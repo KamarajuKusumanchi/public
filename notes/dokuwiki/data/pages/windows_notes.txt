@@ -130,6 +130,29 @@ Ref:
   * Alt+Space n - minimize a window
   * Alt+Space d - duplicate a window
 
+==== Working with multiple windows ====
+
+In Windows 7, multiple windows are grouped per application in the taskbar. For example, all google chrome windows are grouped under one button, all outlook windows are grouped under different button etc., Holding down the <CTRL> key and clicking on the group will bring up the last used window in that group.
+
+tags | control key
+
+==== Firefox configuration ====
+
+  * Open a newtab -> click the configuration wheel -> New Tab Controls -> Show your top sites -> uncheck "Include suggested sites"
+
+==== Q&A ====
+
+Q. How to disable window maximization when title bar is dragged all the way to the top of the monitor and cursor touches monitor edge?
+
+A. Control Panel -> Ease of Access Center -> Make the mouse easier to use -> Check Prevent windows from being automatically arranged when moved to the edge of the screen -> Apply -> OK.
+
+Note that checking this box comes with many side effects.
+
+  - a maximized window cannot be moved to a different monitor by dragging the titlebar with mouse
+  - win+left, win+right keys no longer work
+
+So choose your poison.
+
 ==== search button in taskbar not working ====
 Symptom: The search button in the task bar does not respond to the keyboard.
 

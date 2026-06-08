@@ -1,0 +1,8 @@
+==== 2026-05-21 ====
+reading journal:
+  * https://www.bloomberg.com/news/articles/2026-04-01/openai-demand-sinks-on-secondary-market-as-anthropic-runs-hot - OpenAI Share Demand Drops on Secondary Market as Anthropic Gets Investors
+    * Next Round Capital founder Ken Smythe
+    * Augment co-founder Adam Crawley
+    * Anthropic and OpenAI don’t allow investors to trade shares on the secondary market without their permission.
+    * Hiive
+    * Primary fundraising and secondary sales don’t always follow the same playbook. In fundraising rounds, existing investors are often offered the chance to buy more shares to maintain their stakes.
