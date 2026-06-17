@@ -1,0 +1,16 @@
+==== 2026-06-08 ====
+reading journal:
+  * https://ourworldindata.org/data-insights/coffee-production-has-shifted-toward-asia-over-the-last-six-decades - Coffee production has shifted toward Asia over the last six decades
+    * Green coffee beans are those that haven’t yet been roasted
+    * Robusta, a hardier and higher-yielding variety than Arabica
+    * Brazil is the world’s largest producer, while Vietnam is now second
+  * https://www.who.int/docs/librariesprovider2/default-document-library/alcohol-and-cancer-factsheet-eng.pdf - 5 facts about alcohol & cancer
+    * Alcohol is classified as a Group 1 carcinogen by the World Health Organization, meaning it definitively causes cancer. The evidence is strongest for:
+      * Liver cancer
+      * Esophageal cancer
+      * Breast cancer
+      * Colorectal cancer
+      * Oral and throat cancers
+    * Before 2018 the view is: "Moderate drinking is fine, and red wine may even be protective for heart health." \\ New view: "No level of alcohol consumption is safe for our health."
+  * https://www.who.int/europe/news/item/04-01-2023-no-level-of-alcohol-consumption-is-safe-for-our-health - No level of alcohol consumption is safe for our health
+

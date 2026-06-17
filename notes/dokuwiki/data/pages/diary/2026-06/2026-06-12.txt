@@ -1,0 +1,13 @@
+==== 2026-06-12 ====
+reading journal:
+  * https://www.barrons.com/articles/spacex-s-p-500-megacap-companies-2baa838c?mod=hp_WIND_B_2_4 - S&P Won’t Fast-Track SpaceX or Other Big IPOs
+    * IWF - investible weight factor
+    * S&P will continue to require companies to be profitable on a GAAP basis in the most recent quarter and have positive GAAP profits over the prior 12 months to be eligible for inclusion in the S&P 500 index.
+  * https://www.spglobal.com/spdji/en/documents/indexnews/announcements/20260604-1483731/1483731_spdji-us-indices-megacaps-results-20260604.pdf
+    * :SpaceX will not be included in SP500
+  * https://www.wsj.com/finance/sleep-number-to-enter-bankruptcy-combine-with-sleep-country-canada-547e2d91?mod=WTRN_pos5 - Sleep Number Files for Bankruptcy, Plans to Combine With Sleep Country Canada
+    * Sleep Country Canada has agreed to act as the stalking horse, or lead, bidder in a bankruptcy court-supervised sale process
+    * Mattress maker Sleep Number has filed for chapter 11 bankruptcy with a deal in hand to be acquired by Sleep Country Canada for \$415 million.
+    * Sleep Country Canada, which was taken private in 2024 by Canadian insurance-focused conglomerate Fairfax Financial
+  * https://www.youtube.com/watch?v=ttQd5bEdfL0 - Outdoor Boys Told Law Grads What No Professor Would - YouTube
+    * : Saving money gives you cushion that comes in handy when life throws you a curve ball

@@ -1,0 +1,15 @@
+==== 2026-06-09 ====
+reading journal:
+  * https://www.bloomberg.com/news/articles/2026-06-09/asia-s-largest-outsourcer-to-slow-hiring-as-ai-reshapes-industry?srnd=homepage-americas - Tata Consultancy to Slow Hiring as AI Reshapes Industry
+    * Tata Consultancy Services Ltd., (TCS)
+      * Asia’s largest outsourcer
+      * smaller rival Infosys Ltd.,
+      * last year cut 12,000 jobs
+      * currently employs just under 600,000 people
+      * now beginning to pivot toward high-margin businesses
+      * has an agreement with OpenAI to build AI data centers
+      * Chief Executive Officer K. Krithivasan
+      * Chandrasekaran, who previously served as TCS’ CEO for more than seven years
+      * AI revenue crossed an annualized \$2.3 billion in the fiscal fourth quarter through March 2026
+    * Tata Group Chairman Natarajan Chandrasekaran
+    * India’s \$315-billion software services industry

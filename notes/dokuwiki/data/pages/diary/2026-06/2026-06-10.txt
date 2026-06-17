@@ -1,0 +1,13 @@
+==== 2026-06-10 ====
+reading journal:
+  * https://www.studocu.com/en-us/document/san-diego-state-university/statistical-and-computational-methods-for-electrical-and-computer-engineering/info295-homework-average-coin-flips-for-n-consecutive-heads/143778310
+    * solves the problem "How many coin flips on average does it take to get n consecutive heads?"
+      * :I read the first two pages and it is very easy to follow along
+
+funny images:
+  * https://imgflip.com/memetemplate/546713628/Dwight-Schrute-cholesterol
+    * "Through concentration I can raise or lower my cholesterol at will"
+    * "Why would you wanna raise your cholesterol"
+    * "So I can lower it!"
+    * https://www.facebook.com/TBSNetwork/videos/the-office-dwight-slashes-employee-benefits/1589215428811354/
+    * https://www.facebook.com/NetflixSouthAfrica/videos/the-office-health-care/397295058200352/
