@@ -1,2 +1,5 @@
 ==== dummy ====
-  * dokuwiki - https://www.freelists.org/archive/dokuwiki
+
+^ list ^ archive ^
+| dokuwiki | https://www.freelists.org/archive/dokuwiki |
+| r-help | https://stat.ethz.ch/pipermail/r-help/ |

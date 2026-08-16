@@ -1,3 +1,6 @@
 ==== bookmarks ====
   * https://docs.gitlab.com/ee/public_access/public_access.html - Project and group visibility
     * Talks about the public, internal, and private repos in gitlab.
+
+==== links I came across ====
+  * https://docs.gitlab.com/user/profile/account/two_factor_authentication/#register-an-otp-authenticator - Two-factor authentication | GitLab Docs

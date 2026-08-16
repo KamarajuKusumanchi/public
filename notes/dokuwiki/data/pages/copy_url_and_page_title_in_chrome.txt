@@ -12,4 +12,26 @@ Create a bookmarklet: right-click the bookmarks bar -> "Add page…" -> Set the 
 javascript:navigator.clipboard.writeText(location.href+' - '+document.title)
 </code>
  
-Now you can click the bookmarklet on any page to copy both the title and URL to the clipboard.
+Now you can click the bookmarklet on any page to copy both the title and URL to the clipboar
+
+Ex:- For https://en.wikipedia.org/wiki/The_Man_from_Earth , the above bookmarklet will give
+<code>
+https://en.wikipedia.org/wiki/The_Man_from_Earth - The Man from Earth - Wikipedia
+</code>
+
+===== strip the site name suffix =====
+In the URL field, use:
+
+<code javascript>
+javascript:navigator.clipboard.writeText(location.href+' - '+document.title.replace(/ - [^-]+$/,''))
+</code>
+
+The regex 
+<code>
+/ - [^-]+$/
+</code> matches the last occurrence of - followed by any non-dash characters to the end of the string,    and removes it.
+
+Ex:- For https://en.wikipedia.org/wiki/The_Man_from_Earth, this version will give
+<code>
+https://en.wikipedia.org/wiki/The_Man_from_Earth - The Man from Earth
+</code>

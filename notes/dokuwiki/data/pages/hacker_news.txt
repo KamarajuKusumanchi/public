@@ -5,3 +5,10 @@
 
 ==== links I came across ====
   * https://news.ycombinator.com/active
+
+==== hnrss feeds ====
+  * https://hnrss.org/frontpage
+  * https://hnrss.org/newest?q=wsj.com&search_attrs=url
+
+Ref:- 
+  * https://hnrss.github.io/ - Hacker News RSS

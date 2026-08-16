@@ -6,6 +6,56 @@
   * [[Which shell am I using | Which shell am I using?]]
   * [[Difference between SHELL and 0 | What is the difference between \$SHELL and \$0?]]
 
+==== head tail usage ====
+
+<code>
+head -n -5 FILE    print everything but the last 5 lines
+head -n +5 FILE    print only the first 5 lines
+tail -n -5 FILE    print only the last 5 lines
+tail -n +5 FILE    print from 5th line onwards
+</code>
+
+print last but one line
+
+<code>
+cat FILE | tail -n -2 | head -n +1
+</code>
+
+==== here documents ====
+
+tags | EOF, heredocs
+
+Example 1:
+
+To remove leading zeros from otherwise integer values using command line and standard input
+
+<code>
+$cat << EOF | bc
+> 001
+> 002
+> 003
+> EOF
+1
+2
+3
+</code>
+
+Example 2:
+
+Use 'EOF' to not expand the shell variables inside a here document.
+
+<code>
+$ cat << EOF
+> echo $HOME
+> EOF
+echo /home/raju
+
+$ cat << 'EOF'
+> echo $HOME
+> EOF
+echo $HOME
+</code>
+
 ==== what is my OS? ====
 <code>
 awk -F= '$1=="ID" {print $2}' /etc/os-release

@@ -89,3 +89,6 @@ Policy:
   * IGV
   * for P/E ratio check https://www.ishares.com/us/products/239771/ishares-north-american-techsoftware-etf.
     * P/E asof 2026-04-20 is 34.42
+
+==== leveraged etfs ====
+  * SOXL - Direxion Daily Semiconductor Bull 3X ETF

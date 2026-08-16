@@ -9,3 +9,6 @@
 
 ==== Brent Crude Futures ====
   * https://www.ice.com/products/219/Brent-Crude-Futures/data - ICE Brent Crude Futures
+
+==== Live Cattle Futures ====
+  * https://www.cmegroup.com/markets/agriculture/livestock/live-cattle/quotes - Live Cattle Futures Quotes

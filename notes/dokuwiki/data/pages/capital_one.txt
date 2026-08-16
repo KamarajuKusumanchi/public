@@ -6,3 +6,11 @@ When sending money using Zelle in capitalone.com website on a desktop
   * the details of previous recipients are not stored
 
 This is very inconvenient.
+
+asof | 2026-07-06
+
+After sending the money via Zelle in the CapitalOne mobile app, I wanted to take a screenshot of the confirmation page and send it to the recipient via WhatsApp. But I got an error message saying that the CapitalOne app does not allow taking screenshots within the app.
+
+This is very inconvenient.
+
+Workaround: Login into the account via browser (capitalone.com) on the desktop and take a screenshot of the transaction and send it. Not ideal but it worked.

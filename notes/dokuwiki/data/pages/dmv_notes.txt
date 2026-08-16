@@ -21,10 +21,15 @@ tags | "23 licensing centers, 16 vehicle centers"
 tags | asof 2020-11-11
 
 ==== fees ====
-  * drivers license renewal = $24
+  * driver license renewal = $24
 
 tags | asof 2021-05-09
 
+  * driver license renewal = $30.50
+
+tags | asof 2026-08-12
+
 ==== contact information ====
+  * If you have not received the driver license within 20 calendar days of issuance of interim driver license, please email central.issuance@mvc.nj.gov or call 609-292-6500.
   * If the information printed on the enclosed license is incorrect, please call (609) 292-6500 ext. 5058 or email Central.Issuance@mvc.nj.gov immediately.
   * 862-283-0717 - NJ Motor Vehicle Commission Management Operations Services. When we call (609) 292-6500 ext. 5058, it is going to this number.

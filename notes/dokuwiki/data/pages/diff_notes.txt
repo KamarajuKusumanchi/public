@@ -38,6 +38,8 @@ To diff headers of two files without creating any temporary files
 ==== ignore newline endings ====
 tags | ignore line endings
 
+Use --strip-trailing-cr option to ignore the differences in line endings (ex:- unix vs windows).
+
 <code>
 diff --strip-trailing-cr file1 file2
 </code>

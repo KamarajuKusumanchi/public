@@ -92,3 +92,18 @@ tags | plugins
 ==== AnkiDroid directory is inaccessible ====
 
 Settings -> Security & privacy -> Privacy -> Permission manager -> Files -> "See more apps that can access all files" -> AnkiDroid.A -> Allow access to manage all files -> drag to the right.
+
+==== No cloze 3 found on card ====
+ankidroid is giving the following error.
+
+<code>
+No cloze 3 found on card. Please either add a cloze deletion, or use the Empty Cards tool. 
+</code>
+
+To fix it, go to:
+
+Anki desktop -> Tools → Empty Cards
+
+and delete the empty cards. 
+
+The Empty Cards tool is not available on AnkiDroid. It's only on Anki Desktop.

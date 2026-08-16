@@ -15,6 +15,8 @@ get the list of unique items. The output can be one of three ways:
 ['PBS', 'nowplaying', 'job', 'debate', 'thenandnow']
 </code>
 
+tags | remove duplicates
+
 ==== Notes and assumptions ====
   * Starting from Python 3.7, dictionaries in python are ordered by insertion order. Per https://docs.python.org/3.7/tutorial/datastructures.html#dictionaries <code>
 Performing list(d) on a dictionary returns a list of all the keys used in the dictionary, in insertion order

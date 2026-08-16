@@ -28,3 +28,10 @@ Notes:
 
 Ref:
   * Came across this tip in https://www.youtube.com/watch?v=u-ZX5b63UoY&t=121s
+
+==== wrap text ====
+View -> Word wrap
+
+If the option is on, a checkmark appears next to it.
+
+tested on | v8.8.5

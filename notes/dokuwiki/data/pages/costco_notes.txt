@@ -40,6 +40,7 @@ Ref:-
     * You can get the make and model of a car by entering license plate information in here.
     * Also, shows which tires are suitable for a given model of the car.
     * Related: https://opendata.stackexchange.com/questions/16000/from-where-does-costco-get-data-correlating-license-plate-numbers-and-vehicle-ma
+  * https://customerservice.costco.com/app/answers/detail/a_id/829/~/what-is-costcos-mission-statement-and-code-of-ethics%3F - What is Costco’s Mission Statement and Code of Ethics?
 
 ==== qna ====
 

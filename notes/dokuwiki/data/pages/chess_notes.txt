@@ -1,4 +1,126 @@
+===== dummy =====
+
+==== Chess.com games archive ====
+
+https://www.chess.com/games/archive .
+
+To analyze the games, download the pgn, open it in vim. Then copy paste the contents of the file into https://lichess.org/paste .
+
+==== dummy 1 ====
+
+xboard command to analyze a chess game
+
+<code>
+rajulocal@hogwarts:~$ cd ~/chess; rm game.00* log.00* -f; xboard -fcp crafty -initialMode Analysis -lgf `ls -rt | tail -n1`
+
+rajulocal@hogwarts:~/chess$ xboard --version
+xboard version 4.7.3
+</code>
+
+==== dummy 2 ====
+
+To login into FICS using xboard
+
+Create a ~/.icsrc file with first two lines being username and password. Set the permissions so others won't be able to take a peak at your credentials.
+
+<code>
+chmod 600 .icsrc
+</code>
+
+Having this file automates the login process. Otherwise, you will have to enter the username and password manually everytime.
+
+<code>
+rlwrap xboard -ics -icshost freechess.org
+</code>
+
+rlwrap is used to get the command line history when working on the FICS. You can also use the ICS Input Box (under the view menu of xboard).
+
+Ref:-
+
+  * http://www.gnu.org/software/xboard/manual/html_node/Chess-Servers.html
+  * http://www.hugoestrada.net/node/16
+  * http://www.freechess.org/Help/HelpFiles/formula.html
+  * http://www.freechess.org/Help/HelpFiles/getgame.html
+
+==== dummy 3 ====
+
+FICS and xboard
+
+To play a game
+
+<code>
+getgame f
+</code>
+
+To check if you are watching any games
+
+<code>
+getgame ?
+</code>
+
+To remove all your ads
+
+<code>
+unseek
+</code>
+
+Ref:-
+
+  * explanation of various options - http://www.freechess.org/Help/HelpFiles/manual_vars.html
+
+==== dummy 4 ====
+
+Sample ~/.icsrc file
+
+<code>
+rajulocal@hogwarts ~ % cat -n ~/.icsrc | tail -n +3
+     3
+     4  # default formula
+     5  # set formula (blitz || standard) && !abuser
+     6
+     7  set f1 (blitz) && (!abuser && !computer && registered) && (rated)  # type of game and opponent
+     8  set f2 (ratingdiff < 200) && (ratingdiff > -200)                   # opponent rating
+     9  set f3 (rating < 1400)                                             # opponent rating
+    10  set f4 (time == 10 && inc == 0)                                    # time and increment
+    11
+    12  set formula f1 && f3 && f4
+    13
+    14  # to automatically store the game in pgn format and have it emailed
+    15  set pgn 1
+    16  set automail 1
+    17
+    18  # turn off any sounds
+    19  set bell 0
+    20
+    21  set notakeback 1
+</code>
+
+The first two lines contain username, password to login into FICS. So I am not showing them.
+
+<code>
+rajulocal@hogwarts ~ % ls -al ~/.icsrc; md5sum ~/.icsrc
+-rwx------ 1 rajulocal rajulocal 608 Nov  8  2015 /home/rajulocal/.icsrc*
+3c7cbd28e945b0f6c6ee7dd08a46e0fe  /home/rajulocal/.icsrc
+
+rajulocal@hogwarts:~$ xboard --version
+xboard version 4.8.0
+
+  configure options: prefix=/usr; datarootdir=/usr/share; datadir=/usr/share; gamedatadir=/usr/share/games/xboard; 
+ desktopdir=/usr/share/applications; mimedir=/usr/share/mime/packages; iconsdir=/usr/share/icons/hicolor/48x48/apps;
+ svgiconsdir=/usr/share/icons/hicolor/scalable/apps; infodir=/usr/share/info; sysconfigdir=; update_mimedb=yes;
+ NLS=yes; GKT=no; Xaw3d=no; Xaw=yes; ptys=pipes; zippy=yes; sigint=yes
+</code>
+
+==== dummy 5 ====
+
+Read about "Fishing Pole" opening, Budapest Defense.
+
+
 ==== useful links ====
   * https://en.wikipedia.org/wiki/Checkmate_pattern
     * [[https://en.wikipedia.org/wiki/Checkmate_pattern#Anastasia's_mate]]
     * [[https://en.wikipedia.org/wiki/Checkmate_pattern#Arabian_mate]]
+
+  * https://www.trapezemobile.com/2019/01/10/how-i-finally-hit-2000-on-lichess-and-improved-my-chess-rating-by-200-points-in-16-days/ -  many practical tips; well written; concise.
+    * not working asof 2026-06-19. Delete this entry if this is still the case asof 2027-06-19.
+

@@ -2,6 +2,20 @@
 ==== links in this wiki ====
   * [[transfer Whatsapp chats from Google Pixel 6 to Samsung Galaxy S25 Edge]]
 
+==== next word prediction ====
+Issue: In Blackberry, there was a feature that analyzed all the words I typed and predicted the next word I would type. It was so accurate that after a while I was not explicitly typing any words and just clicking on the next prediction to complete my whole message. I want to replicate that in Samsung Galaxy S25 Edge.
+
+Solution:
+
+Settings -> keyboard
+
+Current setup:
+  * I am using Samsung Keyboard
+  * Microsoft Swiftkey keyboard -> turned off
+
+Samsung Keyboard -> Predictive text -> Predict phrases -> turn on.
+
+
 ==== Zelle ====
 I was using Zelle in Capitalone account. When I switched the phones, it stopped working. When someone tried to send me money, it was showing "pending status" to them. I got a text message asking me to enroll in Zelle. Re enrolling again fixed the issue.
 

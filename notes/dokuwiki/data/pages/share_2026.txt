@@ -1,5 +1,43 @@
 ===== 2026 =====
 
+==== 2026-08-14 ====
+  * https://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html - Taco Bell Programming
+  * https://walzr.com/weather-watching - Weather Watching
+    * Tells the weather in Manhattan by analyzing what people are wearing
+
+==== 2026-08-05 ====
+  * https://www.wsj.com/finance/stocks/spacex-ipo-spv-investors-2698a174?mod=hp_lead_pos7 - The Late Stage Management Investors Whose SpaceX Stock Vanished Before They Could Cash In
+    * : The above article profiles investors who bought SpaceX exposure through SPV funds only to later learn their shares had been sold before trading began.
+
+==== 2026-08-04 ====
+  * https://www.wsj.com/finance/investing/this-high-powered-real-estate-fund-is-run-by-college-students-11ad5ebb?mod=hp_lead_pos9 - This High-Powered Real-Estate Fund Is Run by College Students
+
+==== 2026-07-23 ====
+  * https://www.youtube.com/watch?v=iK0t4-vh0L8 - Corporate Finance Explained | Free Cash Flow: The Metric That Truly Drives Valuation - YouTube
+    * A very nice video to understand about free cash flow
+
+==== 2026-07-22 ====
+  * https://news.bloombergtax.com/financial-accounting/big-tech-ai-spree-revives-accounting-devices-that-toppled-enron - Big Tech AI Spree Revives Accounting Devices That Toppled Enron
+
+==== 2026-07-14 ====
+  * BofA has a SafeBalance for Family account targeted at elementary and middle school kids. It lets them use a debit card while parents keep control on the back end. More info: https://bofa.com/growwithus
+
+==== 2026-07-10 ====
+  * https://www.wsj.com/health/healthcare/maura-gillison-cancer-research-dies-f89b6c90?mod=hp_featst_pos4 - Oncologist Maura Gillison, Who Transformed Mouth and Throat Cancer Treatments, Dies at 61 - WSJ
+    * :She discovered that some oral cancers are caused by HPV (human papillomavirus). Previously, people used to believe that oral cancers are mostly due to tobacco or alcohol.
+
+==== 2026-07-06 ====
+  * https://www.youtube.com/watch?v=dpPAfbPjjc0 - Saline Nasal Rinse How To
+    * tags | video
+
+==== 2026-06-26 ====
+  * https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/ - Military branches restore flu shot requirement after virus swept through base
+    * Claude summary:
+      * Hegseth rescinded the flu vaccine requirement, calling it a "common-sense approach" to rejecting "absurd, overreaching mandates." Within weeks, at least 222 recruits at Joint Base San Antonio-Lackland were infected, with four hospitalized. The case count climbed to 275 just a day later. Around 60% of unvaccinated trainees initially declined the shot when it became optional. The mandate was then quickly restored.
+
+==== 2026-06-23 ====
+  * Archimedes once said, "Give me a place to stand, and a lever long enough, and I will move the world." A Claude code developer would now say "Give me a credit card with no token limits, and I will ship your entire startup in two weeks." What an incredible product this is. Truly amazed.
+
 ==== 2026-06-16 ====
   * If you have not tried it already ... try https://www.costcobusinessdelivery.com/p/-/kirkland-signature-organic-coconut-water-14-fl-oz-6-ct/100436269 . It is like munju kayala juice in India.
 

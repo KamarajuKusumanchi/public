@@ -1,3 +1,9 @@
+==== FOMC statements ====
+Sample links:
+  * https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm - Federal Reserve issues FOMC statement
+
+For recent dates, the links might show up in https://www.federalreserve.gov/newsevents.htm
+
 ==== useful links ====
   * Fed's balance sheet - https://www.federalreserve.gov/monetarypolicy/bst_recenttrends.htm
     * shows the history of fed's assets.

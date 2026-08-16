@@ -35,13 +35,16 @@ Notes from https://www.fidelity.com/viewpoints/active-investor/extended-hours-tr
   * each brokerage firm may have different rules pertaining to trading during non-market hours
 
 ==== why fidelity ====
+  * Money Transfer Lockdown (MTL) feature
   * Automatic sweep of uninvested cash into money market funds
     * FWIW, this is not available in Schwab. [asof | 2023-09-21]
   * Customer service is great. [today | 2023-09-22, 2024-02-20]
   * Treasuries can be automatically rolled over. [today | 2023-12-29]
-  * [today | 2024-02-20] It has a cool feature called “Full View” wherein you can add all your other accounts (brokerage, 401k, bank accounts etc.,) and track your net worth for free.
+  * “Full View” feature wherein you can add all your other accounts (brokerage, 401k, bank accounts etc.,) and track your net worth for free. [today | 2024-02-20]
     * https://www.fidelity.com/go/monitoring-your-financial-portfolio
-  * Money Transfer Lockdown (MTL) feature
+  * Billpay service
+  * Can manage multiple accounts (brokerage, cash management, 529 etc.,) in one place
+
 
 
 ==== fdic insurance ====

@@ -5,6 +5,9 @@ View -> Display Theme -> Dark Gray
 </code>
 
 ===== tips =====
+==== duplicate current window ====
+Window -> New Window
+
 ==== Go to page ====
 Ctrl+Shift+N
 
