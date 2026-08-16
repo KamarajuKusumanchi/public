@@ -1,0 +1,13 @@
+==== 2026-08-11 ====
+reading journal:
+  * https://www.wsj.com/world/uk/u-k-discovers-component-in-its-naval-drones-sent-signals-to-china-6ae60578 - U.K. Discovers Component in Its Naval Drones Sent Signals to China
+    * Britain’s Ministry of Defense (MOD)
+    * Chinese cargo cranes at U.S. ports had been equipped with technology that could allow China’s government to potentially gain remote access to the machines
+    * K3 Scout drone boat
+    * Kraken Technology
+      * based in Fareham, England
+      * recently won a \$49 million contract from the U.S. Special Operations Command for its drones
+    * Global drone makers are particularly dependent on China for brushless motors, antennas, cameras and batteries.
+    * Ukraine, which has been burning through roughly 10,000 drones a month for more than a year
+    * A German electric engine is five to 10 times more expensive than a Chinese one
+    * Arx Robotics, a German land-drone maker

@@ -31,6 +31,170 @@ See also:
   * <nowiki>http://malayamaarutham.blogspot.com/2008/10/open-new-gvim-window-from-gvim.html</nowiki>
   * <nowiki>http://stackoverflow.com/questions/19553342/gvim-move-tab-to-new-window</nowiki>
 
+==== search for files in predefined directories ====
+
+Add something like this to ~/.vimrc
+
+<code>
+set path+=/home/rajulocal/bin
+" By default the files at depth=1 are searched. The ** makes the search recursive.
+set path+=/home/rajulocal/work/python/**
+</code>
+
+and launch gvim as follows.
+
+<code>
+% gvim -c ":find hello_world.py"
+</code>
+
+==== Select text when nowrap option is set ====
+
+When nowrap option is on, by definition, gvim will only show a part of the long line. In such cases, using the mouse to select a string such that
+
+start of selection is visible on the screen\\
+end of selection is off-screen to the right
+
+does not work. When the mouse selection hits the edge of the screen, the window is not scrolled automatically and the selection stops. I found the following work around useful in this type of situations
+
+<code>
+:set┬ásidescrolloff=999
+</code>
+
+Then select text by using
+
+  - keyboard in the visual mode
+  - or by using the mouse
+  - or a mixture of both. For example first select some text by by mouse and then use the keyboard to extend/reduce the selection or select by keyboard first and then extend/reduce the selection by right click and dragging the mouse.
+
+Ref:-\\
+* http://markmail.org/message/mzi6cb6zarlbfvhq#query:+page:1+mid:64dneyvhnpnuzx56+state:results
+
+==== select and replace ====
+
+Select text using mouse and press 'y' to yank it.\\
+Now select the text that needs to be replaced and press 'p'. This replaces the latter selection with the former.
+
+==== Diff against a file that is already opened ====
+
+Open the first file either by "gvim file1.txt" or by first launching gvim and then using
+
+<code>
+:e file1.txt
+</code>
+
+To diff this against another file
+
+<code>
+:vert diffsplit file2.txt
+</code>
+
+tags | split and diff
+
+==== Open the current file in new tab ====
+
+Say you have two files open in a split window (vim -O2 file1.txt file2.txt) and want to open the current file in a new tab
+
+<code>
+:tabe %<CR>
+</code>
+
+This will create a new tab for the current file and leave the original tab unchanged. If, instead you want to remove it from the original tab, use
+
+<code>
+<CTRL-W>T
+</code>
+
+See:
+
+<code>
+:help Ctrl-W_T
+:help Ctrl-W
+</code>
+
+==== Open a file in a vertically split readonly window ====
+
+Open the first file either by "gvim file1.txt" or by first launching gvim and then using
+
+<code>
+:e file1.txt
+</code>
+
+To vertically split the window and open another file in a readonly mode
+
+<code>
+:vert sv file2.txt
+</code>
+
+where sv is a shortcut for "splitview" which is same as :split, but sets 'readonly' option for this buffer.
+
+==== open files with different extensions ====
+
+<code>
+% file=foo.txt; gvim /path/to/dir1/${file:t:r}.dat /path/to/dir2/${file} -p
+</code>
+
+will open /path/to/dir1/foo.dat, /path/to/dir2/foo.txt in different tabs of gvim.
+
+==== Open the gvim window on the second monitor ====
+
+Add this to the ~/.gvimrc
+
+<code>
+winpos 1920 0
+</code>
+
+The X and Y positions may need to be changed depending on the monitor configuration.
+
+==== Use a vertical window when opening text files ====
+
+Normally gvim opens with 25 rows and 80 columns. But to open all the txt files in a long vertical window, use this autocmd.
+
+<code>
+au GUIEnter *.txt set lines=50 columns=80
+</code>
+
+==== increase gvim window size when splitting ====
+
+I use set columns=80 in ~/.gvimrc. This works great when only a single file is opened. However, if I do a vertical split (:vs) to open another file in this window, then each file only gets 40 columns since the original gvim window size remains constant at 80 columns. To get around this use
+
+<code>
+:set columns+=81 | vs new_file
+</code>
+
+This will first increment the number of columns and then opens the file in a vertical split.
+
+Note:- the columns are incremented by 81 instead of 80 since the separator takes up a column of its own.
+
+Other related commands
+
+<code>
+:set columns+=81 | vert sf new_file
+</code>
+
+Further reading:- https://groups.google.com/forum/#!topic/vim_use/R4gg-YdPHJM
+
+==== debugging vim problems ====
+
+When facing a problem with vim, try reproducing it with vim -u NONE -U NONE -i NONE -N
+
+If you suspect the problem is with a plugin, use "vim -u NONE -N" to have a working vim immdediately.
+
+==== Start vimdiff with number and wrap set ====
+
+<code>
+gvimdiff junk3 junk4 -c "windo set nu wrap"
+</code>
+
+This will set nu, wrap options in both the diff windows.
+
+==== Join all lines in a paragraph ====
+
+Use the visual mode: vipJ
+
+==== Join lines without an added space ====
+
+Use gJ
+
 ==== convert spaces to newline ====
 <code>
 :%s/\s\+/\r/gc

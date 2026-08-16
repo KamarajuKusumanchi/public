@@ -1,0 +1,17 @@
+==== 2026-08-03 ====
+reading journal:
+  * https://www.barrons.com/articles/echostar-spacex-stocks-spectrum-6443e977 - EchoStar Is Falling as SpaceX Surges. Why the Stock Looks Cheap.
+    * EchoStar
+      * ticker: SATS
+      * EchoStar reached a deal to sell spectrum to SpaceX in two transactions in 2025 to further SpaceX’s mobile-phone aspirations. As part of its consideration, EchoStar is due to receive about 262 million shares of SpaceX stock, a roughly 2% stake in the company
+      * EchoStar isn’t a pure play on SpaceX. It operates a satellite TV business, a mobile phone operation and satellite services. It has more than \$20 billion of debt, and reached a deal last year to sell spectrum to AT&T for about \$23 billion in cash.
+    * Charlie Ergen
+      * EchoStar chairman, CEO and controlling shareholder
+      * an industry maverick
+  * https://www.wsj.com/tech/ai/the-rise-of-million-dollar-companies-with-just-one-employee-f36a77c1?mod=hp_lead_pos9 - The Rise of Million-Dollar Companies With Just One Employee
+    * Stripe
+      * payments company
+      * chief economist: Ernie Tedeschi
+    * An analysis by Stripe shows there are thousands of solo operators on the company’s platform that are generating over \$1 million in revenue, with their ranks doubling between 2023 and 2025. The number of solo operators crossing the \$10 million threshold nearly tripled in that same span.
+    * free open-source AI models from China
+    * Everybody has the sword and we all have the ability to unsheathe Excalibur now

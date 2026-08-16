@@ -1,0 +1,63 @@
+===== favorite configuration =====
+==== add git bash profile ====
+Settings -> Profiles -> Add a new profile -> New empty profile -> 
+
+  Name: Git Bash
+  Command line: C:\Program Files\Git\bin\bash.exe
+  Starting directory: %USERPROFILE%
+  Icon (optional) -> File: C:\Program Files\Git\mingw64\share\git\git-for-windows.ico
+
+  Additional settings
+  -> Appearance
+  --> Font size = 10
+
+-> Save
+
+==== make git bash the default ====
+Settings -> Startup -> Startup -> Default profile -> Git Bash -> Save
+
+==== do not ask for confirmation when closing multiple tabs ====
+Settings -> Interaction -> Warnings -> Warn when closing more than one tab -> Off
+
+==== Restore session ====
+Settings -> Startup -> Startup -> When Terminal starts -> Open windows from a previous session -> Save
+
+asof | 2026-08-15
+
+This is only restoring tabs but not the directories.
+
+===== dummy =====
+==== launch multiple tabs with different working directories ====
+Using Win+R
+<code>
+wt -d dir1 ; new-tab -d dir2
+</code>
+
+For example
+<code>
+wt -d work ; new-tab -d work/github
+</code>
+
+Sample bat script
+<code>
+raju@DESKTOP-CRLPVE5 MINGW64 ~/work/windows_terminal
+$ cat start_windows.bat
+@echo off
+setlocal
+set "DIR1=%USERPROFILE%\work"
+set "DIR2=%USERPROFILE%\work\github"
+set "DIR3=%USERPROFILE%\x\foo bar baz\abc"
+
+set TAB1=-p "Git Bash" -d "%DIR1%"
+set TAB2=-p "Git Bash" -d "%DIR2%"
+set TAB3=-p "Git Bash" -d "%DIR3%"
+
+wt.exe %TAB1% ; new-tab %TAB2% ; new-tab %TAB3%
+</code>
+
+Sample shell script: https://github.com/KamarajuKusumanchi/rutils/blob/master/bin/windows/launch_tabs.sh
+
+Sample python script: https://github.com/KamarajuKusumanchi/rutils/blob/master/bin/windows/launch_tabs.py
+
+==== useful for ====
+  * open multiple git bash sessions in the same window

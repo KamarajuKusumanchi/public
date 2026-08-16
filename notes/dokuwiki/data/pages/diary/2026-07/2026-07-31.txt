@@ -1,0 +1,11 @@
+==== 2026-07-31 ====
+reading journal:
+  * https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html - Leopold Aschenbrenner Situational Awareness fund: $45B to fire sale
+    * Ilya Sutskever
+    * Scott Aaronson, a computer scientist now at the University of Texas at Austin who previously worked on AI safety at OpenAI
+    * Stripe co-founders Patrick and John Collison, former GitHub CEO Nat Friedman, and investor Daniel Gross
+
+  * https://www.cnbc.com/2026/07/31/why-leopold-aschenbrenner-situational-awareness-hedge-fund-imploded.html - Why Situational Awareness hedge fund imploded, even in a tame stock market
+    * Nebius, Bloom Energy, Sandisk, CoreWeave, SharonAI and IREN
+    * Morgan Stanley’s sector-neutral Momentum Index
+    * iShares MSCI USA Momentum Factor ETF

@@ -1,0 +1,35 @@
+==== 2026-06-18 ====
+reading journal:
+  * https://www.wsj.com/opinion/iran-regime-jd-vance-normal-country-donald-trump-9ef0d8cb?mod=hp_opin_pos_1 - Is Iran Really a ‘Normal Country’?
+    * Henry Kissinger
+    * Jimmy Carter's Presidency sunk by Iran’s seizure of the U.S. Embassy, with 52 U.S. diplomats held hostage for 444 days.
+    * the Khobar Towers bombing
+    * the “reformist” President Mohammed Khatami
+    * George W. Bush included Iran in his “axis of evil”
+    * Ayatollah Ali Khamenei’s rule (1989-2026)
+    * Anwar Sadat gave his life to carry Egypt to peace with Israel.
+    * Mikhail Gorbachev forced the Soviet Union to reform.
+  * https://www.wsj.com/opinion/iran-mou-trump-administration-strait-of-hormuz-toll-a3a310b1?mod=hp_opin_pos_2 - Around the Strait of Hormuz in 60 Days
+    * in dialogue with obsequious Oman
+    * the surrender of the Strait to the dictates of Iranian foreign policy
+  * https://www.wsj.com/opinion/big-winner-of-the-iran-deal-pakistan-3e3167bb?mod=hp_opin_pos_4 - Big Winner of the Iran Deal: Pakistan
+    * the beleaguered regime in Tehran
+    * an unalloyed win
+    * a purveyor of bad fiction
+    * Pakistan’s star turn is the diplomatic equivalent of Cabo Verde winning the World Cup.
+    * Pakistan’s shared border with Iran
+    * In 2011, Osama bin Laden was found living less than a mile from Pakistan’s premier military academy.
+    * Pakistan promised Americans access to critical minerals
+    * dourly denied
+    * Pakistan also signed a memorandum of understanding with a cryptocurrency firm linked to the president’s inner circle
+    * Pakistan’s de facto ruler, army chief Asim Munir
+    * ham-handed Indian diplomatic effort
+    * pilloried as too soft on
+    * Prime Minister Shehbaz Sharif and Field Marshal Munir
+    * the poverty rate in Pakistan rose from 21.9% in 2018 to 25.3% by 2023-24
+    * approximately 40% of Pakistani children suffered from stunting
+    * diplomatic razzmatazz
+
+Miscellaneous:
+
+Q: When I try to open a pdf in onedrive.com , it is giving "Can't preview this file" error. Logging out and logging back in fixed the issue.

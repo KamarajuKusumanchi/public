@@ -1,0 +1,9 @@
+==== 2026-08-02 ====
+reading journal:
+  * https://www.barrons.com/articles/spacex-echostar-stock-spectrum-ed8f7f59 - SpaceX Proxy EchoStar Sees Its Stock Drop. It Could Be a Bad Omen for SpaceX IPO.
+    * EchoStar is one the best proxies for SpaceX because the satellite company reached a deal last year to sell spectrum to SpaceX in return for about 2% of SpaceX stock
+    * EchoStar operates satellite TV services through Dish TV and Sling TV, and phone services through Boost
+    * Bear Traps Report, an investment research publication
+    * Charlie Ergen
+      * He’s an industry maverick and controls EchoStar
+    * EchoStar has a complex capital structure and debt of more than \$20 billion

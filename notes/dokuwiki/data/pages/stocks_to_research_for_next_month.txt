@@ -1,5 +1,64 @@
 tags | stocks to watch for next month, companies I came across
 
+==== 2026-08-13 ====
+  * DECK
+  * MKL
+  * VIRT
+  * TSM
+
+==== 2026-08-10 ====
+  * CME
+    * 65.10% operation margin, 14.00 P/S, P/E = 22.36, Forward P/E = 20.39
+
+==== 2026-08-07 ====
+  * FUJHY - Subaru
+    * came across it in
+      * https://www.barrons.com/articles/buy-subaru-stock-price-pick-35aaf843 - Subaru Cars Have a Cultish Following. Why the Stock Deserves Investor Love.
+
+==== 2026-08-05 ====
+  * EQT
+
+==== 2026-08-03 ====
+  * MKC
+    * pros
+      * price: \$51.47
+      * EPS next year: \$3.30
+      * TTM dividend: \$1.89
+      * Operating margin: 16.72%, P/S = 1.87
+    * cons
+      * Perf 10Y (without dividends): 2.64%
+
+==== 2026-07-31 ====
+  * GEV
+    * EPS, revenue have been going up since 2024
+    * Company is buying back shares
+    * watchout
+      * operating margin is less
+      * EPS next year is lower than current year
+
+==== 2026-07-29 ====
+  * LLY
+    * EPS and revenue are growing
+    * company is doing share buybacks
+    * Up 1379.14% in the past 10 years 
+
+==== 2026-07-09 ====
+  * COST
+    * They take care of their employees before they care about shareholders. That is the right model for retailers.
+      * https://www.wsj.com/business/retail/he-earns-33-an-hour-as-a-costco-cashier-now-hes-a-millionaire-1e9ba725 - He Earns $33 an Hour as a Costco Cashier. Now He’s a Millionaire.
+
+==== 2026=07-02 ====
+  * UHS
+    * one of the top 5 performers in SP500 on 2026-07-02 10:36 am
+    * sales up, share count down as per https://finviz.com/stock?t=UHS&p=d
+    * P/E = 6.55, Forward P/E = 6.22, P/S = 0.54, Operating margin = 11.50%
+
+==== 2026-06-25 ====
+  * BABA
+
+==== 2026-06-18 ====
+  * AMZN
+
 ==== 2026-06-11 ====
   * CROC
 

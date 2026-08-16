@@ -1,0 +1,10 @@
+==== 2026-08-04 ====
+reading journal:
+  * https://www.bloomberg.com/news/articles/2026-08-04/anthropic-inks-10-billion-computing-deal-with-new-cloud-startup?srnd=homepage-americas - Anthropic Inks Computing Deal With Nvidia Backed Cloud Startup Volta
+    * data center managed by Nvidia Corp.-backed cloud startup Volta Infra Holdings Ltd.,
+    * in partnership with Bitdeer Technologies Group, a Bitcoin miner that operates data centers, using a site in Norway
+    * The agreement runs for six years
+    * Volta Chief Executive Officer Ricard Boada
+    * computing agreements with SpaceX, Advanced Micro Devices Inc. and Akamai Technologies Inc.
+    * The data center site in Norway offers 133 megawatts of capacity and will be stocked with Nvidia’s newest Vera Rubin chips
+    * Founded in January by former executives from Brookfield Asset Management Ltd

@@ -1,0 +1,14 @@
+==== 2026-06-17 ====
+reading journal:
+  * https://www.barrons.com/articles/alphabet-stock-offering-berkshire-buybacks-6c7f6c3b - Alphabet Pivots From Buybacks to a Massive Stock Offering. What It Means for Shares. - 2026-06-02
+    * concurrent underwritten public offerings
+    * mandatory convertible preferred stock
+    * Alphabet’s voting Class A stock (GOOGL), nonvoting class C shares
+    * Berkshire will now hold about \$32 billion of Alphabet stock
+    * ticker symbols GOOGM and GOOGN
+    * Mandatory convertible preferred can be less dilutive to issuers than common shares
+
+  * https://www.barrons.com/articles/alphabet-stock-google-ai-8893540b - Alphabet Convertibles Could Yield 6%, But Will Offer No Downside Protection
+    * GOOGM - preferred convertible into Alphabet’s class A voting shares
+    * GOOGN - erred exchangeable into Alphabet's nonvoting class C stock
+    * The Alphabet deal will be the largest mandatory convertible offering ever.

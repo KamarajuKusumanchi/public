@@ -1,0 +1,76 @@
+==== Configuration ====
+
+My favorite putty configuration
+
+<code>
+ Terminal -> Keyboard -> The Backspace key -> select Control-H
+ Terminal -> Features -> Disable remote-controlled window title changing -> check
+ Window -> Control the scrollback in the window -> Lines of scrollback -> 10000
+ Window -> Reset scrollback on keypress -> check
+ Window -> Reset scrollback on display activity -> uncheck
+ Window -> Appearance -> Font settings -> Change the Font to Courier New, 9-point
+ Window -> Appearance -> Gap between text and window edge = 3
+ Window -> Behavior -> System menu appears on ALT-Space -> check
+ Window -> Selection -> Control use of mouse -> xterm (Right extends, Middle pastes)
+ Window -> Selection -> Control the select-one-word-at-a-time mode -> set class of @ (64), ~ (126), : (58), + (43) to 2
+</code>
+
+Profile specific
+
+<code>
+ Window -> Behaviour -> Window title > <enter title>
+ Connection -> SSH -> Remote command -> cd ~/directory/of/interest; zsh -i --login
+</code>
+
+For automatic logins
+
+<code>
+ Connection -> Data -> Auto-login username -> <specify the username>
+ Connection -> SSH -> Auth -> Private key file for Authentication -> Browse -> <choose the ppk file>
+</code>
+
+Note:
+
+  * Setting the class of @ to 2 enables to select strings of the form user@hostname, email address etc., using double click.
+  * Setting the class of ~ to 2 enables to select strings of the form ~/path/to/file using a double click.
+  * setting the class of : to 2 enables to select strings of the form user@hostname:~/file/path etc., using double click.
+  * setting the class of + to 2 enable to select file names with a '+' character in them. ex:- a.out_g++.5.0
+
+Note:\\
+On one of the machines I worked, the backspace key was working on the terminal but not in vim where it printed ^? whenever backspace is pressed. To fix it, I did
+
+<code>
+ Terminal -> Keyboard -> The Backspace key -> select Control-H
+</code>
+
+However, on other machines the backspace key worked in both terminal and vim even with the default setting (Terminal -> Keyboard -> The Backspace key -> Control-? (127)).
+
+tag | stop putty from changing the title dynamically
+
+==== To copy paste text ====
+
+See the section on [[http://the.earth.li/~sgtatham/putty/0.52/htmldoc/Chapter3.html#3.1.1|"Copying and pasting text"]] in http://the.earth.li/~sgtatham/putty/0.52/htmldoc/Chapter3.html .
+
+You can do some cool stuff such as select a sequence of whole words (double click and drag), whole lines (triple click and drag), block wise selection (alt+mouse), adjust the existing selection (using middle mouse button).
+
+==== Automatic login ====
+
+tags | putty login without password
+
+See http://kb.norsetech.net/use-putty-to-automatically-login-a-ssh-session/
+
+==== open a putty session from another putty session ====
+
+Change the system menu configuration setting
+
+<code>
+Window -> Behavior -> System menu appears on ALT-Space -> check
+</code>
+
+Now ALT-Space d will duplicate the current session.
+
+Features:
+
+  * Everything is done using keyboard without requiring a mouse.
+
+Ref:- http://superuser.com/questions/600768/new-terminal-window-duplicate-session-from-putty-command-line

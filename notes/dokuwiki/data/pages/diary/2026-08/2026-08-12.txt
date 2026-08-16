@@ -1,0 +1,13 @@
+==== 2026-08-12 ====
+reading journal:
+  * https://www.wsj.com/finance/private-credit-firms-clamp-down-on-loan-sweeteners-in-fear-of-shadow-defaults-58ac13ec - Private-Credit Firms Clamp Down on Loan Sweeteners in Fear of ‘Shadow Defaults’
+    * software firm Medallia was taken over by creditors in a collapse that rattled the private-credit industry
+    * payment in kind, or PIK
+    * Some 13.5% of new private-credit loans originated in the second quarter had a PIK provision
+    * investment-banking adviser Lincoln International
+    * Medallia’s takeover by its creditors, led by Blackstone and including KKR and Apollo, was completed this month
+    * Medallia’s private-equity owner, Thoma Bravo
+    * Private-credit lenders count PIK as income even though borrowers are essentially giving them an IOU
+    * radiology companies, consumer-lending platforms and property maintenance firms
+    * Pluralsight, a tech-skills learning platform, was bought by Vista Equity Partners in 2021 with debt from lenders including Blue Owl, Ares Management, BlackRock and Goldman Sachs
+    * By 2024, lenders were in talks to restructure it, and interest deferrals kicked in. Vista wrote off its equity investment in Pluralsight and transferred ownership to the lenders.

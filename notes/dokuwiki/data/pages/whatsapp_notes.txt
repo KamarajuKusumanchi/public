@@ -1,3 +1,6 @@
+===== Allow only contacts to add you to groups ====
+Settings -> Privacy -> Groups -> My contacts
+
 ===== favorite configuration =====
 ==== disable chat notifications ====
 using this asof | 2025-04-08

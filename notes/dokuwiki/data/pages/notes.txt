@@ -257,8 +257,6 @@
   * [[retirement plans]]
   * [[medicines]]
   * [[taxes]]
-  * [[rss feeds]]
-  * [[rss readers]]
   * [[inoreader notes]]
   * [[data sources]]
   * [[economic calendars]]
@@ -354,6 +352,14 @@
   * [[futures]]
   * [[nasdaq data]]
   * [[pdf readers]]
+  * [[trump accounts]]
+  * [[NYC notes]]
+  * [[putty notes]]
+  * [[ai notes]]
+  * [[rss feeds]]
+  * [[rss readers]]
+  * [[rss2email notes]]
+  * [[windows terminal notes]]
 
 ==== by date ====
   * [[reading journal 2024]]

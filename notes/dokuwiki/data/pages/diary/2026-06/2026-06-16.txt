@@ -1,0 +1,6 @@
+==== 2026-06-16 ====
+reading journal:
+  * https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/ - Leaked financial docs show OpenAI is losing billions of dollars a year - Ars Technica
+  * https://radgeek.com/gt/2013/02/Invention-of-Color.jpg
+    * tags | Calvin and Hobbes
+    * Dad, why are old pictures always black and white?

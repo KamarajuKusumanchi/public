@@ -1,0 +1,2 @@
+==== dummy ====
+  * https://www.linuxbabe.com/ubuntu/install-use-rss2email-ubuntu-18-04 - How to Install and Use rss2email on Ubuntu

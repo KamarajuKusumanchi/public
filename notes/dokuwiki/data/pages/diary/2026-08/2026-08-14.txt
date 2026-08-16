@@ -1,0 +1,27 @@
+==== 2026-08-14 ====
+reading journal:
+  * https://www.bloomberg.com/news/articles/2026-08-14/kushner-s-thrive-capital-invests-215-million-in-amazon - Kushner’s Thrive Capital Invests $215 Million in Amazon
+    * Joshua Kushner’s Thrive Capital
+    * Thrive is best known for its early investments in companies including SpaceX, Stripe and OpenAI
+    * The venture firm’s other public market holdings include Figma Inc., Stubhub Holdings Inc. and Oscar Health, which Kushner co-founded and incubated.
+  * https://www.bloomberg.com/news/articles/2026-08-14/nvidia-s-500-billion-plan-envelops-wall-street-in-its-ai-frenzy - Nvidia’s \$500 Billion Plan Envelops Wall Street in Its AI Frenzy
+    * Goldman CEO David Solomon, Blackstone President Jon Gray, Apollo President Jim Zelter and Brookfield CEO Bruce Flatt
+    * KKR’s Waldemar Szlezak, who leads its digital infrastructure business globally
+    * the offtake agreements
+    * If a deal goes awry and Nvidia clients can’t afford the chips, the chips can be rented by others, helping to reduce the risk of individual Nvidia customers defaulting on the debt
+  * https://www.cnbc.com/2026/08/03/hugging-face-china-ai-race-open-models.html - Hugging Face CEO says China is winning the AI race with open models
+    * Hugging Face CEO Clément Delangue
+    * open-source software developer platform Hugging Face
+  * https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html - AI computing power becomes a tradable asset class as CME starts futures
+  * https://en.wikipedia.org/wiki/List_of_predictions_for_autonomous_Tesla_vehicles_by_Elon_Musk - List of predictions for autonomous Tesla vehicles by Elon Musk
+  * https://en.wikipedia.org/wiki/Malaccamax - Malaccamax
+  * https://en.wikipedia.org/wiki/Prichard_Col%C3%B3n - Prichard Colón
+  * https://www.wsj.com/business/logistics/there-arent-enough-ships-to-handle-chinas-booming-car-exports-d2b66787 - There Aren’t Enough Ships to Handle China’s Booming Car Exports
+    * Specialized car carriers, essentially floating parking garages, are booked out years ahead to export cars from Chinese factories
+    * world’s largest car-carrier fleet, Wallenius Wilhelmsen
+    * China exported just under 600,000 cars and vans in 2019. In 2026, China could ship up to 10 million vehicles
+    * Norwegian car carrier Höegh Autoliners
+    * brands like BYD and SAIC Motor
+    * DP World, a Dubai-based freight forwarder
+    * major container-shipping companies such as Denmark’s A.P. Moller-Maersk and Switzerland’s Mediterranean Shipping Co.
+    * BYD launched its first dedicated car carrier in 2024 and now has a fleet of eight vessels

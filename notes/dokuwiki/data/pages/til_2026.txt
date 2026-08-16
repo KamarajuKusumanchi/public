@@ -1,6 +1,44 @@
 
 
 
+===== 2026 =====
+
+==== 2026-08-14 ====
+TIL that British TV broadcasters had a postwar policy in which there were no shows on between 6pm and 7pm; known as the “Toddler's Truce". The break was designed to help parents put children to bed.
+
+Ref:-
+  * https://www.reddit.com/r/todayilearned/comments/113ljxi/til_that_british_tv_broadcasters_had_a_postwar/
+  * [[https://en.wikipedia.org/wiki/Toddlers'_Truce]]
+
+==== 2026-08-04 ====
+TIL about Blink comparator. It is an optical instrument that rapidly alternates ("blinks") between two photographic plates of the same sky region taken at different times, letting an observer spot objects that moved or changed brightness between exposures. It was famously used by Clyde Tombaugh in 1930 to discover Pluto by comparing star field plates and noticing one point of light that shifted position.
+
+Ref:
+  * https://openstax.org/books/astronomy-2e/pages/12-4-pluto-and-charon -> Voyagers in Astronomy -> Clyde Tombaugh: From the Farm to Fame
+  * https://en.wikipedia.org/wiki/Blink_comparator
+
+Fun fact:
+  * The actual blink comparator Tombaugh used is still on display at Lowell Observatory in Flagstaff, Arizona.
+
+==== 2026-07-29 ====
+TIL that a metallurgist named John V. N. Dorr came up with the idea of having a white line on the right side of the road.
+
+Ref:- 
+  * https://www.wsj.com/business/white-line-road-invention-america-250-8ce6bb89 - This Simple White Line Is America’s Greatest Unsung Innovation
+    * https://archive.is/2Qsky - This Simple White Line Is America’s Greatest Unsung Innovation
+
+See also:
+  * https://en.wikipedia.org/wiki/John_V._N._Dorr
+
+
+==== 2026-07-24 ====
+TIL that Red wood ants have been used in Bulgaria and Turkey to make yogurt; a few ants are added to warm milk and left to ferment.
+
+Ref: https://en.wikipedia.org/wiki/Yogurt#Ant_yogurt
+
+==== 2026-06-17 ====
+TIL about American Brahman from https://kids.kiddle.co/American_Brahman . The Brahman is a special breed of beef cattle from the United States.
+
 ==== 2026-05-15 ====
 TIL about Muffin tops and Love handles from https://en.wikipedia.org/wiki/Muffin_top and https://en.wikipedia.org/wiki/Love_handles
 

@@ -1,0 +1,21 @@
+==== 2026-07-30 ====
+reding journal:
+  * https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html - Why AI investor Leopold Aschenbrenner is selling all stocks
+    * former OpenAI researcher Leopold Aschenbrenner
+    * Situational Awareness
+    * The fund grew to as big as \$45 billion at the start of July before big losses took hold
+    * Aschenbrenner graduated from Columbia University as valedictorian at the age of 19 before joining OpenAI’s Superalignment team.
+    * Aschenbrenner is engaged to Avital Balwit, the chief of staff for Anthropic CEO Dario Amodei
+    * had a brief stint at a philanthropy-focused fund founded by FTX’s Sam Bankman-Fried
+
+  * https://www.ft.com/content/280336bf-dbed-405f-b38e-5af644a21549?syn-25a6b1a6=1 - Leopold Aschenbrenner’s Situational Awareness seeks to raise capital after AI rout
+    * Early investors include Stripe co-founders Patrick and John Collison, former GitHub chief executive Nat Friedman and technology investor Daniel Gross.
+    * The fund has also received backing from trading firm Jane Street.
+    * only four investment professionals and a total of eight employees
+    * “neocloud” groups Nebius and Sharon AI, power start-up Bloom Energy and an array of memory companies including Sandisk
+    * The tech-heavy US Nasdaq 100 has fallen 10 per cent so far in July, while South Korea’s Kospi has lost around a third of its value.
+
+  * https://cryptobriefing.com/situational-awareness-hedge-fund-liquidates-portfolio/ - Situational Awareness hedge fund dumps entire public stock portfolio in margin-fueled fire sale
+    * Riot Platforms and CleanSpark, two of the largest publicly traded Bitcoin miners
+    * Bloom Energy, a fuel cell and energy company
+    * a stake in Anthropic that was acquired at a valuation near \$60 billion

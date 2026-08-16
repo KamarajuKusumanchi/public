@@ -68,6 +68,13 @@ tags | coming back after navigating to a function
   * Ctrl+left click
   * https://www.jetbrains.com/help/pycharm/viewing-definition.html
 
+==== finding files by name ====
+  * Ctrl+Shift+N - the Go to File dialog
+  * Shift+Shift - Search Everywhere
+  * Alt+F12 - PyCharm's built-in terminal
+    * then run the a command such as
+      * find PROJECT_ROOT -iname '*foo*'
+
 ==== folding ====
 
   * Ctrl+Plus (or Ctrl+NumPad Plus) - Expand the current fold

@@ -1,0 +1,12 @@
+==== 2026-08-07 ====
+reading journal:
+  * https://www.wsj.com/tech/startup-raises-700-million-to-replace-data-center-wires-with-light-adc74358?st=MHERWz&reflink=desktopwebshare_permalink - Startup Lumilens Raises \$700 Million to Replace Data-Center Wires With Light
+  * Lumilens, a startup building optical-interconnection technology for data centers
+  * Atreides Management, Bain Capital Ventures, Meritech, Seligman Ventures and Spark Capital
+  * Lightmatter
+  * Celestial AI
+    * Marvell acquired it
+  * Lumilens Chief Executive Ankur Singla
+  * Trump administration is planning to ban imports of certain data-center components from China, including optical gear
+  * Umesh Padval, managing partner at Seligman Ventures, an investor in Lumilens
+  * Lumilens is working on two types of optical products. One connects separate server racks across a data center, known as “scale out.” The other is designed to connect chips within a single rack, known as “scale up.”

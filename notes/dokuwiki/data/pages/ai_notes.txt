@@ -1,0 +1,4 @@
+==== use cases ====
+  * use it to build your own software
+    * for example small utility scripts that are useful only to you.
+    * because building software is cheap and can be thrown away easily if needed.

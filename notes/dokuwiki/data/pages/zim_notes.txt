@@ -4,6 +4,8 @@ Edit -> Preferences -> Editing -> Automatically turn "CamelCase" words into link
 Edit -> Preferences -> Editing -> Automatically turn filepaths into links -> uncheck
 </code>
 
+tested in zim 0.76.3
+
 ==== navigate to a page ====
   * <Ctrl><Space> <Ctrl>f 
 

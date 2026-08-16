@@ -1,0 +1,8 @@
+==== free wifi ====
+today | 2026-07-06
+
+  * hotspot: LinkNYC Free Wi-Fi
+    * requires email to setup
+    * No need to create an account
+    * open wifi; may not be secure; but it is legit and not a scam
+    * official page: http://link.nyc/

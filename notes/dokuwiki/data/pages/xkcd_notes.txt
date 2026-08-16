@@ -13,6 +13,8 @@
   * https://m.xkcd.com/1618/ - Cold Medicine
   * https://xkcd.com/803/ - airfoil
   * https://xkcd.com/2347/ - dependency of modern digital infrastructure
+  * https://xkcd.com/1425/
+    * tags | park and bird
 
 policy:
   * Put new entries at the bottom.

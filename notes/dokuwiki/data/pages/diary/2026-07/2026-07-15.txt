@@ -1,0 +1,8 @@
+==== 2026-07-15 ====
+reading journal:
+  * https://www.wsj.com/finance/investing/jpmorgan-blackrock-and-goldman-to-tokenize-stocks-treasurys-0a776ba7?mod=hp_lead_pos5 - JPMorgan, BlackRock and Goldman to Tokenize Stocks, Treasurys
+    * The Depository Trust & Clearing Corp., a leading trade processor
+    * blockchain, the digital ledger technology that underpins cryptocurrencies and other digital assets
+    * HyperLedger Besu, DTCC’s private blockchain, or Canton Network, a Wall Street-backed, privacy-focused blockchain
+    * Depository Trust Co., a DTCC subsidiary
+    * DTCC safeguards more than \$114 trillion in securities, and its subsidiaries processed securities transactions valued at \$4.7 quadrillion last year.
