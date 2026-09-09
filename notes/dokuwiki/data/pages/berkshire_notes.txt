@@ -202,3 +202,18 @@ Ref:-
     * The data can be exported as a csv
     * The data can be compared against another quarter. For example https://13f.info/13f/000095012325005701/compare/000095012325002701 compared Q1 2025 holdings against Q4 2024.
   * https://13f.info/13f/000095012325005701/compare/000095012325002701 - Berkshire Hathaway Inc Q4 2024 vs. Q1 2025 13F Holdings Comparison
+
+==== stock buyback pricing ====
+How to find out the price Berkshire paid to repurchase their stock in Q2 2026?
+
+Go to 10-Q
+  * https://berkshirehathaway.com/ -> Annual & Interim Reports -> click on the quarter of interest.
+  * For example, in this case, Year = 2026, 2nd Quarter link.
+  * This will take you to https://berkshirehathaway.com/qtrly/links2ndqtr26.html .
+  * Then click on the pdf link: https://berkshirehathaway.com/qtrly/2ndqtr26.pdf
+
+In the 10-Q, go to table of contents in pg-2.
+
+Go to "Part II – Other Information" -> Item 2. "Unregistered Sales of Equity Securities and Use of Proceeds and Issuer Repurchases of Equity Securities" on pg-51
+
+That has a table with breakdown on (month, A shares | B shares, average price paid for each share)

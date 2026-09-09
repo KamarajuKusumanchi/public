@@ -1,0 +1,108 @@
+===== conda activate fails in git bash run inside Windows Terminal =====
+==== Issue ====
+"conda activate" is failing in"git bash" run inside the Windows Terminal.
+<code>
+$ conda activate rutils
+usage: conda-script.py [-h] [--no-plugins] [-V] COMMAND ...
+conda-script.py: error: argument COMMAND: invalid choice: 'activate' (choose from 'clean', 'compare', 'config', 'create', 'info', 'init', 'install', 'list', 'notices', 'package', 'remove', 'uninstall', 'rename', 'run', 'search', 'update', 'upgrade', 'doctor', 'env')
+</code>
+
+The same command works in normal "git bash".
+<code>
+$ conda activate rutils
+/* no output */
+</code>
+
+In both cases. I have
+
+<code>
+$ which conda
+/c/ProgramData/Miniconda3/Scripts/conda
+
+$ echo $HOME
+/c/Users/raju
+</code>
+
+FWIW, I also have
+
+<code>
+$ cat ~/.bash_profile
+
+# >>> conda initialize >>>
+# !! Contents within this block are managed by 'conda init' !!
+if [ -f '/c/ProgramData/Miniconda3/Scripts/conda.exe' ]; then
+    eval "$('/c/ProgramData/Miniconda3/Scripts/conda.exe' 'shell.bash' 'hook')"
+fi
+# <<< conda initialize <<<
+</code>
+
+==== Troubleshooting ====
+
+The "git bash" in Windows Terminal shows
+<code>
+$ shopt login_shell
+login_shell     off
+</code>
+
+But the standalone "git bash" shows
+<code>
+$ shopt login_shell
+login_shell     on
+</code>
+
+So the former is not running a login shell where as the latter is running a login shell.
+
+Further, "git bash" in Windows Terminal shows
+<code>
+$ type conda
+conda is hashed (/c/ProgramData/Miniconda3/Scripts/conda)
+</code>
+
+But the standalone "git bash" shows
+<code>
+$ type conda
+conda is a function
+conda ()
+{
+  ...
+}
+</code>
+
+So the conda initialization stuff in ~/.bash_profile is not getting executed.
+
+==== Fix ====
+
+Check the command used to run "git bash" in Windows Terminal
+
+<code>
+Windows Terminal -> Settings -> Profiles -> "Git Bash" -> "Command line"
+</code>
+
+which shows that the command is
+
+<code>
+C:\Program Files\Git\bin\bash.exe
+</code>
+
+Change it to
+<code>
+C:\Program Files\Git\bin\bash.exe --login -i
+</code>
+
+Verify that git bash in Windows Terminal now shows
+<code>
+$ shopt login_shell
+login_shell     on
+
+$ type conda
+conda is a function
+conda ()
+{
+  ...
+}
+</code>
+
+and that you are able to activate the environment
+<code>
+$ conda activate rutils
+</code>

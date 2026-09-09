@@ -46,6 +46,53 @@ To conclude, the order of redirections is significant.
 
 Ref:- https://www.gnu.org/software/bash/manual/html_node/Redirections.html -> 5th paragraph.
 
+==== exit will exit with the exit status of the last command ====
+
+https://man7.org/linux/man-pages/man1/bash.1.html -> search for exit [n]
+
+<code>
+       exit [n]
+              Cause the shell to exit with a status of n.  If n is
+              omitted, the exit status is that of the last command
+              executed.  Any trap on EXIT is executed before the shell
+              terminates.
+</code>
+
+When I run git bash inside Windows Terminal, the exit status of the previous command seems to matter when I try to exit out of the shell.
+
+The following gives a clean exit
+<code>
+$ echo hi
+hi
+
+$ echo $?
+0
+
+$ echo hi
+hi
+
+$ exit
+</code>
+
+The following requires an extra ctrl-d to exit
+<code>
+kkusuman@NYCWD800893 MINGW64 ~
+$ hi
+bash: hi: command not found
+
+$ echo $?
+127
+
+$ hi
+bash: hi: command not found
+
+$ exit
+logout
+
+[process exited with code 127 (0x0000007f)]
+You can now close this terminal with Ctrl+D, or press Enter to restart.
+</code>
+
 ===== getopts =====
 ==== useful articles ====
   * https://sookocheff.com/post/bash/parsing-bash-script-arguments-with-shopts/ - Parsing bash script options with getopts
