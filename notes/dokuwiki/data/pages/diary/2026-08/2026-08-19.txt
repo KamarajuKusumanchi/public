@@ -1,0 +1,31 @@
+==== 2026-08-19 ====
+reading journal:
+  * https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html - Moderna, Merck cancer vaccine shows initial late-stage melanoma data
+    * Moderna CEO Stephane Bancel
+  * https://www.wsj.com/business/the-cast-iron-company-that-has-been-controlled-by-the-same-family-for-130-years-c3b55239 - The Cast-Iron Company That Has Been Controlled by the Same Family for 130 Years
+    * the Lodge Cast Iron pan company
+      * has been melting pig iron and recycled steel to form cast iron pans for 130 years
+      * founded in 1896
+      * 70 family shareholders
+      * David Lodge, 69, a fourth-generation family member, Lodge director and biology professor at Cornell University
+    * huge, multigenerational businesses like agriculture giant Cargill and candy maker Mars
+    * midmarket companies like Lodge
+    * the “stealthy wealthy,” folks who make great sums of money with little fanfare or flash
+    * Josh Baron, a senior lecturer at Harvard Business School who studies family businesses, which he also defines as family-controlled companies, public or private
+    * Lodge Chairman Jay Daniel, a fifth-generation family member and founder of an IT company
+    * bestselling 10.25-inch skillet, typically selling for $29.95
+    * Lodge today employs about 570 people
+    * waffle irons and garden gnomes
+    * Grateful Dead pan
+    * Skillets get passed down in wills
+    * the convivial sales guy
+    * Williams-Sonoma
+    * Most of the family shareholders each own less than 1% of the company; three own more than 5% each
+    * Stock-restriction agreements mandate that shares can only be transferred within the family, including to spouses and adopted children, or placed in trusts or similar entities that benefit family members
+    * A 10th of the company’s pretax profits make up shareholders’ dividends
+
+  * https://www.wsj.com/health/pharma/moderna-merck-vaccine-succeeds-in-preventing-melanoma-from-returning-540e9e18 - Moderna Shares More Than Double on Success of mRNA Cancer Vaccine
+    * \$240-plus-billion cancer-drug market
+    * combination of intismeran and Keytruda
+    * intismeran is a personalized therapeutic vaccine built for a single person
+    * cancer’s genetic profile is analyzed

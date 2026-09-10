@@ -1,0 +1,5 @@
+==== 2026-08-31 ====
+reading journal:
+  * https://ourworldindata.org/data-insights/money-spent-on-building-data-centers-in-the-us-has-grown-5-fold-since-late-2022 - Money spent on building data centers in the US has grown 5-fold since late 2022
+
+  * https://www.bloomberg.com/news/articles/2026-08-29/openai-to-end-partnership-with-cursor-after-spacex-acquisition - OpenAI to End Partnership With Cursor After SpaceX Acquisition

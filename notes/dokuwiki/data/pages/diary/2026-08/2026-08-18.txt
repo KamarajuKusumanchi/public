@@ -1,0 +1,13 @@
+==== 2026-08-18 ====
+reading journal:
+  * https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows - Diesel Margins Top \$100 a Barrel to Reach Record High as Supply Crunch Grows
+    * the diesel crack spread
+  * https://www.bloomberg.com/opinion/articles/2026-08-18/humanoid-robots-need-a-supply-chain-in-north-america - Humanoid Robots Need a Supply Chain in North America
+    * shoestring budgets
+    * China’s DJI introduced a small, inexpensive drone with a stable built-in camera
+    * killed in the cradle
+    * DJI, Autel
+    * Federal Communications Commission bans
+    * Yushu Technology Co., known as Unitree Robotics
+    * Agility Robotics and Apptronik
+    * ABB Ltd., Fanuc Corp. and Yaskawa Electric Corp.

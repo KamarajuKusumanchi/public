@@ -1,0 +1,20 @@
+==== 2026-08-27 ====
+reading journal:
+  * https://www.bloomberg.com/news/articles/2026-08-25/pepsico-scraps-coverage-of-weight-loss-drugs-for-employees - PepsiCo Scraps Coverage of Weight-Loss Drugs for Employees
+    * PepsiCo
+      * The maker of Mountain Dew, Cheetos and Doritos
+    * Novo Nordisk A/S’ Wegovy and Eli Lilly & Co.’s Zepbound
+    * Express Scripts Pharmacy Benefit Services, a unit of Cigna Group
+    * About 6% of large employers already dropped coverage for weight-loss drugs in 2026
+    * PepsiCo Chief Executive Officer Ramon Laguarta
+  * https://www.bloomberg.com/news/articles/2026-08-26/fda-approves-revmed-s-breakthrough-pill-for-pancreatic-cancer - RevMed’s Pancreatic Cancer Pill Priced Above \$475,000 a Year
+    * Revolution Medicines Inc.
+    * Rasonque
+    * Pancreatic cancer is often diagnosed after it has spread, leaving patients with just months to live
+    * metastatic pancreatic cancer
+    * Side effects include rash and mouth sores
+    * Pancreatic cancer has a high mortality rate, with just 13% of patients surviving five years
+    * Eileen O’Reilly, an oncologist at Memorial Sloan Kettering Cancer Center who was a lead author of the final stage trial
+    * former US Senator Ben Sasse said he was taking it after being diagnosed with stage 4 pancreatic cancer
+  * https://www.bloomberg.com/news/articles/2026-08-26/amazon-to-buy-2-million-nvidia-chips-for-data-center-build-out - Nvidia Secures Amazon Deal for 2 Million AI Chips in Data Center Push
+    * Amazon's own chipmaking arm, Annapurna Labs

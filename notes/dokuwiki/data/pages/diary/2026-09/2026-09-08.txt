@@ -1,0 +1,10 @@
+==== 2026-09-08 ====
+reading journal:
+  * https://www.bloomberg.com/news/articles/2026-09-02/as-cities-swelter-outdoor-cooling-tech-promises-relief-and-risk - As Cities Swelter, Outdoor Cooling Tech Promises Relief, and Risk
+    * Courtyard fountains have helped temper the heat in homes in the Middle East for centuries
+
+  * https://www.bloomberg.com/features/2026-kai-fu-lee-weekend-interview/ - Former Google China Chief Kai-Fu Lee: China Will Win on AI Reach
+    * AI pioneer and investor Kai-Fu Lee, who has worked at Apple and led Microsoft and Google teams in China
+    * his own AI company is 01.ai
+    * Yang Zhilin, CEO of Moonshot AI
+    * Liang Wenfeng, CEO of DeepSeek

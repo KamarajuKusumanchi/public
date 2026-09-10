@@ -1,0 +1,85 @@
+==== 2026-09-07 ====
+reading journal:
+  * https://www.wsj.com/cmo-today/james-dyson-sold-us-on-a-400-hair-dryer-now-hes-trying-a-499-toothbrush-c2740126 - James Dyson Sold Us on a \$400 Hair Dryer. Now He’s Trying a \$499 Toothbrush.
+    * inventor James Dyson
+    * a knighthood, an English country pile
+    * pickax
+    * Dyson CameraJet toothbrush
+    * a vacuum cleaner, a hair dryer or a purifier
+    * a special nonfoaming Dyson toothpaste
+    * laissez-faire attitude
+    * the Ballbarrow: a wheelbarrow that featured a ball instead of a wheel
+    * he had tired of having a boss
+    * his signature bagless cyclonic system
+    * He banned suits and ties in the workplace as far back as the 1990s
+    * You call time when it’s hopeless
+
+  * https://www.wsj.com/business/elon-musk-wants-to-make-power-turbine-components-it-wont-be-easy-6821757b - Elon Musk Wants to Make Power-Turbine Components. It Won’t Be Easy.
+    * natural-gas-fired power turbines
+    * a foundry in Bastrop, Texas
+    * Howmet Aerospace
+    * DPC
+    * Turbine makers GE Vernova and Caterpillar
+    * DPC is small, and about 40% of revenue comes from natural gas-fired turbines
+    * Howmet holds about half the global market share of components used in natural-gas turbines
+      * it is diversified across aerospace and defense, with only 11% of revenue coming from gas turbines
+    * The casting process involves making a new wax mold from scratch each time. Making these parts requires the blade to be “grown” in a vacuum furnace as a single crystal of nickel superalloy
+    * Even a stray grain or hairline defect means the part has to be scrapped
+    * It is also a highly secretive process. Once the parts are produced, the ceramic cores and wax used to make them are destroyed, Howmet’s Chief Executive John Plant said at an investor meeting earlier this year. That prevents competitors from reverse-engineering them.
+    * blades and vanes
+    * SpaceX designs and manufactures a “significant portion” of its components in-house
+    * Raptor rocket engines
+    * a brand-new factory would take four years at a minimum
+    * Specialized vacuum furnaces required to make these parts have lead times of more than two years
+
+  * https://www.wsj.com/us-news/education/hundreds-of-colleges-are-sending-acceptance-letters-to-kids-who-didnt-even-apply-21d37dd9 - Hundreds of Colleges Are Sending Acceptance Letters to Kids Who Didn’t Even Apply
+    * the National Association for College Admission Counseling
+    * the Common App
+    * Alabama made sure participating institutions deliver price information within initial offer letters
+
+  * https://www.wsj.com/finance/stocks/ouras-ipo-reveals-high-growth-for-smart-ring-maker-9ce3e4c9 - Oura’s IPO Reveals High Growth for Smart-Ring Maker
+    * Oura
+      * Smart-ring maker
+      * Founded in Finland in 2013
+      * the Defense Department as a key revenue generator
+      * retail for \$349 to \$499
+      * Subscribers then pay \$5.99 a month, or \$69.99 a year
+      * five million paying members
+
+  * https://www.wsj.com/business/autos/tesla-cybercabs-hit-austin-streets-in-expansion-of-robotaxi-service-e9845a55 - Tesla Cybercabs Hit Austin Streets in Expansion of Robotaxi Service
+    * Cybercab
+      * a two-seater gold coupe that doesn’t have pedals or mirrors
+      * isn’t yet available for sale to customers
+    * Cybercab fleet vehicle purchasing
+    * Cybercab vehicle navigates roads using only cameras and neural networks
+    * Other vehicles use technology like radar and lidar, which uses lasers to create 3-D maps of the environment
+    * Robotaxi ride-hailing app
+    * autonomous ride-hailing services from Alphabet’s Waymo and Amazon’s Zoox
+    * Zoox, a toaster-shaped robotaxi
+    * Waymo, the leader in autonomous ride-hailing, has around 4,000 cars on the road across 14 cities
+    * Full Self-Driving software, or FSD
+    * Cybercab would be available to purchase for less than \$30,000
+
+  * https://www.wsj.com/finance/investing/norways-oil-fund-proposes-cut-to-government-bond-holdings-d930893f - Norway Wealth Fund Proposes to Cut Government Bond Holdings to 50% of Portfolio
+    * Norges Bank Investment Management—the arm of the central bank that manages the world’s largest sovereign-wealth fund, commonly known as the oil fund
+    * \$80 billion reduction in the fund’s U.S. Treasury holdings
+
+  * https://www.wsj.com/tech/ai/moonshot-ai-yang-ceo-china-6f12ddbf - The 33-Year-Old AI Hotshot Taking Silicon Valley Swagger Back to Beijing
+    * Yang Zhilin
+    * His Ph.D. adviser at Carnegie Mellon University—renowned computer scientist Ruslan Salakhutdinov
+    * The 33-year-old is the co-founder and chief executive of Moonshot AI, one of China’s top AI labs
+    * the “9-9-6” schedule—a grueling timetable of working from 9 a.m. to 9 p.m., six days a week—that has its origins in China
+    * Kimi K3, the newest version of its flagship model
+    * China’s National Olympiad in Informatics
+    * Tsinghua University, often called the “MIT of China”
+    * “splay tree,” a computer science term for a type of data structure
+
+  * https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf - Diamond Mines Are Closing and South Africans Have Few Alternatives
+    * The average one-carat natural diamond fetches \$3,415, about 47% less than it did a decade ago.
+    * The price of a one-carat lab-grown stone has plummeted 89% to \$595 over the same period.
+    * De Beers
+      * founded in 1888
+      * majority-owned by Anglo American
+
+  * https://www.wsj.com/tech/ai/the-ai-shift-turning-everyday-investors-into-mini-quant-funds-ebe4d45f - He’s Letting AI Agents Invest His Money. They Even Have Names.
+    * :signs of stock market bubble?

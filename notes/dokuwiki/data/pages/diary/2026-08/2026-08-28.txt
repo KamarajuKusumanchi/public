@@ -1,0 +1,5 @@
+==== 2026-08-28 ====
+reading journal:
+  * https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23 - Trump Administration Pauses Immigrant Visa Applications
+  * https://archive.is/zoFMd - South Korea’s ‘AI for All’ Push Gives Free Chatbot Access to Every Citizen
+    * the operator of Kakao, South Korea’s so-called “everything app.”

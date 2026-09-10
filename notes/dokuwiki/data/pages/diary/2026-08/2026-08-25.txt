@@ -1,0 +1,21 @@
+==== 2026-08-25 ====
+reading journal:
+  * https://archive.is/6rUhG - Nvidia Has Become a Banker to the AI Boom, Putting It on Dangerous Ground
+    * :Many companies tried to do "financial engineering" from a position of strength in the past. It always ends in disaster.
+  * https://www.wsj.com/finance/stocks/stock-market-crash-south-korea-ai-ccb00cba - The World’s Craziest Stock Market Has Turned Into a Fright Ride
+    * South Korea, which introduced Squid Game and K-Pop
+    * The benchmark Kospi index
+    * memory-chip makers Samsung Electronics and SK Hynix
+    * the Korea Stockholders’ Alliance, a group representing the country’s roughly 14 million individual investors
+    * South Korea’s individual investors, who account for 60% to 70% of the Kospi’s daily trading volume
+    * They are known as ants—weak individually but capable of collective power
+    * The ants now blame South Korean President Lee Jae Myung’s administration for loosening regulations to allow such potentially lucrative, high-risk funds
+    * a little-known asset manager called Roundhill Investments launched an ETF, known by the ticker DRAM, that focused on memory manufacturers
+    * Roundhill Chief Executive Dave Mazza
+  * https://archive.is/q7QBg - Let the Bond Market Speak
+    * when auctions tail
+    * Yield management always begins as a technical operation and ends as a policy commitment
+    * Treasury General Account
+  * https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea - Anthropic Expected to Tell Investors It Sees Over \$30 Trillion in Potential Revenue
+  * “total addressable markets,” or TAMs
+  * the 191 technology companies in the S&P 1500 brought in \$2.4 trillion in revenue last year

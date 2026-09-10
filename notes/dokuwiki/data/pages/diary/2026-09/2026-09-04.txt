@@ -1,0 +1,9 @@
+==== 2026-09-04 ====
+reading journal:
+  * https://www.bloomberg.com/news/articles/2026-09-02/ai-startup-cognition-set-to-raise-around-1-billion-at-a-47-billion-value - AI Startup Cognition Set to Raise Around \$1 Billion at a \$47 Billion Value
+    * Cognition
+      * makes the popular AI engineering agent Devin
+      * raising around \$1 billion
+      * valued at \$47 billion
+      * \$900 million in annualized revenue
+      * annualized revenue in May 2026 was \$492 million

@@ -1,0 +1,9 @@
+==== 2026-08-24 ====
+reading journal:
+  * https://archive.is/FtoAc#selection-2913.18-2913.33 - Costco Gas Pumps Are So Popular the Retailer Is Building Stand-Alone Stations
+    * Honolulu
+    * Costco Chief Financial Officer Gary Millerchip
+  * https://archive.ph/ZLojz#selection-1947.120-1955.10 - Anthropic’s best AI model struggles to attract users as cheaper tools thrive
+    * Fable 5, Anthropic’s largest and priciest model
+    * Accel, which has invested close to \$1bn in Anthropic
+    * Fable 5’s launch in early June was disrupted by the Trump administration, which forced Anthropic to withdraw the model, citing national security concerns.

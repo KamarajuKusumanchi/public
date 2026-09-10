@@ -1,0 +1,5 @@
+==== 2026-08-20 ====
+reading journal:
+  * https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/ - Deutsche Bank becomes first foreign yuan clearing bank in Europe
+    * The way I understand it
+      * {{ :diary:2026-08:yuan_clearing_before_after.svg?1000% |}}

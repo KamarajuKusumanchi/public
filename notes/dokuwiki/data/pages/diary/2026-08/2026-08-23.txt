@@ -1,0 +1,3 @@
+==== 2026-08-23 ====
+reading journal:
+  * https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15 - Nvidia Customers Notified About AI-Related Price Hikes Above 15%

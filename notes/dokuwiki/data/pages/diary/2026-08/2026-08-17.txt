@@ -1,0 +1,44 @@
+==== 2026-08-17 ====
+reading journal:
+  * https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion - Stripe Finalizes Deal to Acquire AI Startup OpenRouter for Over \$7 Billion
+    * Stripe to acquire OpenRouter for \$7 billion
+    * Stripe, a payments processing firm
+    * OpenRouter
+      * Founded in 2023
+      * CEO Alex Atallah
+      * provides access to 400 AI models
+      * serves 8 million developers asof May 2026
+    * CapitalG — one of Alphabet Inc.’s venture arms
+    * Andreessen Horowitz and Menlo Ventures
+  * https://www.bloomberg.com/news/articles/2026-08-14/anthropic-revenue-ahead-of-ipo-surges-over-14-fold-in-second-quarter - Anthropic Revenue Ahead of IPO Surges Over \$11.5 Billion in Second Quarter
+    * Anthropic’s annualized revenue or run rate crossed \$47 billion in May
+
+  * https://www.bloomberg.com/news/articles/2026-08-07/once-aaa-bonds-on-new-york-megamall-face-over-350-million-loss - Once-AAA Bonds on New York Megamall Face \$350 Million Loss
+    * Destiny USA, a megamall in Syracuse, New York
+    * Pyramid Management Group
+      * a shopping center developer
+      * a family-owned developer with nine shopping centers in New York and Massachusetts
+    * Pyramid Management Group is buying back the mortgage on a struggling megamall it owns in Syracuse, New York, for cents on the dollar
+    * Destiny USA is the largest mall in New York, but it’s based in the fifth-largest city in the state
+    * asset manager Lord, Abbett & Co.
+
+  * https://www.bloomberg.com/news/articles/2026-08-13/private-credit-s-salt-fight-shows-anything-but-software-push - Private Credit Salt Fight Shows ‘Anything But Software’ Push
+    * ABS which normally stands for asset-backed securities is now getting rebranded as "anything but software"
+    * American Rock Salt, which mines and sells road salt and other sodium chloride products.
+    * American Rock Salt’s assets include the largest operating salt mine in the US, selling to state and local government agencies in the northeast
+
+  * https://www.bloomberg.com/news/articles/2026-08-17/anthropic-revenue-run-rate-surpasses-65-billion-ahead-of-ipo - Anthropic’s Annualized Revenue Surpasses \$65 Billion Before IPO
+    * Anthropic’s run rate, a metric that projects full-year revenue from a shorter period, hit \$65 billion by the end of July
+
+  * https://www.wsj.com/world/india/500-000-applicants-583-jobs-the-frantic-scramble-for-work-in-india-0fefa2b3 - 500,000 Applicants, 583 Jobs: The Frantic Scramble for Work in India
+
+  * https://www.wsj.com/finance/investing/how-wall-street-sussed-out-that-situational-awareness-was-on-the-ropes-6aa8b39d?mod=hp_lead_pos3 - How Wall Street Sussed Out That Situational Awareness Was On the Ropes
+    * Pfeffer Capital, a family office that has invested in Situational since its inception
+    * Situational borrowed about \$3 for each \$1 of capital it held
+    * Situational also purchased “flex options,” a customized derivative, to amplify its AI trade.
+    * shoestring team
+    * Sven Khatri, a former treasury researcher at Citadel
+    * “crash put” program
+    * Each day, prime brokers share reports with their customers with the aggregate details of the portfolios of their hedge-fund customers
+    * Anthropic had the right to approve of any transfer of its privately held shares, so the fund could only pitch those with existing stakes in Anthropic.
+    * Sequoia, Greenoaks, Michael Dell’s family office DFO Management, and New York investment firm XN

@@ -1,0 +1,73 @@
+==== 2026-09-01 ====
+reading journal:
+  * https://www.wsj.com/business/timber-was-gold-in-the-southuntil-a-market-collapse-crushed-the-forest-economy-1d1d1cbd - Timber Was Gold in the South—Until a Market Collapse Crushed the Forest Economy
+    * piney woods of southeast Georgia
+    * sawmill
+    * portable sawmill
+    * Statesboro, Ga.
+    * pulpwood markets
+    * The South, and Georgia in particular, have borne the brunt of a historic run of pulp and paper-mill closures as recycled boxes, cheap imported pulp and more thrifty packing by e-commerce giants, including Amazon.com, have hit demand
+    * containerboard, the thick paper used to make shipping and moving boxes
+    * pulpwood—trees unfit for making lumber but fine for cardboard and paper
+    * wood chips, sawdust
+    * containerboard mill
+    * The region’s original longleaf forest was mostly logged out by the 1930s when a scientist in Savannah named Charles Herty discovered how to make paper from the young loblolly and slash pine sprouting on the cutover. The breakthrough transformed the South.
+    * ox-drawn peckerwood mills
+    * denuded acres
+    * There are more than six million owners with at least 10 wooded acres in the South
+    * In Georgia, the top U.S. timber-industry state, 88% of woodlands are owned by individuals and businesses
+    * Pine plantations are started with several hundred seedlings an acre. Dense planting forces the trees to grow straight without many branches, reducing knots in lumber. At some point, though, the overcrowding stunts growth. Stressed trees become susceptible to insects and disease.
+    * Thinning the pine is traditionally the first big payday for growers after years of expenses, making it easier to wait the 25 to 30 years it takes for a tree to grow into more valuable products like two-by-fours and utility poles.
+    * leased land for solar farms
+    * ArborGen, one of the world’s largest suppliers of loblolly seedlings
+    * Weyerhaeuser, the South’s largest timberland owner with about 6.6 million acres in 11 states, is spending hundreds of millions of dollars to build facilities in Arkansas and Mississippi to turn pulpwood surpluses into engineered lumber and an alternative to metallurgical coal, respectively.
+    * turpentine, extracted from pine trees
+    * sulfuryl fluoride, a fumigant
+    * Union Bag & Paper—later Union Camp
+    * The digital age has crushed demand for newsprint and office paper, but e-commerce promised a golden era for corrugated boxes.
+    * Plastic mailers and paper envelopes
+    * New containerboard mills process recycled boxes, not wood pulp.
+    * Cheaper, faster-growing eucalyptus from Brazil, excluded from recent tariffs, has displaced domestic pulp.
+    * lightweight containerboard popular with shippers looking to trim fuel costs
+    * longleaf pine straw
+    * timber has unique risks—hurricanes, fire, feral hogs—that can make waiting a risky proposition
+
+  * https://www.wsj.com/us-news/education/syracuse-student-application-enrollment-crisis-budget-ff142896 - Why Syracuse Can’t Attract the Students It Needs to Pay the Bills
+    * midsize private schools such as Syracuse
+    * private school in one of the snowiest cities in the country at a moment when students are gravitating toward public institutions in the Sunbelt
+    * gritty reputation
+    * Syracuse’s nearly \$200 million research budget
+    * dean of admissions
+    * its peers, which include Boston University, Northeastern University and New York University
+
+  * https://www.wsj.com/business/autos/car-sunroofs-keep-spontaneously-explodingand-the-problem-is-getting-worse-b197d466 - Car Sunroofs Keep ‘Spontaneously’ Exploding—and the Problem Is Getting Worse
+    * sunroofs are now equipped on more than 50% of vehicles produced for the U.S. market, up from 35% a decade prior
+    * design manager at General Motors
+    * wind noise
+    * roadside assistance organization AAA
+    * Kia Sorento SUVs
+    * federal regulations allow sunroofs to be made with tempered glass, which must break into gravel-like pieces, or laminated glass, where pieces stay stuck to a plastic interlayer instead of scattering. Manufacturers generally choose tempered glass
+    * Toyota’s RAV4, Hyundai Palisade SUV, Kia Telluride SUV, and Honda CR-V
+    * senior director at Consumer Reports’ automotive test center
+
+  * https://www.wsj.com/personal-finance/a-hedge-fund-titans-divorce-is-putting-wall-streets-staggering-wealth-on-public-view-6c419f4c?mod=trending_now_news_3 - A Hedge-Fund Titan’s Divorce Is Putting Wall Street’s Staggering Wealth on Public View
+    * Hedge-fund billionaire John Overdeck
+      * his wife, Laura Overdeck
+        * both 56 years of age
+      * co-founder of Two Sigma
+      * has been locked in a bitter feud with his co-founder, David Siegel
+      * a 6,000-square-foot home in Short Hills, N.J.
+      * a charitable foundation with \$900 million in assets and trust funds set up for family members, including the grandchildren they had one day hoped to welcome
+    * billionaire hedge-fund manager John Paulson settled his divorce case
+    * 2015 divorce settlement, Citadel Chief Executive Ken Griffin and Anne Dias
+    * John Overdeck was an International Math Olympiad medalist as a teenager and graduated from Stanford
+    * Laura holds degrees from Princeton and the Wharton School
+    * Overdeck founded Two Sigma with Siegel and Mark Pickard in 2001, and married Laura the next year.
+    * carried interest
+    * Stanford crest
+    * a painting of Arundel Castle
+    * generation-skipping trust
+    * estate-planning lawyers at Seward & Kissel
+    * Overdeck and Siegel remained Two Sigma’s principal owners and co-chairmen
+
+  * https://gizmodo.com/another-telsa-on-autopilot-stopped-on-freeway-driver-died-report-2000805742 - Another Tesla on Autopilot Stopped on Freeway, Driver Died: Report
