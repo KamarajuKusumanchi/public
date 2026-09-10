@@ -14,3 +14,31 @@ Why:
     * the investments are illiquid
     * there will be one alpha personality in the group who will try to take more than his fair share and then getting out will be a headache
     * it will progressively become more and more difficult if you are not hands on in the day-to-day operations
+
+==== Quality of LLM generated content ====
+The ordering in terms of quality of content is 
+
+original content producers > LLMs > regurgitators (ex:- content mills, SEO farms, low-effort aggregators etc.,)
+ 
+Original content producers do not want their quality to be diluted by LLMs.
+
+Examples:
+
+asof | 2026-08-28
+  * The first line on the page https://wiki.python.org/python/UsefulModules.html <WRAP>
+> This wiki is in the process of being archived due to lack of usage and the resources necessary to serve it — predominately to bots, crawlers, and LLM companies. Edits are discouraged
+</WRAP> tells a lot about the current state of affairs with LLMs and AI.
+
+asof | 2026-08-28
+  * The hacker news guidelines (https://news.ycombinator.com/newsguidelines.html) now say that they do not want AI garbage on their site. <WRAP>
+> Don't post generated text or AI-edited text. HN is for conversation between humans.
+</WRAP>
+
+asof | 2026-08-17
+  * https://www.ft.com/content/cbbf4893-acff-433d-8879-72f3cd8379e7 - Clarification: use of AI in the writing process <WRAP>
+> The FT editorial code of conduct specifically prohibits the use of AI in the writing process.
+</WRAP>
+
+asof | 2026-02-10
+  * https://forum.dokuwiki.org/d/21215-please-do-not-post-ai-generated-answers - Please do not post "AI" generated answers
+

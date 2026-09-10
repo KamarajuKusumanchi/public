@@ -15,6 +15,7 @@
   * https://xkcd.com/2347/ - dependency of modern digital infrastructure
   * https://xkcd.com/1425/
     * tags | park and bird
+  * https://xkcd.com/3290/ - Trade
 
 policy:
   * Put new entries at the bottom.

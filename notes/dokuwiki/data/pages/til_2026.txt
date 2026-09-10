@@ -3,10 +3,18 @@
 
 ===== 2026 =====
 
+==== 2026-09-09 ====
+TIL about https://en.wikipedia.org/wiki/Windcatcher - Windcatcher
+
+See also: 
+  * https://www.bloomberg.com/news/articles/2026-09-02/as-cities-swelter-outdoor-cooling-tech-promises-relief-and-risk - As Cities Swelter, Outdoor Cooling Tech Promises Relief, and Risk <WRAP>
+> Wind towers known as Badgir, built into Persian homes, exploit the pressure differences between windy heights and stale rooms to create a kind of passive AC
+</WRAP>
+
 ==== 2026-08-14 ====
 TIL that British TV broadcasters had a postwar policy in which there were no shows on between 6pm and 7pm; known as the “Toddler's Truce". The break was designed to help parents put children to bed.
 
-Ref:-
+Ref:
   * https://www.reddit.com/r/todayilearned/comments/113ljxi/til_that_british_tv_broadcasters_had_a_postwar/
   * [[https://en.wikipedia.org/wiki/Toddlers'_Truce]]
 

@@ -1,9 +1,16 @@
 ===== 2026 =====
 
+
+==== 2026-08-19 ====
+  * https://www.nobelprize.org/stories/women-who-changed-science/katalin-kariko/ - Katalin Karikó
+    * This is the story of Katalin Karikó, who spent decades being demoted, defunded, and dismissed for her belief in mRNA. Her 2005 discovery became the backbone of the COVID vaccines and won her the 2023 Nobel Prize in Physiology or Medicine, shared with Drew Weissman.
+
 ==== 2026-08-14 ====
   * https://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html - Taco Bell Programming
   * https://walzr.com/weather-watching - Weather Watching
     * Tells the weather in Manhattan by analyzing what people are wearing
+    * tags | new york weather
+
 
 ==== 2026-08-05 ====
   * https://www.wsj.com/finance/stocks/spacex-ipo-spv-investors-2698a174?mod=hp_lead_pos7 - The Late Stage Management Investors Whose SpaceX Stock Vanished Before They Could Cash In
@@ -101,10 +108,6 @@ He has been posting daily updates on what is going on w.r.t. shipping in the Str
 For example today's video is
   * https://www.youtube.com/watch?v=hFXjATHIi7M - Some Ships Are Eastbound and Down from the Strait of Hormuz | March 16, 2026
 
-==== 2026-03-12 ====
-  * The hacker news guidelines (https://news.ycombinator.com/newsguidelines.html) now say that they do not want AI garbage on their site. <WRAP>
-> Don't post generated comments or AI-edited comments. HN is for conversation between humans.
-</WRAP>
 
 ==== 2026-03-08 ====
   * https://x.com/HealthyFla/status/2022407323839353089 - Glyphosate levels in various breads.
@@ -132,8 +135,6 @@ For example today's video is
 ==== 2026-02-11 ====
   * https://www.youtube.com/watch?v=rwSJcZnKrg0 - Feedly Tutorial
 
-==== 2026-02-10 ====
-  * https://forum.dokuwiki.org/d/21215-please-do-not-post-ai-generated-answers - Please do not post "AI" generated answers
 
 ==== 2026-02-04 ====
   * https://www.youtube.com/watch?v=kQRu7DdTTVA - Can I get a six pack quickly?

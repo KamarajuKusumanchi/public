@@ -35,6 +35,10 @@ Ref:- https://stackoverflow.com/questions/58612306/how-to-fix-importerror-dll-lo
   * os.path.basename - https://docs.python.org/3/library/os.path.html#os.path.basename
   * continue statement - https://docs.python.org/3/reference/simple_stmts.html#the-continue-statement
 
+==== links I came across ====
+  * https://wiki.python.org/python/UsefulModules.html - UsefulModules
+    * gives a list of recommendations for common tasks
+
 ==== validate inputs ====
 Sample snippet:
 <code>

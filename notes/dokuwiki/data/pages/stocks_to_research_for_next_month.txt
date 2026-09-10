@@ -1,5 +1,17 @@
 tags | stocks to watch for next month, companies I came across
 
+====2026-09-07 ====
+  * Medtronics
+  * Howmet Aerospace
+    * 10 year performance = 1384.74%
+    * came across it in https://www.wsj.com/business/elon-musk-wants-to-make-power-turbine-components-it-wont-be-easy-6821757b - Elon Musk Wants to Make Power-Turbine Components. It Won’t Be Easy.
+
+==== 2026-08-20 ====
+  * Moderna
+  * Merck
+    * Both Moderna and Merck came up with a personalized vaccine for melanoma.
+      * https://www.wsj.com/health/pharma/moderna-merck-vaccine-succeeds-in-preventing-melanoma-from-returning-540e9e18
+
 ==== 2026-08-13 ====
   * DECK
   * MKL

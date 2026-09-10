@@ -59,9 +59,10 @@ $ conda create -n new_environment --file req.txt
 Ref:- https://docs.conda.io/projects/conda/en/latest/commands/list.html
 
 ===== dummy =====
-==== tasks ====
+==== pages in this wiki ====
   * [[conda environment file to install different packages from different channels]]
     * tags | conda-forge::foo
+  * [[conda activate fails in git bash run inside Windows Terminal]]
 
 ==== List all the environments ====
 <code>

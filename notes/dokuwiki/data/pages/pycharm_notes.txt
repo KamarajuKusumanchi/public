@@ -129,13 +129,17 @@ press ALT key for all the subsequent blocks.
 Shift + F4
 
 ===== dummy =====
-==== run git bash in the terminal ====
+==== Change terminal from powershell to git bash ====
+tags | run git bash in the terminal
 
-  * File -> Settings -> Tools -> Terminal -> Shell path = "C:\Program Files\Git\bin\bash.exe" %%--%%login
+  * File -> Settings -> Tools -> Terminal -> <code>
+Shell path = "C:\Program Files\Git\bin\bash.exe" --login -i
+</code>
 
 The quotes are important
 
-Ref:- https://stackoverflow.com/questions/20573213/embed-git-bash-in-pycharm-as-external-tool-and-work-with-it-in-pycharm-window-w
+See also:
+  * https://stackoverflow.com/questions/20573213/embed-git-bash-in-pycharm-as-external-tool-and-work-with-it-in-pycharm-window-w
 
 ==== add new python interpreter ====
 

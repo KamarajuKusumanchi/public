@@ -111,9 +111,13 @@ Use the blue box to the right of the page.
     * Enter your email in the blue box to receive weekly e-bulletins
     * Weekly e-Bulletins detail all that is happening in town including programs, events and reminders.
 
+  * https://www.marlboro-nj.gov/forms - forms
+  * https://www.marlboro-nj.gov/documents/forms-permits-licenses - forms, licenses, and permits
+    * did not work on 2026-08-23
+
   * https://www.nj.gov/dep/fgw/bears/bear-encounters.html - bear safety tips, how to avoid attracting bears and what to do if you encounter a bear.
   * https://www.marlboro-nj.gov/e-mail-directory - email directory
-  * https://www.marlboro-nj.gov/documents/forms-permits-licenses - forms, licenses, and permits
+
 
   * https://www.marlboro-nj.gov/online-pothole-reporting - to report potholes \\ tags | pothole portal
   * https://www.marlboro-nj.gov/storm-updates - storm updates

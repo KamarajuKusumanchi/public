@@ -61,3 +61,10 @@ See also:
 ==== links I came across ====
   * https://www.isbn.org/faqs_formats_reprints_editions
     * has answers for questions such as "Does isbn change with each edition of the book?"
+
+==== isbnsearch.org data quality ====
+today | 2026-08-28
+
+https://isbnsearch.org/isbn/9781439149959 shows that it is published in 1968. But as per https://www.amazon.com/Lessons-History-Will-Durant/dp/143914995X/ , it was published on February 16, 2010.
+
+conclusion: Meta data quality on this site is not good. Do not use it as a golden source.

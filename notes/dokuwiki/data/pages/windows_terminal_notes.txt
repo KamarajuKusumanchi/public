@@ -3,7 +3,7 @@
 Settings -> Profiles -> Add a new profile -> New empty profile -> 
 
   Name: Git Bash
-  Command line: C:\Program Files\Git\bin\bash.exe
+  Command line: C:\Program Files\Git\bin\bash.exe --login -i
   Starting directory: %USERPROFILE%
   Icon (optional) -> File: C:\Program Files\Git\mingw64\share\git\git-for-windows.ico
 
@@ -27,6 +27,9 @@ asof | 2026-08-15
 This is only restoring tabs but not the directories.
 
 ===== dummy =====
+==== pages in this wiki ====
+  * [[conda activate fails in git bash run inside Windows Terminal]]
+
 ==== launch multiple tabs with different working directories ====
 Using Win+R
 <code>

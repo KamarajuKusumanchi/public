@@ -60,6 +60,8 @@ Policy:
   * YieldMax Target 12 Big 50 Option Income ETF (BIGY)
 \\
   * Vanguard Total World Stock (VT)
+  * Vanguard S&P 500 Growth ETF (VOOG)
+  * Vanguard S&P 500 ETF (VOO)
   * Vanguard Morningstar Total Stock Market ETF (VTI)
   * Vanguard Total Intl Stock (VXUS)
 \\

@@ -15,3 +15,6 @@ Why? I have heard of situations where two friends talk about a car and then face
       * The number of daily active users (DAUs) for the past 9 quarters.
       * In each quarter, the numbers are broken down into four regions.
       * For each quarter, it also shows the ratio of daily active users to monthly active users.
+
+==== messages ====
+  * Direct url for messages is https://www.facebook.com/messages/
